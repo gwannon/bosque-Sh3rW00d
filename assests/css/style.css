@@ -1,0 +1,64 @@
+:root {
+  --glitched-duration: 0.9s;
+  --glitched-long-duration: 3s;
+  --yellow-color: #f9f002;
+  --yellow-color-opacity: #f9f00242;
+  --orange-color: #ff9800;
+  --border-color: #8ae66e;
+  --red-color: #ff003c;
+  --blue-color: #0c5f74;
+  --green-color: #298d29;
+  --purple-color: purple;
+  --neon-color: #39ff14;
+  --black-color: #000;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src:
+    url(https://bosque.gwannon.com/assests/fonts/AdventPro-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+  font-weight: 100 900;
+  font-stretch: 50% 200%;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src:
+    url(https://bosque.gwannon.com/assests/fonts/AdventPro-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+  font-weight: 100 900;
+  font-stretch: 50% 200%;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src:
+    url(https://bosque.gwannon.com/assests/fonts/AdventPro-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+  font-weight: 100 900;
+  font-stretch: 50% 200%;
+}
+
+@font-face {
+  font-family: 'VT323';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://bosque.gwannon.com/assests/fonts/VT323-Regular.ttf) format('truetype');
+}
+
+body {
+  background-color: var(--yellow-color);
+  padding: 0px;
+  margin: 0px;
+  font-size: 20px;
+}
+
+body * {
+  font-family: "Advent Pro", arial;
+}
+
+h1 {
+  font-family: 'VT323', monospace, arial;
+}
+
+
