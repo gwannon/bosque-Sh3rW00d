@@ -11,20 +11,13 @@
   --purple-color: purple;
   --neon-color: #39ff14;
   --black-color: #000;
+  --padding: 45px;
 }
 
 @font-face {
   font-family: 'Advent Pro';
   src:
-    url(https://bosque.gwannon.com/assests/fonts/AdventPro-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
-  font-weight: 100 900;
-  font-stretch: 50% 200%;
-}
-
-@font-face {
-  font-family: 'Advent Pro';
-  src:
-    url(https://bosque.gwannon.com/assests/fonts/AdventPro-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+    url(../fonts/AdventPro-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
   font-weight: 100 900;
   font-stretch: 50% 200%;
   font-style: italic;
@@ -33,7 +26,7 @@
 @font-face {
   font-family: 'Advent Pro';
   src:
-    url(https://bosque.gwannon.com/assests/fonts/AdventPro-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+    url(../fonts/AdventPro-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
   font-weight: 100 900;
   font-stretch: 50% 200%;
 }
@@ -43,7 +36,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://bosque.gwannon.com/assests/fonts/VT323-Regular.ttf) format('truetype');
+  src: url(../fonts/VT323-Regular.ttf) format('truetype');
 }
 
 body {
@@ -51,14 +44,139 @@ body {
   padding: 0px;
   margin: 0px;
   font-size: 20px;
+  color: var(--black-color);
+  font-weight: 400;
+  font-family: "Advent Pro", arial;
 }
 
-body * {
-  font-family: "Advent Pro", arial;
+body > section {
+  margin: auto;
+  width: 100%;
+  position: relative;
+  padding-top: var(--padding);
+}
+
+section > p,
+section > ul,
+section > blockquote,
+section > h2,
+section > h3,
+section > h4,
+section > h5,
+section > ol,
+section > ul,
+section > div,
+section > a  {
+  display: block;
+  padding: 0 0 calc((var(--padding) * 0.4) / 2) 0;
+  margin: 0 calc(var(--padding) * 0.4) ;
+}
+
+@media (min-width: calc(100vh * 0.7)) {
+  /*body>section {
+    max-width: calc(100vh * 0.7);
+    padding: 0px;
+  }*/
+
+  section > p,
+  section > ul,
+  section > blockquote,
+  section > h2,
+  section > h3,
+  section > h4,
+  section > h5,
+  section > ol,
+  section > ul,
+  section > div,
+  section > a  {
+
+    padding: 0 0 calc(var(--padding) / 3) 0;
+    margin: 0 var(--padding) ;
+  }
 }
 
 h1 {
   font-family: 'VT323', monospace, arial;
 }
 
+.saltopagina { display: none; }
 
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 1px;
+    padding: 0;
+    margin: 0px;
+    background-color: transparent;
+    opacity: 0; 
+  }
+
+  section .saltopagina:not(li) + * {
+    margin-top: var(--padding);
+  }
+}
+
+body > section:nth-of-type(even),
+body > section:nth-of-type(even) { background: var(--black-color); color: var(--yellow-color); }
+
+body > section:before {
+  position: fixed;
+  content: "";
+  display: none;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  background: var(--purple-color);
+  clip-path: polygon(
+    calc(22% + 28px) -1px, 
+    calc(22% + 45px) 15px, 
+    34% 15px, 
+    calc(34% + 15px) -1px, 
+    0% 0%, 0% 10%, 
+    30px calc(10% + 30px), 
+    30px 100%, 
+    0% 100%,
+    0% 0%
+  );
+  transform: scaleX(-1);
+}
+
+body > section:after {
+  position: fixed;
+  content: "";
+  display: none;
+  background: var(--purple-color);
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  height: 100vh;
+  clip-path: polygon(
+    0px 30%,
+    30px calc(30% + 30px), 
+    30px calc(100% - 30px), 
+    22% calc(100% - 30px), 
+    calc(22% + 30px) 100%, 
+    52% 100%, calc(52% + 15px) 
+    calc(100% - 15px), 
+    70% calc(100% - 15px), 
+    calc(70% + 15px) 100%, 
+    90% 100%, 
+    calc(90% + 30px) calc(100% - 30px), 
+    100% calc(100% - 30px), 
+    100% 100%, 
+    0px 100%);
+}
+
+
+
+@media print {
+  body > section:after,
+  body > section:before { display: block; }
+}
