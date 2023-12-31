@@ -71,6 +71,11 @@ section > a  {
   margin: 0 calc(var(--padding) * 0.4) ;
 }
 
+section > ol {
+  counter-reset: li;
+  margin-left: calc((var(--padding) * 0.4) + 1.2rem + 10px);
+}
+
 @media (min-width: calc(100vh * 0.7)) {
   /*body>section {
     max-width: calc(100vh * 0.7);
@@ -91,6 +96,11 @@ section > a  {
 
     padding: 0 0 calc(var(--padding) / 3) 0;
     margin: 0 var(--padding) ;
+  }
+
+  section > ol {
+    counter-reset: li;
+    margin-left: calc(var(--padding) + 1.2rem + 10px);
   }
 }
 
@@ -478,3 +488,33 @@ section:nth-child(even) p.seed {
   font-size: 1.2rem;
   position: relative;
 }
+
+
+
+ol > li {
+  list-style: none;
+  position: relative;
+  font-size: 1.2rem;
+  counter-increment: li;
+  
+}
+
+ol > li:before {
+  content: counter(li);
+  top: 0px;
+  left: calc(-1.2rem - 10px);
+  width: 1.2rem;
+  height: 1.2rem;
+  color: var(--yellow-color);
+  background-color: var(--black-color);
+  font-weight: 700;
+  position: absolute;
+  display: block;
+  clip-path: polygon(0% 0%, 60% 0%, 100% 40%, 100% 100%, 0% 100%);
+}
+
+section:nth-child(even) ol > li:before {
+  color: var(--black-color);
+  background-color: var(--yellow-color);
+}
+
