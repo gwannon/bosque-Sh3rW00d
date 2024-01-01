@@ -135,14 +135,15 @@ body > section:nth-of-type(even),
 body > section:nth-of-type(even) { background: var(--black-color); color: var(--yellow-color); }
 
 body > section:before {
+  opacity: 0;
   position: fixed;
   content: "";
-  display: none;
+  display: block;
   top: 0px;
   left: 0px;
   width: 100%;
   height: 100vh;
-  background: var(--purple-color);
+  background: var(--yellow-color) url(../images/bg.png) top left repeat;
   clip-path: polygon(
     calc(22% + 28px) -1px, 
     calc(22% + 45px) 15px, 
@@ -158,10 +159,11 @@ body > section:before {
 }
 
 body > section:after {
+  opacity: 0;
   position: fixed;
   content: "";
-  display: none;
-  background: var(--purple-color);
+  display: block;
+  background: var(--yellow-color) url(../images/bg.png) top right repeat;
   top: 0px;
   right: 0px;
   width: 100%;
@@ -184,10 +186,39 @@ body > section:after {
 }
 
 
-
 @media print {
   body > section:after,
-  body > section:before { display: block; }
+  body > section:before { opacity: 1; }
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+  background-color: var(--yellow-color);
+}
+::-webkit-scrollbar-button {
+  display: none;
+}
+::-webkit-scrollbar-track {
+  display: none;
+}
+::-webkit-scrollbar-track-piece {
+  display: none;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--purple-color);
+  border-bottom: 2px solid var(--border-color);
+  border-right: 2px solid var(--border-color);
+  transition: background var(--glitched-duration);
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--orange-color);
+}
+::-webkit-scrollbar-corner {
+  display: none;
+}
+::-webkit-resizer {
+  display: none;
 }
 
 
@@ -198,8 +229,8 @@ h1 {
   line-height: 120%;
   margin: 0;
   text-align: center;
-  color: var(--yellow-color);
-  text-shadow: 0 0 5px var(--yellow-color);
+  color: var(--black-color);
+  text-shadow: 0 0 5px var(--black-color);
 }
 
 h1 {
@@ -210,10 +241,17 @@ h1 {
   align-items: stretch;
   flex-wrap: wrap;
   justify-content: center;
-  background: black center center no-repeat;
+  background: var(--yellow-color) center center no-repeat;
   background-size: cover;
   margin-bottom: var(--padding);
 }
+
+section:nth-child(even) h1 {
+  background-color: var(--black-color);
+  color: var(--yellow-color);
+  text-shadow: 0 0 5px var(--yellow-color);
+}
+
 @media print {
   h1 {
     margin-left: -10px !important;
@@ -265,13 +303,6 @@ h4:before {
   height: 10px;
   background-color: var(--black-color);
   clip-path: polygon(0px 0px, 85px 0px, 90px 5px, 100% 5px, 100% 6px, 85px 6px, 80px 10px, 0px 10px);
-}
-
-h1.glitched {
-  animation-name: h1glitched;
-  animation-duration: calc(var(--glitched-duration) * 1.4);
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
 }
 
 h2.glitched {
@@ -460,7 +491,6 @@ section:nth-child(even) p.seed:before  {
   color: var(--yellow-color);
 }
 
-
 p.seed {
   border: none;
   padding: 40px 15px 30px;
@@ -488,8 +518,6 @@ section:nth-child(even) p.seed {
   font-size: 1.2rem;
   position: relative;
 }
-
-
 
 ol > li {
   list-style: none;
