@@ -256,9 +256,13 @@ section:nth-child(even) h1 {
   h1 {
     margin-left: -10px !important;
     margin-right: -10px !important;
-    height: calc(100vh - 2px);
+    height: calc(100vh - 1px);
     position: relative;
     z-index: 10;
+  }
+
+  section:nth-of-type(1) h1 {
+    height: 100vh;
   }
 }
 
@@ -545,4 +549,5 @@ section:nth-child(even) ol > li:before {
   color: var(--black-color);
   background-color: var(--yellow-color);
 }
+
 
