@@ -1,6 +1,6 @@
 # Bosque-Sh3rW00d
 
-Bosque Sh3rW00d es un ambientación cyberpunk para Savage Worlds Edición Explorador en un mundo muy parecido a las historias de Robin Hood o Ivanhoe.
+Bosque Sh3rW00d es un ambientación CyberPunk para Savage Worlds Edición Explorador  en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
 [Página web](https://bosque.gwannon.com)
 
