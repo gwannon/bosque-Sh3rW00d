@@ -163,7 +163,7 @@ body > section:after {
   position: fixed;
   content: "";
   display: block;
-  background: var(--yellow-color) url(../images/bg.png) top right repeat;
+  background: var(--yellow-color) url(../images/bg2.png) top right repeat;
   top: 0px;
   right: 0px;
   width: 100%;
