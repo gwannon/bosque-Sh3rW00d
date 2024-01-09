@@ -108,6 +108,17 @@ h1 {
   font-family: 'VT323', monospace, arial;
 }
 
+h1 > span {
+  display: block;
+  font-size: 22px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+h1:hover > span {
+  opacity: 1;
+}
+
 .saltopagina { display: none; }
 
 @media print {
@@ -128,6 +139,10 @@ h1 {
 
   section .saltopagina:not(li) + * {
     margin-top: var(--padding);
+  }
+
+  h1 > span { 
+    opacity: 1;
   }
 }
 
