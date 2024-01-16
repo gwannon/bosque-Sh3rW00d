@@ -71,7 +71,8 @@ section > a  {
   margin: 0 calc(var(--padding) * 0.4) ;
 }
 
-section > ol {
+section > ol,
+section > ul {
   counter-reset: li;
   margin-left: calc((var(--padding) * 0.4) + 1.2rem + 10px);
 }
@@ -98,7 +99,8 @@ section > ol {
     margin: 0 var(--padding) ;
   }
 
-  section > ol {
+  section > ol,
+  section > ul {
     counter-reset: li;
     margin-left: calc(var(--padding) + 1.2rem + 10px);
   }
@@ -611,3 +613,43 @@ section:nth-child(odd) ol > li:before {
 }
 
 
+
+table {
+  margin: 15px auto;
+  border: 3px dashed var(--yellow-color);
+}
+
+table thead tr th {
+  padding: 10px;
+  font-size: 1.1em;
+  font-weight: 400;
+}
+
+table thead tr:first-child th {
+  font-size: 1.5em;
+}
+
+table tbody tr>* {
+  padding: 5px;
+}
+
+table tbody tr th[rowspan] {
+  background-color: var(--purple-color);
+}
+
+table thead {
+  background-color: var(--purple-color);
+}
+
+table tbody tr>* {
+  transition: all 0.6s;
+}
+
+table tbody tr th[colspan] {
+  background-color: var(--purple-color);
+}
+
+
+table tbody tr:nth-child(odd) {
+  background-color: var(--color-gold);
+}
