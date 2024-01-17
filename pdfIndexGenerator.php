@@ -1,6 +1,6 @@
 <?php
 
-preg_match("/<body[^>]*>(.*?)<\/body>/is", file_get_contents('index.html'), $matches);
+preg_match("/<body[^>]*>(.*?)<\/body>/is", file_get_contents($argv[0]), $matches);
 
 $html = explode("\n", removeHtmlComments($matches[1]));
 

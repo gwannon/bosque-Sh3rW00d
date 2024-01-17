@@ -49,6 +49,8 @@ body {
   font-family: "Advent Pro", arial;
 }
 
+a, a:link, a:visited {color: var(--black-color); }
+
 body > section {
   margin: auto;
   width: 100%;
@@ -516,6 +518,9 @@ section:nth-child(odd) hr {
 }
 
 /* Paragraphs and lists */
+section > *:is(p, ul, ol) + *:is(h2, h3, h4) {
+  margin-top: 30px;
+}
 p.rule {
   border: 30px solid var(--black-color);
   border-right: 5px solid var(--black-color);
