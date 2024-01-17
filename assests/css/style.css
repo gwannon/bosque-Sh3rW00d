@@ -619,6 +619,11 @@ table {
   border: 3px dashed var(--yellow-color);
 }
 
+section > div:has(table) {
+  overflow-x: auto;
+  margin-bottom: 30px;
+}
+
 table thead tr th {
   padding: 10px;
   font-size: 1.1em;
