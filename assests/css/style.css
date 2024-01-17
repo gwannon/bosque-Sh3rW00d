@@ -658,3 +658,10 @@ table tbody tr th[colspan] {
 table tbody tr:nth-child(odd) {
   background-color: var(--color-gold);
 }
+
+section:nth-of-type(3) > h1 {
+  background-image: url('../images/cyberpunk_sketch_by_thefearmaster.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
