@@ -49,6 +49,19 @@ body {
   font-family: "Advent Pro", arial;
 }
 
+body:after {
+  content: "";
+  position: fixed;
+  bottom: 35px;
+  left: calc(50% - 20px);
+  width: 40px;
+  height: 40px;
+  background-color: var(--neon-color);
+  clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
+  z-index: 15;
+  opacity: 0;
+}
+
 a, a:link, a:visited {color: var(--black-color); }
 
 body > section {
@@ -67,7 +80,7 @@ section > h5,
 section > ol,
 section > ul,
 section > div,
-section > a  {
+section > a {
   display: block;
   padding: 0 0 calc((var(--padding) * 0.4) / 2) 0;
   margin: 0 calc(var(--padding) * 0.4) ;
@@ -145,13 +158,13 @@ h1:hover > span {
     margin-top: var(--padding);
   }
 
-  h1 > span { 
+  h1 > span,
+  body:after { 
     opacity: 1;
   }
 }
 
-body > section:nth-of-type(odd),
-body > section:nth-of-type(odd) { background: var(--black-color); color: var(--yellow-color); }
+body > section:nth-of-type(odd) { background-color: var(--black-color); color: var(--yellow-color); }
 
 body > section:before {
   opacity: 0;
@@ -203,7 +216,6 @@ body > section:after {
     100% 100%, 
     0px 100%);
 }
-
 
 @media print {
   body > section:after,
@@ -323,10 +335,6 @@ section:nth-child(odd) h1 {
     height: calc(100vh - 1px);
     position: relative;
     z-index: 10;
-  }
-
-  section:nth-of-type(1) h1 {
-    height: 100vh;
   }
 }
 
@@ -514,6 +522,34 @@ section:nth-child(odd) h2:before,
 section:nth-child(odd) h3:before,
 section:nth-child(odd) h4:before,
 section:nth-child(odd) hr {
+  background-color: var(--yellow-color);
+}
+
+/* Images */
+
+img:not(section:nth-of-type(1) img, section:nth-of-type(2) img) {
+  padding: 30px ;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 15px;
+  margin: 0 calc(var(--padding) * 0.4);
+  clip-path: polygon(0px 25px, 26px 0px, calc(60% - 25px) 0px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px)  calc(100% - 10px), calc(80% - 15px) calc(100% - 0px), 10px  calc(100% - 0px), 0% calc(100% - 10px));
+  background-color: var(--black-color);
+  max-width: calc(100% - (var(--padding) * 0.8));
+  box-sizing: border-box;
+}
+
+section:nth-of-type(odd) img:not(section:nth-of-type(1) img, section:nth-of-type(2) img) {
+  background-color: var(--yellow-color);
+}
+
+@media (min-width: calc(100vh * 0.7)) {
+  img {
+    margin: 0 var(--padding);
+  }
+}
+
+section:nth-of-type(odd) > img {
   background-color: var(--yellow-color);
 }
 

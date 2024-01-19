@@ -47,7 +47,7 @@ printf '\\usepackage{multido}\n'
 printf '\\usepackage[hmargin=4.0cm,vmargin=0.5cm,nohead,nofoot]{geometry}\n'
 # Edit this line if desired to change formatting
 # printf '\\cfoot{Page \\thepage\\ of \\pageref{LastPage}}\n'
-printf '\\cfoot{[ \\thepage\\ ]}\n'
+printf '\\cfoot{ \\thepage\\ }\n'
 printf '\\begin{document}\n'
 printf '\\multido{}{'
 printf "$NUM_PAGES"
