@@ -641,7 +641,7 @@ table thead tr:first-child th {
   font-size: 1.5em;
 }
 
-table tbody tr>* {
+table tbody tr > * {
   padding: 5px;
 }
 
@@ -661,9 +661,12 @@ table tbody tr th[colspan] {
   background-color: var(--purple-color);
 }
 
-
 table tbody tr:nth-child(odd) {
-  background-color: var(--color-gold);
+  background-color: var(--yellow-color);
+}
+
+table tbody tr:nth-child(odd) *:is(th,td) {
+  color: var(--black-color);
 }
 
 /*section:nth-of-type(3) > h1 {
@@ -898,7 +901,7 @@ a.download:hover:before {
   }
 
   .nopdf {
-    display: none;
+    display: none !important;
   }
 
   .saltopagina {
