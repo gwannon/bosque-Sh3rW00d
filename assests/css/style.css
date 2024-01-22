@@ -56,13 +56,14 @@ body:after {
   left: calc(50% - 20px);
   width: 40px;
   height: 40px;
-  background-color: var(--neon-color);
+  background-color: var(--yellow-color);
   clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
   z-index: 15;
   opacity: 0;
 }
 
 a, a:link, a:visited {color: var(--black-color); }
+body > section:nth-of-type(odd) a, body > section:nth-of-type(odd) a:link, body > section:nth-of-type(odd) a:visited {color: var(--yellow-color); }
 
 body > section {
   margin: auto;
@@ -138,32 +139,6 @@ h1:hover > span {
 
 .saltopagina { display: none; }
 
-@media print {
-  @page {
-    size: A4;
-    margin: 0;
-  }
-
-  .saltopagina {
-    display: block;
-    page-break-before: always;
-    height: 1px;
-    padding: 0;
-    margin: 0px;
-    background-color: transparent;
-    opacity: 0; 
-  }
-
-  section .saltopagina:not(li) + * {
-    margin-top: var(--padding);
-  }
-
-  h1 > span,
-  body:after { 
-    opacity: 1;
-  }
-}
-
 body > section:nth-of-type(odd) { background-color: var(--black-color); color: var(--yellow-color); }
 
 body > section:before {
@@ -217,12 +192,7 @@ body > section:after {
     0px 100%);
 }
 
-@media print {
-  body > section:after,
-  body > section:before { opacity: 1; }
-}
-
-section:nth-of-type(1) {
+section:first-of-type {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -237,7 +207,7 @@ section:nth-of-type(1) {
 
 }
 
-section:nth-of-type(1) > div {
+section:first-of-type > div {
   width: 100%;
   max-width: 505px;
   /*color: var(--yellow-color);*/
@@ -247,19 +217,24 @@ section:nth-of-type(2) > p,
 section:nth-of-type(2) > blockquote {
   word-wrap: break-word;
 }
-section:nth-of-type(1) > div > h1 {
+section:first-of-type > div > h1,
+section:last-of-type > div > h1 {
   height: auto;
   margin: 0;
   background-color: transparent;
   /*color: var(--yellow-color);*/
 }
 
-section:nth-of-type(1) > div:nth-of-type(3) {
+section:first-of-type > div > p {
   text-align: center;
 }
 
-/*section:nth-of-type(1) > div:nth-of-type(2) > h2:before,
-section:nth-of-type(1) > div:nth-of-type(1) > h3:before {
+section:first-of-type > div:nth-of-type(3) {
+  text-align: center;
+}
+
+/*section:first-of-type > div:nth-of-type(2) > h2:before,
+section:first-of-type > div:nth-of-type(1) > h3:before {
   background-color: var(--yellow-color);
 }*/
 
@@ -326,16 +301,6 @@ section:nth-child(odd) h1 {
   background-color: var(--black-color);
   color: var(--yellow-color);
   text-shadow: 0 0 5px var(--yellow-color);
-}
-
-@media print {
-  h1 {
-    margin-left: -10px !important;
-    margin-right: -10px !important;
-    height: calc(100vh - 1px);
-    position: relative;
-    z-index: 10;
-  }
 }
 
 h2,
@@ -527,7 +492,7 @@ section:nth-child(odd) hr {
 
 /* Images */
 
-img:not(section:nth-of-type(1) img, section:nth-of-type(2) img) {
+img:not(section:first-of-type img, section:nth-of-type(2) img) {
   padding: 30px ;
   padding-left: 5px;
   padding-right: 5px;
@@ -539,7 +504,7 @@ img:not(section:nth-of-type(1) img, section:nth-of-type(2) img) {
   box-sizing: border-box;
 }
 
-section:nth-of-type(odd) img:not(section:nth-of-type(1) img, section:nth-of-type(2) img) {
+section:nth-of-type(odd) img:not(section:first-of-type img, section:nth-of-type(2) img) {
   background-color: var(--yellow-color);
 }
 
@@ -701,9 +666,271 @@ table tbody tr:nth-child(odd) {
   background-color: var(--color-gold);
 }
 
-section:nth-of-type(3) > h1 {
+/*section:nth-of-type(3) > h1 {
   background-image: url('../images/cyberpunk_sketch_by_thefearmaster.jpg');
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
+}*/
+
+section:last-of-type {
+  max-height: calc(100vh - 1px);
+  min-height: calc(100vh - 1px);
+}
+
+section:first-of-type,
+section:last-of-type {
+  background-image: url('../images/4664.png');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+/* Botón */
+
+a.download {
+  --text: "R-25";
+  --background-color: var(--red-color);
+  display: block;
+  border: none;
+  border-radius: 0%;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 35px 75px;
+  margin: 10px 20px 10px 0px;
+  position: relative;
+  color: #fff;
+  border-right: 3px solid var(--border-color);
+  clip-path: polygon(
+    -15px 0%,
+    calc(100% + 15px) 0%,
+    calc(100% + 15px) 100%,
+    20px 100%,
+    -15px calc(100% - 35px)
+  );
+  cursor: pointer;
+  background-color: var(--background-color);
+  outline: none;
+  display: inline-block;
+  text-decoration: none;
+}
+
+a.download:hover {
+  animation-name: buttonhover;
+  animation-duration: var(--glitched-duration);
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+
+a.download:after {
+  content: var(--text);
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  right: 25px;
+  padding: 2px 2px 0px 2px;
+  font-size: 0.6rem;
+  line-height: 0.6rem;
+  color: var(--black-color);
+  background-color: var(--yellow-color);
+  border-left: 2px solid var(--border-color);
+}
+
+a.download:hover:after {
+  animation-name: buttonhoverafter;
+  animation-duration: var(--glitched-duration);
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+a.download:before {
+  --outside: 4px;
+  content: "";
+  position: absolute;
+  display: none;
+  background-color: var(--background-color);
+  width: calc(100% + (var(--outside) * 2));
+  height: 12px;
+  top: 0px;
+  left: calc(0px - 1px - var(--outside));
+  border-left: 2px solid var(--border-color);
+  border-right: 2px solid var(--border-color);
+}
+
+a.download:hover:before {
+  display: block;
+  animation-name: buttonhoverbefore;
+  animation-duration: var(--glitched-duration);
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes buttonhover {
+  0% {
+    transform: skew(0deg);
+  }
+  60% {
+    transform: skew(0deg);
+  }
+  61% {
+    transform: skew(10deg);
+  }
+  70% {
+    transform: skew(10deg);
+  }
+  71% {
+    transform: skew(0deg);
+  }
+  100% {
+    transform: skew(0deg);
+  }
+}
+
+@keyframes buttonhoverbefore {
+  0% {
+    display: none;
+    top: 0px;
+  }
+  10% {
+    display: none;
+    top: 0px;
+  }
+  11% {
+    display: block;
+    top: 10px;
+    left: calc(0px - 0px - var(--outside));
+  }
+  29% {
+    top: 10px;
+  }
+  30% {
+    display: none;
+    top: 0px;
+  }
+  50% {
+    display: none;
+    top: 0px;
+  }
+  51% {
+    display: block;
+    top: 55px;
+    filter: blur(1px);
+    height: 22px;
+  }
+  90% {
+    display: block;
+    top: 55px;
+    height: 22px;
+  }
+  91% {
+    filter: blur(0px);
+    display: none;
+    top: 0px;
+    height: 12px;
+  }
+  100% {
+    display: none;
+    top: 0px;
+  }
+}
+
+@keyframes buttonhoverafter {
+  0% {
+    right: 45px;
+  }
+
+  10% {
+    right: 45px;
+  }
+  11% {
+    right: 35px;
+  }
+  20% {
+    transform: skew(0deg);
+  }
+  21% {
+    transform: skew(-10deg);
+  }
+  40% {
+    transform: skew(-10deg);
+  }
+  41% {
+    transform: skew(0deg);
+  }
+  49% {
+    right: 35px;
+  }
+  50% {
+    right: 55px;
+  }
+
+  60% {
+    right: 55px;
+  }
+  61% {
+    right: 35px;
+  }
+  70% {
+    transform: skew(0deg);
+  }
+  71% {
+    transform: skew(10deg);
+  }
+  80% {
+    transform: skew(10deg);
+  }
+  81% {
+    transform: skew(0deg);
+  }
+  100% {
+    right: 35px;
+  }
+}
+
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 1px;
+    padding: 0;
+    margin: 0px;
+    opacity: 0; 
+  }
+
+  section .saltopagina:not(li) + * {
+    margin-top: var(--padding);
+  }
+ 
+  h1 > span,
+  body:after { 
+    opacity: 1;
+  }
+
+  body > section:after,
+  body > section:before { opacity: 1; }
+
+  h1 {
+    margin-left: -10px !important;
+    margin-right: -10px !important;
+    height: calc(100vh - 1px);
+    position: relative;
+    z-index: 10;
+  }
+
+  section:first-of-type > div:nth-of-type(3) {
+    padding-bottom: 90px;
+  }
 }
