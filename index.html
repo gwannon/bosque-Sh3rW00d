@@ -260,10 +260,10 @@
       <ul>
         <li>Puedes gastar un avance en este tipo de CI tantas veces por rango como quieras.</li>
         <li>Puedes gastar varios avances en mejorar el mismo atributo sin límite, pero a partir d12 
-          los implantes no son camuflables.</li>
+          los implantes no son camuflabless (ver "CI camuflables").</li>
         <li>Si alguno de tus implantes no es camuflable todos los del mismo atributo se vuelven no camuflables,
-          pero no recuperas los puntos de CI que gastaste en hacerlos camuflables.</li>
-      </ul>
+          pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").</li>
+        </ul>
       <div class="saltopagina"></div>
       <h4>CI que mejoran habilidades</h4>
       <p>Estas mejoras permiten aumentar un nivel el dado de la habilidad.</p>
@@ -272,7 +272,7 @@
         <li>Puedes gastar avances en CI para conseguir subir una habilidad por encima de d12, pero a partir d12 
           los implantes no son camuflables.</li>
         <li>Si alguno de tus implantes no es camuflable todos los de la misma habilidad se vuelven no camuflables,
-          pero no recuperas los puntos de CI que gastaste en hacerlos camuflables.</li>
+          pero no recuperas los puntos de CI que gastaste en hacerlos camuflabless (ver "CI camuflables").</li>
       </ul>
       <h4>CI que otorgan ventajas</h4>
       <p>Al gastar avances en estos CI puedes ponerte una serie de ventajas sin necesidad de cumplir los requisitos. 
@@ -282,8 +282,9 @@
       <h4>CI que otorgan rasgos de bestia</h4>
       <p>Al gastar avances en estos CI puedes ponerte una serie de rasgos de bestia. Solo se pueden comprar ciertos rasgos 
         de bestia (consultar la lista a continuación), no todas los rasgos están disponibles.</p>
-      <p>Los rasgos de bestía acumulables como Armadura no son camuflables a partir de  implantes acumulados. Es decir, 
-        ponerse armadura 4 hace que las placas dermales sean obvias al verlas a simple vista.</p>
+      <p>Los rasgos de bestía acumulables como Armadura no son camuflables a partir de la primera acumulación. Es decir, 
+        ponerse armadura +1 puede ser camuflado, pero cuando te pones +2 o más las placas dermales son obvias y visibles 
+        a simple vista.</p>
       <h3>Quitarse implantes</h3>
       <p>Por cada rango puedes quitarte un implante y recuperar los puntos de CI que gastaste en su momento, pero 
         perderas el avance que invertiste.</p>
@@ -501,7 +502,7 @@
               <th>Atractiv3</th>
               <td>1</td>
               <td>Sí</td>
-              <td>Cirugia estéetica, ojos felinos, nanitos capilares</td>
+              <td>Cirugia estética, ojos felinos, nanitos capilares</td>
             </tr>
             <tr>
               <th>Calculador</th>
@@ -534,6 +535,18 @@
               <td>Nudillos metálicos</td>
             </tr>
             <tr>
+              <th>Hueso duro de roer</th>
+              <td>4</td>
+              <td>No</td>
+              <td>Bionanitos cirujanos</td>
+            </tr>
+            <tr>
+              <th>Hueso muy duro de roer</th>
+              <td>4</td>
+              <td>No</td>
+              <td>Bionanitos cirujanos mejorados</td>
+            </tr>
+            <tr>
               <th>Linguista</th>
               <td>2</td>
               <td>Sí</td>
@@ -544,6 +557,12 @@
               <td>2</td>
               <td>Sí</td>
               <td>Refuerzos oseos</td>
+            </tr>
+            <tr>
+              <th>Pies ligeros</th>
+              <td>1</td>
+              <td>Sí</td>
+              <td>Servo-rodillas</td>
             </tr>
             <tr>
               <th>Punteria</th>
@@ -595,7 +614,7 @@
           </thead>
           <tbody>
             <tr>
-              <th>Acuático</th>
+              <th>Acuático*</th>
               <td>1</td>
               <td>Sí</td>
               <td>Agallas artificiales, membranas interdigitales</td>
@@ -607,10 +626,10 @@
               <td>Estructuras intradermales, esqueleto reforzado</td>
             </tr>
             <tr>
-              <th>Armas naturales</th>
+              <th>Armas naturales**</th>
               <td>2</td>
               <td>No</td>
-              <td>Colmillos y garras retractiles, cuchillas</td>
+              <td>Colmillos, cuernos y garras.</td>
             </tr>
             <tr>
               <th>Infravisión</th>
@@ -644,6 +663,9 @@
             </tr>
           </tbody>
         </table>
+        <p>* Paso acuatico 6</p>
+        <p>** Cada tipo de arma natural tiene sus propias reglas (Manual básico pág. 142). Las armas naturales 
+          tienen un daño de FUE+d4 pero se puede acumular el daño haciendolas FUE+d6, FUE+d8, etc.</p>
       </div>
       <div class="saltopagina"></div>
       <h2>Nanotecnología</h2>
