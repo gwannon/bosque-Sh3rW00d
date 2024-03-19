@@ -55,6 +55,10 @@ $bots = [
   "LivelapBot/0.2",
   "SummalyBot/2",
   "ImagesiftBot",
+  "trendictionbot",
+  "MJ12bot",
+  "OpenGraph.io",
+  "trendictionbot",
 ];
 
 $ips = [];
