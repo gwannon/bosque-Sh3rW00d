@@ -3,6 +3,7 @@
 print_r ($matches);
 die;*/
 $doc = new DOMDocument();
+$internalErrors = libxml_use_internal_errors(true);
 $doc->loadHTMLFile("index.html");
 $body = $doc->getElementsByTagName('body');
 $body = $body->item(0);
@@ -13,7 +14,7 @@ $html = explode("\n", removeHtmlComments($doc->savehtml($body)));
 $lines = [];
 foreach($html as $line) {
   $line = cleanLine($line);
-  if(preg_match("/(<h1>|<h2>|<h2 id|<h3|<h4|saltopagina)/", $line)) $lines[] = $line;
+  if(preg_match("/(<h1>|<h2>|<h2 id|<h3|<h3 id|<h4|<h4 id|saltopagina)/", $line)) $lines[] = $line;
 }
 $counter = 1;
 echo "BookmarkBegin\n";
