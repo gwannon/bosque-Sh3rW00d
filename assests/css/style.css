@@ -39,6 +39,10 @@
   src: url(../fonts/VT323-Regular.ttf) format('truetype');
 }
 
+*, html {
+  scroll-behavior: smooth !important;
+}
+
 body {
   background-color: var(--yellow-color);
   padding: 0px;
@@ -47,6 +51,7 @@ body {
   color: var(--black-color);
   font-weight: 400;
   font-family: "Advent Pro", arial;
+  
 }
 
 body:after {
