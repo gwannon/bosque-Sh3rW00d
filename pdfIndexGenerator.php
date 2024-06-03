@@ -4,7 +4,7 @@ print_r ($matches);
 die;*/
 $doc = new DOMDocument();
 $internalErrors = libxml_use_internal_errors(true);
-$doc->loadHTMLFile("index.html");
+$doc->loadHTMLFile($argv[1]);
 $body = $doc->getElementsByTagName('body');
 $body = $body->item(0);
 $json = [];
