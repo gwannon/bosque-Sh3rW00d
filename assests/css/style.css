@@ -992,6 +992,7 @@ a.download:hover:before {
 }
 
 .likeH1,
+.likeSPAN,
 .likeH2,
 .likeH3 {
   display: block;
@@ -1005,7 +1006,8 @@ a.download:hover:before {
   text-overflow: ellipsis;
 }
 
-.likeH1 {
+.likeH1,
+.likeSPAN {
     font-family: 'Oswald', sans-serif;
 }
 
@@ -1017,7 +1019,7 @@ a.download:hover:before {
   padding: 0 0 0 30px;
 }
 
-.likeH1 span, .likeH2 span, .likeH3 span {
+.likeH1 span, .likeSPAN span, .likeH2 span, .likeH3 span {
   display: none;
   float: right;
   margin-right: 5px;
@@ -1025,6 +1027,7 @@ a.download:hover:before {
 
 @media print {
   .likeH1 span,
+  .likeSPAN span,
   .likeH2 span,
   .likeH3 span {
     display: block;

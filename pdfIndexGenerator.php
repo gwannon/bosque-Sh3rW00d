@@ -24,9 +24,9 @@ echo "BookmarkPageNumber: {$counter}\n";
 $json[] = ["title" => "Portada","page" => $counter];
 foreach($lines as $line) {
   if(preg_match("/(<h1>)/", $line)) {
-    $line = strip_tags($line);
+    preg_match("/<span>(.*)<\/span>/", $line, $matches);
     echo "BookmarkBegin\n";
-    echo "BookmarkTitle: {$line}\n";
+    echo "BookmarkTitle: {$matches[1]}\n";
     echo "BookmarkLevel: 1\n";
     echo "BookmarkPageNumber: {$counter}\n";
     $json[] = ["title" => $line,"page" => $counter];

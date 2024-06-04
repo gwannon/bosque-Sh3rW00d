@@ -20,7 +20,7 @@ $(document).ready(function () {
     return json;
   })();
 
-  $("body>section h1, body>section h2, body>section h3")
+  $("body>section h1 span, body>section h2, body>section h3")
   .not(".noindex")
   .each(function () {
     counter++;    
