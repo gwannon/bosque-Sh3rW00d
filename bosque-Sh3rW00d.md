@@ -16,7 +16,7 @@ xxx
 
 ### El bosque de Sh3rW00d
 
-El bosque, cuyo primero sector es el Sh3rw00d, es la parte de la arcología que no se llego a terminar. Se le llama el bosque por que la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando extrañas sobre ellos estructuras de material orgánico que le dan aun más aspecto vegetal. xxx
+El bosque, cuyo primero sector es el Sh3rw00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando extrañas sobre ellos estructuras de material orgánico que le dan aun más aspecto vegetal. xxx
 
 ### Las directoras
 
@@ -82,9 +82,9 @@ xxx
 
 En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente de una oficina, xxx
 
-A todos estos teletrabajadorᴈs se les llama en argot pijamerᴈs, por la broma de que están todo el día en pijama, aunque en su versiones virtuales salgan con el apropiado uniforme de la empresa.
+A todos estos teletrabajadorᴈs se les llama en argot pijamerᴈs, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
 
-En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadorᴈ está en su casa aislado físicamente pero hiperconectado vía redes. xxx
+En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadorᴈ está en su casa aislado físicamente, pero hiperconectado vía redes. xxx
 
 \saltopagina
 
@@ -96,13 +96,13 @@ xxx
 
 ### Vida de interior y clima
 
-El clima, si se le puede llamar así, es siempre igual durante todo el año. La temperatura de la arcología es de entre 23 y 25 grados con una humedad relativa de entre 45% y 60%. La nieve, la lluvia o el viento son conceptos que conocen pero que muy pocos han experimentado y normalmente de forma muy tangencial. Alguno sabrá como puede ser la lluvia, por ejemplo, al saltar los aspersores anti-incendios, o la nieve y el frio al estropearse los sistemas de climatización y generar demasiado frio e incluso hielo.
+El clima, si se le puede llamar así, es siempre igual durante todo el año. La temperatura de la arcología es de entre 23 y 25 grados con una humedad relativa de entre 45% y 60%. La nieve, la lluvia o el viento son conceptos que conocen, pero que muy pocos han experimentado y normalmente de forma muy tangencial. Alguno sabrá como puede ser la lluvia, por ejemplo, al saltar los aspersores anti-incendios, o la nieve y el frio al estropearse los sistemas de climatización y generar demasiado frio e incluso hielo.
 
 xxx
 
 #### Sin cielo y sin horizonte
 
-Lᴈs habitantᴈs de Nottingham no conocen lo que son los espacios abiertos, no saben lo que es mirar al cielo o ver el horizonte. Solo están acostumbrados a espacios cerrados de no más de 30 o 40m2. El mayor espacio abierto de Nottingham es la [plaza Mayor](#anchorplazamayor), tan abierto que hay notis que tienen agorafobia.
+Lᴈs habitantᴈs de Nottingham no conocen lo que son los espacios abiertos, no saben lo que es mirar al cielo o ver el horizonte. Solo están acostumbrados a espacios cerrados de no más de 30 o 40m2. El mayor espacio abierto de Nottingham es la plaza Mayor, tan abierto que hay notis que tienen agorafobia.
 
 ### Cultura y contracultura
 
@@ -226,7 +226,7 @@ xxx
 
 xxx
 
-A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar.
+A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar.
 
 También desaparecen las habilidades como Hechicería, Ciencia Extraña, xxx
 
@@ -262,7 +262,7 @@ xxx
 
 **Requisitos:** Novato
 
-Tienes grandes cantidades de dinero en forma de alijos pueden ser objetos de valor, cupones de trueques, etc. y lo más importante es dinero que esta controlado por la empresa.
+Tienes grandes cantidades de dinero en forma de alijos pueden ser objetos de valor, cupones de trueques, etc. y lo más importante es dinero que no está controlado por la empresa.
 
 xxx
 
@@ -448,7 +448,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 | Ciberimplantes | Puntos | Legal | Descripción |
 | --- | --- | --- | --- |
 | Ambidextrᴈ | 2   | Sí  | Implante intercortex |
-| Atractiv | 1   | Sí  | Cirugía estética, ojos felinos, nanitos capilares |
+| Atractivᴈ | 1   | Sí  | Cirugía estética, ojos felinos, nanitos capilares |
 | Calculadorᴈ | 2   | Sí  | Ordenador táctico |
 | Curación rápida | 2   | Sí  | Implante médico cervical |
 | Esquiva | 2   | Sí  | Predictor de ataques |
@@ -457,7 +457,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 | Hueso duro de roer | 4   | No  | Bionanitos cirujanos |
 | Hueso muy duro de roer | 4   | No  | Bionanitos cirujanos mejorados |
 | Lingüista | 2   | Sí  | Base de datos lingüística |
-| Mandibula de hierro | 2   | Sí  | Refuerzos óseos |
+| Mandíbula de hierro | 2   | Sí  | Refuerzos óseos |
 | Pies ligeros | 1   | Sí  | Servo-rodillas |
 | Puntería | 2   | Sí  | Conexión a arma |
 | Reflejos de combate | 2   | Sí  | Sistema anti-aturdimiento cervical |
@@ -473,20 +473,20 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 | --- | --- | --- | --- |
 | Ciberimplantes | Puntos | Legal | Descripción |
 | --- | --- | --- | --- |
-| \* Acuático | 1   | Sí  | Agallas artificiales, membranas inter-digitales |
+| ¹ Acuático | 1   | Sí  | Agallas artificiales, membranas inter-digitales |
 | Armadura +1 | 2   | Sí  | Estructuras intra-dermales, esqueleto reforzado |
-| \*\* Armas naturales (Colmillos) | 2   | No  | Colmillos retráctiles. |
-| \*\* Armas naturales (Cuernos) | 2   | No  | Cuernos retráctiles, placas craneales metálicas. |
-| \*\* Armas naturales (Garras) | 2   | No  | Garras retráctiles, cuchillas inter-digitales. |
+| ² Armas naturales (Colmillos) | 2   | No  | Colmillos retráctiles. |
+| ² Armas naturales (Cuernos) | 2   | No  | Cuernos retráctiles, placas craneales metálicas. |
+| ² Armas naturales (Garras) | 2   | No  | Garras retráctiles, cuchillas inter-digitales. |
 | Infravisión | 2   | Sí  | Implantes oculares |
 | Regeneración (lenta) | 1   | Sí  | Ciberplaquetas en la sangre |
 | Regeneración (rápida) | 2   | Sí  | Nanitos en la corriente sanguínea |
 | Resistente | 2   | Sí  | Implante de neo-adrenalina, amortiguador cerebral |
 | Visión nocturna | 2   | Sí  | Implantes oculares |
 
-\* Paso acuático 6
+¹ Paso acuático 6
 
-\*\* Cada tipo de arma natural tiene sus propias reglas (Manual básico pág. 142). Las armas naturales tienen un daño de FUE+d4, pero se puede acumular el daño haciéndolas FUE+d6, FUE+d8, etc.
+² Cada tipo de arma natural tiene sus propias reglas (Manual básico pág. 142). Las armas naturales tienen un daño de FUE+d4, pero se puede acumular el daño haciéndolas FUE+d6, FUE+d8, etc.
 
 ## IAs
 
@@ -526,13 +526,13 @@ xxx
 
 xxx
 
-*   **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-*   **Habilidades:** xxx
-*   **Paso:** X; **Parada:** X; **Dureza:** X
-*   **Desventajas:** xxx
-*   **Ventajas:** xxx
-*   **Ciberimplantes:** xxx
-*   **Equipo:** xxx
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Ciberimplantes:** xxx
+* **Equipo:** xxx
 
 ## Robots
 
@@ -542,15 +542,15 @@ xxx
 
 xxx
 
-*   **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-*   **Habilidades:** xxx
-*   **Paso:** X; **Parada:** X; **Dureza:** X
-*   **Desventajas:** xxx
-*   **Ventajas:** xxx
-*   **Capacidades especiales:**
-    *   **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-    *   **Impávido:** Es inmune al miedo e Intimidar.
-*   **Equipo:** xxx
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Capacidades especiales:**
+    * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+    * **Impávido:** Es inmune al miedo e Intimidar.
+* **Equipo:** xxx
 
 \saltopagina
 
@@ -558,31 +558,31 @@ xxx
 
 xxx
 
-*   **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-*   **Habilidades:** xxx
-*   **Paso:** X; **Parada:** X; **Dureza:** X
-*   **Desventajas:** xxx
-*   **Ventajas:** xxx
-*   **Capacidades especiales:**
-    *   **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-    *   **Impávido:** Es inmune al miedo e Intimidar.
-    *   **Tamaño (-2):** Modificar al atacarlo -2. Son pequeños robots que se dedican a limpiar suelos, paredes y techos.
-    *   **Trepamuros:** se mueven a paso 6 por paredes y techos y pueden incluso correr.
-*   **Equipo:** xxx
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Capacidades especiales:**
+    * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+    * **Impávido:** Es inmune al miedo e Intimidar.
+    * **Tamaño (-2):** Modificar al atacarlo -2. Son pequeños robots que se dedican a limpiar suelos, paredes y techos.
+    * **Trepamuros:** se mueven a paso 6 por paredes y techos y pueden incluso correr.
+* **Equipo:** xxx
 
 ### Cargador
 
 xxx
 
-*   **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-*   **Habilidades:** xxx
-*   **Paso:** X; **Parada:** X; **Dureza:** X
-*   **Desventajas:** xxx
-*   **Ventajas:** xxx
-*   **Capacidades especiales:**
-    *   **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-    *   **Impávido:** Es inmune al miedo e Intimidar.
-*   **Equipo:** xxx
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Capacidades especiales:**
+    * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+    * **Impávido:** Es inmune al miedo e Intimidar.
+* **Equipo:** xxx
 
 \saltopagina
 
@@ -590,16 +590,16 @@ xxx
 
 xxx
 
-*   **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-*   **Habilidades:** xxx
-*   **Paso:** X; **Parada:** X; **Dureza:** X
-*   **Desventajas:** xxx
-*   **Ventajas:** xxx
-*   **Capacidades especiales:**
-    *   **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-    *   **Impávido:** Es inmune al miedo e Intimidar.
-    *   **Tamaño (-1):** Puede moverse sin problemas por tubos de ventilación y otros conductos grandes.
-*   **Equipo:** xxx
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Capacidades especiales:**
+    * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+    * **Impávido:** Es inmune al miedo e Intimidar.
+    * **Tamaño (-1):** Puede moverse sin problemas por tubos de ventilación y otros conductos grandes.
+* **Equipo:** xxx
 
 ***
 
@@ -735,10 +735,10 @@ xxx
 
 xxx
 
-*   **bosks:** habitantᴈs del bosque.
-*   **glitch de la mañana:** amanecer
-*   **glitch de la noche:** anochecer
-*   **notis:** ciudadanᴈs que viven en la arcología Nottingham.
+* **bosks:** habitantᴈs del bosque.
+* **glitch de la mañana:** amanecer
+* **glitch de la noche:** anochecer
+* **notis:** ciudadanᴈs que viven en la arcología Nottingham.
 
 ## Suplementos que puedes usar
 
@@ -752,7 +752,7 @@ Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros 
 
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
 
-*   [Portada por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm#query=circuit%20svg&position=2&from_view=keyword&track=ais&uuid=27946d73-52ee-4da0-b997-0ec27bf1ad53) en Freepik
+* [Portada por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm#query=circuit%20svg&position=2&from_view=keyword&track=ais&uuid=27946d73-52ee-4da0-b997-0ec27bf1ad53) en Freepik
 
 \saltopagina
 
@@ -776,7 +776,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 Creado por [Gwannon](https://gwannon.itch.io/)
 
-Bosque Sh3rW00d es un ambientación CiberPunk para Savage Worlds Edición Aventura en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
+Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds Edición Aventura en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
 Este libro contiene:
 
