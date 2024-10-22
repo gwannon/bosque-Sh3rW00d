@@ -260,7 +260,7 @@ xxx
 
 ### Alijos
 
-**Requisitos:** Novato
+**Requisitos:** Novatᴈ
 
 Tienes grandes cantidades de dinero en forma de alijos pueden ser objetos de valor, cupones de trueques, etc. y lo más importante es dinero que no está controlado por la empresa.
 
@@ -268,7 +268,7 @@ xxx
 
 ### Masón
 
-**Requisitos:** Repara d6
+**Requisitos:** Reparar d6
 
 xxx
 
@@ -276,11 +276,17 @@ xxx
 
 xxx
 
-### Nacidᴈ librᴈ
+### Ciber-paranoia
+
+Estas convecidᴈ de que las IAs te vigilan y te siguen. xxx
 
 xxx
 
 ### Fobia social
+
+xxx
+
+### Nacidᴈ librᴈ
 
 xxx
 
