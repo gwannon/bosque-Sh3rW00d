@@ -136,9 +136,9 @@ En los partidos oficiales de liga se elige al azar el campo de entre todos los c
 
 Los partidos son retransmitidos a través de las cámaras de vigilancia del pasillo. Se cierran todos los accesos al pasillo, excepto para personal sanitario y los suplentes.
 
-Debido al poco espacio del campo, los partidos son arbitrados desde fuera usando las imágenes de las cámaras de seguridad y hablando por los altavoces. Por la misma razón, los entrenadores, si se tienen, siguen el partido por las cámaras de seguridad y dan las ordenes también por la megafonía.
+Debido al poco espacio del campo, los partidos son arbitrados desde fuera usando las imágenes de las cámaras de seguridad y hablando por los altavoces. Por la misma razón, los entrenadores, si se tienen, siguen el partido por las cámaras de seguridad y dan las órdenes también por la megafonía.
 
-El juego es más de habilidad para moverse entre espacios pequeños, de saber mover la bola y aprovechar los rebotes que de fuerza física ya que no hay espacio para golpear a tu contrincante con el stick o para coger carrerilla.
+El juego es más de habilidad para moverse entre espacios pequeños, de saber mover la bola y aprovechar los rebotes que de fuerza física, ya que no hay espacio para golpear a tu contrincante con el stick o para coger carrerilla.
 
 Reglamento:
 
@@ -162,7 +162,7 @@ xxx
 
 Las directoras tienen el privilegio de juzgar a todos los habitantes de Nottingham y su decisión no es recurrible. Pero eso genera mucho consumo de ciclos y solo juzgan casos importantes. El resto de crímenes son juzgadas por "las 3 sabIAs".
 
-Las 3 sabIAs on 3 IAs de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por el defensor, otra por el acusador y una tercera al azar entre todas las IAs de Nottingham.
+Las 3 sabIAs son 3 IAs de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por el defensor, otra por el acusador y una tercera al azar entre todas las IAs de Nottingham.
 
 Las IAs escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso ya que una de las IAs es del defensor y otra del acusador y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo y como no tienen sesgos humanos suelen llegar a veredictos bastante justos y equitativos. Es por ello que lᴈs mejores abogadᴈs van detectando las IAs que más posibilidades tienen de llevarse al resto a su campo.
 
