@@ -1,4 +1,4 @@
-# 4rc0l061a La arcología de Nottingham
+# 4rc0l061a | La arcología de Nottingham
 
 Bosque Sh3rW00d es un ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
@@ -42,15 +42,13 @@ Las gentes que viven en Nottingham son conocidos como notis. xxx
 
 xxx
 
-### xxx (Nobleza)
-
+### Blus (Nobleza)
 xxx
 
 ### Influencᴈrs (Iglesia)
-
 xxx
 
-### xxx (Plebe)
+### Curris (Plebe)
 
 xxx
 
@@ -214,13 +212,13 @@ xxx
 
 ***
 
-# |-|15t0r14 Historia
+# |-|15t0r14 | Historia
 
 xxx
 
 ***
 
-# Я36|45 Reglas
+# Я36|45 | Reglas
 
 xxx
 
@@ -314,13 +312,13 @@ xxx
 
 ***
 
-# c1I3ern1a Cibernia
+# c1I3ern1a | Cibernia
 
 xxx
 
 ## Hub de conexión
 
-Todo las personas nacidas en una maternidad de la arcología, son implantados nada más nacer con un hub de conexión que le permitirá conectarse a las redes informáticas de su alrededor. Por otro lado permite tener a todo la gente rastreada y controlada.
+Todas las personas nacidas en una maternidad de la arcología, son implantados nada más nacer con un hub de conexión que le permitirá conectarse a las redes informáticas de su alrededor. Por otro lado permite tener a todo la gente rastreada y controlada.
 
 El hub de conexión permite entre otras muchas cosas.
 
@@ -377,7 +375,7 @@ Las ventajas mejoradas como Esquiva y Esquiva Mejorada no se apilan de ninguna f
 
 #### CI que otorgan rasgos de bestia
 
-Al gastar avances en estos CI puedes ponerte una serie de rasgos de bestia. Solo se pueden comprar ciertos rasgos de bestia (consultar la lista a continuación), no todas los rasgos están disponibles.
+Al gastar avances en estos CI puedes ponerte una serie de rasgos de bestia. Solo se pueden comprar ciertos rasgos de bestia (consultar la lista a continuación), no todos los rasgos están disponibles.
 
 Los rasgos de bestia acumulables como Armadura no son camuflables a partir de la primera acumulación. Es decir, ponerse armadura +1 puede ser camuflado, pero cuando te pones +2 o más las placas dermales son obvias y visibles a simple vista.
 
@@ -450,8 +448,8 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 | Ciberimplantes | Puntos | Legal | Descripción |
 | --- | --- | --- | --- |
 | Ambidextrᴈ | 2   | Sí  | Implante intercortex |
-| Atractivᴈ | 1   | Sí  | Cirugía estética, ojos felinos, nanitos capilares |
-| Calculador | 2   | Sí  | Ordenador táctico |
+| Atractiv | 1   | Sí  | Cirugía estética, ojos felinos, nanitos capilares |
+| Calculadorᴈ | 2   | Sí  | Ordenador táctico |
 | Curación rápida | 2   | Sí  | Implante médico cervical |
 | Esquiva | 2   | Sí  | Predictor de ataques |
 | Esquiva mejorada | 4   | Sí  | Predictor de ataques mejorado |
@@ -471,15 +469,15 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 ## Listas de CI que otorgan rasgos de bestia
 
-| Rasgos de bestia |     |     |     |
+| Rasgos de bestia | | |     |
 | --- | --- | --- | --- |
 | Ciberimplantes | Puntos | Legal | Descripción |
 | --- | --- | --- | --- |
 | \* Acuático | 1   | Sí  | Agallas artificiales, membranas inter-digitales |
 | Armadura +1 | 2   | Sí  | Estructuras intra-dermales, esqueleto reforzado |
-| \*\* Armas naturales (Colmillos) | 2   | No  | Colmillos retractiles. |
-| \*\* Armas naturales (Cuernos) | 2   | No  | Cuernos retractiles, placas craneales metálicas. |
-| \*\* Armas naturales (Garras) | 2   | No  | Garras retráctiles, cuchillas interdigitales. |
+| \*\* Armas naturales (Colmillos) | 2   | No  | Colmillos retráctiles. |
+| \*\* Armas naturales (Cuernos) | 2   | No  | Cuernos retráctiles, placas craneales metálicas. |
+| \*\* Armas naturales (Garras) | 2   | No  | Garras retráctiles, cuchillas inter-digitales. |
 | Infravisión | 2   | Sí  | Implantes oculares |
 | Regeneración (lenta) | 1   | Sí  | Ciberplaquetas en la sangre |
 | Regeneración (rápida) | 2   | Sí  | Nanitos en la corriente sanguínea |
@@ -488,7 +486,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 \* Paso acuático 6
 
-\*\* Cada tipo de arma natural tiene sus propias reglas (Manual básico pág. 142). Las armas naturales tienen un daño de FUE+d4 pero se puede acumular el daño haciéndolas FUE+d6, FUE+d8, etc.
+\*\* Cada tipo de arma natural tiene sus propias reglas (Manual básico pág. 142). Las armas naturales tienen un daño de FUE+d4, pero se puede acumular el daño haciéndolas FUE+d6, FUE+d8, etc.
 
 ## IAs
 
@@ -516,7 +514,7 @@ xxx
 
 ***
 
-# I3ᴈs71ari0 Bestiario
+# I3ᴈs71ari0 | Bestiario
 
 xxx
 
@@ -605,7 +603,7 @@ xxx
 
 ***
 
-# 4vᴈn7ur4s Aventuras
+# 4vᴈn7ur4s | Aventuras
 
 xxx
 
@@ -617,8 +615,6 @@ xxx
 
 xxx
 
-xxx
-
 ### Videobombing
 
 La directora J0hn ha pedido a un grupo de influencᴈrs que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
@@ -627,13 +623,13 @@ xxx
 
 #### Nowhere fast
 
-La cantante e influencer Helen Aim ha sido secuestrada en pleno directo y los sheriffs no consiguen dar con ella. Su rastro de pierde en el bosque así que alguien deberá buscarla, encontrarla y rescatarla.
+La cantante e influencer Helen Aim ha sido secuestrada en pleno directo y los sheriffs no consiguen dar con ella. Su rastro se pierde en el bosque, así que alguien deberá buscarla, encontrarla y rescatarla.
 
 xxx
 
 ***
 
-# I)irᴈctori0 de Nottingham Directorio de Nottingham
+# I)irᴈctori0 de Nottingham | Directorio de Nottingham
 
 xxx
 
@@ -641,11 +637,11 @@ xxx
 
 xxx
 
-### El rio Trent
+### El río Trent
 
-El rio Trent es una mega algafactoría donde se produce xxx. Es lo más parecido a un rio o un mar que han visto lᴈs notis. xxx
+El río Trent es una mega algafactoría donde se produce xxx. Es lo más parecido a un río o un mar que han visto lᴈs notis. xxx
 
-### Modulo prisión ""
+### Modulo prisión "xxx"
 
 xxx
 
@@ -673,7 +669,7 @@ xxx
 
 ### El zoo de la directora J0hn
 
-Como parte de una campaña mejora de la opinión publica la directora J0hn creo este zoo de animales clonados y animatrónicas. xxx
+Como parte de una campaña mejora de la opinión pública la directora J0hn creo este zoo de animales clonados y animatrónicas. xxx
 
 xxx
 
@@ -699,7 +695,7 @@ xxx
 
 ***
 
-# |oers0nas Personas
+# |oers0nas | Personas
 
 xxx
 
@@ -733,7 +729,7 @@ xxx
 
 ***
 
-# 3|oíl0go Epílogo
+# 3|oíl0go | Epílogo
 
 ## Glosario de términos
 
@@ -745,10 +741,6 @@ xxx
 *   **notis:** ciudadanᴈs que viven en la arcología Nottingham.
 
 ## Suplementos que puedes usar
-
-xxx
-
-### Runners
 
 xxx
 
@@ -766,7 +758,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 ## Otros proyectos que te pueden interesar
 
-Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño. Recordad que para poder jugarlas necesitareis el Manual Básico de Savage Worlds Edición Aventura.
+Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño. Recordad que para poder jugarlas necesitaréis el Manual Básico de Savage Worlds Edición Aventura.
 
 [![¡Arrr! Cthulhu](./assests/images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
 
@@ -777,6 +769,8 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 **[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)**
 
 ***
+
+\saltopagina
 
 #### Bosque Sh3rW00d
 
