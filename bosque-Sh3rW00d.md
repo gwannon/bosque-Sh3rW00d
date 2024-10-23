@@ -540,7 +540,7 @@ xxx
 
 ## Robots
 
-xxx
+Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y lanzarte.  
 
 ### Animal animatrónico
 
@@ -571,7 +571,7 @@ xxx
     * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
     * **Impávido:** Es inmune al miedo e Intimidar.
     * **Tamaño (-2):** Modificar al atacarlo -2. Son pequeños robots que se dedican a limpiar suelos, paredes y techos.
-    * **Trepamuros:** se mueven a paso 6 por paredes y techos y pueden incluso correr.
+    * **Trepamuros:** Se mueven a paso 6 por paredes y techos y pueden incluso correr.
 * **Equipo:** xxx
 
 ### Cargador
