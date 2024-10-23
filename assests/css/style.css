@@ -67,7 +67,7 @@ body:after {
   opacity: 0;
 }
 
-a, a:link, a:visited {color: var(--black-color); }
+a { color: var(--black-color); }
 body > section:nth-of-type(odd) a, body > section:nth-of-type(odd) a:link, body > section:nth-of-type(odd) a:visited {color: var(--yellow-color); }
 
 body > section {
@@ -107,6 +107,7 @@ section > ul {
   section > p,
   section > ul,
   section > blockquote,
+  section > pre,
   section > h2,
   section > h3,
   section > h4,
@@ -527,7 +528,14 @@ section:nth-of-type(odd) > img {
 section > *:is(p, ul, ol) + *:is(h2, h3, h4) {
   margin-top: 30px;
 }
-p.rule {
+
+pre {
+  white-space: pre-wrap;
+}
+
+pre > code {
+  font-family: 'VT323', monospace, arial;
+  display: block;
   border: 30px solid var(--black-color);
   border-right: 5px solid var(--black-color);
   border-left: 5px solid var(--black-color);
@@ -539,7 +547,7 @@ p.rule {
   position: relative;
 }
 
-section:nth-child(odd) p.rule {
+section:nth-child(odd) pre > code {
   border: 30px solid var(--yellow-color);
   border-right: 5px solid var(--yellow-color);
   border-left: 5px solid var(--yellow-color);
@@ -547,8 +555,8 @@ section:nth-child(odd) p.rule {
   background-color: var(--black-color);
 }
 
-p.rule:before,
-p.seed:before {
+pre > code:before,
+blockquote > p:before {
   content: "P-14";
   display: block;
   position: absolute;
@@ -562,13 +570,13 @@ p.seed:before {
   border-left: 2px solid var(--border-color);
 }
 
-section:nth-child(odd) p.rule:before,
-section:nth-child(odd) p.seed:before  {
+section:nth-child(odd) pre > code:before,
+section:nth-child(odd) blockquote > p:before  {
   background-color: var(--black-color);
   color: var(--yellow-color);
 }
 
-p.seed {
+blockquote > p {
   border: none;
   padding: 40px 15px 30px;
   clip-path: polygon(0px 25px, 26px 0px, calc(60% - 25px) 0px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px) calc(100% - 10px), calc(80% - 15px) 100%, 80px calc(100% - 0px), 65px calc(100% - 15px), 0% calc(100% - 15px));
@@ -579,13 +587,13 @@ p.seed {
   position: relative;
 }
 
-p.seed:before {
+blockquote > p:before {
   content: "T-71";
   right: 90px;
   bottom: 9px;
 }
 
-section:nth-child(odd) p.seed {
+section:nth-child(odd) blockquote > p {
   border: none;
   background-color: var(--yellow-color);
   color: var(--black-color);
@@ -594,6 +602,14 @@ section:nth-child(odd) p.seed {
   clip-path: polygon(0px 25px, 26px 0px, calc(60% - 25px) 0px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px) calc(100% - 10px), calc(80% - 15px) 100%, 80px calc(100% - 0px), 65px calc(100% - 15px), 0% calc(100% - 15px));
   font-size: 1.2rem;
   position: relative;
+}
+
+section > blockquote > p > a {
+  color: var(--yellow-color);
+}
+
+section:nth-child(odd) blockquote > p > a {
+  color: var(--black-color);
 }
 
 ol > li {

@@ -1,6 +1,6 @@
 # 4rc0l061a de Nottingham **La arcología de Nottingham**
 
-Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
+> Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
 xxx
 
@@ -14,13 +14,19 @@ Nottingham es una gigantesca arcología donde viven cientos de miles de personas
 
 xxx
 
+\saltopagina
+
 ### El bosque de Sh3rW00d
 
-El bosque, cuyo primer sector es el Sh3rw00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando extrañas sobre ellos estructuras de material orgánico que le dan aun más aspecto vegetal. xxx
+```
+El bosque, cuyo primer sector es el Sh3rw00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal.
+```
+
+ xxx
 
 ### Las directoras
 
-Las directoras son potentes IAs que controlan Nottingham y tratan de que sea los más beneficiosa económicamente para la compañía. xxx
+Las directoras son potentes IAs que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. xxx
 
 xxx
 
@@ -102,7 +108,7 @@ xxx
 
 #### Sin cielo y sin horizonte
 
-Lᴈs habitantᴈs de Nottingham no conocen lo que son los espacios abiertos, no saben lo que es mirar al cielo o ver el horizonte. Solo están acostumbrados a espacios cerrados de no más de 30 o 40m². El mayor espacio abierto de Nottingham es la plaza Mayor, tan abierto que hay notis que tienen agorafobia.
+Lᴈs habitantᴈs de Nottingham no conocen lo que son los espacios abiertos, no saben lo que es mirar al cielo o ver el horizonte. Solo están acostumbrados a espacios cerrados de no más de 30 o 40 m². El mayor espacio abierto de Nottingham es la plaza Mayor, tan abierto que hay notis que tienen agorafobia.
 
 ### Cultura y contracultura
 
@@ -164,7 +170,7 @@ Las directoras tienen el privilegio de juzgar a todos los habitantes de Nottingh
 
 Las 3 sabIAs son 3 IAs de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por el defensor, otra por el acusador y una tercera al azar entre todas las IAs de Nottingham.
 
-Las IAs escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso ya que una de las IAs es del defensor y otra del acusador y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo y como no tienen sesgos humanos suelen llegar a veredictos bastante justos y equitativos. Es por ello que lᴈs mejores abogadᴈs van detectando las IAs que más posibilidades tienen de llevarse al resto a su campo.
+Las IAs escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso, ya que una de las IAs es del defensor y otra del acusador y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo y como no tienen sesgos humanos suelen llegar a veredictos bastante justos y equitativos. Es por ello que lᴈs mejores abogadᴈs van detectando las IAs que más posibilidades tienen de llevarse al resto a su campo.
 
 Durante el juicio que dura entre 12 y 24 horas las IAs solo pueden trabajar en el juicio. No es la primera vez que los ascensores de una sección dejan de funcionar porque su IA tiene un juicio.
 
@@ -186,7 +192,7 @@ xxx
 
 ## Lᴈs instaladorᴈs
 
-Lᴈs instaladorᴈs son lᴈs constructorᴈs primigeniᴈs de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 80 años y no se sabe porqué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
+Lᴈs instaladorᴈs son lᴈs constructorᴈs primigeniᴈs de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 80 años y no se sabe por qué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
 
 xxx
 
@@ -276,9 +282,9 @@ xxx
 
 xxx
 
-### Ciber-paranoia
+### Ciberparanoia
 
-Estas convecidᴈ de que las IAs te vigilan y te siguen. xxx
+Estás convecidᴈ de que las IAs te vigilan y te siguen. xxx
 
 xxx
 
@@ -322,17 +328,17 @@ xxx
 
 xxx
 
-## Hub de conexión
+## HUB de conexión
 
-Todas las personas nacidas en una maternidad de la arcología, son implantados nada más nacer con un hub de conexión que le permitirá conectarse a las redes informáticas de su alrededor. Por otro lado permite tener a todo la gente rastreada y controlada.
+Todas las personas nacidas en una maternidad de la arcología, son implantados nada más nacer con un HUB de conexión que le permitirá conectarse a las redes informáticas de su alrededor. Por otro lado permite tener a todo la gente rastreada y controlada.
 
-El hub de conexión permite entre otras muchas cosas.
+El HUB de conexión permite entre otras muchas cosas.
 
 *   Conectarse en realidad aumentada a la red de la arcología.
 *   Controlar la domótica del hogar.
 *   xxx
 
-El hub de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo lᴈs hijᴈs de boskis pueden haber nacido sin hub de conexión, ya que nacieron fuera de las maternidades de la arcología.
+El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo lᴈs hijᴈs de boskis pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
 
 ## Ciberimplantes
 
@@ -409,8 +415,6 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 ## Listas de CI que mejoran atributos
 
-|Mejoras de atributos||||
-|---|---|---|---|
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
 |Mejora FUE|1|Sí|Reemplazos musculares, Inyector de adrenalina|
@@ -420,8 +424,6 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 ## Listas de CI que mejoran habilidades
 
-|Mejoras de habilidades||||
-|---|---|---|---|
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
 |Apostar|1|Sí|Calculadora de probabilidades cerebral|
@@ -449,8 +451,6 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 ## Listas de CI que permiten ventajas
 
-|Ventajas||||
-|---|---|---|---|
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
 |Ambidextrᴈ|2|Sí|Implante intercortex|
@@ -475,12 +475,10 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 ## Listas de CI que otorgan rasgos de bestia
 
-|Rasgos de bestia||||
-|---|---|---|---|
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
-|¹ Acuático|1|Sí|Agallas artificiales, membranas inter-digitales|
-|Armadura +1|2|Sí|Estructuras intra-dermales, esqueleto reforzado|
+|¹ Acuático|1|Sí|Agallas artificiales, membranas interdigitales|
+|Armadura +1|2|Sí|Estructuras intradermales, esqueleto reforzado|
 |² Armas naturales (Colmillos)|2|No|Colmillos retráctiles.|
 |² Armas naturales (Cuernos)|2|No|Cuernos retráctiles, placas craneales metálicas.|
 |² Armas naturales (Garras)|2|No|Garras retráctiles, cuchillas inter-digitales.|
@@ -645,7 +643,7 @@ xxx
 
 ### El río Trent
 
-El río Trent es una mega algafactoría donde se produce xxx. Es lo más parecido a un río o un mar que han visto lᴈs notis. xxx
+El río Trent es una inmensa algafactoría donde se produce xxx. Es lo más parecido a un río o un mar que han visto lᴈs notis. xxx
 
 ### Modulo prisión "xxx"
 
@@ -826,6 +824,8 @@ Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros 
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
 
 * [Portada por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm#query=circuit%20svg&position=2&from_view=keyword&track=ais&uuid=27946d73-52ee-4da0-b997-0ec27bf1ad53) en Freepik
+
+* [Retratos de personajes](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) por VÍCTOR JIMÉNEZ MERINO 2024
 
 \saltopagina
 
