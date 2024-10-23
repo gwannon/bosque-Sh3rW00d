@@ -88,7 +88,7 @@ En el ciberpunk clásico era muy común las escenas de alienantes oficinas en la
 
 \saltopagina
 
-Muchos de estos teletrabajadorᴈs desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
+Muchos de estᴈs teletrabajadorᴈs desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
 ## Vida diaria
 
@@ -701,7 +701,7 @@ xxx
 
 ***
 
-# |oers0nas **Personas
+# |oers0nas **Personas**
 
 xxx
 
@@ -709,29 +709,92 @@ xxx
 
 xxx
 
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
+
 ## Fraile Tuck
 
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 ## Little John
 
 xxx
 
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
+
 ## Scarlet, famosᴈ grafiterᴈ
 
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 ## Guy de Gisbourne
 
 xxx
 
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
+
 ## Much, el hijo del molinero
 
 xxx
 
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
+
 ## Helen Aim, cantante e influencer
 
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 ***
 
