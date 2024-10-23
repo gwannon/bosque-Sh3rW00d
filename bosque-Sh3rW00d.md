@@ -1,6 +1,6 @@
-# 4rc0l061a | La arcología de Nottingham
+# 4rc0l061a **La arcología de Nottingham**
 
-Bosque Sh3rW00d es un ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
+Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
 xxx
 
@@ -142,13 +142,13 @@ El juego es más de habilidad para moverse entre espacios pequeños, de saber mo
 
 Reglamento:
 
-*   xxx
+* xxx
 
 \saltopagina
 
 Equipos:
 
-*   xxx
+* xxx
 
 ### Sexo y genero
 
@@ -212,13 +212,13 @@ xxx
 
 ***
 
-# |-|15t0r14 | Historia
+# |-|15t0r14 **Historia**
 
 xxx
 
 ***
 
-# Я36|45 | Reglas
+# Я36|45 **Reglas**
 
 xxx
 
@@ -318,7 +318,7 @@ xxx
 
 ***
 
-# c1I3ern1a | Cibernia
+# c1I3ern1a **Cibernia**
 
 xxx
 
@@ -409,86 +409,86 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 ## Listas de CI que mejoran atributos
 
-| Mejoras de atributos |     |     |     |
-| --- | --- | --- | --- |
-| Ciberimplantes | Puntos | Legal | Descripción |
-| --- | --- | --- | --- |
-| Mejora FUE | 1   | Sí  | Reemplazos musculares, Inyector de adrenalina |
-| Mejora VIG | 1   | Sí  | Placas dermales |
+|Mejoras de atributos||||
+|---|---|---|---|
+|Ciberimplantes|Puntos|Legal|Descripción|
+|---|---|---|---|
+|Mejora FUE|1|Sí|Reemplazos musculares, Inyector de adrenalina|
+|Mejora VIG|1|Sí|Placas dermales|
 
 \saltopagina
 
 ## Listas de CI que mejoran habilidades
 
-| Mejoras de habilidades |     |     |     |
-| --- | --- | --- | --- |
-| Ciberimplantes | Puntos | Legal | Descripción |
-| --- | --- | --- | --- |
-| Apostar | 1   | Sí  | Calculadora de probabilidades cerebral |
-| Ciencias | 1   | Sí  | Base de datos científica |
-| Conducir | 1   | Sí  | Ciberconexión a vehículo |
-| Disparar | 1   | No  | HUB de puntería |
-| Electrónica | 1   | Sí  | Base de datos de electrónica |
-| Humanidades | 1   | Sí  | Base de datos de historia y arte |
-| Interpretar | 1   | Sí  | Cibercuerdas vocales, base de datos musical/teatral |
-| Intimidar | 1   | Sí  | Modulador de voz |
-| Investigar | 1   | Sí  | HUB de información |
-| Latrocinio | 1   | No  | Implante de ganzúa eléctrica en un dedo |
-| Medicina | 1   | Sí  | Sensores médicos avanzados |
-| Notar | 1   | Sí  | Telemetría ocular |
-| Ordenadores | 1   | Sí  | Entrada I/O intracerebral |
-| Pelear | 1   | No  | Ordenador de combate |
-| Persuadir | 1   | Sí  | Modificaciones estéticas |
-| Provocar | 1   | Sí  | Modulador de voz |
-| Reparar | 1   | Sí  | Sensores de diagnóstico |
-| Sigilo | 1   | Sí  | Generador de ruido blanco |
-| Supervivencia | 1   | Sí  | Estación meteorológica |
-| Tácticas | 1   | Sí  | IA de tácticas |
+|Mejoras de habilidades||||
+|---|---|---|---|
+|Ciberimplantes|Puntos|Legal|Descripción|
+|---|---|---|---|
+|Apostar|1|Sí|Calculadora de probabilidades cerebral|
+|Ciencias|1|Sí|Base de datos científica|
+|Conducir|1|Sí|Ciberconexión a vehículo|
+|Disparar|1|No|HUB de puntería|
+|Electrónica|1|Sí|Base de datos de electrónica|
+|Humanidades|1|Sí|Base de datos de historia y arte|
+|Interpretar|1|Sí|Cibercuerdas vocales, base de datos musical/teatral|
+|Intimidar|1|Sí|Modulador de voz|
+|Investigar|1|Sí|HUB de información|
+|Latrocinio|1|No|Implante de ganzúa eléctrica en un dedo|
+|Medicina|1|Sí|Sensores médicos avanzados|
+|Notar|1|Sí|Telemetría ocular|
+|Ordenadores|1|Sí|Entrada I/O intracerebral|
+|Pelear|1|No|Ordenador de combate|
+|Persuadir|1|Sí|Modificaciones estéticas|
+|Provocar|1|Sí|Modulador de voz|
+|Reparar|1|Sí|Sensores de diagnóstico|
+|Sigilo|1|Sí|Generador de ruido blanco|
+|Supervivencia|1|Sí|Estación meteorológica|
+|Tácticas|1|Sí|IA de tácticas|
 
 \saltopagina
 
 ## Listas de CI que permiten ventajas
 
-| Ventajas |     |     |     |
-| --- | --- | --- | --- |
-| Ciberimplantes | Puntos | Legal | Descripción |
-| --- | --- | --- | --- |
-| Ambidextrᴈ | 2   | Sí  | Implante intercortex |
-| Atractivᴈ | 1   | Sí  | Cirugía estética, ojos felinos, nanitos capilares |
-| Calculadorᴈ | 2   | Sí  | Ordenador táctico |
-| Curación rápida | 2   | Sí  | Implante médico cervical |
-| Esquiva | 2   | Sí  | Predictor de ataques |
-| Esquiva mejorada | 4   | Sí  | Predictor de ataques mejorado |
-| Gorila | 2   | No  | Nudillos metálicos |
-| Hueso duro de roer | 4   | No  | Bionanitos cirujanos |
-| Hueso muy duro de roer | 4   | No  | Bionanitos cirujanos mejorados |
-| Lingüista | 2   | Sí  | Base de datos lingüística |
-| Mandíbula de hierro | 2   | Sí  | Refuerzos óseos |
-| Pies ligeros | 1   | Sí  | Servo-rodillas |
-| Puntería | 2   | Sí  | Conexión a arma |
-| Reflejos de combate | 2   | Sí  | Sistema anti-aturdimiento cervical |
-| Temple | 2   | Sí  | Ciberreflejos |
-| Temple mejorado | 4   | Sí  | Ciberreflejos mejorados |
-| Rápidᴈ | 2   | Sí  | Bomba cardíaca |
+|Ventajas||||
+|---|---|---|---|
+|Ciberimplantes|Puntos|Legal|Descripción|
+|---|---|---|---|
+|Ambidextrᴈ|2|Sí|Implante intercortex|
+|Atractivᴈ|1|Sí|Cirugía estética, ojos felinos, nanitos capilares|
+|Calculadorᴈ|2|Sí|Ordenador táctico|
+|Curación rápida|2|Sí|Implante médico cervical|
+|Esquiva|2|Sí|Predictor de ataques|
+|Esquiva mejorada|4|Sí|Predictor de ataques mejorado|
+|Gorila|2|No|Nudillos metálicos|
+|Hueso duro de roer|4|No|Bionanitos cirujanos|
+|Hueso muy duro de roer|4|No|Bionanitos cirujanos mejorados|
+|Lingüista|2|Sí|Base de datos lingüística|
+|Mandíbula de hierro|2|Sí|Refuerzos óseos|
+|Pies ligeros|1|Sí|Servo-rodillas|
+|Puntería|2|Sí|Conexión a arma|
+|Reflejos de combate|2|Sí|Sistema anti-aturdimiento cervical|
+|Temple|2|Sí|Ciberreflejos|
+|Temple mejorado|4|Sí|Ciberreflejos mejorados|
+|Rápidᴈ|2|Sí|Bomba cardíaca|
 
 \saltopagina
 
 ## Listas de CI que otorgan rasgos de bestia
 
-| Rasgos de bestia | | |     |
-| --- | --- | --- | --- |
-| Ciberimplantes | Puntos | Legal | Descripción |
-| --- | --- | --- | --- |
-| ¹ Acuático | 1   | Sí  | Agallas artificiales, membranas inter-digitales |
-| Armadura +1 | 2   | Sí  | Estructuras intra-dermales, esqueleto reforzado |
-| ² Armas naturales (Colmillos) | 2   | No  | Colmillos retráctiles. |
-| ² Armas naturales (Cuernos) | 2   | No  | Cuernos retráctiles, placas craneales metálicas. |
-| ² Armas naturales (Garras) | 2   | No  | Garras retráctiles, cuchillas inter-digitales. |
-| Infravisión | 2   | Sí  | Implantes oculares |
-| Regeneración (lenta) | 1   | Sí  | Ciberplaquetas en la sangre |
-| Regeneración (rápida) | 2   | Sí  | Nanitos en la corriente sanguínea |
-| Resistente | 2   | Sí  | Implante de neo-adrenalina, amortiguador cerebral |
-| Visión nocturna | 2   | Sí  | Implantes oculares |
+|Rasgos de bestia||||
+|---|---|---|---|
+|Ciberimplantes|Puntos|Legal|Descripción|
+|---|---|---|---|
+|¹ Acuático|1|Sí|Agallas artificiales, membranas inter-digitales|
+|Armadura +1|2|Sí|Estructuras intra-dermales, esqueleto reforzado|
+|² Armas naturales (Colmillos)|2|No|Colmillos retráctiles.|
+|² Armas naturales (Cuernos)|2|No|Cuernos retráctiles, placas craneales metálicas.|
+|² Armas naturales (Garras)|2|No|Garras retráctiles, cuchillas inter-digitales.|
+|Infravisión|2|Sí|Implantes oculares|
+|Regeneración (lenta)|1|Sí|Ciberplaquetas en la sangre|
+|Regeneración (rápida)|2|Sí|Nanitos en la corriente sanguínea|
+|Resistente|2|Sí|Implante de neo-adrenalina, amortiguador cerebral|
+|Visión nocturna|2|Sí|Implantes oculares|
 
 ¹ Paso acuático 6
 
@@ -520,7 +520,7 @@ xxx
 
 ***
 
-# I3ᴈs71ari0 | Bestiario
+# I3ᴈs71ari0 **Bestiario**
 
 xxx
 
@@ -609,7 +609,7 @@ xxx
 
 ***
 
-# 4vᴈn7ur4s | Aventuras
+# 4vᴈn7ur4s **Aventuras**
 
 xxx
 
@@ -635,7 +635,7 @@ xxx
 
 ***
 
-# I)irᴈctori0 de Nottingham | Directorio de Nottingham
+# I)irᴈctori0 de Nottingham **Directorio de Nottingham**
 
 xxx
 
@@ -701,7 +701,7 @@ xxx
 
 ***
 
-# |oers0nas | Personas
+# |oers0nas **Personas
 
 xxx
 
@@ -735,7 +735,7 @@ xxx
 
 ***
 
-# 3|oíl0go | Epílogo
+# 3|oíl0go **Epílogo**
 
 ## Glosario de términos
 
@@ -786,8 +786,8 @@ Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds Edición Avent
 
 Este libro contiene:
 
-1.  Una ambientación que mezcla el Ciberpunk con las historias de Robin Hood. Con descripciones de personas, eventos y lugares a partir de las cuales crear tus propios relatos salvajes.
-2.  Reglas para crear personajes, montones localizaciones, equipo único, un sistema sencillo de ciberimplantes, enemigos de todo tipo y personajes importantes de la arcología de Nottingham.
-3.  X aventuras largas en formato Plot Points para disfrutar plenamente de esta ambientación más X aventuras cortas de 1 o 2 sesiones.
+1. Una ambientación que mezcla el Ciberpunk con las historias de Robin Hood. Con descripciones de personas, eventos y lugares a partir de las cuales crear tus propios relatos salvajes.
+2. Reglas para crear personajes, montones localizaciones, equipo único, un sistema sencillo de ciberimplantes, enemigos de todo tipo y personajes importantes de la arcología de Nottingham.
+3. X aventuras largas en formato Plot Points para disfrutar plenamente de esta ambientación más X aventuras cortas de 1 o 2 sesiones.
 
 Para jugar esta ambientación solo necesitas el Manual Básico de Savage Worlds Edición Aventura.
