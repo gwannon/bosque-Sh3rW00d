@@ -6,36 +6,23 @@ $(document).ready(function () {
   $("body>section h1, body>section h2")
   .not(".noindex, section:last-of-type *")
   .each(function () {
+    var label;
     counter++;    
-    if($(this).attr('id')) {
+    $(this).attr('id', 'anchor' + counter);
+    var pageNumber = 0;
+    if($(this).prop("tagName") == 'H1') {
+      label = $(this).children("strong").text(); /*label = this.innerHTML;*/
+    } else label = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
 
-      var pageNumber = 0;
-      var currentTitle = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
-      $.each(indice, function(i, item) {
-        if (currentTitle == item.title) {
-          pageNumber = item.page;
-          indice[i].title = "";
-        }
-      });
+    $.each(indice, function(i, item) {
+      if (label == item.title) {
+        pageNumber = item.page;
+        indice[i].title = "";
+      }
+    });
 
-      $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#' + $(this).attr('id') + '" class="like' + $(this).prop("tagName") +
-      '"><span>'+pageNumber+'</span>' + this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
-    } else {
-
-      $(this).attr('id', 'anchor' + counter);
-      var pageNumber = 0;
-      var currentTitle = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
-      $.each(indice, function(i, item) {
-        if (currentTitle == item.title) {
-          pageNumber = item.page;
-          indice[i].title = "";
-        }
-      });
-
-      
-      $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#anchor' + counter + '" class="like' + $(this).prop("tagName") +
-        '"><span>'+pageNumber+'</span>' + this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
-    }
+  
+    $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#anchor' + counter + '" class="like' + $(this).prop("tagName") + '"><span>'+pageNumber+'</span>' + label + '</a>');
     currentDiv = Math.floor(counter / step) + 1;
   });
 

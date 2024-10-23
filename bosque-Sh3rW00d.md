@@ -1,4 +1,4 @@
-# 4rc0l061a **La arcología de Nottingham**
+# 4rc0l061a de Nottingham **La arcología de Nottingham**
 
 Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
@@ -16,7 +16,7 @@ xxx
 
 ### El bosque de Sh3rW00d
 
-El bosque, cuyo primero sector es el Sh3rw00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando extrañas sobre ellos estructuras de material orgánico que le dan aun más aspecto vegetal. xxx
+El bosque, cuyo primer sector es el Sh3rw00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando extrañas sobre ellos estructuras de material orgánico que le dan aun más aspecto vegetal. xxx
 
 ### Las directoras
 
@@ -290,11 +290,11 @@ xxx
 
 xxx
 
+\saltopagina
+
 ## Equipo
 
 xxx
-
-\saltopagina
 
 ### Transporte y comunicación
 
@@ -744,6 +744,8 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
+\saltopagina
+
 ## Scarlet, famosᴈ grafiterᴈ
 
 xxx
@@ -782,6 +784,8 @@ xxx
 * **Equipo:** xxx
 
 **Sugerencia de interpretación:** xxx
+
+\saltopagina
 
 ## Helen Aim, cantante e influencer
 

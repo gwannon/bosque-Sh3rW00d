@@ -898,6 +898,10 @@ a.download:hover:before {
   }
 }
 
+h1 > strong {
+  opacity: 0;
+}
+
 
 @media print {
   @page {
@@ -922,7 +926,6 @@ a.download:hover:before {
     margin-top: var(--padding);
   }
  
-  h1 > span,
   body:after { 
     opacity: 1;
   }
