@@ -1,10 +1,14 @@
 # 4rc0l061a de Nottingham **La arcología de Nottingham**
 
-> Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
+Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
 xxx
 
 ## El mundo actual
+
+```
+xxx
+```
 
 xxx
 
@@ -14,15 +18,11 @@ Nottingham es una gigantesca arcología donde viven cientos de miles de personas
 
 xxx
 
-\saltopagina
-
 ### El bosque de Sh3rW00d
 
-```
-El bosque, cuyo primer sector es el Sh3rw00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal.
-```
+El bosque, cuyo primer sector tiene el código Sh3rw00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal.
 
- xxx
+xxx
 
 ### Las directoras
 
@@ -30,11 +30,11 @@ Las directoras son potentes IAs que controlan Nottingham y tratan de que todo se
 
 xxx
 
+\saltopagina
+
 #### Directora J0hn y sus sheriffs
 
 xxx
-
-\saltopagina
 
 #### Directora R1c4rd
 
@@ -42,9 +42,13 @@ La directora R1c4rd es la anterior IA de Nottingham que fue trasladada al depart
 
 xxx
 
+\saltopagina
+
 ## Orden social
 
+```
 Las gentes que viven en Nottingham son conocidos como notis. xxx
+```
 
 xxx
 
@@ -62,11 +66,15 @@ xxx
 
 xxx
 
+\saltopagina
+
 ## Comercio e industria
 
+```
 xxx
+```
 
-\saltopagina
+xxx
 
 ### Formas de pago
 
@@ -82,6 +90,8 @@ El hecho de que la directora R1c4rd controle toda la economía de Nottingham ha 
 
 xxx
 
+\saltopagina
+
 ### Teletrabajo
 
 xxx
@@ -90,13 +100,17 @@ En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente 
 
 A todos estos teletrabajadorᴈs se les llama en argot pijamerᴈs, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
 
-En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadorᴈ está en su casa aislado físicamente, pero hiperconectado vía redes. xxx
-
-\saltopagina
+En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadorᴈ está en su casa aislado físicamente, pero hiperconectadᴈ vía redes. xxx
 
 Muchos de estᴈs teletrabajadorᴈs desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
+\saltopagina
+
 ## Vida diaria
+
+```
+xxx
+```
 
 xxx
 
@@ -160,11 +174,17 @@ Equipos:
 
 xxx
 
+\saltopagina
+
 ## Leyes y justicia
+
+```
+xxx
+```
 
 xxx
 
-#### Los juicios
+### Los juicios
 
 Las directoras tienen el privilegio de juzgar a todos los habitantes de Nottingham y su decisión no es recurrible. Pero eso genera mucho consumo de ciclos y solo juzgan casos importantes. El resto de crímenes son juzgadas por "las 3 sabIAs".
 
@@ -178,7 +198,7 @@ Durante el juicio que dura entre 12 y 24 horas las IAs solo pueden trabajar en e
 
 xxx
 
-### Trabajos forzados
+#### Trabajos forzados
 
 xxx
 
@@ -186,13 +206,19 @@ xxx
 
 ## Bajos fondos y crimen organizado
 
+```
+xxx
+```
+
 xxx
 
 [![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
 
 ## Lᴈs instaladorᴈs
 
+```
 Lᴈs instaladorᴈs son lᴈs constructorᴈs primigeniᴈs de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 80 años y no se sabe por qué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
+```
 
 xxx
 
@@ -230,6 +256,10 @@ xxx
 
 ## Creación de personajᴈs
 
+```
+xxx
+```
+
 xxx
 
 A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar.
@@ -246,7 +276,13 @@ Todᴈ personajᴈ debe tener un secreto (mayor???) xxx.
 
 xxx
 
+\saltopagina
+
 ## Nuevas habilidades
+
+```
+xxx
+```
 
 xxx
 
@@ -261,6 +297,10 @@ xxx
 \saltopagina
 
 ## Nuevas ventajas
+
+```
+xxx
+```
 
 xxx
 
@@ -280,6 +320,10 @@ xxx
 
 ## Nuevas desventajas
 
+```
+xxx
+```
+
 xxx
 
 ### Ciberparanoia
@@ -287,6 +331,8 @@ xxx
 Estás convecidᴈ de que las IAs te vigilan y te siguen. xxx
 
 xxx
+
+\saltopagina
 
 ### Fobia social
 
@@ -300,25 +346,51 @@ xxx
 
 ## Equipo
 
+```
+xxx
+```
+
 xxx
 
 ### Transporte y comunicación
 
 xxx
 
-#### Monturas: Rollers, skates y ebikes
+#### Monturas: Rollers, skates y e-bikes
 
 xxx
 
+|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
+|--------|------|----|--|------|-----|
+|Rollers|xxx|x|xxx|xxx|xxx|
+|Skate|xxx|x|xxx|xxx|xxx|
+|E-bike|xxx|x|xxx|xxx|xxx|
+
+xxx
+
+\saltopagina
+
 ## Hackeos de lᴈs instaladorᴈs
 
+```
 Lᴈs instaladorᴈs tenían pequeños hackeos que usaban en su día a día que les permitían usar los elementos de la arcología y el equipo de formas para los que no estaban preparados, como acelerar la velocidad de los montacargas o hacer que las puertas de los ascensores se abrieran solas sin que hubiera ascensor.
+```
 
 xxx
 
 ### Código Konami
 
 ![](./assests/images/codigo-konami.png)
+
+xxx
+
+\saltopagina
+
+## Cómo jugar al hockey de pasillo
+
+```
+xxx
+```
 
 xxx
 
@@ -330,32 +402,37 @@ xxx
 
 ## HUB de conexión
 
+```
 Todas las personas nacidas en una maternidad de la arcología, son implantados nada más nacer con un HUB de conexión que le permitirá conectarse a las redes informáticas de su alrededor. Por otro lado permite tener a todo la gente rastreada y controlada.
-
+```
 El HUB de conexión permite entre otras muchas cosas.
 
-*   Conectarse en realidad aumentada a la red de la arcología.
-*   Controlar la domótica del hogar.
-*   xxx
+* Conectarse en realidad aumentada a la red de la arcología.
+* Controlar la domótica del hogar.
+* xxx
 
 El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo lᴈs hijᴈs de boskis pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
 
 ## Ciberimplantes
 
-Los ciberimplantes (CI) son elementos cibernéticos que sustituyen o mejoran partes del cuerpo. Pueden hacerte más fuerte, más rápido, más listo, ver en la oscuridad, respirar bajo el agua, etc. En estas reglas existen 4 tipos de CI.
+```
+Los ciberimplantes (CI) son elementos cibernéticos que sustituyen o mejoran partes del cuerpo. Pueden hacerte más fuerte, más rápido, más listo, ver en la oscuridad, respirar bajo el agua, etc.
+```
 
-1.  Los que mejoran atributos como Fuerza o Vigor.
-2.  Los que mejoran habilidades como Notar o Pelear.
-3.  Los que permiten ventajas como Mandíbula de Hierro o Esquiva.
-4.  Los que dan Rasgo de bestia como Garras o Infravisión.
+En estas reglas existen 4 tipos de CI.
+
+1. Los que mejoran atributos como Fuerza o Vigor.
+2. Los que mejoran habilidades como Notar o Pelear.
+3. Los que permiten ventajas como Mandíbula de Hierro o Esquiva.
+4. Los que dan Rasgo de bestia como Garras o Infravisión.
 
 Los CI permiten hacer proezas que unᴈ personajᴈ normal no puede hacer, pero tienes un gran coste en lo que te convierte en un comodín, es decir, que afecta directamente a tus benis y a tu dado salvaje. **Los implantes tienen un valor en puntos y cada 3 puntos en CI se pierde un beni o si lo prefieres tu dado salvaje.**
+
+\saltopagina
 
 Puedes seguir metiendo cables y cromo en tu cuerpo hasta que te quedes sin benis y sin dado salvaje, pero no más. Si te quedarás sin benis y sin dado salvaje, dejas de ser un comodín para convertirte en un secuaz. Esto quiere decir que no puedes ponerte más de 12 puntos en CI.
 
 En otros juegos los ciberimplantes tienen una gran cantidad de reglas sobre qué puedes ponerte, qué no, qué bonus te dan, cuánto cuesta instalarlos en tu cuerpo, cuántos días pasas en el hospital. En Bosque Sh3rW00d todo esto está simplificado, los CI son una forma de gastar avances con sus propias reglas.
-
-\saltopagina
 
 ### Reglas específicas para cada tipo de implantes
 
@@ -377,13 +454,13 @@ Estas mejoras permiten aumentar un nivel el dado de la habilidad.
 *   Puedes gastar avances en CI para conseguir subir una habilidad por encima de d12, pero a partir d12 los implantes no son camuflables.
 *   Si alguno de tus implantes no es camuflable todos los de la misma habilidad se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
 
+\saltopagina
+
 #### CI que otorgan ventajas
 
 Al gastar avances en estos CI puedes ponerte una serie de ventajas sin necesidad de cumplir los requisitos. Solo se pueden comprar ciertas ventajas (consultar la lista a continuación). No todas las ventajas están disponibles.
 
 Las ventajas mejoradas como Esquiva y Esquiva Mejorada no se apilan de ninguna forma. Si compraste Esquiva y avances más tarde Esquiva Mejorada pierdes el avance de Esquiva. Podrás quitártelo para recuperar los puntos de Implantes que gastaste.
-
-\saltopagina
 
 #### CI que otorgan rasgos de bestia
 
@@ -403,13 +480,13 @@ Los implantes en condiciones normales son visibles. Se ven partes metálicas y c
 
 Los implantes se compran con avances y son como las ventajas o las habilidades, por lo que no se estropean, ni dejan de funcionar, ni se pierden. Sin embargo, si para tu historia tienen que dejar de funcionar o hay que repararlos, cualquier persona con Medicina y Ciencias d8 o más podrá arreglarles.
 
+\saltopagina
+
 ### Implantes legales e ilegales
 
 Los implantes pueden ser considerados legales o ilegales. Los legales puedes llevarlos por la calle sin ser perseguido por la autoridad, los ilegales deberás llevarlos ocultos o tener algún tipo de licencia que te permita llevarlos.
 
 En muchas ambientaciones los implantes de Armadura serían ilegales, pero unᴈ policíᴈ podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
-
-\saltopagina
 
 Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo post-apocalíptico realmente no importaría si son legales o no.
 
@@ -492,7 +569,13 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 ² Cada tipo de arma natural tiene sus propias reglas (Manual básico pág. 142). Las armas naturales tienen un daño de FUE+d4, pero se puede acumular el daño haciéndolas FUE+d6, FUE+d8, etc.
 
+\saltopagina
+
 ## IAs
+
+```
+xxx
+```
 
 xxx
 
@@ -500,19 +583,39 @@ xxx
 
 ## Nanotecnología
 
+```
 xxx
+```
+
+xxx
+
+\saltopagina
 
 ## Realidad aumentada
 
+```
 xxx
+```
+
+xxx
+
+\saltopagina
 
 ## Mensajería
 
+```
 En un mundo hipertecnificado, la forma más fácil de que no te hackeen información es que esta sea física. Los planos de un nuevo ingenio es mejor tenerlos en papel y que los lleve unᴈ mensajerᴈ en bici que mandarlos por mensajes digitales.
+```
 
 xxx
 
+\saltopagina
+
 ## Código de lᴈs instaladorᴈs
+
+```
+xxx
+```
 
 xxx
 
@@ -523,6 +626,10 @@ xxx
 xxx
 
 ## Secuaces
+
+```
+xxx
+```
 
 xxx
 
@@ -538,9 +645,15 @@ xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
+\saltopagina
+
 ## Robots
 
+```
 Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y lanzarte.  
+```
+
+xxx
 
 ### Animal animatrónico
 
@@ -613,6 +726,10 @@ xxx
 
 ## Otros relatos salvajes
 
+```
+xxx
+```
+
 xxx
 
 ### Todos los jueves
@@ -639,6 +756,10 @@ xxx
 
 ## Zona baja
 
+```
+xxx
+```
+
 xxx
 
 ### El río Trent
@@ -649,7 +770,13 @@ El río Trent es una inmensa algafactoría donde se produce xxx. Es lo más pare
 
 xxx
 
+\saltopagina
+
 ## Zona media
+
+```
+xxx
+```
 
 xxx
 
@@ -669,6 +796,10 @@ xxx
 
 ## Zona alta
 
+```
+xxx
+```
+
 xxx
 
 ### El zoo de la directora J0hn
@@ -677,7 +808,13 @@ Como parte de una campaña mejora de la opinión pública la directora J0hn creo
 
 xxx
 
+\saltopagina
+
 ## El bosque
+
+```
+xxx
+```
 
 xxx
 
@@ -685,15 +822,31 @@ xxx
 
 El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de lᴈs boskis. xxx
 
+\saltopagina
+
 ## Transporte público
+
+```
+xxx
+```
 
 xxx
 
-## Creación de espacio para tus aventuras
+\saltopagina
+
+## Creación de espacios para tus aventuras
+
+```
+xxx
+```
 
 xxx
 
 ### Espacios pregenerados
+
+```
+xxx
+```
 
 xxx
 
@@ -708,80 +861,82 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-**Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** xxx
 
 ## Fraile Tuck
 
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-**Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** xxx
+
+\saltopagina
 
 ## Little John
 
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-**Sugerencia de interpretación:** xxx
-
-\saltopagina
+> **Sugerencia de interpretación:** xxx
 
 ## Scarlet, famosᴈ grafiterᴈ
 
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-**Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** xxx
+
+\saltopagina
 
 ## Guy de Gisbourne
 
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-**Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** xxx
 
-## Much, el hijo del molinero
+## Much, el hijᴈ del molinerᴈ
 
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-**Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** xxx
 
 \saltopagina
 
@@ -790,17 +945,42 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-**Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** xxx
 
 ***
 
 # 3|oíl0go **Epílogo**
+
+Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, ideas y consejos sobre esta ambientación que os podrán ser de ayuda.
+
+## Relaciones sexo-afectivas
+
+Las vidas sentimentales y sexuales de lᴈs personajᴈs de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí. Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
+
+### Participar en el proyecto
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
+
+### Define los velos y herramientas de seguridad
+> Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
+> No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
+> **Por:** [FaustoRolero](https://twitter.com/FaustoRolero)
+
+Aquí tienes algunas herramientas de seguridad que puedes usar:
+
+* [DEVIR](https://devir.es/herramientas-seguridad-rol)
+* [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
+
+\saltopagina
+
+## Lenguaje inclusivo
+
+xxx
 
 ## Glosario de términos
 
