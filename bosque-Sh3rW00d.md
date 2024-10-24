@@ -264,11 +264,11 @@ xxx
 
 xxx
 
-A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar.
+**Hijes de la tecnología:** Vives rodeado de tecnología las 24 horas del día. Quieras o no, sabes usar todo tipo de aparatos eléctricos y ordenadores.Todes les personajes **empiezan con Electrónica d4 y Ordenadores d4**.
 
-También desaparecen las habilidades como Hechicería, Ciencia Extraña, xxx
+**La ciencia mató la magia:** A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar. También desaparecen las habilidades como Hechicería, Ciencia Extraña, Fe, etc. y las ventajas de poder que tienen un carácter mágico.
 
-Se recomienda no ponerse ventajas de francotirador, como xxx, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy cerrados, donde las habilidades de tirador de larga distancia son muy poco útiles.
+**Espacios cerrados:** Se recomienda no ponerse ventajas de francotirador y pistolero, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son mucho menos útiles.
 
 ### Secretos
 
@@ -332,7 +332,7 @@ xxx
 
 ### Ciberparanoia
 
-Estás convecide de que las IAs te vigilan y te siguen. xxx
+Tienes la insana convicción de que las IAs te vigilan y te siguen. xxx
 
 xxx
 
@@ -611,16 +611,6 @@ En un mundo hipertecnificado, la forma más fácil de que no te hackeen informac
 
 xxx
 
-\saltopagina
-
-## Código de les instaladores
-
-```
-xxx
-```
-
-xxx
-
 ***
 
 # I3es71ari0 **Bestiario**
@@ -671,8 +661,6 @@ xxx
     * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** xxx
 
-\saltopagina
-
 ### Limpiador
 
 xxx
@@ -682,6 +670,9 @@ xxx
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
+
+\saltopagina
+
 * **Capacidades especiales:**
     * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
     * **Impávido:** Es inmune al miedo e Intimidar.
@@ -703,8 +694,6 @@ xxx
     * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** xxx
 
-\saltopagina
-
 ### Comadrejas
 
 xxx
@@ -719,6 +708,50 @@ xxx
     * **Impávido:** Es inmune al miedo e Intimidar.
     * **Tamaño (-1):** Puede moverse sin problemas por tubos de ventilación y otros conductos grandes.
 * **Equipo:** xxx
+
+\saltopagina
+
+## Gentes de Nottingham
+
+```
+xxx
+```
+
+xxx
+
+### Artiste
+
+Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier tipo, comediantes, ...
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Electronica d4, Humanidades d6, Idioma Inglés d8, Interpretación d8, Notar d6, Ordenadores d4, Persuadir d6, Sigilo d4, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Desventajas:** Elegir 1: Hábito (menor alcohol, marihuana, etc.), Curioso, Cojo, Patoso
+* **Ventajas:** Elegir 1: Carismático, Famoso, Atractivo
+* **Equipo:** Ropas vistosas, instrumento musical, herramientas relacionadas con su arte
+
+### Delincuente de los bajos fondos
+
+Los oscuros callejones de Nottingham están llenas de este tipo de personajes. Tenemos matones, descuideras, cortabolsas, timadores, ladronas, etc.
+
+* **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pelear d6, Ordenadores d4, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
+* **Equipo:** Cuchillo (FUE+d4)
+
+### Funcionarie
+
+Estamos hablando de o chupatintas que están detrás de un mostrador gestionando algún tipo de asunto para la empresa, desde permisos de obra a cobro de multas e impuestos.
+
+\saltopagina
+
+* **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 4
+* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Habito (Menor)
+* **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rico
+* **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
 
 ***
 
@@ -858,6 +891,8 @@ xxx
 
 xxx
 
+> Todos los retratos de personajes son de [VÍCTOR JIMÉNEZ MERINO](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) que permite usarlo con [Licencia Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Lady Marian
 
 [![Retrato de Lady Marian](./assests/images/lady-marian.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
@@ -985,10 +1020,10 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 
 Las vidas sentimentales y sexuales de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí. Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
 
-### Participar en el proyecto
+## Participar en el proyecto
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
 
-### Define los velos y herramientas de seguridad
+## Define los velos y herramientas de seguridad
 > Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
 > **Por:** [FaustoRolero](https://twitter.com/FaustoRolero)
@@ -1023,11 +1058,11 @@ Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros 
 
 ### Imágenes
 
-No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
+No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo.
 
 * [Portada por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm#query=circuit%20svg&position=2&from_view=keyword&track=ais&uuid=27946d73-52ee-4da0-b997-0ec27bf1ad53) en Freepik
 
-* [Retratos de personajes](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) por VÍCTOR JIMÉNEZ MERINO 2024
+* [Retratos de personajes](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) por VÍCTOR JIMÉNEZ MERINO [(Licencia Attribution-NonCommercial 4.0 International)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 \saltopagina
 

@@ -608,8 +608,9 @@ section > blockquote > p > a {
   color: var(--yellow-color);
 }
 
-section:nth-child(odd) blockquote > p > a {
-  color: var(--black-color);
+body > section:nth-child(odd) > blockquote > p > a,
+body > section:nth-child(odd) > blockquote > p > a:visited {
+  color: var(--black-color) !important;
 }
 
 ol > li {
@@ -644,6 +645,10 @@ section:nth-child(odd) ol > li:before {
 table {
   margin: 15px auto;
   border: 3px dashed var(--yellow-color);
+}
+
+section:nth-child(even) table {
+  border-color: var(--black-color);
 }
 
 section > div:has(table) {
