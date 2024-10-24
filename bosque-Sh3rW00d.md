@@ -14,7 +14,7 @@ xxx
 
 ### Nottingham
 
-Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleadᴈs. xxx
+Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. xxx
 
 xxx
 
@@ -38,7 +38,7 @@ xxx
 
 #### Directora R1c4rd
 
-La directora R1c4rd es la anterior IA de Nottingham que fue trasladada al departamento de armamentística de la compañía. Se dice que era, a diferencia de la directora J0hn, justa y magnánima con lᴈs notis. Se recuerda con cariño los años de dirección de R1c4rd y se sueña con su regreso cuando ya no sea necesaria en el departamento bélico de la compañía.
+La directora R1c4rd es la anterior IA de Nottingham que fue trasladada al departamento de armamentística de la compañía. Se dice que era, a diferencia de la directora J0hn, justa y magnánima con les notis. Se recuerda con cariño los años de dirección de R1c4rd y se sueña con su regreso cuando ya no sea necesaria en el departamento bélico de la compañía.
 
 xxx
 
@@ -55,7 +55,7 @@ xxx
 ### Blus (Nobleza)
 xxx
 
-### Influencᴈrs (Iglesia)
+### Influencers (Iglesia)
 xxx
 
 ### Curris (Plebe)
@@ -98,11 +98,11 @@ xxx
 
 En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente de una oficina, xxx
 
-A todos estos teletrabajadorᴈs se les llama en argot pijamerᴈs, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
+A todos estos teletrabajadores se les llama en argot pijameres, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
 
-En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadorᴈ está en su casa aislado físicamente, pero hiperconectadᴈ vía redes. xxx
+En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade vía redes. xxx
 
-Muchos de estᴈs teletrabajadorᴈs desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
+Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
 \saltopagina
 
@@ -122,7 +122,7 @@ xxx
 
 #### Sin cielo y sin horizonte
 
-Lᴈs habitantᴈs de Nottingham no conocen lo que son los espacios abiertos, no saben lo que es mirar al cielo o ver el horizonte. Solo están acostumbrados a espacios cerrados de no más de 30 o 40 m². El mayor espacio abierto de Nottingham es la plaza Mayor, tan abierto que hay notis que tienen agorafobia.
+Les habitantes de Nottingham no conocen lo que son los espacios abiertos, no saben lo que es mirar al cielo o ver el horizonte. Solo están acostumbrados a espacios cerrados de no más de 30 o 40 m². El mayor espacio abierto de Nottingham es la plaza Mayor, tan abierto que hay notis que tienen agorafobia.
 
 ### Cultura y contracultura
 
@@ -152,7 +152,7 @@ El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre
 
 Uno de los elementos más interesantes del hockey de pasillo es el campo de juego. Según el reglamento oficial puede ser cualquier pasillo de la arcología que tenga un mínimo de 40 m² usando dos puertas del pasillo como porterías. Las puertas que no tienen que ser del mismo tamaño ni tener unos mínimos o máximos, así que es importante ganar el sorteo inicial para elegir la portería más ventajosa. Aunque se cambie cada ronda, al ser 5 estarías 3 en la buena y 2 en la mala.
 
-En los partidos oficiales de liga se elige al azar el campo de entre todos los corredores, galerías, pasillos y pasajes que cumplan las indicaciones. 5 minutos antes de empezar se desaloja el pasillo y entran lᴈs jugadorᴈs a calentar.
+En los partidos oficiales de liga se elige al azar el campo de entre todos los corredores, galerías, pasillos y pasajes que cumplan las indicaciones. 5 minutos antes de empezar se desaloja el pasillo y entran les jugadores a calentar.
 
 Los partidos son retransmitidos a través de las cámaras de vigilancia del pasillo. Se cierran todos los accesos al pasillo, excepto para personal sanitario y los suplentes.
 
@@ -190,7 +190,7 @@ Las directoras tienen el privilegio de juzgar a todos los habitantes de Nottingh
 
 Las 3 sabIAs son 3 IAs de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por el defensor, otra por el acusador y una tercera al azar entre todas las IAs de Nottingham.
 
-Las IAs escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso, ya que una de las IAs es del defensor y otra del acusador y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo y como no tienen sesgos humanos suelen llegar a veredictos bastante justos y equitativos. Es por ello que lᴈs mejores abogadᴈs van detectando las IAs que más posibilidades tienen de llevarse al resto a su campo.
+Las IAs escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso, ya que una de las IAs es del defensor y otra del acusador y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo y como no tienen sesgos humanos suelen llegar a veredictos bastante justos y equitativos. Es por ello que les mejores abogades van detectando las IAs que más posibilidades tienen de llevarse al resto a su campo.
 
 Durante el juicio que dura entre 12 y 24 horas las IAs solo pueden trabajar en el juicio. No es la primera vez que los ascensores de una sección dejan de funcionar porque su IA tiene un juicio.
 
@@ -214,31 +214,31 @@ xxx
 
 [![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
 
-## Lᴈs instaladorᴈs
+## Les instaladores
 
 ```
-Lᴈs instaladorᴈs son lᴈs constructorᴈs primigeniᴈs de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 80 años y no se sabe por qué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
+Les instaladores son les constructores primigenies de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 80 años y no se sabe por qué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
 ```
 
 xxx
 
-### Tecnología de lᴈs instaladorᴈs
+### Tecnología de les instaladores
 
-La tecnología de lᴈs instaladorᴈs se basa principalmente en los nanobots. Miles de microrobots conectados que construyen los diseños de lᴈs instaladorᴈs. No solo construyen nuevos pisos de la arcología, sino que también reparan, restauran y mantienen los pisos viejos.
+La tecnología de les instaladores se basa principalmente en los nanobots. Miles de microrobots conectados que construyen los diseños de les instaladores. No solo construyen nuevos pisos de la arcología, sino que también reparan, restauran y mantienen los pisos viejos.
 
 xxx
 
 \saltopagina
 
-### Los nanitos después de la marcha de lᴈs instaladorᴈs
+### Los nanitos después de la marcha de les instaladores
 
-Cuando lᴈs instaladorᴈs se fueron por orden de la compañía, se llevaron los nanobots, pero no todos. Muchos de los nanitos de zonas en construcción quedaron huérfanos y sus firmwares desactualizado empezaron a fallar o a funcionar por su cuenta y siguieron construyendo ahora con materiales reciclados de origen biológico. Así es como el bosque obtuvo su nombre, al crearse estructuras orgánicas a las columnas techos, suelos y paredes del bosque.
+Cuando les instaladores se fueron por orden de la compañía, se llevaron los nanobots, pero no todos. Muchos de los nanitos de zonas en construcción quedaron huérfanos y sus firmwares desactualizado empezaron a fallar o a funcionar por su cuenta y siguieron construyendo ahora con materiales reciclados de origen biológico. Así es como el bosque obtuvo su nombre, al crearse estructuras orgánicas a las columnas techos, suelos y paredes del bosque.
 
 xxx
 
 ### La búsqueda de la contraseña de SU
 
-Lᴈs buscadorᴈs de la contraseña de SU, abreviando lᴈs buscadorᴈs, son un grupo de personas que creen que lᴈs instaladorᴈs dejaron en alguna parte un password de "superuser" que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
+Les buscadores de la contraseña de SU, abreviando les buscadores, son un grupo de personas que creen que les instaladores dejaron en alguna parte un password de "superuser" que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
 
 xxx
 
@@ -254,7 +254,7 @@ xxx
 
 xxx
 
-## Creación de personajᴈs
+## Creación de personajes
 
 ```
 xxx
@@ -272,7 +272,7 @@ Se recomienda no ponerse ventajas de francotirador, como xxx, ya que son bastant
 
 xxx
 
-Todᴈ personajᴈ debe tener un secreto (mayor???) xxx.
+Tode personaje debe tener un secreto (mayor???) xxx.
 
 xxx
 
@@ -306,7 +306,7 @@ xxx
 
 ### Alijos
 
-**Requisitos:** Novatᴈ
+**Requisitos:** Novate
 
 Tienes grandes cantidades de dinero en forma de alijos pueden ser objetos de valor, cupones de trueques, etc. y lo más importante es dinero que no está controlado por la empresa.
 
@@ -328,7 +328,7 @@ xxx
 
 ### Ciberparanoia
 
-Estás convecidᴈ de que las IAs te vigilan y te siguen. xxx
+Estás convecide de que las IAs te vigilan y te siguen. xxx
 
 xxx
 
@@ -338,7 +338,7 @@ xxx
 
 xxx
 
-### Nacidᴈ librᴈ
+### Nacide libre
 
 xxx
 
@@ -370,10 +370,10 @@ xxx
 
 \saltopagina
 
-## Hackeos de lᴈs instaladorᴈs
+## Hackeos de les instaladores
 
 ```
-Lᴈs instaladorᴈs tenían pequeños hackeos que usaban en su día a día que les permitían usar los elementos de la arcología y el equipo de formas para los que no estaban preparados, como acelerar la velocidad de los montacargas o hacer que las puertas de los ascensores se abrieran solas sin que hubiera ascensor.
+Les instaladores tenían pequeños hackeos que usaban en su día a día que les permitían usar los elementos de la arcología y el equipo de formas para los que no estaban preparados, como acelerar la velocidad de los montacargas o hacer que las puertas de los ascensores se abrieran solas sin que hubiera ascensor.
 ```
 
 xxx
@@ -411,7 +411,7 @@ El HUB de conexión permite entre otras muchas cosas.
 * Controlar la domótica del hogar.
 * xxx
 
-El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo lᴈs hijᴈs de boskis pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
+El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo les hijes de boskis pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
 
 ## Ciberimplantes
 
@@ -426,7 +426,7 @@ En estas reglas existen 4 tipos de CI.
 3. Los que permiten ventajas como Mandíbula de Hierro o Esquiva.
 4. Los que dan Rasgo de bestia como Garras o Infravisión.
 
-Los CI permiten hacer proezas que unᴈ personajᴈ normal no puede hacer, pero tienes un gran coste en lo que te convierte en un comodín, es decir, que afecta directamente a tus benis y a tu dado salvaje. **Los implantes tienen un valor en puntos y cada 3 puntos en CI se pierde un beni o si lo prefieres tu dado salvaje.**
+Los CI permiten hacer proezas que une personaje normal no puede hacer, pero tienes un gran coste en lo que te convierte en un comodín, es decir, que afecta directamente a tus benis y a tu dado salvaje. **Los implantes tienen un valor en puntos y cada 3 puntos en CI se pierde un beni o si lo prefieres tu dado salvaje.**
 
 \saltopagina
 
@@ -486,7 +486,7 @@ Los implantes se compran con avances y son como las ventajas o las habilidades, 
 
 Los implantes pueden ser considerados legales o ilegales. Los legales puedes llevarlos por la calle sin ser perseguido por la autoridad, los ilegales deberás llevarlos ocultos o tener algún tipo de licencia que te permita llevarlos.
 
-En muchas ambientaciones los implantes de Armadura serían ilegales, pero unᴈ policíᴈ podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
+En muchas ambientaciones los implantes de Armadura serían ilegales, pero une policíe podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
 
 Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo post-apocalíptico realmente no importaría si son legales o no.
 
@@ -530,9 +530,9 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
-|Ambidextrᴈ|2|Sí|Implante intercortex|
-|Atractivᴈ|1|Sí|Cirugía estética, ojos felinos, nanitos capilares|
-|Calculadorᴈ|2|Sí|Ordenador táctico|
+|Ambidextre|2|Sí|Implante intercortex|
+|Atractive|1|Sí|Cirugía estética, ojos felinos, nanitos capilares|
+|Calculadore|2|Sí|Ordenador táctico|
 |Curación rápida|2|Sí|Implante médico cervical|
 |Esquiva|2|Sí|Predictor de ataques|
 |Esquiva mejorada|4|Sí|Predictor de ataques mejorado|
@@ -546,7 +546,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Reflejos de combate|2|Sí|Sistema anti-aturdimiento cervical|
 |Temple|2|Sí|Ciberreflejos|
 |Temple mejorado|4|Sí|Ciberreflejos mejorados|
-|Rápidᴈ|2|Sí|Bomba cardíaca|
+|Rápide|2|Sí|Bomba cardíaca|
 
 \saltopagina
 
@@ -604,14 +604,14 @@ xxx
 ## Mensajería
 
 ```
-En un mundo hipertecnificado, la forma más fácil de que no te hackeen información es que esta sea física. Los planos de un nuevo ingenio es mejor tenerlos en papel y que los lleve unᴈ mensajerᴈ en bici que mandarlos por mensajes digitales.
+En un mundo hipertecnificado, la forma más fácil de que no te hackeen información es que esta sea física. Los planos de un nuevo ingenio es mejor tenerlos en papel y que los lleve une mensajere en bici que mandarlos por mensajes digitales.
 ```
 
 xxx
 
 \saltopagina
 
-## Código de lᴈs instaladorᴈs
+## Código de les instaladores
 
 ```
 xxx
@@ -621,7 +621,7 @@ xxx
 
 ***
 
-# I3ᴈs71ari0 **Bestiario**
+# I3es71ari0 **Bestiario**
 
 xxx
 
@@ -720,7 +720,7 @@ xxx
 
 ***
 
-# 4vᴈn7ur4s **Aventuras**
+# 4ven7ur4s **Aventuras**
 
 xxx
 
@@ -738,7 +738,7 @@ xxx
 
 ### Videobombing
 
-La directora J0hn ha pedido a un grupo de influencᴈrs que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
+La directora J0hn ha pedido a un grupo de influencers que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
 
 xxx
 
@@ -750,7 +750,7 @@ xxx
 
 ***
 
-# I)irᴈctori0 de Nottingham **Directorio de Nottingham**
+# I)irectori0 de Nottingham **Directorio de Nottingham**
 
 xxx
 
@@ -764,7 +764,7 @@ xxx
 
 ### El río Trent
 
-El río Trent es una inmensa algafactoría donde se produce xxx. Es lo más parecido a un río o un mar que han visto lᴈs notis. xxx
+El río Trent es una inmensa algafactoría donde se produce xxx. Es lo más parecido a un río o un mar que han visto les notis. xxx
 
 ### Modulo prisión "xxx"
 
@@ -788,7 +788,7 @@ xxx
 
 La Plaza Mayor es la estancia más grande de la arcología y aun así no será mayor que un estadio de fútbol actual. xxx
 
-Tiene una simulación de cielo que muestra un día soleado y totalmente despejado y una noche demasiado estrellada. No hay ni puesta ni salida de sol. Simplemente glitchea unos segundos y pasa de noche a día o viceversa. De hecho, lᴈs notis, tienen dos expresiones "glitch de la mañana" y "glitch de la noche" para hablar del alba o del ocaso.
+Tiene una simulación de cielo que muestra un día soleado y totalmente despejado y una noche demasiado estrellada. No hay ni puesta ni salida de sol. Simplemente glitchea unos segundos y pasa de noche a día o viceversa. De hecho, les notis, tienen dos expresiones "glitch de la mañana" y "glitch de la noche" para hablar del alba o del ocaso.
 
 xxx
 
@@ -820,7 +820,7 @@ xxx
 
 ### El Gran Roble (GR)
 
-El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de lᴈs boskis. xxx
+El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les boskis. xxx
 
 \saltopagina
 
@@ -897,7 +897,7 @@ xxx
 
 > **Sugerencia de interpretación:** xxx
 
-## Scarlet, famosᴈ grafiterᴈ
+## Scarlet, famose grafitere
 
 xxx
 
@@ -925,7 +925,7 @@ xxx
 
 > **Sugerencia de interpretación:** xxx
 
-## Much, el hijᴈ del molinerᴈ
+## Much, el hije del molinere
 
 xxx
 
@@ -961,7 +961,7 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 
 ## Relaciones sexo-afectivas
 
-Las vidas sentimentales y sexuales de lᴈs personajᴈs de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí. Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
+Las vidas sentimentales y sexuales de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí. Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
 
 ### Participar en el proyecto
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
@@ -986,10 +986,10 @@ xxx
 
 xxx
 
-* **bosks:** habitantᴈs del bosque.
+* **bosks:** habitantes del bosque.
 * **glitch de la mañana:** amanecer
 * **glitch de la noche:** anochecer
-* **notis:** ciudadanᴈs que viven en la arcología Nottingham.
+* **notis:** ciudadanes que viven en la arcología Nottingham.
 
 ## Suplementos que puedes usar
 
