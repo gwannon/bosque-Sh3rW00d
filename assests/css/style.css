@@ -792,6 +792,15 @@ a.download:hover:before {
   animation-timing-function: linear;
 }
 
+p:has(a img[alt^=Retrato]) {
+  float: left;
+  width: 50%;
+}
+
+blockquote {
+  clear: both;
+}
+
 @keyframes buttonhover {
   0% {
     transform: skew(0deg);

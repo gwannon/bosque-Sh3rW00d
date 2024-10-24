@@ -212,6 +212,8 @@ xxx
 
 xxx
 
+\saltopagina
+
 [![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
 
 ## Les instaladores
@@ -318,6 +320,8 @@ xxx
 
 xxx
 
+\saltopagina
+
 ## Nuevas desventajas
 
 ```
@@ -331,8 +335,6 @@ xxx
 Estás convecide de que las IAs te vigilan y te siguen. xxx
 
 xxx
-
-\saltopagina
 
 ### Fobia social
 
@@ -413,6 +415,8 @@ El HUB de conexión permite entre otras muchas cosas.
 
 El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo les hijes de boskis pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
 
+\saltopagina
+
 ## Ciberimplantes
 
 ```
@@ -427,8 +431,6 @@ En estas reglas existen 4 tipos de CI.
 4. Los que dan Rasgo de bestia como Garras o Infravisión.
 
 Los CI permiten hacer proezas que une personaje normal no puede hacer, pero tienes un gran coste en lo que te convierte en un comodín, es decir, que afecta directamente a tus benis y a tu dado salvaje. **Los implantes tienen un valor en puntos y cada 3 puntos en CI se pierde un beni o si lo prefieres tu dado salvaje.**
-
-\saltopagina
 
 Puedes seguir metiendo cables y cromo en tu cuerpo hasta que te quedes sin benis y sin dado salvaje, pero no más. Si te quedarás sin benis y sin dado salvaje, dejas de ser un comodín para convertirte en un secuaz. Esto quiere decir que no puedes ponerte más de 12 puntos en CI.
 
@@ -446,6 +448,8 @@ Estas mejoras permiten aumentar un nivel el dado del atributo.
 *   Puedes gastar varios avances en mejorar el mismo atributo sin límite, pero a partir d12 los implantes no son camuflables (ver "CI camuflables").
 *   Si alguno de tus implantes no es camuflable todos los del mismo atributo se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
 
+\saltopagina
+
 #### CI que mejoran habilidades
 
 Estas mejoras permiten aumentar un nivel el dado de la habilidad.
@@ -453,8 +457,6 @@ Estas mejoras permiten aumentar un nivel el dado de la habilidad.
 *   El dado de habilidad aumenta un nivel independiente del nivel de su atributo.
 *   Puedes gastar avances en CI para conseguir subir una habilidad por encima de d12, pero a partir d12 los implantes no son camuflables.
 *   Si alguno de tus implantes no es camuflable todos los de la misma habilidad se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
-
-\saltopagina
 
 #### CI que otorgan ventajas
 
@@ -472,6 +474,8 @@ Los rasgos de bestia acumulables como Armadura no son camuflables a partir de la
 
 Por cada rango puedes quitarte un implante y recuperar los puntos de CI que gastaste en su momento, pero perderás el avance que invertiste.
 
+\saltopagina
+
 ### CI camuflables
 
 Los implantes en condiciones normales son visibles. Se ven partes metálicas y cromadas, cables, leds, etc. pero por un punto extra se pueden hacer camuflables. De esa forma no son detectables a simple vista. Hay que tener en cuenta que tener garras es camuflable hasta el momento en que se sacan y se empieza a desgarrar gargantas. En ese momento por muy camuflables que sean la gente podrá verlas.
@@ -479,8 +483,6 @@ Los implantes en condiciones normales son visibles. Se ven partes metálicas y c
 ### Reparación
 
 Los implantes se compran con avances y son como las ventajas o las habilidades, por lo que no se estropean, ni dejan de funcionar, ni se pierden. Sin embargo, si para tu historia tienen que dejar de funcionar o hay que repararlos, cualquier persona con Medicina y Ciencias d8 o más podrá arreglarles.
-
-\saltopagina
 
 ### Implantes legales e ilegales
 
@@ -858,6 +860,8 @@ xxx
 
 ## Lady Marian
 
+[![Retrato de Lady Marian](./assests/images/lady-marian.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
+
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -869,7 +873,11 @@ xxx
 
 > **Sugerencia de interpretación:** xxx
 
+\saltopagina
+
 ## Fraile Tuck
+
+[![Retrato de Fraile Tuck](./assests/images/tuck.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 
@@ -886,6 +894,8 @@ xxx
 
 ## Little John
 
+[![Retrato de Little John](./assests/images/little-john.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
+
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -897,7 +907,11 @@ xxx
 
 > **Sugerencia de interpretación:** xxx
 
+\saltopagina
+
 ## Scarlet, famose grafitere
+
+[![Retrato de Scarlet](./assests/images/scarlet.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 
@@ -914,6 +928,8 @@ xxx
 
 ## Guy de Gisbourne
 
+[![Retrato de Guy de Gisbourne](./assests/images/guy-gisbourne.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
+
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -925,7 +941,11 @@ xxx
 
 > **Sugerencia de interpretación:** xxx
 
-## Much, el hije del molinere
+\saltopagina
+
+## Much, hije del molinere
+
+[![Retrato de Much](./assests/images/much.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 
@@ -941,6 +961,8 @@ xxx
 \saltopagina
 
 ## Helen Aim, cantante e influencer
+
+[![Retrato de Helen Aim](./assests/images/helen-aim.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 
