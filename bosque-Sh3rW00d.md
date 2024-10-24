@@ -179,10 +179,10 @@ xxx
 ## Leyes y justicia
 
 ```
-xxx
+La compañía tiene el control de la justicia y del sistema penal de Nottingham, pero tuvo que firmar ciertos contratos con garantías de que será justa e imparcial. 
 ```
 
-xxx
+La compañía tuvo que establecer una serie de leyes que regirían el funcionamiento de Nottingham cuando adquirio la concesión de construcción y explotación de esta arcología. xxx
 
 ### Los juicios
 
