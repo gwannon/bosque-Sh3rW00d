@@ -150,6 +150,11 @@ h1:hover > span {
 
 .saltopagina { display: none; }
 
+.saltopagina + .columns h2 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
 body > section:nth-of-type(odd) { background-color: var(--black-color); color: var(--yellow-color); }
 
 body > section:before {

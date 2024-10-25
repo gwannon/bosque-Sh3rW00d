@@ -100,8 +100,6 @@ El hecho de que la directora R1c4rd controle toda la economía de Nottingham ha 
 
 xxx
 
-\saltopagina
-
 ### Teletrabajo
 
 xxx
@@ -222,7 +220,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Bajos fondos y crimen organizado
+
+\concolumna
 
 ```
 xxx
@@ -232,9 +234,13 @@ xxx
 
 \saltopagina
 
-[![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
+\sincolumna
 
 ## Les instaladores
+
+[![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
+
+\concolumna
 
 ```
 Les instaladores son les constructores primigenies de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 80 años y no se sabe por qué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
@@ -247,8 +253,6 @@ xxx
 La tecnología de les instaladores se basa principalmente en los nanobots. Miles de microrobots conectados que construyen los diseños de les instaladores. No solo construyen nuevos pisos de la arcología, sino que también reparan, restauran y mantienen los pisos viejos.
 
 xxx
-
-\saltopagina
 
 ### Los nanitos después de la marcha de les instaladores
 
@@ -443,9 +447,13 @@ xxx
 
 # c1I3ern1a **Cibernia**
 
+\sincolumna
+
 xxx
 
 ## HUB de conexión
+
+\concolumna
 
 ```
 Todas las personas nacidas en una maternidad de la arcología, son implantados nada más nacer con un HUB de conexión que le permitirá conectarse a las redes informáticas de su alrededor. Por otro lado permite tener a todo la gente rastreada y controlada.
