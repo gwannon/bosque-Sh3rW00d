@@ -1,10 +1,14 @@
 # 4rc0l061a de Nottingham **La arcología de Nottingham**
 
+\sincolumna
+
 Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
 xxx
 
 ## El mundo actual
+
+\concolumna
 
 ```
 xxx
@@ -30,8 +34,6 @@ Las directoras son potentes IAs que controlan Nottingham y tratan de que todo se
 
 xxx
 
-\saltopagina
-
 #### Directora J0hn y sus sheriffs
 
 xxx
@@ -44,7 +46,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Orden social
+
+\concolumna
 
 ```
 Las gentes que viven en Nottingham son conocidos como notis. xxx
@@ -68,7 +74,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Comercio e industria
+
+\concolumna
 
 ```
 xxx
@@ -106,7 +116,11 @@ Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de inti
 
 \saltopagina
 
+\sincolumna
+
 ## Vida diaria
+
+\concolumna
 
 ```
 xxx
@@ -176,7 +190,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Leyes y justicia
+
+\concolumna
 
 ```
 La compañía tiene el control de la justicia y del sistema penal de Nottingham, pero tuvo que firmar ciertos contratos con garantías de que será justa e imparcial. 
@@ -254,9 +272,13 @@ xxx
 
 # Я36|45 **Reglas**
 
+\sincolumna
+
 xxx
 
 ## Creación de personajes
+
+\concolumna
 
 ```
 xxx
@@ -280,7 +302,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Nuevas habilidades
+
+\concolumna
 
 ```
 xxx
@@ -298,7 +324,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Nuevas ventajas
+
+\concolumna
 
 ```
 xxx
@@ -322,7 +352,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Nuevas desventajas
+
+\concolumna
 
 ```
 xxx
@@ -346,7 +380,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Equipo
+
+\concolumna
 
 ```
 xxx
@@ -362,11 +400,16 @@ xxx
 
 xxx
 
+
+\sincolumna
+
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
 |Rollers|xxx|x|xxx|xxx|xxx|
 |Skate|xxx|x|xxx|xxx|xxx|
 |E-bike|xxx|x|xxx|xxx|xxx|
+
+\concolumna
 
 xxx
 
@@ -417,7 +460,11 @@ El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, r
 
 \saltopagina
 
+\sincolumna
+
 ## Ciberimplantes
+
+\concolumna
 
 ```
 Los ciberimplantes (CI) son elementos cibernéticos que sustituyen o mejoran partes del cuerpo. Pueden hacerte más fuerte, más rápido, más listo, ver en la oscuridad, respirar bajo el agua, etc.
@@ -448,13 +495,15 @@ Estas mejoras permiten aumentar un nivel el dado del atributo.
 *   Puedes gastar varios avances en mejorar el mismo atributo sin límite, pero a partir d12 los implantes no son camuflables (ver "CI camuflables").
 *   Si alguno de tus implantes no es camuflable todos los del mismo atributo se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
 
-\saltopagina
 
 #### CI que mejoran habilidades
 
 Estas mejoras permiten aumentar un nivel el dado de la habilidad.
 
 *   El dado de habilidad aumenta un nivel independiente del nivel de su atributo.
+
+\saltopagina
+
 *   Puedes gastar avances en CI para conseguir subir una habilidad por encima de d12, pero a partir d12 los implantes no son camuflables.
 *   Si alguno de tus implantes no es camuflable todos los de la misma habilidad se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
 
@@ -474,8 +523,6 @@ Los rasgos de bestia acumulables como Armadura no son camuflables a partir de la
 
 Por cada rango puedes quitarte un implante y recuperar los puntos de CI que gastaste en su momento, pero perderás el avance que invertiste.
 
-\saltopagina
-
 ### CI camuflables
 
 Los implantes en condiciones normales son visibles. Se ven partes metálicas y cromadas, cables, leds, etc. pero por un punto extra se pueden hacer camuflables. De esa forma no son detectables a simple vista. Hay que tener en cuenta que tener garras es camuflable hasta el momento en que se sacan y se empieza a desgarrar gargantas. En ese momento por muy camuflables que sean la gente podrá verlas.
@@ -488,9 +535,13 @@ Los implantes se compran con avances y son como las ventajas o las habilidades, 
 
 Los implantes pueden ser considerados legales o ilegales. Los legales puedes llevarlos por la calle sin ser perseguido por la autoridad, los ilegales deberás llevarlos ocultos o tener algún tipo de licencia que te permita llevarlos.
 
+\saltopagina
+
 En muchas ambientaciones los implantes de Armadura serían ilegales, pero une policíe podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
 
 Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo post-apocalíptico realmente no importaría si son legales o no.
+
+\sincolumna
 
 ## Listas de CI que mejoran atributos
 
@@ -499,7 +550,11 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Mejora FUE|1|Sí|Reemplazos musculares, Inyector de adrenalina|
 |Mejora VIG|1|Sí|Placas dermales|
 
+\concolumna
+
 \saltopagina
+
+\sincolumna
 
 ## Listas de CI que mejoran habilidades
 
@@ -526,7 +581,11 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Supervivencia|1|Sí|Estación meteorológica|
 |Tácticas|1|Sí|IA de tácticas|
 
+\concolumna
+
 \saltopagina
+
+\sincolumna
 
 ## Listas de CI que permiten ventajas
 
@@ -550,7 +609,11 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Temple mejorado|4|Sí|Ciberreflejos mejorados|
 |Rápide|2|Sí|Bomba cardíaca|
 
+\concolumna
+
 \saltopagina
+
+\sincolumna
 
 ## Listas de CI que otorgan rasgos de bestia
 
@@ -571,10 +634,16 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 ² Cada tipo de arma natural tiene sus propias reglas (Manual básico pág. 142). Las armas naturales tienen un daño de FUE+d4, pero se puede acumular el daño haciéndolas FUE+d6, FUE+d8, etc.
 
+\concolumna
+
 \saltopagina
+
+\sincolumna
 
 ## IAs
 
+\concolumna
+
 ```
 xxx
 ```
@@ -582,9 +651,13 @@ xxx
 xxx
 
 \saltopagina
+
+\sincolumna
 
 ## Nanotecnología
 
+\concolumna
+
 ```
 xxx
 ```
@@ -592,9 +665,13 @@ xxx
 xxx
 
 \saltopagina
+
+\sincolumna
 
 ## Realidad aumentada
 
+\concolumna
+
 ```
 xxx
 ```
@@ -603,7 +680,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Mensajería
+
+\concolumna
 
 ```
 En un mundo hipertecnificado, la forma más fácil de que no te hackeen información es que esta sea física. Los planos de un nuevo ingenio es mejor tenerlos en papel y que los lleve une mensajere en bici que mandarlos por mensajes digitales.
@@ -639,7 +720,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Robots
+
+\concolumna
 
 ```
 Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y lanzarte.  
@@ -670,9 +755,6 @@ xxx
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-
-\saltopagina
-
 * **Capacidades especiales:**
     * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
     * **Impávido:** Es inmune al miedo e Intimidar.
@@ -694,6 +776,8 @@ xxx
     * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** xxx
 
+\saltopagina
+
 ### Comadrejas
 
 xxx
@@ -711,7 +795,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Gentes de Nottingham
+
+\concolumna
 
 ```
 xxx
@@ -744,8 +832,6 @@ Los oscuros callejones de Nottingham están llenas de este tipo de personajes. T
 
 Estamos hablando de o chupatintas que están detrás de un mostrador gestionando algún tipo de asunto para la empresa, desde permisos de obra a cobro de multas e impuestos.
 
-\saltopagina
-
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
@@ -761,7 +847,7 @@ xxx
 
 ## Aventuras en Bosque Sh3rW00d
 
-> Esta campaña consta **3 partes bien diferenciadas**. En una primera fase tu banda de parias realizarán **pequeñas misiones de robo y rescate** que les granjearán fama y el aprecio de sus conciudadanes. 
+> Esta campaña consta **3 partes bien diferenciadas**. En una primera fase tu banda de parias realizarán **pequeñas misiones de robo, rescate y sabotaje** que les granjearán fama y el aprecio de sus conciudadanes. 
 > En una segunda parte comenzarán **la mítica búsqueda de la contraseña de SU**, que les llevará a lugares de la arcología de Nottingham a donde nunca habían llegado. Con la contraseña de SU podrán rescatar a la vieja y querida IA directora R1c4rd.
 > En la última fase, con la ayuda de sus aliades y la misteriosa contraseña de SU, deberán **derrocar a la IA directora J0hn** y devolverle el control a R1c4rd.
 

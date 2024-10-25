@@ -67,8 +67,9 @@ body:after {
   opacity: 0;
 }
 
-a { color: var(--black-color); }
-body > section:nth-of-type(odd) a, body > section:nth-of-type(odd) a:link, body > section:nth-of-type(odd) a:visited {color: var(--yellow-color); }
+a { color: inherit; }
+/*a { color: var(--black-color); }
+body > section:nth-of-type(odd) a, body > section:nth-of-type(odd) a:link, body > section:nth-of-type(odd) a:visited {color: var(--yellow-color); }*/
 
 body > section {
   margin: auto;
@@ -96,6 +97,10 @@ section > ol,
 section > ul {
   counter-reset: li;
   margin-left: calc((var(--padding) * 0.4) + 1.2rem + 10px);
+}
+
+ul {
+  padding-left: 22px;
 }
 
 @media (min-width: calc(100vh * 0.7)) {
@@ -604,9 +609,9 @@ section:nth-child(odd) blockquote > p {
   position: relative;
 }
 
-section > blockquote > p > a {
+/*section > blockquote > p > a {
   color: var(--yellow-color);
-}
+}*/
 
 body > section:nth-child(odd) > blockquote > p > a,
 body > section:nth-child(odd) > blockquote > p > a:visited {
@@ -797,10 +802,10 @@ a.download:hover:before {
   animation-timing-function: linear;
 }
 
-p:has(a img[alt^=Retrato]) {
+/*p:has(a img[alt^=Retrato]) {
   float: left;
   width: 50%;
-}
+}*/
 
 blockquote {
   clear: both;
@@ -974,6 +979,10 @@ h1 > strong {
   section:first-of-type > div:nth-of-type(3) {
     padding-bottom: 90px;
   }
+}
+
+.columns {
+  columns: 2;
 }
 
 
