@@ -182,7 +182,7 @@ xxx
 La compañía tiene el control de la justicia y del sistema penal de Nottingham, pero tuvo que firmar ciertos contratos con garantías de que será justa e imparcial. 
 ```
 
-La compañía tuvo que establecer una serie de leyes que regirían el funcionamiento de Nottingham cuando adquirio la concesión de construcción y explotación de esta arcología. xxx
+La compañía tuvo que establecer una serie de leyes que regirían el funcionamiento de Nottingham cuando adquirió la concesión de construcción y explotación de esta arcología. xxx
 
 ### Los juicios
 
@@ -759,6 +759,14 @@ Estamos hablando de o chupatintas que están detrás de un mostrador gestionando
 
 xxx
 
+## Aventuras en Bosque Sh3rW00d
+
+> Esta campaña consta **3 partes bien diferenciadas**. En una primera fase tu banda de parias realizarán **pequeñas misiones de robo y rescate** que les granjearán fama y el aprecio de sus conciudadanes. 
+> En una segunda parte comenzarán **la mítica búsqueda de la contraseña de SU**, que les llevará a lugares de la arcología de Nottingham a donde nunca habían llegado. Con la contraseña de SU podrán rescatar a la vieja y querida IA directora R1c4rd.
+> En la última fase, con la ayuda de sus aliades y la misteriosa contraseña de SU, deberán **derrocar a la IA directora J0hn** y devolverle el control a R1c4rd.
+
+xxx
+
 ## Otros relatos salvajes
 
 ```
@@ -776,6 +784,8 @@ xxx
 La directora J0hn ha pedido a un grupo de influencers que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
 
 xxx
+
+\saltopagina
 
 #### Nowhere fast
 
@@ -978,7 +988,7 @@ xxx
 
 \saltopagina
 
-## Much, hije del molinere
+## Much, hijo del molinero
 
 [![Retrato de Much](./assests/images/much.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
