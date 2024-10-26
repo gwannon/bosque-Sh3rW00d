@@ -30,7 +30,7 @@ xxx
 
 ### Las directoras
 
-Las directoras son potentes IAs que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. xxx
+Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. xxx
 
 xxx
 
@@ -59,9 +59,11 @@ Las gentes que viven en Nottingham son conocidos como notis. xxx
 xxx
 
 ### Blus (Nobleza)
+
 xxx
 
 ### Influencers (Iglesia)
+
 xxx
 
 ### Curris (Plebe)
@@ -225,11 +227,11 @@ La compañía tuvo que establecer una serie de leyes que regirían el funcionami
 
 Las directoras tienen el privilegio de juzgar a todos los habitantes de Nottingham y su decisión no es recurrible. Pero eso genera mucho consumo de ciclos y solo juzgan casos importantes. El resto de crímenes son juzgadas por "las 3 sabIAs".
 
-Las 3 sabIAs son 3 IAs de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por el defensor, otra por el acusador y una tercera al azar entre todas las IAs de Nottingham.
+Las 3 sabIAs son 3 IA de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por el defensor, otra por el acusador y una tercera al azar entre todas las IA de Nottingham.
 
-Las IAs escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso, ya que una de las IAs es del defensor y otra del acusador y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo y como no tienen sesgos humanos suelen llegar a veredictos bastante justos y equitativos. Es por ello que les mejores abogades van detectando las IAs que más posibilidades tienen de llevarse al resto a su campo.
+Las IA escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso, ya que una de las IA es del defensor y otra del acusador y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo y como no tienen sesgos humanos suelen llegar a veredictos bastante justos y equitativos. Es por ello que les mejores abogades van detectando las IA que más posibilidades tienen de llevarse al resto a su campo.
 
-Durante el juicio que dura entre 12 y 24 horas las IAs solo pueden trabajar en el juicio. No es la primera vez que los ascensores de una sección dejan de funcionar porque su IA tiene un juicio.
+Durante el juicio que dura entre 12 y 24 horas las IA solo pueden trabajar en el juicio. No es la primera vez que los ascensores de una sección dejan de funcionar porque su IA tiene un juicio.
 
 ### Penas
 
@@ -401,7 +403,7 @@ xxx
 
 ### Ciberparanoia
 
-Tienes la insana convicción de que las IAs te vigilan y te siguen. xxx
+Tienes la insana convicción de que las IA te vigilan y te siguen. xxx
 
 xxx
 
@@ -700,7 +702,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 \sincolumna
 
-## IAs
+## IA
 
 \concolumna
 
@@ -876,7 +878,7 @@ xxx
 Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier tipo, comediantes, ...
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Electronica d4, Humanidades d6, Idioma Inglés d8, Interpretación d8, Notar d6, Ordenadores d4, Persuadir d6, Sigilo d4, Sigilo d4
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Electrónica d4, Humanidades d6, Idioma Inglés d8, Interpretación d8, Notar d6, Ordenadores d4, Persuadir d6, Sigilo d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Desventajas:** Elegir 1: Hábito (menor alcohol, marihuana, etc.), Curioso, Cojo, Patoso
 * **Ventajas:** Elegir 1: Carismático, Famoso, Atractivo
@@ -1308,7 +1310,9 @@ xxx
 
 \concolumna
 
-* **bosks:** habitantes del bosque.
+* **blus:** xxx
+* **boskis:** habitantes del bosque.
+* **curris:** xxx
 * **glitch de la mañana:** amanecer
 * **glitch de la noche:** anochecer
 * **notis:** ciudadanes que viven en la arcología Nottingham.
