@@ -112,6 +112,22 @@ En el ciberpunk clásico era muy común las escenas de alienantes oficinas en la
 
 Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
+### Publicidad y cartelería
+
+A diferencia de otras ambientaciones ciberpunk, en Bosque SH3rw00d no existe casi publicidad. No hay grandes pantallas mostrando anuncios 24 horas y neones parpadeantes en las entradas de los locales.
+
+\saltopagina
+
+Para empezar la compañía vende casi el 90% de los bienes de consumo y no tiene competencia, por lo que la directora R1c4rd, decidió quitar ese gasto e invertirlo en guarderías gratuitas.
+
+Por otro lado no hay grandes espacios abiertos con miles de personas de paso donde colocar esas macro pantallas publicitarias.
+
+De hecho, solo existe una pantalla gigante en la plaza mayor donde se publican los edictos de la compañía y donde la directora Jh0n hace sus apariciones públicas.
+
+Los pequeños negocios, funcionan con el boca a boca y se suelen identificar con complejos emojis hechos con algas bioluminescences en sus entradas.
+
+Es normal ver soportes publicitarios humanos o robots portando carteles digitales por las inmediaciones del local del anunciante. Esto es debido a que la directora Jh0n prohibió el uso de las paredes y otros elementos de la arcología como soporte artístico y publicitario en su lucha contra les grafiteres que ponían consignas contra ella y la compañía.
+
 \saltopagina
 
 \sincolumna
@@ -148,11 +164,14 @@ xxx
 
 xxx
 
-\saltopagina
-
 ### Religiones y sectas
 
 xxx
+
+### Fiestas. celebraciones y otros eventos
+
+xxx
+
 
 ### Deporte
 
@@ -162,7 +181,11 @@ xxx
 
 El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hielo pero sin patines y una pelota de goma en vez de un puck. Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos. Gana el equipo que más goles meta o el que consigue marcar en 3 rondas seguidas sin que su oponente le marque (llamado en el argot deportivo "baño").
 
-Uno de los elementos más interesantes del hockey de pasillo es el campo de juego. Según el reglamento oficial puede ser cualquier pasillo de la arcología que tenga un mínimo de 40 m² usando dos puertas del pasillo como porterías. Las puertas que no tienen que ser del mismo tamaño ni tener unos mínimos o máximos, así que es importante ganar el sorteo inicial para elegir la portería más ventajosa. Aunque se cambie cada ronda, al ser 5 estarías 3 en la buena y 2 en la mala.
+Uno de los elementos más interesantes del hockey de pasillo es el campo de juego. Según el reglamento oficial puede ser cualquier pasillo de la arcología que tenga un mínimo de 40 m² usando dos puertas del pasillo como porterías. 
+
+\saltopagina
+
+Las puertas que no tienen que ser del mismo tamaño ni tener unos mínimos o máximos, así que es importante ganar el sorteo inicial para elegir la portería más ventajosa. Aunque se cambie cada ronda, al ser 5 estarías 3 en la buena y 2 en la mala.
 
 En los partidos oficiales de liga se elige al azar el campo de entre todos los corredores, galerías, pasillos y pasajes que cumplan las indicaciones. 5 minutos antes de empezar se desaloja el pasillo y entran les jugadores a calentar.
 
@@ -175,8 +198,6 @@ El juego es más de habilidad para moverse entre espacios pequeños, de saber mo
 Reglamento:
 
 * xxx
-
-\saltopagina
 
 Equipos:
 
@@ -290,17 +311,25 @@ xxx
 
 xxx
 
-**Hijes de la tecnología:** Vives rodeado de tecnología las 24 horas del día. Quieras o no, sabes usar todo tipo de aparatos eléctricos y ordenadores.Todes les personajes **empiezan con Electrónica d4 y Ordenadores d4**.
+### Hijes de la tecnología
 
-**La ciencia mató la magia:** A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar. También desaparecen las habilidades como Hechicería, Ciencia Extraña, Fe, etc. y las ventajas de poder que tienen un carácter mágico.
+Vives rodeado de tecnología las 24 horas del día. Quieras o no, sabes usar todo tipo de aparatos eléctricos y ordenadores.
 
-**Espacios cerrados:** Se recomienda no ponerse ventajas de francotirador y pistolero, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son mucho menos útiles.
+> Todes les personajes **empiezan con Electrónica d4 y Ordenadores d4**.
+
+### La ciencia mató la magia
+
+A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar. También desaparecen las habilidades como Hechicería, Ciencia Extraña, Fe, etc. y las ventajas de poder que tienen un carácter mágico.
+
+### Espacios cerrados
+
+Se recomienda no ponerse ventajas de francotirador y pistolero, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son mucho menos útiles.
 
 ### Secretos
 
-xxx
+Los secretos es algo muy común entre los personajes de las historias de Robin Hood. Robin es un noble, Scarlet es un hermanastro de Robin o Marian se disfraza de hombre para ayudar a los pobres. He querido trasmitir esa esencia con esta regla de creación de personajes. 
 
-Tode personaje debe tener un secreto (mayor???) xxx.
+> Tode personaje debe **tener un Secreto (mayor o menor)** entre sus desventajas.
 
 xxx
 
@@ -344,7 +373,9 @@ xxx
 
 **Requisitos:** Novate
 
-Tienes grandes cantidades de dinero en forma de alijos pueden ser objetos de valor, cupones de trueques, etc. y lo más importante es dinero que no está controlado por la empresa.
+Mientras que la ventaja Rique/Extremadamente Rique te ofrecen riquezas, tienen el problema de que están controladas por la compañía. Son rastreables y no se pueden usar en los bajos fondos y en situaciones ilegales.
+
+Alijos te ofrece esa riqueza al otro lado de la ley. Tienes grandes cantidades de dinero en forma de alijos pueden ser objetos de valor, cupones de trueques, etc. Lo más importante es que es dinero que no está controlado por la empresa y se puede usar en actividades que no controla la compañía y/o de carácter ilegal.
 
 xxx
 
@@ -394,6 +425,16 @@ xxx
 xxx
 ```
 
+### Armas
+
+xxx
+
+#### Tirachinas
+
+xxx
+
+#### Armaduras
+
 xxx
 
 ### Transporte y comunicación
@@ -403,7 +444,6 @@ xxx
 #### Monturas: Rollers, skates y e-bikes
 
 xxx
-
 
 \sincolumna
 
@@ -419,7 +459,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Hackeos de les instaladores
+
+\concolumna
 
 ```
 Les instaladores tenían pequeños hackeos que usaban en su día a día que les permitían usar los elementos de la arcología y el equipo de formas para los que no estaban preparados, como acelerar la velocidad de los montacargas o hacer que las puertas de los ascensores se abrieran solas sin que hubiera ascensor.
@@ -435,7 +479,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Cómo jugar al hockey de pasillo
+
+\concolumna
 
 ```
 xxx
@@ -706,7 +754,11 @@ xxx
 
 xxx
 
+\sincolumna
+
 ## Secuaces
+
+\concolumna
 
 ```
 xxx
@@ -851,7 +903,7 @@ Estamos hablando de o chupatintas que están detrás de un mostrador gestionando
 
 # 4ven7ur4s **Aventuras**
 
-xxx
+\sincolumna
 
 ## Aventuras en Bosque Sh3rW00d
 
@@ -859,9 +911,17 @@ xxx
 > En una segunda parte comenzarán **la mítica búsqueda de la contraseña de SU**, que les llevará a lugares de la arcología de Nottingham a donde nunca habían llegado. Con la contraseña de SU podrán rescatar a la vieja y querida IA directora R1c4rd.
 > En la última fase, con la ayuda de sus aliades y la misteriosa contraseña de SU, deberán **derrocar a la IA directora J0hn** y devolverle el control a R1c4rd.
 
+\concolumna
+
 xxx
 
+\saltopagina
+
+\sincolumna
+
 ## Otros relatos salvajes
+
+\concolumna
 
 ```
 xxx
@@ -879,11 +939,23 @@ La directora J0hn ha pedido a un grupo de influencers que hagan unos reels (víd
 
 xxx
 
-\saltopagina
-
 #### Nowhere fast
 
 La cantante e influencer Helen Aim ha sido secuestrada en pleno directo y los sheriffs no consiguen dar con ella. Su rastro se pierde en el bosque, así que alguien deberá buscarla, encontrarla y rescatarla.
+
+xxx
+
+\saltopagina
+
+\sincolumna
+
+## Semillas de aventuras
+
+\concolumna
+
+```
+xxx
+```
 
 xxx
 
@@ -891,9 +963,18 @@ xxx
 
 # I)irectori0 de Nottingham **Directorio de Nottingham**
 
-xxx
+
+\sincolumna
+
+La arcología de Nottingham están llenas de lugares interesantes donde tu banda pueden correr grandes aventuras. 
+
+La mayoría de las veces serán lugares normales donde ambientar tus aventuras, pero algunas veces son sitios increíbles llenos de tesoros y recompensas, y también trampas mortales de las que solo les más avispades y valientes pueden escapar.
+
+La arcología se divide en 4 zonas, xxx
 
 ## Zona baja
+
+\concolumna
 
 ```
 xxx
@@ -911,7 +992,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Zona media
+
+\concolumna
 
 ```
 xxx
@@ -933,7 +1018,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Zona alta
+
+\concolumna
 
 ```
 xxx
@@ -949,7 +1038,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## El bosque
+
+\concolumna
 
 ```
 xxx
@@ -963,7 +1056,11 @@ El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayor�
 
 \saltopagina
 
+\sincolumna
+
 ## Transporte público
+
+\concolumna
 
 ```
 xxx
@@ -973,7 +1070,11 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Creación de espacios para tus aventuras
+
+\concolumna
 
 ```
 xxx
@@ -989,15 +1090,37 @@ xxx
 
 xxx
 
+\saltopagina
+
+\sincolumna
+
+## Moverse entre zonas
+
+\concolumna
+
+```
+xxx
+```
+
+xxx
+
 ***
 
 # |oers0nas **Personas**
 
-xxx
+\sincolumna
+
+En este capítulo vamos a ver todos les personajes principales que pueblan la arcología de Nottingham. Tienes tanto aliades como villanes.
+
+Recuerda que tode PJ con este símbolo &#35; en su nombre son considerades comodines, con todo lo que ello conlleva.
+
+Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura, no la mia.
 
 > Todos los retratos de personajes son de [VÍCTOR JIMÉNEZ MERINO](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) que permite usarlo con [Licencia Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
 
-## Lady Marian
+## Lady Marian, lideresa del bosque &#35;
+
+\concolumna
 
 [![Retrato de Lady Marian](./assests/images/lady-marian.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
@@ -1014,7 +1137,11 @@ xxx
 
 \saltopagina
 
-## Fraile Tuck
+\sincolumna
+
+## Fraile Tuck &#35;
+
+\concolumna
 
 [![Retrato de Fraile Tuck](./assests/images/tuck.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
@@ -1031,7 +1158,11 @@ xxx
 
 \saltopagina
 
-## Little John
+\sincolumna
+
+## Little John &#35;
+
+\concolumna
 
 [![Retrato de Little John](./assests/images/little-john.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
@@ -1048,7 +1179,11 @@ xxx
 
 \saltopagina
 
-## Scarlet, famose grafitere
+\sincolumna
+
+## Scarlet, famose grafitere &#35;
+
+\concolumna
 
 [![Retrato de Scarlet](./assests/images/scarlet.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
@@ -1065,7 +1200,11 @@ xxx
 
 \saltopagina
 
-## Guy de Gisbourne
+\sincolumna
+
+## Guy de Gisbourne &#35;
+
+\concolumna
 
 [![Retrato de Guy de Gisbourne](./assests/images/guy-gisbourne.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
@@ -1082,7 +1221,11 @@ xxx
 
 \saltopagina
 
-## Much, hijo del molinero
+\sincolumna
+
+## Much, hijo del molinero &#35;
+
+\concolumna
 
 [![Retrato de Much](./assests/images/much.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
@@ -1099,7 +1242,11 @@ xxx
 
 \saltopagina
 
-## Helen Aim, cantante e influencer
+\sincolumna
+
+## Helen Aim, cantante e influencer &#35;
+
+\concolumna
 
 [![Retrato de Helen Aim](./assests/images/helen-aim.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
@@ -1118,16 +1265,22 @@ xxx
 
 # 3|oíl0go **Epílogo**
 
+\sincolumna
+
 Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, ideas y consejos sobre esta ambientación que os podrán ser de ayuda.
 
-## Relaciones sexo-afectivas
+## Notas del autor
+
+\concolumna
+
+### Relaciones sexo-afectivas
 
 Las vidas sentimentales y sexuales de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí. Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
 
-## Participar en el proyecto
+### Participar en el proyecto
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
 
-## Define los velos y herramientas de seguridad
+### Define los velos y herramientas de seguridad
 > Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
 > **Por:** [FaustoRolero](https://twitter.com/FaustoRolero)
@@ -1137,28 +1290,44 @@ Aquí tienes algunas herramientas de seguridad que puedes usar:
 * [DEVIR](https://devir.es/herramientas-seguridad-rol)
 * [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
-\saltopagina
-
-## Lenguaje inclusivo
+### Lenguaje inclusivo
 
 xxx
+
+\saltopagina
+
+\sincolumna
 
 ## Glosario de términos
 
 xxx
+
+\concolumna
 
 * **bosks:** habitantes del bosque.
 * **glitch de la mañana:** amanecer
 * **glitch de la noche:** anochecer
 * **notis:** ciudadanes que viven en la arcología Nottingham.
 
+\saltopagina
+
+\sincolumna
+
 ## Suplementos que puedes usar
 
+\concolumna
+
 xxx
+
+\saltopagina
+
+\sincolumna
 
 ## Atribuciones
 
 Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros que hay en este documento.
+
+\concolumna
 
 ### Imágenes
 
@@ -1170,9 +1339,17 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 \saltopagina
 
+\sincolumna
+
 ## Otros proyectos que te pueden interesar
 
 Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño. Recordad que para poder jugarlas necesitaréis el Manual Básico de Savage Worlds Edición Aventura.
+
+[![OPERACIÓN: Tras el mundo perdido](./assests/images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
+
+**[OPERACIÓN: Tras el mundo perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)**
+
+\concolumna
 
 [![¡Arrr! Cthulhu](./assests/images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
 
@@ -1185,6 +1362,8 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 ***
 
 \saltopagina
+
+\sincolumna
 
 #### Bosque Sh3rW00d
 
@@ -1199,3 +1378,5 @@ Este libro contiene:
 3. X aventuras largas en formato Plot Points para disfrutar plenamente de esta ambientación más X aventuras cortas de 1 o 2 sesiones.
 
 Para jugar esta ambientación solo necesitas el Manual Básico de Savage Worlds Edición Aventura.
+
+\concolumna

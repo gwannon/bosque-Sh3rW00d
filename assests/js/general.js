@@ -1,17 +1,18 @@
 $(document).ready(function () {
-  var counter = 0;
-  let step = 62;
-  var currentDiv = 1;
+
+  var currentPageNumber = 1;
+  $(".saltopagina").each(function () {
+    currentPageNumber++
+    $(this).attr('id', 'anchor' + currentPageNumber);
+  });
 
   $("body>section h1, body>section h2")
   .not(".noindex, section:last-of-type *")
   .each(function () {
     var label;
-    counter++;    
-    $(this).attr('id', 'anchor' + counter);
     var pageNumber = 0;
     if($(this).prop("tagName") == 'H1') {
-      label = $(this).children("strong").text(); /*label = this.innerHTML;*/
+      label = $(this).children("strong").text();
     } else label = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
 
     $.each(indice, function(i, item) {
@@ -20,10 +21,32 @@ $(document).ready(function () {
         indice[i].title = "";
       }
     });
-
   
-    $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#anchor' + counter + '" class="like' + $(this).prop("tagName") + '"><span>'+pageNumber+'</span>' + label + '</a>');
-    currentDiv = Math.floor(counter / step) + 1;
+    $("body>section:nth-of-type(3) div").append('<a href="#anchor' + pageNumber + '" class="like' + $(this).prop("tagName") + '"><span>'+pageNumber+'</span>' + label + '</a>');
+  });
+
+  $("body>section:nth-of-type(3) div a").on('click', function (e) {
+    e.preventDefault();
+    console.log($(this).attr('href'));
+    link = $(this).attr('href').substring(1);
+    console.log('*[id="'+link+'"]');
+
+    $('html, body').animate({
+      scrollTop: $('*[id="'+link+'"]').offset().top
+    }, 500);
+
+    /*$(".saltopagina").each(function () {
+
+      if('#'+$(this).attr('id') == link) {
+        console.log('#'+$(this).attr('id')+"  "+$(this).offset().top);
+
+        $('html, body').animate({
+          scrollTop: $(this).offset().top
+        }, 500);
+
+      }
+
+    });*/
   });
 
   //WordCount
