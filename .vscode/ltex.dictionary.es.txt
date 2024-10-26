@@ -81,3 +81,5 @@ x
 Tuck
 Marian
 Scarlet
+concolumna
+sincolumna

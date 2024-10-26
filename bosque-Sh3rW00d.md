@@ -24,7 +24,7 @@ xxx
 
 ### El bosque de Sh3rW00d
 
-El bosque, cuyo primer sector tiene el código Sh3rw00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal.
+El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal.
 
 xxx
 
@@ -114,7 +114,7 @@ Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de inti
 
 ### Publicidad y cartelería
 
-A diferencia de otras ambientaciones ciberpunk, en Bosque SH3rw00d no existe casi publicidad. No hay grandes pantallas mostrando anuncios 24 horas y neones parpadeantes en las entradas de los locales.
+A diferencia de otras ambientaciones ciberpunk, en Bosque Sh3rW00d no existe casi publicidad. No hay grandes pantallas mostrando anuncios 24 horas y neones parpadeantes en las entradas de los locales.
 
 \saltopagina
 
@@ -122,11 +122,11 @@ Para empezar la compañía vende casi el 90% de los bienes de consumo y no tiene
 
 Por otro lado no hay grandes espacios abiertos con miles de personas de paso donde colocar esas macro pantallas publicitarias.
 
-De hecho, solo existe una pantalla gigante en la plaza mayor donde se publican los edictos de la compañía y donde la directora Jh0n hace sus apariciones públicas.
+De hecho, solo existe una pantalla gigante en la plaza mayor donde se publican los edictos de la compañía y donde la directora J0hn hace sus apariciones públicas.
 
-Los pequeños negocios, funcionan con el boca a boca y se suelen identificar con complejos emojis hechos con algas bioluminescences en sus entradas.
+Los pequeños negocios funcionan con el boca a boca y se suelen identificar con complejos emojis hechos con algas bioluminescences en sus entradas.
 
-Es normal ver soportes publicitarios humanos o robots portando carteles digitales por las inmediaciones del local del anunciante. Esto es debido a que la directora Jh0n prohibió el uso de las paredes y otros elementos de la arcología como soporte artístico y publicitario en su lucha contra les grafiteres que ponían consignas contra ella y la compañía.
+Es normal ver soportes publicitarios humanos o robots portando carteles digitales por las inmediaciones del local del anunciante. Esto es debido a que la directora J0hn prohibió el uso de las paredes y otros elementos de la arcología como soporte artístico y publicitario en su lucha contra les grafiteres que ponían consignas contra ella y la compañía.
 
 \saltopagina
 
@@ -433,6 +433,10 @@ xxx
 
 xxx
 
+##### Proyectiles para tirachinas
+
+xxx
+
 #### Armaduras
 
 xxx
@@ -599,7 +603,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 \sincolumna
 
-## Listas de CI que mejoran atributos
+### Listas de CI que mejoran atributos
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
@@ -612,7 +616,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 \sincolumna
 
-## Listas de CI que mejoran habilidades
+### Listas de CI que mejoran habilidades
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
@@ -643,7 +647,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 \sincolumna
 
-## Listas de CI que permiten ventajas
+### Listas de CI que permiten ventajas
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
@@ -671,7 +675,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 \sincolumna
 
-## Listas de CI que otorgan rasgos de bestia
+### Listas de CI que otorgan rasgos de bestia
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|

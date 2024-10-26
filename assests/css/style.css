@@ -150,10 +150,7 @@ h1:hover > span {
 
 .saltopagina { display: none; }
 
-.saltopagina + .columns *:first-child {
-  margin-top: 0;
-  padding-top: 0;
-}
+
 
 body > section:nth-of-type(odd) { background-color: var(--black-color); color: var(--yellow-color); }
 
@@ -987,15 +984,19 @@ h1 > strong {
   }
 }
 
-.columns {
-  columns: 2;
-}
-
-
 /* Indice */
 
-
 @media print {
+
+  .columns {
+    columns: 2;
+  }
+  
+  .saltopagina + .columns *:first-child {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
   body>section:nth-of-type(3) {
     padding: 0 var(--margin) ;
   }
