@@ -74,6 +74,8 @@ xxx
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -283,6 +285,8 @@ Cuando les instaladores se fueron por orden de la compañía, se llevaron los na
 
 xxx
 
+\saltopagina
+
 ### La búsqueda de la contraseña de SU
 
 Les buscadores de la contraseña de SU, abreviando les buscadores, son un grupo de personas que creen que les instaladores dejaron en alguna parte un password de "superuser" que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
@@ -301,17 +305,15 @@ xxx
 
 \sincolumna
 
-xxx
-
 ## Creación de personajes
 
 \concolumna
 
 ```
-xxx
+En Bosque Sh3rW00d hay una serie de reglas que modifican las reglas generales de creación de PJ que se establecen en el libro básico de savage Worlds Ed. Aventura.
 ```
 
-xxx
+Recuerda que todos les PJ son de raza humana con lo que tienes una ventaja adicional a la hora de crearlo.
 
 ### Hijes de la tecnología
 
@@ -319,21 +321,28 @@ Vives rodeado de tecnología las 24 horas del día. Quieras o no, sabes usar tod
 
 > Todes les personajes **empiezan con Electrónica d4 y Ordenadores d4**.
 
+
 ### La ciencia mató la magia
 
-A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar. También desaparecen las habilidades como Hechicería, Ciencia Extraña, Fe, etc. y las ventajas de poder que tienen un carácter mágico.
+A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar. 
+
+También desaparecen las habilidades como Hechicería, Ciencia Extraña, Fe, etc. y las ventajas de poder que tienen un carácter mágico.
+
+\saltocolumna
+
+### Secretos
+
+Los secretos es algo muy común entre les personajes de las historias de Robin Hood. Robin es un noble, Scarlet es un hermanastro de Robin o Marian se disfraza de hombre para ayudar a los pobres. He querido trasmitir esa esencia con esta regla de creación de personajes. 
+
+> Tode personaje debe **tener un Secreto (mayor o menor)** entre sus desventajas.
 
 ### Espacios cerrados
 
 Se recomienda no ponerse ventajas de francotirador y pistolero, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son mucho menos útiles.
 
-### Secretos
+Tampoco son útiles habilidades como Cabalgar, ya que no hay animales que montar, ní Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica.
 
-Los secretos es algo muy común entre los personajes de las historias de Robin Hood. Robin es un noble, Scarlet es un hermanastro de Robin o Marian se disfraza de hombre para ayudar a los pobres. He querido trasmitir esa esencia con esta regla de creación de personajes. 
-
-> Tode personaje debe **tener un Secreto (mayor o menor)** entre sus desventajas.
-
-xxx
+Por último, Supervivencia es sustituida por su versión urbana para la arcología, Pasillear.
 
 \saltopagina
 
@@ -344,16 +353,54 @@ xxx
 \concolumna
 
 ```
-Aquí tienes algunos conceptos sobre los que construir tu PJ.
+A la hora de crear tu PJ te presentamos xxx arquetipos que te ayuden a construirlo. es importante tener en cuenta que las aventuras de robin Hood siempre hablan de personajes parias y fuera de la ley y he seguido esa idea al diseñar estos arquetipos.
 ```
 
+También puedes crear los tuyos propios, pero recuerda que el espíritu del juego es que estén al otro lado de la ley o muy cerca.
+
+### Biker
+
+Estes mensajeres recorren todo el complejo de Nottingham llevando todo tipo de sobres, paquetes, etc. a todo tipo de personas. No hacen preguntas y sus bocas están selladas sobre qué, de quién y para quién han hecho un encargo.
+
 xxx
 
-### xxx
+* **Habilidades recomendadas:** Conducir (e-bike), Pasillear y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+### Grafitere
+
+Este arquetipo refleja todo tipo de personajes que llevan la confrontación contra la compañía a las calles, no solo en forma de grafitis. También con actos de vandalismo callejero, pequeños sabotajes y sentadas.
+
+Tu principal problema es que tus actos, sin una figura carismática que te dirija, muchas veces no son más que simples gamberradas.
+
+* **Habilidades recomendadas:** Pasillear, xxx y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+### Periodiste
+
+Dentro de este arquetipo se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.
+
+Tu medio siempre será _underground_, fuera de los canales oficiales que están pagados por la directora J0hn. Escribes en su blog, hablas en un podcast o lanzas a la red todo tipo de videos.
+
+Sabes que el escándalo y el morbo vende y es la única manera de que tu contenido se viralice. Por eso siempre rodeas a tus denuncias de una capa de periodismo amarillo.
+
+* **Habilidades recomendadas:** Investigar, Latrocinio y Notar
+* **Ventajas recomendadas:** Conexiones, Investigador/a y Electrónica
+* **Desventajas recomendadas:** Curioso, Impulsivo y Obsesión
+
+\saltopagina
+
+### Sindicade
+
+Este arquetipo reúne a todo tipo de trabajadores durante alienados que ha descubierto como la compañía oprime a los _notis_ y busca luchar contra esta injusta situación.
+
+Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la compañía y de la directora J0hn como su máxima representación.
 
 xxx
 
-* **Habilidades recomendadas:** xxx, xxx y xxx
+* **Habilidades recomendadas:** xxx, xxx y Reparar
 * **Ventajas recomendadas:** xxx, xxx y xxx
 * **Desventajas recomendadas:** xxx, xxx y xxx
 
@@ -419,6 +466,12 @@ xxx
 
 xxx
 
+### Pasillear (Astucia)
+
+Pasillear viene a sustituir a Supervivencia xxx
+
+xxx
+
 ### Idiomas
 
 xxx
@@ -426,6 +479,8 @@ xxx
 #### Leet
 
 xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -457,6 +512,8 @@ xxx
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -466,24 +523,34 @@ xxx
 \concolumna
 
 ```
-xxx
+Esta ambientación es un mundo muy especial que claramente va a tener sus desventajas propias. Estas desventajas reflejan esa extraña mezcla que representa Bosque Sh3rW00d.
 ```
 
-xxx
+Estas desventajas permiten darle un toque ciberpunk a tus personajes.
 
-### Ciberparanoia
+### Ciberalergia (mayor)
 
-Tienes la insana convicción de que las IA te vigilan y te siguen. xxx
+La capacidad de tu cuerpo aceptar ciberimplantes es mucho menor que el del resto de las personas.
 
-xxx
+> A todos **los costes de puntos de ciberimplantes debes sumarle 1 punto extra** por tu alergia. Si una persona normal gasta 2 puntos de ciberimplantes en ponerse un implante que le otorga Reflejos de combate, tu gastas 3 puntos. Lo bueno es que tu cuerpo combate la tecnología y tienes +1 a las tiradas de Vigor contra cosas como nanitos que se metan en tu organismo.
+
+### Ciberparanoia (mayor/menor)
+
+Tienes la insana convicción de que las IA te vigilan, te siguen y, lo peor de todo, crees que están contra ti. Siempre estás vigilando todo tipo de aparato y sistema electrónico a tu alrededor, esperando detectar algún elemento que delate que las IA te están escuchando y conspirando a tus espaldas.
+
+> Como **desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración** (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando haya elementos de vigilancia a tu alrededor que es casi siempre. Si se toma **como mayor, además, el -1 se aplicará a todas las tiradas de percepción (Notar e Investigar)**, ya que estarás más preocupado en que no te vigilen y espien las IA que en vigilar o buscar a tus objetivos. Por otro lado, conoces a tu enemigo asi que obtienes un bono (+1 menor, +2 mayor) a Electronica al tratar con sistemas electrónicos de vigilancia, rastreo y seguridad.   
 
 ### Fobia social
 
 xxx
 
+> xxx
+
 ### Nacide libre
 
 xxx
+
+> xxx
 
 \saltopagina
 
@@ -595,6 +662,7 @@ xxx
 ```
 Todas las personas nacidas en una maternidad de la arcología, son implantados nada más nacer con un HUB de conexión que le permitirá conectarse a las redes informáticas de su alrededor. Por otro lado permite tener a todo la gente rastreada y controlada.
 ```
+
 El HUB de conexión permite entre otras muchas cosas.
 
 * Conectarse en realidad aumentada a la red de la arcología.
@@ -602,6 +670,10 @@ El HUB de conexión permite entre otras muchas cosas.
 * xxx
 
 El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo les hijes de boskis pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
+
+xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -795,6 +867,8 @@ xxx
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -809,11 +883,13 @@ xxx
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
 
-## Realidad aumentada
+## Realidad aumentada y virtual
 
 \concolumna
 
@@ -822,6 +898,8 @@ xxx
 ```
 
 xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -836,6 +914,32 @@ En un mundo hipertecnificado, la forma más fácil de que no te hackeen informac
 ```
 
 xxx
+
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## Otras tecnologías
+
+\concolumna
+
+```
+En Bosque Sh3rW00d hay otras tecnologías no tan relacionadas con la cibernia que pueden dar sabor a tus partidas.
+```
+
+xxx
+
+### Clonación
+
+xxx
+
+### Tecnología laser
+
+xxx
+
+\saltocolumna
 
 ***
 
@@ -866,6 +970,8 @@ xxx
 * **Ventajas:** xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -941,6 +1047,8 @@ xxx
     * **Impávido:** Es inmune al miedo e Intimidar.
     * **Tamaño (-1):** Puede moverse sin problemas por tubos de ventilación y otros conductos grandes.
 * **Equipo:** xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -1079,6 +1187,8 @@ El río Trent es una inmensa algafactoría donde se produce xxx. Es lo más pare
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -1105,6 +1215,8 @@ Tiene una simulación de cielo que muestra un día soleado y totalmente despejad
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -1125,6 +1237,8 @@ Como parte de una campaña mejora de la opinión pública la directora J0hn creo
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -1143,6 +1257,8 @@ xxx
 
 El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les boskis. xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -1156,6 +1272,8 @@ xxx
 ```
 
 xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -1179,6 +1297,8 @@ xxx
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -1192,6 +1312,8 @@ xxx
 ```
 
 xxx
+
+\saltocolumna
 
 ***
 
@@ -1369,6 +1491,12 @@ Las vidas sentimentales y sexuales de les personajes de esta ambientación han s
 ### Participar en el proyecto
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
 
+### Lenguaje inclusivo
+
+xxx
+
+\saltocolumna
+
 ### Define los velos y herramientas de seguridad
 > Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
@@ -1378,10 +1506,6 @@ Aquí tienes algunas herramientas de seguridad que puedes usar:
 
 * [DEVIR](https://devir.es/herramientas-seguridad-rol)
 * [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
-
-### Lenguaje inclusivo
-
-xxx
 
 \saltopagina
 
@@ -1399,6 +1523,8 @@ xxx
 * **glitch de la mañana:** amanecer
 * **glitch de la noche:** anochecer
 * **notis:** ciudadanes que viven en la arcología Nottingham.
+
+\saltocolumna
 
 \saltopagina
 
@@ -1427,6 +1553,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm#query=circuit%20svg&position=2&from_view=keyword&track=ais&uuid=27946d73-52ee-4da0-b997-0ec27bf1ad53) en Freepik
 
 * [Retratos de personajes](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) por VÍCTOR JIMÉNEZ MERINO [(Licencia Attribution-NonCommercial 4.0 International)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+\saltocolumna
 
 \saltopagina
 

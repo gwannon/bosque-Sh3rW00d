@@ -461,7 +461,13 @@ h4:before {
 h2:after,
 h3:after,
 h4:after,
-p:after {
+p:not(.saltocolumna):not(*:has(img)):after {
+  content: "_";
+  animation-name: hxafter;
+  animation-duration: var(--glitched-duration);
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+} {
   content: "_";
   animation-name: hxafter;
   animation-duration: var(--glitched-duration);
@@ -671,7 +677,7 @@ table thead tr th {
 }
 
 table thead tr:first-child th {
-  font-size: 1.5em;
+  font-size: 1.1em;
 }
 
 table tbody tr > * {
@@ -986,10 +992,27 @@ h1 > strong {
 
 /* Indice */
 
+
+
+
+
+
+
+
+
+
+
 @media print {
 
   .columns {
     columns: 2;
+  }
+  
+  .saltocolumna {
+    break-before: column;
+    height: 0px;
+    padding: 0;
+    margin: 0;
   }
   
   .saltopagina + .columns *:first-child {
