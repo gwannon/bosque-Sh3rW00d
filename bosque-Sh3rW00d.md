@@ -339,6 +339,76 @@ xxx
 
 \sincolumna
 
+## Arquetipos
+
+\concolumna
+
+```
+Aquí tienes algunos conceptos sobre los que construir tu PJ.
+```
+
+xxx
+
+### xxx
+
+xxx
+
+* **Habilidades recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+### xxx
+
+xxx
+
+* **Habilidades recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+### xxx
+
+xxx
+
+* **Habilidades recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+### xxx
+
+xxx
+
+* **Habilidades recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+### xxx
+
+xxx
+
+* **Habilidades recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+### xxx
+
+xxx
+
+* **Habilidades recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+### xxx
+
+xxx
+
+* **Habilidades recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+\saltopagina
+
+\sincolumna
+
 ## Nuevas habilidades
 
 \concolumna
@@ -431,9 +501,20 @@ xxx
 
 xxx
 
-#### Tirachinas
+#### Slingshot (Tirachinas)
 
 xxx
+
+
+\sincolumna
+
+|Daño|Distancia|Peso|Coste|Cdf|FUE Min.|PA|Notes|
+|---|---|---|---|---|---|
+|Str+d4-1|5/10/20|0,5|1|1|d4|-|Contundente,¹ Recarga gratuita, 2 manos|
+
+¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
+
+\concolumna
 
 ##### Proyectiles para tirachinas
 
@@ -451,13 +532,15 @@ xxx
 
 xxx
 
+\saltopagina
+
 \sincolumna
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
-|Rollers|xxx|x|xxx|xxx|xxx|
-|Skate|xxx|x|xxx|xxx|xxx|
-|E-bike|xxx|x|xxx|xxx|xxx|
+|Roller skates|-4|+2|32 km/h|4|1|
+|Skateboard|-3|+1|30 km/h|4|1|
+|E-bike|-1|+1|35 km/h|5|1+1|
 
 \concolumna
 
