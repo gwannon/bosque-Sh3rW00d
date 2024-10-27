@@ -525,6 +525,10 @@ xxx
 ```
 Esta ambientación es un mundo muy especial que claramente va a tener sus desventajas propias. Estas desventajas reflejan esa extraña mezcla que representa Bosque Sh3rW00d.
 ```
+Para empezar hay una serie de modificaciones en las desventajas de savage Worlds:
+
+* Manazas se convierte en una desventaja mayor. En un mundo hipertecnificado ser manazas con la tecnología es una desventaja mayor.
+* xxx
 
 Estas desventajas permiten darle un toque ciberpunk a tus personajes.
 
@@ -931,7 +935,11 @@ En Bosque Sh3rW00d hay otras tecnologías no tan relacionadas con la cibernia qu
 
 xxx
 
-### Clonación
+### Clonación y ingeniería genética
+
+xxx
+
+### Transhumanidad
 
 xxx
 
