@@ -414,9 +414,9 @@ Vives rodeado de tecnología las 24 horas del día. Quieras o no, sabes usar tod
 
 ### La ciencia mató la magia
 
-A no ser que quieras darle un toque paranormal, Ocultismo desaparece de las habilidades elegibles. Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar. 
+A no ser que quieras darle un toque paranormal, **Ocultismo desaparece** de las habilidades elegibles. También **desaparecen las habilidades como Hechicería, Ciencia Extraña, Fe, etc. y las ventajas de poder** que tienen un carácter mágico.
 
-También desaparecen las habilidades como Hechicería, Ciencia Extraña, Fe, etc. y las ventajas de poder que tienen un carácter mágico.
+Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar. 
 
 \saltocolumna
 
@@ -428,11 +428,29 @@ Los secretos es algo muy común entre les personajes de las historias de Robin H
 
 ### Espacios cerrados
 
-Se recomienda no ponerse ventajas de francotirador y pistolero, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son mucho menos útiles.
+Se recomienda **no ponerse ventajas de pistolero**, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son menos útiles.
 
-Tampoco son útiles habilidades como Cabalgar, ya que no hay animales que montar, ní Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica.
+**Tampoco son útiles habilidades como Cabalgar**, ya que no hay animales que montar, ní Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica.
 
-Por último, Supervivencia es sustituida por su versión urbana para la arcología, Pasillear.
+**Mal nadador desaparece como desventaja**, debido a que no hay casi grandes masas de agua donde nadar sea importante. Como ya hemos dicho, no hay animales, **Vinculo Animal y Señor de las bestias tampoco se pueden escoger**.
+
+\saltopagina
+
+Por último, **Supervivencia es sustituida por Pasillear**, su versión urbana para la arcología.
+
+### Ciberimplantes
+
+Los ciberimplantes son algo común entre les _notis_, sobre todo desde que la compañía ofrece implantes gratis para mejorar tu productividad.
+
+> Opcionalmente, puedes tener un **implante cualquier tipo, pero solo de valor 1 y tiene ser legal**.
+
+### Hackeos de les instaladores
+
+Si no has caído bajo el influjo de la compañia y sus tretas, seguramente hayas aprendido algún hackeo de les instaladores.
+
+> Elige un hackeo que tenga como requisito Novato de la lista de hackeos de les instaladores, si no has elegido ninguno de los ciberimplantes que te ofrece la compañia.
+
+\saltocolumna
 
 \saltopagina
 
@@ -452,9 +470,24 @@ También puedes crear los tuyos propios, pero recuerda que el espíritu del jueg
 
 Estes mensajeres recorren todo el complejo de Nottingham llevando todo tipo de sobres, paquetes, etc. a todo tipo de personas. No hacen preguntas y sus bocas están selladas sobre qué, de quién y para quién han hecho un encargo.
 
-xxx
+Te mueves rápide y nunca estás mucho tiempo quiete en un mismo sitio. Por así decirlo, si estas parade, es que eres un cadaver. 
 
-* **Habilidades recomendadas:** Conducir (e-bike), Pasillear y xxx
+* **Habilidades recomendadas:** Conducir (e-bike), Pasillear y Reparar
+* **Ventajas recomendadas:** As, Mr. Arreglalotodo y Manos firmes
+* **Desventajas recomendadas:** Impulsive, xxx y Pobreza
+
+
+### Buscadore
+
+Les buscadores son un grupo de personas que creen en un mundo mejor y han jurado conseguirlo.
+
+\saltocolumna
+
+Según sus creencias, les instaladores dejaron en alguna parte un password de "superusuario" que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
+
+No tienes porque creerte todo ese rollo, pero igual estás segure de que hay algo escondido en la arcología que vuelva a poner las cosas a como estaban con la directora R1c4rd. 
+
+* **Habilidades recomendadas:** xxx, xxx y xxx
 * **Ventajas recomendadas:** xxx, xxx y xxx
 * **Desventajas recomendadas:** xxx, xxx y xxx
 
@@ -464,9 +497,37 @@ Este arquetipo refleja todo tipo de personajes que llevan la confrontación cont
 
 Tu principal problema es que tus actos, sin una figura carismática que te dirija, muchas veces no son más que simples gamberradas.
 
-* **Habilidades recomendadas:** Pasillear, xxx y xxx
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Habilidades recomendadas:** Atletismo, Pasillear y Sigilo
+* **Ventajas recomendadas:** Acróbate, Alerta y Parkour
+* **Desventajas recomendadas:** Exceso de confianza, xxx y Suspicaz
+
+\saltopagina
+
+### Influencer en desgracia
+
+Fuiste parte del selecto grupo de influencers que rodean a la directora J0hn. Estabas en la cima de la pirámide social, hasta que un día cometiste un error y caíste en desgracia.
+
+Puede que criticases a la directora J0hn, fueras parte de algún tipo de trampa ilegal o simplemente te posicionaste de les débiles y oprimides.
+
+Ahora malvives de favores y por la nostalgia de tus seguidores más fieles y a veces bastante obsesivos.
+
+* **Habilidades recomendadas:** Intimidar, Persuadir y xxx
+* **Ventajas recomendadas:** Carismatique, Famoso y xxx
+* **Desventajas recomendadas:** Habito, xxx y xxx
+
+### Nacide libre
+
+Estás a otro lado de la ley y de la sociedad desde tu nacimiento. Naciste en el bosque y por tanto careces de tu HUB de conexión.
+
+Eso supone que no puedes moverte normalmente por la arcología como cualquier _noti_ y tienes que buscarte la vida para moverte por ella para conseguir recursos.
+
+Por otro lado no existes para empresa y eso es un gran valor.
+
+* **Habilidades recomendadas:** Electrónica, Pasillear y Reparar
+* **Ventajas recomendadas:**  xxx,  y xxx
+* **Desventajas recomendadas:** Joven, Marginade y Nacide Libre(obligatorio)
+
+\saltocolumna
 
 ### Periodiste
 
@@ -480,17 +541,16 @@ Sabes que el escándalo y el morbo vende y es la única manera de que tu conteni
 * **Ventajas recomendadas:** Conexiones, Investigador/a y Electrónica
 * **Desventajas recomendadas:** Curioso, Impulsivo y Obsesión
 
-\saltopagina
-
 ### Sindicade
 
 Este arquetipo reúne a todo tipo de trabajadores durante alienados que ha descubierto como la compañía oprime a los _notis_ y busca luchar contra esta injusta situación.
 
 Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la compañía y de la directora J0hn como su máxima representación.
 
-xxx
-
 * **Habilidades recomendadas:** xxx, xxx y Reparar
+
+\saltopagina
+
 * **Ventajas recomendadas:** xxx, xxx y xxx
 * **Desventajas recomendadas:** xxx, xxx y xxx
 
@@ -518,29 +578,7 @@ xxx
 * **Ventajas recomendadas:** xxx, xxx y xxx
 * **Desventajas recomendadas:** xxx, xxx y xxx
 
-### xxx
-
-xxx
-
-* **Habilidades recomendadas:** xxx, xxx y xxx
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
-
-### xxx
-
-xxx
-
-* **Habilidades recomendadas:** xxx, xxx y xxx
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
-
-### xxx
-
-xxx
-
-* **Habilidades recomendadas:** xxx, xxx y xxx
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+\saltocolumna
 
 \saltopagina
 
@@ -720,16 +758,67 @@ xxx
 \concolumna
 
 ```
-Les instaladores tenían pequeños hackeos que usaban en su día a día que les permitían usar los elementos de la arcología y el equipo de formas para los que no estaban preparados, como acelerar la velocidad de los montacargas o hacer que las puertas de los ascensores se abrieran solas sin que hubiera ascensor.
+Les instaladores tenían pequeños hackeos que usaban en su día a día y que les permitían usar los elementos de la arcología y el equipo de formas para los que no estaban preparados, como acelerar la velocidad de los montacargas o hacer que las puertas de los ascensores se abrieran solas sin que hubiera ascensor.
 ```
+
+xxx
+
+### Control de la iluminación
+
+**Requisitos:** Novato
+
+xxx
+
+### Control de pantallas
+
+**Requisitos:** Novato
+
+xxx
+
+### Llamar ascensor
+
+**Requisitos:** Novato
+
+xxx
+
+### Control total de la iluminación
+
+**Requisitos:** Experimentado, Control de la iluminación
+
+xxx
+
+\saltocolumna
+
+### Control ambiental
+
+**Requisitos:** Experimentado
 
 xxx
 
 ### Código Konami
 
+Requisitos: Legendario
+
 ![](./assests/images/codigo-konami.png)
 
 xxx
+
+\saltopagina
+
+\sincolumna
+
+### Listado de hackeos
+
+|Hackeo|Requisitos|Descripción|
+|---|---|---|
+|Control de la iluminación|Novato|xxx|
+|Control de pantallas|Novato|xxx|
+|Llamar ascensor|Novato|xxx|
+|Control total de la iluminación|Experimentado, Control de la iluminación|xxx|
+|Control ambiental|Experimentado|xxx|
+|Código Konami|Legendario|xxx|
+
+\concolumna
 
 \saltopagina
 
@@ -744,6 +833,8 @@ xxx
 ```
 
 xxx
+
+\saltocolumna
 
 ***
 
@@ -1244,6 +1335,8 @@ La cantante e influencer Helen Aim ha sido secuestrada en pleno directo y los sh
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -1257,6 +1350,8 @@ xxx
 ```
 
 xxx
+
+\saltocolumna
 
 ***
 
