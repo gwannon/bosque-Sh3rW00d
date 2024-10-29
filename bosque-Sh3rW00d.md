@@ -4,9 +4,13 @@
 
 Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
-Formarás parte de un grupo de descastades que sobreviven ocultos en el megacomplejo Nottingham. Lucharás por tu supervivencia contra la directora J0hn, una malvada IA que está a cargo del complejo. La directora J0hn basa todas sus acciones en unos protocolos que buscan maximizar los beneficios para la empresa que la creo a ella y al complejo o arcología de Nottingham.
+Formarás parte de un grupo de descastades que sobreviven ocultos en el megacomplejo Nottingham. Lucharás por tu supervivencia y tu libertad contra la directora J0hn, una malvada IA que está a cargo del complejo.
 
-xxx y lo más importante **robar a los ricos para repartirlo entre los más pobres**.
+La directora J0hn basa todas sus acciones en unos protocolos que buscan maximizar los beneficios para la empresa que la creo a ella y a la arcología de Nottingham. Todos recuerdan a la antigua, legítima y benevolente directora R1c4rd y esperan su regreso del proyecto del departamento de armamentística a la que fue asignada por la compañía. 
+
+Arrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ... 
+
+Pero recuerda, lo más importante es **robar a los ricos para repartirlo entre los más pobres**.
 
 ## El mundo actual
 
@@ -36,6 +40,8 @@ Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea
 
 xxx
 
+\saltopagina
+
 #### Directora J0hn y sus sheriffs
 
 xxx
@@ -45,6 +51,8 @@ xxx
 La directora R1c4rd es la anterior IA de Nottingham que fue trasladada al departamento de armamentística de la compañía. Se dice que era, a diferencia de la directora J0hn, justa y magnánima con les notis. Se recuerda con cariño los años de dirección de R1c4rd y se sueña con su regreso cuando ya no sea necesaria en el departamento bélico de la compañía.
 
 xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -134,6 +142,8 @@ Los pequeños negocios funcionan con el boca a boca y se suelen identificar con 
 
 Es normal ver soportes publicitarios humanos o robots portando carteles digitales por las inmediaciones del local del anunciante. Esto es debido a que la directora J0hn prohibió el uso de las paredes y otros elementos de la arcología como soporte artístico y publicitario en su lucha contra les grafiteres que ponían consignas contra ella y la compañía.
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -209,7 +219,7 @@ Equipos:
 
 * xxx
 
-### Sexo y genero
+### Sexo y género
 
 xxx
 
@@ -544,7 +554,7 @@ La capacidad de tu cuerpo aceptar ciberimplantes es mucho menor que el del resto
 
 Tienes la insana convicción de que las IA te vigilan, te siguen y, lo peor de todo, crees que están contra ti. Siempre estás vigilando todo tipo de aparato y sistema electrónico a tu alrededor, esperando detectar algún elemento que delate que las IA te están escuchando y conspirando a tus espaldas.
 
-> Como **desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración** (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando haya elementos de vigilancia a tu alrededor que es casi siempre. Si se toma **como mayor, además, el -1 se aplicará a todas las tiradas de percepción (Notar e Investigar)**, ya que estarás más preocupado en que no te vigilen y espien las IA que en vigilar o buscar a tus objetivos. Por otro lado, conoces a tu enemigo asi que obtienes un bono (+1 menor, +2 mayor) a Electronica al tratar con sistemas electrónicos de vigilancia, rastreo y seguridad.   
+> Como **desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración** (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando haya elementos de vigilancia a tu alrededor que es casi siempre. Si se toma **como mayor, además, el -1 se aplicará a todas las tiradas de percepción (Notar e Investigar)**, ya que estarás más preocupado en que no te vigilen y espíen las IA que en vigilar o buscar a tus objetivos. Por otro lado, conoces a tu enemigo, así que obtienes un bono (+1 menor, +2 mayor) a Electrónica al tratar con sistemas electrónicos de vigilancia, rastreo y seguridad.   
 
 ### Fobia social
 
@@ -552,11 +562,15 @@ xxx
 
 > xxx
 
+\saltopagina
+
 ### Nacide libre
 
 xxx
 
 > xxx
+
+\saltocolumna
 
 \saltopagina
 
