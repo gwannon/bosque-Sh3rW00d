@@ -309,7 +309,85 @@ xxx
 
 # |-|15t0r14 **Historia**
 
+
+\sincolumna
+
+## La creación de Nottingham
+
+\concolumna
+
+```
 xxx
+```
+
+xxx
+
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## El éxodo de les instaladores
+
+\concolumna
+
+```
+xxx
+```
+
+xxx
+
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## La dirección de R1c4rd
+
+\concolumna
+
+```
+xxx
+```
+
+xxx
+
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## La dirección de J0hn
+
+\concolumna
+
+```
+xxx
+```
+
+xxx
+
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## El bosque de Sh3rW00d
+
+\concolumna
+
+```
+xxx
+```
+
+xxx
+
+\saltocolumna
+
 
 ***
 
