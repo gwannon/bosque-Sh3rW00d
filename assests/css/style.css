@@ -467,12 +467,6 @@ p:not(.saltocolumna):not(*:has(img)):after {
   animation-duration: var(--glitched-duration);
   animation-iteration-count: infinite;
   animation-timing-function: linear;
-} {
-  content: "_";
-  animation-name: hxafter;
-  animation-duration: var(--glitched-duration);
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
 }
 
 h3:after,

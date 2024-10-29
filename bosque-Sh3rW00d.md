@@ -446,9 +446,9 @@ Los ciberimplantes son algo común entre les _notis_, sobre todo desde que la co
 
 ### Hackeos de les instaladores
 
-Si no has caído bajo el influjo de la compañia y sus tretas, seguramente hayas aprendido algún hackeo de les instaladores.
+Si no has caído bajo el influjo de la compañía y sus tretas, seguramente hayas aprendido algún hackeo de les instaladores.
 
-> Elige un hackeo que tenga como requisito Novato de la lista de hackeos de les instaladores, si no has elegido ninguno de los ciberimplantes que te ofrece la compañia.
+> Elige un hackeo que tenga como requisito Novate de la lista de hackeos de les instaladores, si no has elegido ninguno de los ciberimplantes que te ofrece la compañía.
 
 \saltocolumna
 
@@ -470,7 +470,7 @@ También puedes crear los tuyos propios, pero recuerda que el espíritu del jueg
 
 Estes mensajeres recorren todo el complejo de Nottingham llevando todo tipo de sobres, paquetes, etc. a todo tipo de personas. No hacen preguntas y sus bocas están selladas sobre qué, de quién y para quién han hecho un encargo.
 
-Te mueves rápide y nunca estás mucho tiempo quiete en un mismo sitio. Por así decirlo, si estas parade, es que eres un cadaver. 
+Te mueves rápide y nunca estás mucho tiempo quiete en un mismo sitio. Por así decirlo, si estas parade, es que eres un cadáver. 
 
 * **Habilidades recomendadas:** Conducir (e-bike), Pasillear y Reparar
 * **Ventajas recomendadas:** As, Mr. Arreglalotodo y Manos firmes
@@ -524,7 +524,7 @@ Eso supone que no puedes moverte normalmente por la arcología como cualquier _n
 Por otro lado no existes para empresa y eso es un gran valor.
 
 * **Habilidades recomendadas:** Electrónica, Pasillear y Reparar
-* **Ventajas recomendadas:**  xxx,  y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
 * **Desventajas recomendadas:** Joven, Marginade y Nacide Libre(obligatorio)
 
 \saltocolumna
@@ -653,7 +653,7 @@ xxx
 ```
 Esta ambientación es un mundo muy especial que claramente va a tener sus desventajas propias. Estas desventajas reflejan esa extraña mezcla que representa Bosque Sh3rW00d.
 ```
-Para empezar hay una serie de modificaciones en las desventajas de savage Worlds:
+Para empezar hay una serie de modificaciones en las desventajas de Savage Worlds:
 
 * Manazas se convierte en una desventaja mayor. En un mundo hipertecnificado ser manazas con la tecnología es una desventaja mayor.
 * xxx
@@ -713,7 +713,7 @@ xxx
 
 |Daño|Distancia|Peso|Coste|Cdf|FUE Min.|PA|Notes|
 |---|---|---|---|---|---|
-|Str+d4-1|5/10/20|0,5|1|1|d4|-|Contundente,¹ Recarga gratuita, 2 manos|
+|Str+d4-1|5/10/20|0,5|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos|
 
 ¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
 
@@ -765,19 +765,19 @@ xxx
 
 ### Control de la iluminación
 
-**Requisitos:** Novato
+**Requisitos:** Novate
 
 xxx
 
 ### Control de pantallas
 
-**Requisitos:** Novato
+**Requisitos:** Novate
 
 xxx
 
 ### Llamar ascensor
 
-**Requisitos:** Novato
+**Requisitos:** Novate
 
 xxx
 
@@ -811,9 +811,9 @@ xxx
 
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
-|Control de la iluminación|Novato|xxx|
-|Control de pantallas|Novato|xxx|
-|Llamar ascensor|Novato|xxx|
+|Control de la iluminación|Novate|xxx|
+|Control de pantallas|Novate|xxx|
+|Llamar ascensor|Novate|xxx|
 |Control total de la iluminación|Experimentado, Control de la iluminación|xxx|
 |Control ambiental|Experimentado|xxx|
 |Código Konami|Legendario|xxx|
@@ -1128,7 +1128,7 @@ xxx
 
 xxx
 
-### Tecnología laser
+### Tecnología láser
 
 xxx
 
@@ -1291,70 +1291,6 @@ Estamos hablando de o chupatintas que están detrás de un mostrador gestionando
 
 ***
 
-# 4ven7ur4s **Aventuras**
-
-\sincolumna
-
-## Aventuras en Bosque Sh3rW00d
-
-> Esta campaña consta **3 partes bien diferenciadas**. En una primera fase tu banda de parias realizarán **pequeñas misiones de robo, rescate y sabotaje** que les granjearán fama y el aprecio de sus conciudadanes. 
-> En una segunda parte comenzarán **la mítica búsqueda de la contraseña de SU**, que les llevará a lugares de la arcología de Nottingham a donde nunca habían llegado. Con la contraseña de SU podrán rescatar a la vieja y querida IA directora R1c4rd.
-> En la última fase, con la ayuda de sus aliades y la misteriosa contraseña de SU, deberán **derrocar a la IA directora J0hn** y devolverle el control a R1c4rd.
-
-\concolumna
-
-xxx
-
-\saltopagina
-
-\sincolumna
-
-## Otros relatos salvajes
-
-\concolumna
-
-```
-xxx
-```
-
-xxx
-
-### Todos los jueves
-
-xxx
-
-### Videobombing
-
-La directora J0hn ha pedido a un grupo de influencers que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
-
-xxx
-
-#### Nowhere fast
-
-La cantante e influencer Helen Aim ha sido secuestrada en pleno directo y los sheriffs no consiguen dar con ella. Su rastro se pierde en el bosque, así que alguien deberá buscarla, encontrarla y rescatarla.
-
-xxx
-
-\saltocolumna
-
-\saltopagina
-
-\sincolumna
-
-## Semillas de aventuras
-
-\concolumna
-
-```
-xxx
-```
-
-xxx
-
-\saltocolumna
-
-***
-
 # I)irectori0 de Nottingham **Directorio de Nottingham**
 
 
@@ -1501,6 +1437,78 @@ xxx
 \sincolumna
 
 ## Moverse entre zonas
+
+\concolumna
+
+```
+xxx
+```
+
+xxx
+
+\saltocolumna
+
+***
+
+# 4ven7ur4s **Aventuras**
+
+\sincolumna
+
+## Aventuras en Bosque Sh3rW00d
+
+> Esta campaña consta **3 partes bien diferenciadas**. En una primera fase tu banda de parias realizarán **pequeñas misiones de robo, rescate y sabotaje** que les granjearán fama y el aprecio de sus conciudadanes. 
+> En una segunda parte comenzarán **la mítica búsqueda de la contraseña de SU**, que les llevará a lugares de la arcología de Nottingham a donde nunca habían llegado. Con la contraseña de SU podrán rescatar a la vieja y querida IA directora R1c4rd.
+> En la última fase, con la ayuda de sus aliades y la misteriosa contraseña de SU, deberán **derrocar a la IA directora J0hn** y devolverle el control a R1c4rd.
+
+\concolumna
+
+xxx
+
+\saltopagina
+
+\sincolumna
+
+## Otros relatos salvajes
+
+\concolumna
+
+```
+xxx
+```
+
+xxx
+
+### Todos los jueves
+
+> Todos los jueves en el glitch de la noche aparece por una décima de segundo una imagen. Solo un viejo recolector de algas se ha da cuenta y todos los jueves va a Plaza Mayor a intentar averiguar qué es esa imagen. 
+
+xxx
+
+### Videobombing
+
+>La directora J0hn ha pedido a un grupo de influencers que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
+
+xxx
+
+\saltocolumna
+
+### Nowhere fast
+
+> La cantante e influencer Helen Aim ha sido secuestrada en pleno directo y los sheriffs no consiguen dar con ella. Su rastro se pierde en el bosque, así que alguien deberá buscarla, encontrarla y rescatarla.
+
+xxx
+
+### Noche de poker
+
+> xxx suele organizar noches de poker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que xxx se ha enterado y se va a autoinvitar.  
+
+xxx
+
+\saltopagina
+
+\sincolumna
+
+## Semillas de aventuras
 
 \concolumna
 
