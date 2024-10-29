@@ -4,7 +4,9 @@
 
 Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
 
-xxx
+Formarás parte de un grupo de descastades que sobreviven ocultos en el megacomplejo Nottingham. Lucharás por tu supervivencia contra la directora J0hn, una malvada IA que está a cargo del complejo. La directora J0hn basa todas sus acciones en unos protocolos que buscan maximizar los beneficios para la empresa que la creo a ella y al complejo o arcología de Nottingham.
+
+xxx y lo más importante **robar a los ricos para repartirlo entre los más pobres**.
 
 ## El mundo actual
 
