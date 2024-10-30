@@ -763,13 +763,13 @@ Les instaladores tenían pequeños hackeos que usaban en su día a día y que le
 
 xxx
 
-### Control de la iluminación
+### Controlar iluminación
 
 **Requisitos:** Novate
 
 xxx
 
-### Control de pantallas
+### Controlar pantallas
 
 **Requisitos:** Novate
 
@@ -781,17 +781,41 @@ xxx
 
 xxx
 
-### Control total de la iluminación
+### Controlar ascensor
 
-**Requisitos:** Experimentado, Control de la iluminación
+**Requisitos:** Experimentade, Llamar ascensor
+
+xxx
+
+### Dominar iluminación
+
+**Requisitos:** Experimentade, Controar iluminación
 
 xxx
 
 \saltocolumna
 
-### Control ambiental
+### Controlar climatización
 
 **Requisitos:** Experimentado
+
+xxx
+
+### Controlar vigilancia
+
+**Requisitos:** Experimentado
+
+xxx
+
+### Dominar vigilancia
+
+**Requisitos:** xxx
+
+xxx
+
+### Dominar climatización
+
+**Requisitos:** xxx
 
 xxx
 
@@ -811,11 +835,15 @@ xxx
 
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
-|Control de la iluminación|Novate|xxx|
-|Control de pantallas|Novate|xxx|
+|Controlar pantallas|Novate|xxx|
+|Controlar iluminación|Novate|xxx|
+|Dominar iluminación|Experimentade, Control de la iluminación|xxx|
 |Llamar ascensor|Novate|xxx|
-|Control total de la iluminación|Experimentado, Control de la iluminación|xxx|
-|Control ambiental|Experimentado|xxx|
+|Controlar ascensor|Experimentade, Llamar ascensor|xxx|
+|Controlar climatización|Experimentade|xxx|
+|Dominar climatización|xxx, Controlar climatización|xxx|
+|Controlar vigilancia|xxx|xxx|
+|Dominar vigilancia|xxx, Controlar vigilancia|xxx|
 |Código Konami|Legendario|xxx|
 
 \concolumna
@@ -1055,6 +1083,21 @@ xxx
 ```
 
 xxx
+
+En general podemos decir que existen tres tipos de IA, las dedicadas, las dedicadas avanzadas y las polivalentes. Cada tipo tiene sus características y sus capacidades.
+
+### IA dedicadas
+
+xxx
+
+### IA dedicadas avanzadas
+
+xxx
+
+### IA polivalentes
+
+xxx
+
 
 \saltocolumna
 
