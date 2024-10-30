@@ -461,7 +461,7 @@ Si no has caído bajo el influjo de la compañía y sus tretas, seguramente haya
 \concolumna
 
 ```
-A la hora de crear tu PJ te presentamos xxx arquetipos que te ayuden a construirlo. es importante tener en cuenta que las aventuras de robin Hood siempre hablan de personajes parias y fuera de la ley y he seguido esa idea al diseñar estos arquetipos.
+A la hora de crear tu PJ te presentamos algunos arquetipos que te ayuden a construirlo. es importante tener en cuenta que las aventuras de robin Hood siempre hablan de personajes parias y fuera de la ley y he seguido esa idea al diseñar estos arquetipos.
 ```
 
 También puedes crear los tuyos propios, pero recuerda que el espíritu del juego es que estén al otro lado de la ley o muy cerca.
@@ -474,7 +474,7 @@ Te mueves rápide y nunca estás mucho tiempo quiete en un mismo sitio. Por así
 
 * **Habilidades recomendadas:** Conducir (e-bike), Pasillear y Reparar
 * **Ventajas recomendadas:** As, Mr. Arreglalotodo y Manos firmes
-* **Desventajas recomendadas:** Impulsive, xxx y Pobreza
+* **Desventajas recomendadas:** Impulsive, Leal y Pobreza
 
 
 ### Buscadore
@@ -487,9 +487,21 @@ Según sus creencias, les instaladores dejaron en alguna parte un password de "s
 
 No tienes porque creerte todo ese rollo, pero igual estás segure de que hay algo escondido en la arcología que vuelva a poner las cosas a como estaban con la directora R1c4rd. 
 
-* **Habilidades recomendadas:** xxx, xxx y xxx
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Habilidades recomendadas:** Investigar, Intimidar y Notar
+* **Ventajas recomendadas:** Ardor, Campeone y Investigadore
+* **Desventajas recomendadas:** Heroique, Juramento y Obsesión
+
+### Erudite
+
+Les erudites engloban a toda persona que se centra su forma de vida en el estudio y el descubrimiento científico. Todas las ramas de las ciencias y de las letras pueden ser su objeto de estudio. 
+
+Mientras que algunos de tus compañeres se han vendido a la compañía, tú sabes que el conocimiento puro debe ser libre de interferencias de cosas como el capitalismo. Tus descubrimiento deben ayudar a la humanidad, no a hacer dinero. 
+
+* **Habilidades recomendadas:** Ciencias, Humanidades y Medicina
+* **Ventajas recomendadas:** Curandere, Erudite e Investigadore
+* **Desventajas recomendadas:** Caute, Curiose y Despistade
+
+\saltopagina
 
 ### Grafitere
 
@@ -499,21 +511,23 @@ Tu principal problema es que tus actos, sin una figura carismática que te dirij
 
 * **Habilidades recomendadas:** Atletismo, Pasillear y Sigilo
 * **Ventajas recomendadas:** Acróbate, Alerta y Parkour
-* **Desventajas recomendadas:** Exceso de confianza, xxx y Suspicaz
-
-\saltopagina
+* **Desventajas recomendadas:** Exceso de confianza, Heróique y Suspicaz
 
 ### Influencer en desgracia
 
+[![Mire By sokoistrying](./assests/images/mire_by_sokoistrying_dgddes6-pre.jpg "Mire By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Mire-989919510 "Mire By sokoistrying")
+
 Fuiste parte del selecto grupo de influencers que rodean a la directora J0hn. Estabas en la cima de la pirámide social, hasta que un día cometiste un error y caíste en desgracia.
+
+\saltocolumna
 
 Puede que criticases a la directora J0hn, fueras parte de algún tipo de trampa ilegal o simplemente te posicionaste de les débiles y oprimides.
 
 Ahora malvives de favores y por la nostalgia de tus seguidores más fieles y a veces bastante obsesivos.
 
-* **Habilidades recomendadas:** Intimidar, Persuadir y xxx
-* **Ventajas recomendadas:** Carismatique, Famoso y xxx
-* **Desventajas recomendadas:** Habito, xxx y xxx
+* **Habilidades recomendadas:** Interpretar, Intimidar y Persuadir
+* **Ventajas recomendadas:** Carismatique, Famoso y Rique
+* **Desventajas recomendadas:** Bocazas, Exceso de confianza y Habito (alcohol, drogas, etc.)
 
 ### Nacide libre
 
@@ -524,18 +538,22 @@ Eso supone que no puedes moverte normalmente por la arcología como cualquier _n
 Por otro lado no existes para empresa y eso es un gran valor.
 
 * **Habilidades recomendadas:** Electrónica, Pasillear y Reparar
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** Joven, Marginade y Nacide Libre(obligatorio)
+* **Ventajas recomendadas:** Persona de recursos, Osade y Sentir el peligro
+* **Desventajas recomendadas:** Joven, Marginade y Nacide Libre (obligatorio)
 
-\saltocolumna
+\saltopagina
 
 ### Periodiste
+
+[![Cyberpunk reporter By Kernspalt](./assests/images/cyberpunk_reporter_by_kernspalt_de67gpl-375w-2x.jpg "Cyberpunk reporter By Kernspalt")](https://www.deviantart.com/kernspalt/art/Cyberpunk-reporter-856952409 "Cyberpunk reporter By Kernspalt")
 
 Dentro de este arquetipo se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.
 
 Tu medio siempre será _underground_, fuera de los canales oficiales que están pagados por la directora J0hn. Escribes en su blog, hablas en un podcast o lanzas a la red todo tipo de videos.
 
 Sabes que el escándalo y el morbo vende y es la única manera de que tu contenido se viralice. Por eso siempre rodeas a tus denuncias de una capa de periodismo amarillo.
+
+\saltocolumna
 
 * **Habilidades recomendadas:** Investigar, Latrocinio y Notar
 * **Ventajas recomendadas:** Conexiones, Investigador/a y Electrónica
@@ -547,38 +565,9 @@ Este arquetipo reúne a todo tipo de trabajadores durante alienados que ha descu
 
 Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la compañía y de la directora J0hn como su máxima representación.
 
-* **Habilidades recomendadas:** xxx, xxx y Reparar
-
-\saltopagina
-
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
-
-### xxx
-
-xxx
-
-* **Habilidades recomendadas:** xxx, xxx y xxx
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
-
-### xxx
-
-xxx
-
-* **Habilidades recomendadas:** xxx, xxx y xxx
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
-
-### xxx
-
-xxx
-
-* **Habilidades recomendadas:** xxx, xxx y xxx
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
-
-\saltocolumna
+* **Habilidades recomendadas:** Electrónica, Intimidar y Reparar
+* **Ventajas recomendadas:** Amenazadore, Macgyver y Mr. Arreglalotodo
+* **Desventajas recomendadas:** Bocazas, Leal y Tozudo
 
 \saltopagina
 
@@ -622,7 +611,7 @@ xxx
 xxx
 ```
 
-xxx
+Como ya hemos dicho, no hay animales, con lo que **Vinculo Animal y Señor de las bestias no se pueden escoger**.
 
 ### Alijos
 
@@ -655,8 +644,8 @@ Esta ambientación es un mundo muy especial que claramente va a tener sus desven
 ```
 Para empezar hay una serie de modificaciones en las desventajas de Savage Worlds:
 
-* Manazas se convierte en una desventaja mayor. En un mundo hipertecnificado ser manazas con la tecnología es una desventaja mayor.
-* xxx
+* **Manazas se convierte en una desventaja mayor.** En un mundo hipertecnificado ser manazas con la tecnología es una desventaja mayor.
+* **Desaparece Mal nadador** por falta de grandes superficies de liquido.
 
 Estas desventajas permiten darle un toque ciberpunk a tus personajes.
 
@@ -672,7 +661,7 @@ Tienes la insana convicción de que las IA te vigilan, te siguen y, lo peor de t
 
 > Como **desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración** (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando haya elementos de vigilancia a tu alrededor que es casi siempre. Si se toma **como mayor, además, el -1 se aplicará a todas las tiradas de percepción (Notar e Investigar)**, ya que estarás más preocupado en que no te vigilen y espíen las IA que en vigilar o buscar a tus objetivos. Por otro lado, conoces a tu enemigo, así que obtienes un bono (+1 menor, +2 mayor) a Electrónica al tratar con sistemas electrónicos de vigilancia, rastreo y seguridad.   
 
-### Fobia social
+### Fobia social (mayor/menor)
 
 xxx
 
@@ -680,7 +669,7 @@ xxx
 
 \saltopagina
 
-### Nacide libre
+### Nacide libre (mayor)
 
 xxx
 
@@ -852,9 +841,11 @@ xxx
 
 \sincolumna
 
-## Cómo jugar al hockey de pasillo
+## Otros sistemas
 
 \concolumna
+
+### Cómo jugar al hockey de pasillo
 
 ```
 xxx
