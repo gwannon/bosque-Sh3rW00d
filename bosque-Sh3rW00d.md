@@ -388,7 +388,6 @@ xxx
 
 \saltocolumna
 
-
 ***
 
 # Я36|45 **Reglas**
@@ -430,7 +429,7 @@ Los secretos es algo muy común entre les personajes de las historias de Robin H
 
 Se recomienda **no ponerse ventajas de pistolero**, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son menos útiles.
 
-**Tampoco son útiles habilidades como Cabalgar**, ya que no hay animales que montar, ní Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica.
+**Tampoco son útiles habilidades como Cabalgar**, ya que no hay animales que montar, ni Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica.
 
 **Mal nadador desaparece como desventaja**, debido a que no hay casi grandes masas de agua donde nadar sea importante. Como ya hemos dicho, no hay animales, **Vinculo Animal y Señor de las bestias tampoco se pueden escoger**.
 
@@ -485,11 +484,11 @@ Les buscadores son un grupo de personas que creen en un mundo mejor y han jurado
 
 Según sus creencias, les instaladores dejaron en alguna parte un password de "superusuario" que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
 
-No tienes porque creerte todo ese rollo, pero igual estás segure de que hay algo escondido en la arcología que vuelva a poner las cosas a como estaban con la directora R1c4rd. 
+No tienes por qué creerte todo ese rollo, pero igual estás segure de que hay algo escondido en la arcología que vuelva a poner las cosas a como estaban con la directora R1c4rd. 
 
 * **Habilidades recomendadas:** Investigar, Intimidar y Notar
 * **Ventajas recomendadas:** Ardor, Campeone y Investigadore
-* **Desventajas recomendadas:** Heroique, Juramento y Obsesión
+* **Desventajas recomendadas:** Heróique, Juramento y Obsesión
 
 ### Erudite
 
@@ -543,17 +542,23 @@ Por otro lado no existes para empresa y eso es un gran valor.
 
 \saltopagina
 
-### Periodiste
+### Paramedic
 
-[![Cyberpunk reporter By Kernspalt](./assests/images/cyberpunk_reporter_by_kernspalt_de67gpl-375w-2x.jpg "Cyberpunk reporter By Kernspalt")](https://www.deviantart.com/kernspalt/art/Cyberpunk-reporter-856952409 "Cyberpunk reporter By Kernspalt")
+Este arquetipo refleja un amplio grupo de profesionales de la medicina capaces de curar y remendar todo tipo de golpes y heridas.
+
+Te debes a tu juramento hipocrático, que está por encima de cualquier otra cosa. Nada hará que no lo cumplas, ni la propia directora J0hn en persona podría.
+
+* **Habilidades recomendadas:** Ciencias, Medicina y Notar
+* **Ventajas recomendadas:** Curandero, McGyver y Osado
+* **Desventajas recomendadas:** Bocazas, Juramento y Exceso de confianza
+
+### Periodiste
 
 Dentro de este arquetipo se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.
 
 Tu medio siempre será _underground_, fuera de los canales oficiales que están pagados por la directora J0hn. Escribes en su blog, hablas en un podcast o lanzas a la red todo tipo de videos.
 
 Sabes que el escándalo y el morbo vende y es la única manera de que tu contenido se viralice. Por eso siempre rodeas a tus denuncias de una capa de periodismo amarillo.
-
-\saltocolumna
 
 * **Habilidades recomendadas:** Investigar, Latrocinio y Notar
 * **Ventajas recomendadas:** Conexiones, Investigador/a y Electrónica
@@ -567,7 +572,11 @@ Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la com
 
 * **Habilidades recomendadas:** Electrónica, Intimidar y Reparar
 * **Ventajas recomendadas:** Amenazadore, Macgyver y Mr. Arreglalotodo
-* **Desventajas recomendadas:** Bocazas, Leal y Tozudo
+* **Desventajas recomendadas:** Bocazas, Leal y Tozude
+
+&nbsp;
+
+[![Cyberpunk reporter By Kernspalt](./assests/images/cyberpunk_reporter_by_kernspalt_de67gpl-375w-2x.jpg "Cyberpunk reporter By Kernspalt")](https://www.deviantart.com/kernspalt/art/Cyberpunk-reporter-856952409 "Cyberpunk reporter By Kernspalt")
 
 \saltopagina
 
@@ -645,7 +654,7 @@ Esta ambientación es un mundo muy especial que claramente va a tener sus desven
 Para empezar hay una serie de modificaciones en las desventajas de Savage Worlds:
 
 * **Manazas se convierte en una desventaja mayor.** En un mundo hipertecnificado ser manazas con la tecnología es una desventaja mayor.
-* **Desaparece Mal nadador** por falta de grandes superficies de liquido.
+* **Desaparece Mal nadador** por falta de grandes superficies de líquido.
 
 Estas desventajas permiten darle un toque ciberpunk a tus personajes.
 
@@ -663,19 +672,37 @@ Tienes la insana convicción de que las IA te vigilan, te siguen y, lo peor de t
 
 ### Fobia social (mayor/menor)
 
-xxx
-
-> xxx
+La fobia social, conocido también como trastorno de ansiedad social (TAS), es un trastorno de ansiedad caracterizado por un miedo persistente a una o más situaciones sociales por temor a que resulten embarazosas.
 
 \saltopagina
 
-### Nacide libre (mayor)
+Dar discursos en público, participar en concursos, desfilar por una pasarela, etc. se vuelven tareas muy complicadas, aunque tampoco llevas bien las reuniones sociales en las que tendrá que relacionarse (fiestas, eventos, etc.) o los encuentros inesperados con conocidos, familiares, amigos, etc.
 
-xxx
+Nottinghan tiene una altísima densidad de población, lo cual hace que las situaciones de fobia social sean muy normales. También gracias a la tecnología se puede estar en todas partes sin estar realmente.
 
-> xxx
+> No puedes gastar benis cuando estás rodeade de demasiada gente observando y juzgando lo que haces.
+
+### Imán de lo extraño (menor)
+
+Todo lo extraño se siente atraído hacia ti para bien y para mal. No es algo que busques, simplemente es algo que pasa. A veces es una bendición y otras un maldición, pero la mayoría de las veces es un fastidio.
+
+Seguro que caerás por la exclusa que lleva a la madriguera del cocodrilo albino que nadie creía que existís, abres el armario donde le influencer guarda sus útiles fetichistas o se te cae una probeta llena de nanitos que te tiñen la cara de azul.
+
+> Cuando haya que hacer **tiradas al azar** para ver a quién le pasa algo raro, se debería **elegir directamente al imán de lo extraño**.
 
 \saltocolumna
+
+### Nacide libre (mayor)
+
+Tus progenitores te concibieron fuera del sistema, bien porque también estaban fuera del sistema o porque así lo decidieron antes de nacer tú. Sea como sea, no tienes HUB de conexión. 
+
+Esta desventaja deberías reservarla para boskis nacidos en el bosque, el resto de personas es muy difícil que no hayan sido registrados en el sistema de la compañía y se les haya implantado el HUB.
+
+Si eres detenido, es fácil saber que no estas en el sistema, porque el sistema no tiene fallos. si dice que no existes es que eres un _boski_ infiltrado en el complejo.
+
+Si en algún momento **te implantan un HUB de conexión se pierde esta ventaja**.
+
+> No tienes **ninguna de las ventajas de tener HUB de conexión** al sistema, pero lo compensas no teniendo **ninguna de las desventajas**. A priori no  existes para la directora J0hn y sus tentáculos cibernéticos. No hay registros, ni huellas, ni ningún dato sobre tí y **eres invisible para la gran mayoría cámaras y sensores de la arcología**.
 
 \saltopagina
 
