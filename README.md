@@ -16,13 +16,13 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 ### 0.3.1 En desarrollo
 
 * Reglas
-  * Nuevas ventajas
   * Equipo
   * Hackeos de les instaladores
   * Otros sistemas
 
 * Terminadas reglas de "Nuevas desventajas"
 * Terminadas reglas de "Nuevas habilidades"
+* Terminadas reglas de "Nuevas ventajas"
 
 ### 0.3 30/10/2024
 

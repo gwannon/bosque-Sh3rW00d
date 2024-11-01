@@ -579,7 +579,7 @@ Este arquetipo reúne a todo tipo de trabajadores durante alienados que ha descu
 Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la compañía y de la directora J0hn como su máxima representación.
 
 * **Habilidades recomendadas:** Electrónica, Intimidar y Reparar
-* **Ventajas recomendadas:** Amenazadore, Macgyver y Mr. Arreglalotodo
+* **Ventajas recomendadas:** Macgyver, Mr. Arreglalotodo y Sindicade
 * **Desventajas recomendadas:** Bocazas, Leal y Tozude
 
 &nbsp;
@@ -618,6 +618,8 @@ En la arcología de Nottingham se habla principalmente inglés, pero hay pequeñ
 
 Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las maquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las maquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
 
+![Ejemplo de Leet |-|3110 \\\0R1|) Hello World](./assests/images/hello-world.jpg "Ejemplo de Leet |-|3110 \\\0R1|) Hello World")
+
 Cuando necesites dejar un mensaje escrito o escribir un grafiti y que las IA no lo reconozcan e interpreten, puedes tirar Leet. Tu tirada será la dificultad para las maquinas (con la capacidad especial IA o Constructo) para entender tu mensaje. Deberán hacer una tirada de Astucia o Leet (en caso de saberlo) para entender el texto.
 
 \saltopagina
@@ -629,7 +631,7 @@ Cuando necesites dejar un mensaje escrito o escribir un grafiti y que las IA no 
 \concolumna
 
 ```
-xxx
+Esta ambientación es un mundo difícil, pero hay una serie de ventajas propias que pueden serte de gran ayuda. Estas ventajas se centrán más en temas sociales que en tecnología, combate o cibernética, que son tan típicas de las ambientaciones ciberpunk.
 ```
 
 Como ya hemos dicho, no hay animales, con lo que **Vinculo Animal y Señor de las bestias no se pueden escoger**.
@@ -642,15 +644,23 @@ Mientras que la ventaja Rique/Extremadamente Rique te ofrecen riquezas, tienen e
 
 Alijos te ofrece esa riqueza al otro lado de la ley. Tienes grandes cantidades de dinero en forma de alijos pueden ser objetos de valor, cupones de trueques, etc. Lo más importante es que es dinero que no está controlado por la empresa y se puede usar en actividades que no controla la compañía y/o de carácter ilegal.
 
-xxx
+> Alijos funciona como Rique salvo que solo se puede usar en temas ilegales o cuando no se quiera que las transacciones comerciales sean rastreables.
 
-### Masón
+\saltocolumna
+
+### Sindicade
 
 **Requisitos:** Reparar d6
 
-xxx
+El sindicalismo está prohibido por la compañía. Mientras que la directora R1c4rd lo permitía de forma no oficial, J0hn la ha perseguido con todos sus recursos y aplicando las penas máximas.
 
-\saltocolumna
+Aún así, el movimiento está más fuerte que nunca sobre todo en las clases sociales más bajas. Todo esto es gracias a sus interacciones con otros grupos fuera de la ley como _boskis_.
+
+Ser un cargo importante del sindicato debería venir con un Secreto, mayor o menor según el cargo.
+
+Los sindicades siempre se apoyan (en temas laborales y de derechos), se ayudan y se cubren. 
+
+> A parte de las ventajas de pertenecer a un grupo fuerte y unido, puedes acceder a productos ilegales no controlados por las mafias (drogas, estimulantes o implantes letales) como ciber implantes ilegales que no sean de combate o materiales de hackeo.
 
 \saltopagina
 
@@ -728,6 +738,12 @@ Si en algún momento **te implantan un HUB de conexión se pierde esta ventaja**
 xxx
 ```
 
+xxx
+
+### Equipo normal
+
+xxx
+
 ### Armas
 
 xxx
@@ -736,22 +752,11 @@ xxx
 
 xxx
 
-
-\sincolumna
-
-|Daño|Distancia|Peso|Coste|Cdf|FUE Min.|PA|Notes|
-|---|---|---|---|---|---|
-|Str+d4-1|5/10/20|0,5|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos|
-
-¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
-
-\concolumna
-
 ##### Proyectiles para tirachinas
 
 xxx
 
-#### Armaduras
+### Protecciones
 
 xxx
 
@@ -759,13 +764,31 @@ xxx
 
 xxx
 
-#### Monturas: Rollers, skates y e-bikes
+#### Monturas: Roller skates, skateboards y e-bikes
 
 xxx
+
+\saltocolumna
+
+Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir, **se usa Atletismo**.
 
 \saltopagina
 
 \sincolumna
+
+### Listado de armamento
+
+|Arma|Daño|Distancia|Peso|Coste|Cdf|FUE Min.|PA|Notas|
+|---|---|---|---|---|---|---|
+|Slingshot|Str+d4-1|5/10/20|0,5|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos|
+
+¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
+
+### Listado de protecciones
+
+xxx
+
+### Listado de vehículos
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
@@ -774,8 +797,6 @@ xxx
 |E-bike|-1|+1|35 km/h|5|1+1|
 
 \concolumna
-
-xxx
 
 \saltopagina
 
@@ -858,8 +879,6 @@ Requisitos: Legendario
 xxx
 
 \saltocolumna
-
-\saltopagina
 
 \sincolumna
 

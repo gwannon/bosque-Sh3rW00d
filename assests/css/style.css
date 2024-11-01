@@ -660,7 +660,8 @@ section:nth-child(even) table {
 
 section > div:has(table) {
   overflow-x: auto;
-  margin-bottom: 30px;
+  /*margin-bottom: 30px;*/
+  padding-bottom: 0px;
 }
 
 table thead tr th {
@@ -672,6 +673,7 @@ table thead tr th {
 
 table thead tr:first-child th {
   font-size: 1.1em;
+  color: var(--neon-color);
 }
 
 table tbody tr > * {
@@ -942,9 +944,30 @@ h1 > strong {
 
 
 @media print {
+
+  .columns {
+    columns: 2;
+  }
+  
+  .saltocolumna {
+    break-before: column;
+    height: 0px;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .saltopagina + .columns > *:first-child {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
   @page {
     size: A4;
     margin: 0;
+  }
+
+  table {
+    width: 100%;
   }
 
   .nopdf {
@@ -985,31 +1008,6 @@ h1 > strong {
 }
 
 /* Indice */
-
-
-
-
-
-
-
-
-
-.columns {
-  columns: 2;
-}
-
-.saltocolumna {
-  break-before: column;
-  height: 0px;
-  padding: 0;
-  margin: 0;
-}
-
-.saltopagina + .columns > *:first-child {
-  margin-top: 0;
-  padding-top: 0;
-}
-
 
 @media print {
 
