@@ -449,7 +449,15 @@ Si no has caído bajo el influjo de la compañía y sus tretas, seguramente haya
 
 > Elige un hackeo que tenga como requisito Novate de la lista de hackeos de les instaladores, si no has elegido ninguno de los ciberimplantes que te ofrece la compañía.
 
+### Idiomas
+
+El inglés es el idioma predominante en Nottimgham, asi que es no hay problemas de comunicación entre personas y máquinas. Puede encontrarse libros u objetos con textos en otros idiomas, pero no debería ser difícil conseguir traducciones más o menos buenas.
+
 \saltocolumna
+
+Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las maquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las maquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
+
+> Empiezas con la habilidad **Idioma Inglés a nivel de tu Astucia y un d4 en Idioma Leet**.
 
 \saltopagina
 
@@ -587,26 +595,30 @@ Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la com
 \concolumna
 
 ```
-xxx
+Bosque Sh3rW00d es una ambientación ciberpunk tremendamente urbana lo cual implica cambios en las habilidades básicas de savage Worlds.
 ```
 
-xxx
+Como ya se ha dicho en la creación de personajes, desaparecen Ciencia Extraña, Fe, Hechicería, ocultismo y Psiónica.
 
 ### Pasillear (Astucia)
 
-Pasillear viene a sustituir a Supervivencia xxx
+Pasillear viene a sustituir a Supervivencia. Esta habilidad permite al personaje encontrar elementos como cables de red o electricidad o tuberías de agua, gas o climatización, paneles de control, centros de datos o puntos de conexión. Puede emplearse también para orientarse en los pasillos y cubículos de la arcología, leer mapas y buscar rutas de escape seguras.
 
-xxx
+A diferencia de Supervivencia, no se puede usar para seguir rastros, ya que en tornos urbanos no se dejan muchas huellas. Pero se puede usar para perseguir gente, buscando rutas alternativas, caminos más o menos usados, trochas y atajos, etc. A la hora de seguir a una persona se puede usar Pasillear en vez de Sigilo.
+
+En persecuciones, en cada ronda puedes gastar tu acción para buscar la mejor ruta tirando Pasillear. Un éxito en la tirada supone un +1 a las tiradas de maniobras de tu conductor. Solo une pasajere puede realizar esta acción por ronda. 
+
+\saltocolumna
 
 ### Idiomas
 
-xxx
+En la arcología de Nottingham se habla principalmente inglés, pero hay pequeños grupos que mantienen sus propios idiomas.
 
 #### Leet
 
-xxx
+Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las maquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las maquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
 
-\saltocolumna
+Cuando necesites dejar un mensaje escrito o escribir un grafiti y que las IA no lo reconozcan e interpreten, puedes tirar Leet. Tu tirada será la dificultad para las maquinas (con la capacidad especial IA o Constructo) para entender tu mensaje. Deberán hacer una tirada de Astucia o Leet (en caso de saberlo) para entender el texto.
 
 \saltopagina
 
@@ -803,13 +815,13 @@ xxx
 
 xxx
 
+\saltocolumna
+
 ### Dominar iluminación
 
 **Requisitos:** Experimentade, Controar iluminación
 
 xxx
-
-\saltocolumna
 
 ### Controlar climatización
 
@@ -835,6 +847,8 @@ xxx
 
 xxx
 
+\saltopagina
+
 ### Código Konami
 
 Requisitos: Legendario
@@ -842,6 +856,8 @@ Requisitos: Legendario
 ![](./assests/images/codigo-konami.png)
 
 xxx
+
+\saltocolumna
 
 \saltopagina
 
