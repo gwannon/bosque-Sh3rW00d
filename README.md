@@ -47,4 +47,10 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 
 https://www.deviantart.com/sokoistrying/art/Ethan-860101986
 https://www.deviantart.com/sokoistrying/art/Incy-1017334920
+https://www.deviantart.com/cyberaeon/art/Hacker-588810800
+https://www.deviantart.com/cyberaeon/art/Sage-705811083
+https://www.deviantart.com/fernand0fc/art/NETRUNNER-845709826
+https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124
+https://www.deviantart.com/fernand0fc/art/Delivery-802145258
+https://www.deviantart.com/fernand0fc/art/Pandillero-743621901
 

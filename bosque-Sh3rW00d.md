@@ -419,27 +419,35 @@ Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, e
 
 \saltocolumna
 
+[![HeadShots By Fernand0FC](./assests/images/headshots_by_fernand0fc_dcay9wx-fullview.jpg "HeadShots By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/HeadShots-743989425 "HeadShots By Fernand0FC")
+
+### Espacios cerrados
+
+Se recomienda **no ponerse ventajas de pistolero**, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son menos útiles.
+
+**Tampoco son útiles habilidades como Cabalgar**, ya que no hay animales que montar, ni Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica. **Supervivencia es sustituida por Pasillear**, su versión urbana para la arcología.
+
+**Mal nadador desaparece como desventaja**, debido a que no hay casi grandes masas de agua donde nadar sea importante. Como ya hemos dicho, no hay animales, **Vinculo Animal y Señor de las bestias tampoco se pueden escoger**.
+
+\saltopagina
+
+### Idiomas
+
+El inglés es el idioma predominante en Nottimgham, asi que es no hay problemas de comunicación entre personas y máquinas. Puede encontrarse libros u objetos con textos en otros idiomas, pero no debería ser difícil conseguir traducciones más o menos buenas.
+
+> Empiezas con la habilidad **Idioma Inglés a nivel de tu Astucia y un d4 en Idioma Leet**.
+
 ### Secretos
 
 Los secretos es algo muy común entre les personajes de las historias de Robin Hood. Robin es un noble, Scarlet es un hermanastro de Robin o Marian se disfraza de hombre para ayudar a los pobres. He querido trasmitir esa esencia con esta regla de creación de personajes. 
 
 > Tode personaje debe **tener un Secreto (mayor o menor)** entre sus desventajas.
 
-### Espacios cerrados
-
-Se recomienda **no ponerse ventajas de pistolero**, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son menos útiles.
-
-**Tampoco son útiles habilidades como Cabalgar**, ya que no hay animales que montar, ni Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica.
-
-**Mal nadador desaparece como desventaja**, debido a que no hay casi grandes masas de agua donde nadar sea importante. Como ya hemos dicho, no hay animales, **Vinculo Animal y Señor de las bestias tampoco se pueden escoger**.
-
-\saltopagina
-
-Por último, **Supervivencia es sustituida por Pasillear**, su versión urbana para la arcología.
-
 ### Ciberimplantes
 
-Los ciberimplantes son algo común entre les _notis_, sobre todo desde que la compañía ofrece implantes gratis para mejorar tu productividad.
+Los ciberimplantes son algo común entre les _notis_, sobre todo desde que la compañía ofrece implantes gratis para mejorar tu productividad. La compañia solo financia implantes legales y que estén relacionados con la profesión de su empleade.
+
+\saltocolumna
 
 > Opcionalmente, puedes tener un **implante cualquier tipo, pero solo de valor 1 y tiene ser legal**.
 
@@ -449,15 +457,7 @@ Si no has caído bajo el influjo de la compañía y sus tretas, seguramente haya
 
 > Elige un hackeo que tenga como requisito Novate de la lista de hackeos de les instaladores, si no has elegido ninguno de los ciberimplantes que te ofrece la compañía.
 
-### Idiomas
-
-El inglés es el idioma predominante en Nottimgham, asi que es no hay problemas de comunicación entre personas y máquinas. Puede encontrarse libros u objetos con textos en otros idiomas, pero no debería ser difícil conseguir traducciones más o menos buenas.
-
-\saltocolumna
-
 Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las maquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las maquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
-
-> Empiezas con la habilidad **Idioma Inglés a nivel de tu Astucia y un d4 en Idioma Leet**.
 
 \saltopagina
 
