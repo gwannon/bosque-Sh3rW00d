@@ -866,29 +866,34 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 Les instaladores tenían pequeños hackeos que usaban en su día a día y que les permitían usar los elementos de la arcología y el equipo de formas para los que no estaban preparados, como acelerar la velocidad de los montacargas o hacer que las puertas de los ascensores se abrieran solas sin que hubiera ascensor.
 ```
 
-Estos hackeos han ido siendo descubiertos con los años, normalmente de forma casual. Son combinaciones de botones, cambios de polaridad, puentes rápidos y cosas parecidas. 
+Estos hackeos han ido siendo descubiertos con los años, normalmente de forma casual. Son combinaciones de botones, cambios de polaridad, puentes rápidos y cosas parecidas. Están tan integradas en el código de los sistemas que todos los intentos de extirparlos ha supuesto fallos generalizados del sistema. Así que se han terminado por aceptar como algo inevitable.
 
-Están tan integradas en el código de los sistemas que todos los intentos de extirparlos ha supuesto fallos generalizados del sistema. Así que se han terminado por aceptar como algo inevitable.
+Estos hackeos son una especie de mezcla de ventaja y poder que **pueden aprenderse gastando un avance** y cumpliendo los requisitos. Por un avance puedes comprar un hackeo de tu rango o dos hackeos de rangos inferiores.
 
-Estos hackeos son una especie de mezcla de ventaja y poder que pueden aprenderse gastando un avance y cumpliendo los requisitos. 
-
-A priori, puede parecer que gastar un avance para controlar un ascensor es muy caro, pero pensad que muchas veces los refuerzos podrán llegar antes o después si tiene control del montacargas que acceso a tu sección de la arcología.   
-
-xxx
-
-\saltocolumna
+A priori, puede parecer que gastar un avance para controlar un ascensor es muy caro, pero pensad que muchas veces los refuerzos podrán llegar antes o después si tienes control del montacargas que da acceso a tu sección de la arcología.   
 
 Salvo que el hackeo diga lo contrario, **todos necesitan una tirada de Electrónica**. Si se pasa se consigue uno de los posibles efectos del hackeo. No se pueden ejecutar varios hackeos a la vez sobre el mismo sistema, solo un efecto estará activo, aquel con la tirada de Electronica más alta.
 
-Los hackeos son muy rápidos de realizar, por ello **solo necesitan una acción**. Salvo que hackeo diga otra cosa, la **duración es de 4 turnos**, xxx
+\saltocolumna
+
+Los hackeos son muy rápidos de realizar, por ello **solo necesitan una acción**. Salvo que el hackeo diga otra cosa, la **duración es de 4 turnos**. Puedes gastar avances para conseguir otros 4 turnos extras.
 
 Una persona que conozca el mismo hackeo podrá **desactivarlo haciendo una tirada de Electrónica**. La dificultad es la tirada de Electrónica del que ejecutó el hackeo.
+
+Gastar avances en más tiempo u otras modificaciones hace que resten 4 puntos a su dificultad. De forma que si sacas 10 en tu tirada de Electrónica y gastas un avance en alargar la duración del hackeo, aquella persona que quiera desactivar tu hackeo tira contra 6 (10 - 4).
 
 ### Controlar iluminación
 
 **Requisitos:** Novate
 
-xxx
+Mediante una mezcla de movimientos captados por los sensores de la iluminación y clics en los mandos de la luz, hacen que la iluminación actúe de las siguientes formas. Debes recordar que no hay fuentes naturales de la luz así que las estancias se quedan completamente a oscuras si se apaga la luz (a falta de otras formas de luz como leds de dispositivos o linternas). No se puede conseguir oscuridad total porque hay luces independientes de emergencia.
+
+* Puedes inutilizar la iluminación haciendo que se quede **encendida o apagada durante la duración del hackeo**.
+
+\saltopagina
+
+* Poner las luces en **modo estroboscópico**, lo que supone **-1 a todas las tiradas de habilidad que exijan la vista** como disparar o buscar algo.
+* Poner las luces en **modo random** de forma que se **enciendan o apaguen al azar** cada turno (par se apagan, impar se encienden).
 
 ### Controlar pantallas
 
@@ -896,13 +901,29 @@ xxx
 
 xxx
 
+* xxx
+* xxx
+* xxx
+
 ### Llamar ascensor
 
 **Requisitos:** Novate
 
+Pulsando una combinación de botones de ascensores, montacargas y escaleras mecánicas puedes conseguir ciertos efectos sobre ellos.
+
+* Puedes hacer que un **ascensor/montacargas venga a tí**, saltándote cualquier otra llamada previa.
+* Puedes hacer que un **ascensor/montacargas vaya a un extremo u otro de su ruta**. Este hackeo dura hasta que llega al punto final de su ruta elegido.
+* Puedes **cambiar la dirección de unas escaleras mecánicas**. Moverse en dirección contraria a las escaleras se considera terreno difícil.
+
+### Controlar puertas
+
+**Requisitos:** Experimentade
+
 xxx
 
-\saltopagina
+* xxx
+* xxx
+* xxx
 
 ### Controlar ascensor
 
@@ -910,11 +931,25 @@ xxx
 
 xxx
 
+* xxx
+* xxx
+* xxx
+
 ### Dominar iluminación
 
 **Requisitos:** Experimentade, Controlar iluminación
 
 xxx
+
+Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero controlando las luces de emergencia y similar.
+
+* Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
+* xxx
+* xxx
+
+**Avances:** 1 avance por cada más objetivo extra.
+
+\saltopagina
 
 ### Controlar climatización
 
@@ -922,27 +957,51 @@ xxx
 
 xxx
 
+* xxx
+* xxx
+* xxx
+
 ### Controlar vigilancia
 
-**Requisitos:** Experimentade
+**Requisitos:** Veterane, Controlar pantallas
 
 xxx
 
-### Dominar vigilancia
-
-**Requisitos:** xxx
-
-xxx
+* xxx
+* xxx
+* xxx
 
 ### Dominar climatización
 
-**Requisitos:** xxx
+**Requisitos:** Veterane, Controlar climatización
 
 xxx
 
+* xxx
+* xxx
+* xxx
+
+### Dominar puertas
+
+**Requisitos:** Veterane, Controlar puertas
+
+xxx
+
+* xxx
+* xxx
+* xxx
+
 \saltocolumna
 
-\saltopagina
+### Dominar vigilancia
+
+**Requisitos:** Heróique, Controlar vigilancia
+
+xxx
+
+* xxx
+* xxx
+* xxx
 
 ### Código Konami
 
@@ -960,15 +1019,17 @@ xxx
 
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
-|Controlar pantallas|Novate|xxx|
-|Controlar iluminación|Novate|xxx|
-|Dominar iluminación|Experimentade, Control de la iluminación|xxx|
-|Llamar ascensor|Novate|xxx|
+|Controlar pantallas|Novate|Encender y apagar pantallas y poner mensajes simples|
+|Controlar iluminación|Novate|Encender y apagar luces y otros efectos simples|
+|Llamar ascensor|Novate|Robar el ascensor a otras personas o mandarlo a un extremo de su ruta|
+|Controlar puertas|Experimentade|xxx|
 |Controlar ascensor|Experimentade, Llamar ascensor|xxx|
-|Controlar climatización|Experimentade|xxx|
-|Dominar climatización|xxx, Controlar climatización|xxx|
-|Controlar vigilancia|xxx|xxx|
-|Dominar vigilancia|xxx, Controlar vigilancia|xxx|
+|Dominar iluminación|Experimentade, Control de la iluminación|xxx|
+|Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
+|Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
+|Controlar vigilancia|Veterane, Controlar pantallas|xxx|
+|Dominar puertas|Veterane, Controlar puertas|xxx|
+|Dominar vigilancia|Heróique, Controlar vigilancia|xxx|
 |Código Konami|Legendario|xxx|
 
 \concolumna
