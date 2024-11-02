@@ -311,6 +311,8 @@ Les buscadores de la contraseña de SU, abreviando les buscadores, son un grupo 
 
 xxx
 
+\saltocolumna
+
 ***
 
 # |-|15t0r14 **Historia**
@@ -496,7 +498,7 @@ Les buscadores son un grupo de personas que creen en un mundo mejor y han jurado
 
 \saltocolumna
 
-Según sus creencias, les instaladores dejaron en alguna parte un password de "superusuario" que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
+Según sus creencias, les instaladores dejaron en alguna parte un password de _superusuario_ que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
 
 No tienes por qué creerte todo ese rollo, pero igual estás segure de que hay algo escondido en la arcología que vuelva a poner las cosas a como estaban con la directora R1c4rd. 
 
@@ -508,7 +510,7 @@ No tienes por qué creerte todo ese rollo, pero igual estás segure de que hay a
 
 Les erudites engloban a toda persona que se centra su forma de vida en el estudio y el descubrimiento científico. Todas las ramas de las ciencias y de las letras pueden ser su objeto de estudio. 
 
-Mientras que algunos de tus compañeres se han vendido a la compañía, tú sabes que el conocimiento puro debe ser libre de interferencias de cosas como el capitalismo. Tus descubrimiento deben ayudar a la humanidad, no a hacer dinero. 
+Mientras que algunos de tus compañeres se han vendido a la compañía, tú sabes que el conocimiento puro debe ser libre de interferencias de cosas como el capitalismo. Tus descubrimientos deben ayudar a la humanidad, no a hacer dinero. 
 
 * **Habilidades recomendadas:** Ciencias, Humanidades y Medicina
 * **Ventajas recomendadas:** Curandere, Erudite e Investigadore
@@ -585,7 +587,7 @@ Este arquetipo reúne a todo tipo de trabajadores durante alienados que ha descu
 Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la compañía y de la directora J0hn como su máxima representación.
 
 * **Habilidades recomendadas:** Electrónica, Intimidar y Reparar
-* **Ventajas recomendadas:** Macgyver, Mr. Arreglalotodo y Sindicade
+* **Ventajas recomendadas:** McGyver, Mr. Arreglalotodo y Sindicade
 * **Desventajas recomendadas:** Bocazas, Leal y Tozude
 
 &nbsp;
@@ -622,7 +624,7 @@ En la arcología de Nottingham se habla principalmente inglés, pero hay pequeñ
 
 #### Leet
 
-Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las maquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las maquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
+Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las máquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las IA y los constructos tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
 
 ![Ejemplo de Leet |-|3110 \\\0R1|) Hello World](./assests/images/hello-world.jpg "Ejemplo de Leet |-|3110 \\\0R1|) Hello World")
 
@@ -637,7 +639,7 @@ Cuando necesites dejar un mensaje escrito o escribir un grafiti y que las IA no 
 \concolumna
 
 ```
-Esta ambientación es un mundo difícil, pero hay una serie de ventajas propias que pueden serte de gran ayuda. Estas ventajas se centrán más en temas sociales y legales que en tecnología, combate o cibernética, que son tan típicas de las ambientaciones ciberpunk.
+Esta ambientación es un mundo difícil, pero hay una serie de ventajas propias que pueden serte de gran ayuda. Estas ventajas se centran más en temas sociales y legales que en tecnología, combate o cibernética, que son tan típicas de las ambientaciones ciberpunk.
 ```
 
 Como ya hemos dicho, no hay animales, con lo que **Vinculo Animal y Señor de las bestias no se pueden escoger**.
@@ -650,7 +652,7 @@ Mientras que la ventaja Rique/Extremadamente Rique te ofrecen riquezas, tienen e
 
 Alijos te ofrece esa riqueza al otro lado de la ley. Tienes grandes cantidades de dinero en forma de alijos pueden ser objetos de valor, cupones de trueques, etc. Lo más importante es que es dinero que no está controlado por la empresa y se puede usar en actividades que no controla la compañía y/o de carácter ilegal.
 
-> Alijos funciona como Rique salvo que solo se puede usar en temas ilegales o cuando no se quiera que las transacciones comerciales sean rastreables.
+> **Alijos funciona como Rique** salvo que solo se puede usar en temas ilegales o cuando no se quiera que las transacciones comerciales sean rastreables.
 
 \saltocolumna
 
@@ -666,9 +668,9 @@ Si un sistema informático o intenta hacer un simple control de tu identidad fun
 
 \saltopagina
 
-El problema lo tienen los sistema de seguridad y vigilancia, hacen tantos chequeos por microsegundo de tu identidad que terminan fallando y ralentizándose y terminan tomándote por otra persona o simplemente te ignoran.
+El problema lo tienen los sistemas de seguridad y vigilancia, hacen tantos chequeos por microsegundo de tu identidad que terminan fallando y ralentizándose y terminan tomándote por otra persona o simplemente te ignoran.
 
-> Todos los sistemas de seguridad e IA de vigilancia tienen un -2 a la hora de detectarte e identificarte (Notar, Investigar o incluso Disparar). Si fallan suelen considerarte inexistente o te asignan otra identidad.  
+> Todos los **sistemas de seguridad e IA de vigilancia tienen un -2 a la hora de detectarte e identificarte** (Notar, Investigar o incluso Disparar). Si fallan suelen considerarte inexistente o te asignan otra identidad.  
 
 ### Necesarie para la compañía
 
@@ -676,7 +678,7 @@ El problema lo tienen los sistema de seguridad y vigilancia, hacen tantos cheque
 
 Por alguna razón eres necesario para la compañía y no puede permitirse que desaparezcas. Quizás tus habilidades son muy valoradas o únicas, estás protegido por alguien importante o hay algo en tí que la compañía busca. Sea lo que sea, todas las IA y les secuaces de las compañía tienen ordenes de no dañarte, pueden intentar noquearte o inmovilizarte, pero deben evitar hacerle daño.
 
-De normal **esta ventaja debería tener un Secreto** que explique porque eres necesarie para la compañia.
+De normal **esta ventaja debería tener un Secreto** que explique por qué eres necesarie para la compañía.
 
 > Todos los agentes de la compañía (humanos, constructos e IA) **deben pasar una tirada de Espíritu para tratar de dañarte**. Si fallan tendrán que cambiar su acción y intercambiarla por otra no dañina.
 
@@ -688,13 +690,13 @@ De normal **esta ventaja debería tener un Secreto** que explique porque eres ne
 
 El sindicalismo está prohibido por la compañía. Mientras que la directora R1c4rd lo permitía de forma no oficial, J0hn la ha perseguido con todos sus recursos y aplicando las penas máximas.
 
-Aún así, el movimiento está más fuerte que nunca sobre todo en las clases sociales más bajas. Todo esto es gracias a sus interacciones con otros grupos fuera de la ley como _boskis_.
+Aun así, el movimiento está más fuerte que nunca sobre todo en las clases sociales más bajas. Todo esto es gracias a sus interacciones con otros grupos fuera de la ley como _boskis_.
 
 Ser un cargo importante del sindicato debería venir con un Secreto, mayor o menor según el cargo.
 
-Los sindicades siempre se apoyan (en temas laborales y de derechos), se ayudan y se cubren. No tienen porque dar la vida por tí, pero arriesgarán lo mismo que arriesgues tú.
+Los sindicades siempre se apoyan (en temas laborales y de derechos), se ayudan y se cubren. No tienen por qué dar la vida por ti, pero arriesgarán lo mismo que arriesgues tú.
 
-> A parte de las ventajas de pertenecer a un grupo fuerte y unido, puedes acceder a productos ilegales no controlados por las mafias (drogas, estimulantes o implantes letales) como ciberimplantes ilegales que no sean de combate o materiales de hackeo.
+> A parte de las ventajas de pertenecer a un grupo fuerte y unido, puedes **acceder a productos ilegales no controlados por las mafias** (drogas, estimulantes o implantes letales) como ciberimplantes ilegales que no sean de combate o materiales de hackeo.
 
 \saltopagina
 
@@ -734,15 +736,15 @@ La fobia social, conocido también como trastorno de ansiedad social (TAS), es u
 
 Dar discursos en público, participar en concursos, desfilar por una pasarela, etc. se vuelven tareas muy complicadas, aunque tampoco llevas bien las reuniones sociales en las que tendrá que relacionarse (fiestas, eventos, etc.) o los encuentros inesperados con conocidos, familiares, amigos, etc.
 
-Nottinghan tiene una altísima densidad de población, lo cual hace que las situaciones de fobia social sean muy normales. También gracias a la tecnología se puede estar en todas partes sin estar realmente.
+Nottingham tiene una altísima densidad de población, lo cual hace que las situaciones de fobia social sean muy normales. También gracias a la tecnología se puede estar en todas partes sin estar realmente.
 
-> No puedes gastar benis cuando estás rodeade de demasiada gente observando y juzgando lo que haces.
+> **No puedes gastar benis cuando estás rodeade de demasiada gente** observando y juzgando lo que haces.
 
 ### Imán de lo extraño (menor)
 
-Todo lo extraño se siente atraído hacia ti para bien y para mal. No es algo que busques, simplemente es algo que pasa. A veces es una bendición y otras un maldición, pero la mayoría de las veces es un fastidio.
+Todo lo extraño se siente atraído hacia ti para bien y para mal. No es algo que busques, simplemente es algo que pasa. A veces es una bendición y otras una maldición, pero la mayoría de las veces es un fastidio.
 
-Seguro que caerás por la exclusa que lleva a la madriguera del cocodrilo albino que nadie creía que existís, abres el armario donde le influencer guarda sus útiles fetichistas o se te cae una probeta llena de nanitos que te tiñen la cara de azul.
+Seguro que caerás por la esclusa que lleva a la madriguera del cocodrilo albino que nadie creía que existís, abres el armario donde le influencer guarda sus útiles fetichistas o se te cae una probeta llena de nanitos que te tiñen la cara de azul.
 
 > Cuando haya que hacer **tiradas al azar** para ver a quién le pasa algo raro, se debería **elegir directamente al imán de lo extraño**.
 
@@ -754,7 +756,7 @@ Tus progenitores te concibieron fuera del sistema, bien porque también estaban 
 
 Esta desventaja deberías reservarla para boskis nacidos en el bosque, el resto de personas es muy difícil que no hayan sido registrados en el sistema de la compañía y se les haya implantado el HUB.
 
-Si eres detenido, es fácil saber que no estas en el sistema, porque el sistema no tiene fallos. si dice que no existes es que eres un _boski_ infiltrado en el complejo.
+Si eres detenido, es fácil saber que no estas en el sistema, porque el sistema no tiene fallos. Si dice que no existes es que eres un _boski_ infiltrado en el complejo.
 
 Si en algún momento **te implantan un HUB de conexión se pierde esta ventaja**.
 
@@ -851,7 +853,7 @@ Están tan integradas en el código de los sistemas que todos los intentos de ex
 
 Estos hackeos son una especie de mezcla de ventaja y poder que pueden aprenderse gastando un avance y cumpliendo los requisitos. 
 
-A priori, puede parecer que gastar un avance para controlar un ascensor es muy caro pero pensad que muchas veces los refuerzos podrán llegar antes o después si tiene control del montacargas que acceso a tu sección de la arcología.   
+A priori, puede parecer que gastar un avance para controlar un ascensor es muy caro, pero pensad que muchas veces los refuerzos podrán llegar antes o después si tiene control del montacargas que acceso a tu sección de la arcología.   
 
 xxx
 
@@ -891,19 +893,19 @@ xxx
 
 ### Dominar iluminación
 
-**Requisitos:** Experimentade, Controar iluminación
+**Requisitos:** Experimentade, Controlar iluminación
 
 xxx
 
 ### Controlar climatización
 
-**Requisitos:** Experimentado
+**Requisitos:** Experimentade
 
 xxx
 
 ### Controlar vigilancia
 
-**Requisitos:** Experimentado
+**Requisitos:** Experimentade
 
 xxx
 
@@ -1904,7 +1906,11 @@ Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros 
 
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo.
 
-* [Portada por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm#query=circuit%20svg&position=2&from_view=keyword&track=ais&uuid=27946d73-52ee-4da0-b997-0ec27bf1ad53) en Freepik
+* [Portada por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm) en Freepik
+
+* [Portada Historia](https://www.deviantart.com/madragonn/art/Futuristic-Circuit-Texture-138882737) Futuristic Circuit Texture By [madragonn](https://www.deviantart.com/madragonn/) Creative Commons Attribution 3.0 License
+
+* [Portada Cibernia](https://www.freepik.com/free-photo/background-with-printed-circuit-board-concept-modern-technologies_366211129.htm) en Freepik
 
 * [Retratos de personajes](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) por VÍCTOR JIMÉNEZ MERINO [(Licencia Attribution-NonCommercial 4.0 International)](https://creativecommons.org/licenses/by-nc/4.0/)
 

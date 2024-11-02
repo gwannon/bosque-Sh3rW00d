@@ -731,6 +731,20 @@ section:last-of-type {
   background-size: cover;
 }
 
+section:nth-of-type(5) h1 {
+  background-image: url('../images/futuristic_circuit_texture_by_madragonn_d2aoqlt-414w-2x.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+section:nth-of-type(7) h1 {
+  background-image: url('../images/background-with-printed-circuit-board-concept-modern-technologies.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
 /* Botón */
 
 a.download {
