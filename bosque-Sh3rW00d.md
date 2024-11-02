@@ -187,20 +187,22 @@ xxx
 
 xxx
 
-### Fiestas. celebraciones y otros eventos
+### Fiestas, celebraciones y otros eventos
 
 xxx
 
 
 ### Deporte
 
-xxx
+El deporte se ha adaptado a la vida en la arcología gracias a las ultimas tecnologías, desde bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hielo.
 
 #### Hockey de pasillo
 
-El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hielo pero sin patines y una pelota de goma en vez de un puck. Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos. Gana el equipo que más goles meta o el que consigue marcar en 3 rondas seguidas sin que su oponente le marque (llamado en el argot deportivo "baño").
+El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hielo pero sin patines y una pelota de goma en vez de un puck. Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos.
 
 \saltopagina
+
+Gana el equipo que más goles meta o el que consigue marcar en 3 rondas seguidas sin que su oponente le marque (llamado en el argot deportivo "baño").
 
 Uno de los elementos más interesantes del hockey de pasillo es el campo de juego. Según el reglamento oficial puede ser cualquier pasillo de la arcología que tenga un mínimo de 40 m² usando dos puertas del pasillo como porterías. 
 
@@ -218,11 +220,16 @@ El juego es más de habilidad para moverse entre espacios pequeños, de saber mo
 
 Reglamento:
 
-* xxx
+* Solo se puede tocar la pelota con el stick.
+* No se puede golpear a otro jugador con el stick.
+* La pelota puede rebotar contra cualquier cosa del terreno de juego.
+* Si cometes una falta, debes soltar tu stick y no moverte los segundos de castigo. Tus compañeres y tus adversaries puede usarte como protección, obstáculo, etc. mientras estás en la falta.
 
-Equipos:
+Hay gran cantidad de equipos amateurs en la arcología, pero solos 12 profesionales en la Liga de Hockey de pasillo. Estos equipos tienen  patrocinadores, remuneraciones, buen equipamiento, entrenadores, gimnasios, etc. Los más famosos suelen acabar de influencers de la directora J0hn, haciendo reels y directos para les fans de este deporte.
 
-* xxx
+El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y la sombra de los amaños siempre ha sobrevolado el hockey de pasillo profesional.
+
+**Semilla de aventura:** Un pequeño equipo de hockey de pasillo ha dado el campanazo este año, pueden hasta ganar la liga. Pero necesitan guardaespaldas que les protejan, ya que hay gente que quiere impedir que lleguen a la final.
 
 ### Sexo y género
 
@@ -625,7 +632,7 @@ Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la com
 Bosque Sh3rW00d es una ambientación ciberpunk tremendamente urbana lo cual implica cambios en las habilidades básicas de savage Worlds.
 ```
 
-Como ya se ha dicho en la creación de personajes, **desaparecen Ciencia Extraña, Fe, Hechicería, ocultismo y Psiónica**.
+Como ya se ha dicho en la creación de personajes, **desaparecen Ciencia Extraña, Fe, Hechicería, Ocultismo y Psiónica**.
 
 ### Pasillear (Astucia)
 
@@ -647,7 +654,7 @@ Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que b
 
 ![Ejemplo de Leet |-|3110 \\\0R1|) Hello World](./assests/images/hello-world.jpg "Ejemplo de Leet |-|3110 \\\0R1|) Hello World")
 
-Cuando necesites dejar un mensaje escrito o escribir un grafiti y que las IA no lo reconozcan e interpreten, puedes tirar Leet. Tu tirada será la dificultad para las maquinas (con la capacidad especial IA o Constructo) para entender tu mensaje. Deberán hacer una tirada de Astucia o Leet (en caso de saberlo) para entender el texto.
+Cuando necesites dejar un mensaje escrito o escribir un grafiti y que las IA no lo reconozcan e interpreten, puedes tirar Leet. Tu tirada será la dificultad para las máquinas (con la capacidad especial IA o Constructo) para entender tu mensaje. Deberán hacer una tirada de Astucia o Leet (en caso de saberlo) para entender el texto.
 
 \saltopagina
 
@@ -695,7 +702,7 @@ El problema lo tienen los sistemas de seguridad y vigilancia, hacen tantos chequ
 
 **Requisitos:** Novate
 
-Por alguna razón eres necesario para la compañía y no puede permitirse que desaparezcas. Quizás tus habilidades son muy valoradas o únicas, estás protegido por alguien importante o hay algo en tí que la compañía busca. Sea lo que sea, todas las IA y les secuaces de las compañía tienen ordenes de no dañarte, pueden intentar noquearte o inmovilizarte, pero deben evitar hacerle daño.
+Por alguna razón eres necesario para la compañía y no puede permitirse que desaparezcas. Quizás tus habilidades son muy valoradas o únicas, estás protegido por alguien importante o hay algo en tí que la compañía busca. Sea lo que sea, todas las IA y les secuaces de la compañía tienen ordenes de no dañarte, pueden intentar noquearte o inmovilizarte, pero deben evitar hacerle daño.
 
 De normal **esta ventaja debería tener un Secreto** que explique por qué eres necesarie para la compañía.
 
@@ -779,7 +786,7 @@ Si eres detenido, es fácil saber que no estas en el sistema, porque el sistema 
 
 Si en algún momento **te implantan un HUB de conexión se pierde esta ventaja**.
 
-> No tienes **ninguna de las ventajas de tener HUB de conexión** al sistema, pero lo compensas no teniendo **ninguna de las desventajas**. A priori no  existes para la directora J0hn y sus tentáculos cibernéticos. No hay registros, ni huellas, ni ningún dato sobre tí y **eres invisible para la gran mayoría cámaras y sensores de la arcología**.
+> No tienes **ninguna de las ventajas de tener HUB de conexión** al sistema, pero lo compensas no teniendo **ninguna de las desventajas**. A priori no existes para la directora J0hn y sus tentáculos cibernéticos. No hay registros, ni huellas, ni ningún dato sobre tí y **eres invisible para la gran mayoría cámaras y sensores de la arcología**.
 
 \saltopagina
 
@@ -901,8 +908,8 @@ Mediante una mezcla de movimientos captados por los sensores de la iluminación 
 
 xxx
 
-* xxx
-* xxx
+* Encender y apagar pantallas. xxx
+* Puedes poner mensajes simples y estáticos de fuentes externas.
 * xxx
 
 ### Llamar ascensor
@@ -1042,11 +1049,53 @@ xxx
 
 \concolumna
 
+```
+Aquí encontrarás reglas para sistemas nuevos propios de esta ambientación.
+```
+
 ### Cómo jugar al hockey de pasillo
 
-```
-xxx
-```
+Antes de empezar, hay que sortear el campo como quieras. Como ya hemos dicho, siempre hay un campo mejor que otro que y el ganador podrá tenerlo 3 de las 5 rondas de juego. Saca una carta y según su palo el campo bueno tiene una ventaja u otra.
+
+* **Corazones:** Portería pequeña. El parabol tiene un +2 a su tirada de Atletismo.
+* **Diamantes:** En forma de L. La parte corta de la L es donde está tu portería y permite que le pasabol juegue con ello al defenderse. Le pasabol tiene un +2 a Atletismo.
+* **Picas:** Portería grande. El lanzabol tiene un +2 a su tirada de Atletismo.
+* **Tréboles:** Sucio y lleno de trastos. El sitio está lleno de trastos que molestan al jugar y el suelo está sucio y resbaladizo. Todes les jugadores tienen -2 a atletismo.
+
+Un partido de hockey de pasillo consta de 5 rondas de combate. Cada ronda tiene una fase de estrategia y otra de juego.
+
+En la fase de estrategia se podrán escoger les 3 jugadores (parabol, pasabol, lanzabol) que van a participar en las jugadas de cada ronda siguiendo estas reglas de participación: le parabol no puede jugar de lanzabol y viceversa y nadie puede participar en las jugadas más de 3 rondas seguidas debiendo descansar una ronda como mínimo. También puede entrar a descansar une jugadore y salir une suplente, cumpliendo las normas anteriores.
+
+En la fase de juego les lanzaboles tiran Atletismo para jugar la bola, les paraboles podrá tirar Provocar para distraer al contrario o tirar Atletismo y les pasaboles podrá tirar Tácticas para manejar a su equipo o Atletismo. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos. Si alguna de las tiradas de Atletismo falla, pasa algo y el equipo automáticamente falla la ronda y el contrario gana el punto. Si los dos equipos fallan, ambos ganan un punto.
+
+Jugar fuera de tu puesto habitual, por ejemplo parabol por pasabol o pasabol por lanzabol supone un -2.
+
+Al final de cada ronda, saca una carta de acción. Si sale un trebol en la carta de acción, un evento en el partido (tira en la tabla de eventos).
+
+**Uso de benis:** convertir un fallo de Atletismo en un éxito directo, pero sin avances; poder participar en una ronda sin cumplir las reglas de participación.
+
+Al final de las 5 rondas gana el que más puntos tenga. También se puede ganar marcando en 3 rondas seguidas sin que tu oponente te marque. En caso de empate, se jugarán rondas extras a muerte súbita. En el momento que uno de los equipos marque un punto y el otro no, gana el encuentro.
+
+\saltopagina
+
+\sincolumna
+
+|1d10|Evento|
+|---|---|
+|1|xxx|
+|2|xxx|
+|3|xxx|
+|4|xxx|
+|5|xxx|
+|6|xxx|
+|7|xxx|
+|8|xxx|
+|9|xxx|
+|10|xxx|
+
+\concolumna
+
+### Concursos de puntería
 
 xxx
 
@@ -1436,7 +1485,6 @@ xxx
 * **Ventajas:** xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
-
 
 \saltopagina
 

@@ -2,3 +2,5 @@
 {"rule":"SABIA","sentence":"^\\QEl resto de crímenes son juzgadas por \"las 3 sabIAs\".\\E$"}
 {"rule":"HAZ_HAS","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}
 {"rule":"PREP_VERB","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}
+{"rule":"VOSEO","sentence":"^\\QNovate\\E$"}
+{"rule":"VOSEO","sentence":"^\\QNovate\\E$"}
