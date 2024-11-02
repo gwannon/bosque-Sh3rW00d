@@ -241,11 +241,17 @@ La compañía tuvo que establecer una serie de leyes que regirían el funcionami
 
 Las directoras tienen el privilegio de juzgar a todos los habitantes de Nottingham y su decisión no es recurrible. Pero eso genera mucho consumo de ciclos y solo juzgan casos importantes. El resto de crímenes son juzgadas por "las 3 sabIAs".
 
-Las 3 sabIAs son 3 IA de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por el defensor, otra por el acusador y una tercera al azar entre todas las IA de Nottingham.
+Las 3 sabIAs son 3 IA de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por la defensa, otra por la acusación y una tercera al azar entre todas las IA de Nottingham.
 
-Las IA escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso, ya que una de las IA es del defensor y otra del acusador y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo y como no tienen sesgos humanos suelen llegar a veredictos bastante justos y equitativos. Es por ello que les mejores abogades van detectando las IA que más posibilidades tienen de llevarse al resto a su campo.
+Las IA escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso, ya que una de las IA es de la defensa y otra de la acusación y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo. Como no tienen muchos de los sesgos humanos suelen llegar a veredictos bastante justos y equitativos.
+
+\saltocolumna
+
+Les mejores abogades van detectando las IA que más posibilidades tienen de llevarse al resto a su campo.
 
 Durante el juicio que dura entre 12 y 24 horas las IA solo pueden trabajar en el juicio. No es la primera vez que los ascensores de una sección dejan de funcionar porque su IA tiene un juicio.
+
+**Semilla de aventura:** Tu banda recibe el soplo que la IA de seguridad de un importante centro de datos tiene que participar en un juicio. Puede ser una oportunidad buena para conseguir nuevos códigos de acceso, mapas de instalaciones, etc. un buen botín de datos.
 
 ### Penas
 
@@ -598,7 +604,7 @@ Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la com
 Bosque Sh3rW00d es una ambientación ciberpunk tremendamente urbana lo cual implica cambios en las habilidades básicas de savage Worlds.
 ```
 
-Como ya se ha dicho en la creación de personajes, desaparecen Ciencia Extraña, Fe, Hechicería, ocultismo y Psiónica.
+Como ya se ha dicho en la creación de personajes, **desaparecen Ciencia Extraña, Fe, Hechicería, ocultismo y Psiónica**.
 
 ### Pasillear (Astucia)
 
@@ -631,7 +637,7 @@ Cuando necesites dejar un mensaje escrito o escribir un grafiti y que las IA no 
 \concolumna
 
 ```
-Esta ambientación es un mundo difícil, pero hay una serie de ventajas propias que pueden serte de gran ayuda. Estas ventajas se centrán más en temas sociales que en tecnología, combate o cibernética, que son tan típicas de las ambientaciones ciberpunk.
+Esta ambientación es un mundo difícil, pero hay una serie de ventajas propias que pueden serte de gran ayuda. Estas ventajas se centrán más en temas sociales y legales que en tecnología, combate o cibernética, que son tan típicas de las ambientaciones ciberpunk.
 ```
 
 Como ya hemos dicho, no hay animales, con lo que **Vinculo Animal y Señor de las bestias no se pueden escoger**.
@@ -648,6 +654,34 @@ Alijos te ofrece esa riqueza al otro lado de la ley. Tienes grandes cantidades d
 
 \saltocolumna
 
+[![ERROR By mindofjen](./assests/images/error_by_mindofjen_daaw03e-375w-2x.png "ERROR By mindofjen")](https://www.deviantart.com/mindofjen/art/ERROR-622951034 "ERROR By mindofjen")
+
+### Identidad glitcheada
+
+**Requisitos:** Novate, no puede tenerse Nacide Libre
+
+Por alguna extraña razón, tu identidad a veces falla. Alguna vez tienes problemas al hacer pagos o cobrar tu sueldo. Lo interesante es que muchas veces los sistema de reconocimiento y vigilancia no logran detectarte o te toman por otra persona. 
+
+Si un sistema informático o intenta hacer un simple control de tu identidad funciona perfectamente o igual falla y a la segunda vez funciona perfectamente.
+
+\saltopagina
+
+El problema lo tienen los sistema de seguridad y vigilancia, hacen tantos chequeos por microsegundo de tu identidad que terminan fallando y ralentizándose y terminan tomándote por otra persona o simplemente te ignoran.
+
+> Todos los sistemas de seguridad e IA de vigilancia tienen un -2 a la hora de detectarte e identificarte (Notar, Investigar o incluso Disparar). Si fallan suelen considerarte inexistente o te asignan otra identidad.  
+
+### Necesarie para la compañía
+
+**Requisitos:** Novate
+
+Por alguna razón eres necesario para la compañía y no puede permitirse que desaparezcas. Quizás tus habilidades son muy valoradas o únicas, estás protegido por alguien importante o hay algo en tí que la compañía busca. Sea lo que sea, todas las IA y les secuaces de las compañía tienen ordenes de no dañarte, pueden intentar noquearte o inmovilizarte, pero deben evitar hacerle daño.
+
+De normal **esta ventaja debería tener un Secreto** que explique porque eres necesarie para la compañia.
+
+> Todos los agentes de la compañía (humanos, constructos e IA) **deben pasar una tirada de Espíritu para tratar de dañarte**. Si fallan tendrán que cambiar su acción y intercambiarla por otra no dañina.
+
+\saltocolumna
+
 ### Sindicade
 
 **Requisitos:** Reparar d6
@@ -658,9 +692,9 @@ Aún así, el movimiento está más fuerte que nunca sobre todo en las clases so
 
 Ser un cargo importante del sindicato debería venir con un Secreto, mayor o menor según el cargo.
 
-Los sindicades siempre se apoyan (en temas laborales y de derechos), se ayudan y se cubren. 
+Los sindicades siempre se apoyan (en temas laborales y de derechos), se ayudan y se cubren. No tienen porque dar la vida por tí, pero arriesgarán lo mismo que arriesgues tú.
 
-> A parte de las ventajas de pertenecer a un grupo fuerte y unido, puedes acceder a productos ilegales no controlados por las mafias (drogas, estimulantes o implantes letales) como ciber implantes ilegales que no sean de combate o materiales de hackeo.
+> A parte de las ventajas de pertenecer a un grupo fuerte y unido, puedes acceder a productos ilegales no controlados por las mafias (drogas, estimulantes o implantes letales) como ciberimplantes ilegales que no sean de combate o materiales de hackeo.
 
 \saltopagina
 
@@ -778,15 +812,16 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 
 ### Listado de armamento
 
-|Arma|Daño|Distancia|Peso|Coste|Cdf|FUE Min.|PA|Notas|
-|---|---|---|---|---|---|---|
-|Slingshot|Str+d4-1|5/10/20|0,5|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos|
+|ARMA|DAÑO|DISTANCIA|PESO|COSTE|CDF|FUE MIN.|PA|NOTAS|COSTE|
+|---|---|---|---|---|---|---|---|
+|Slingshot|Str+d4-1|5/10/20|0,5|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos|30|
 
 ¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
 
 ### Listado de protecciones
 
-xxx
+|PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
+|---|---|---|---|---|---|
 
 ### Listado de vehículos
 
@@ -810,7 +845,23 @@ xxx
 Les instaladores tenían pequeños hackeos que usaban en su día a día y que les permitían usar los elementos de la arcología y el equipo de formas para los que no estaban preparados, como acelerar la velocidad de los montacargas o hacer que las puertas de los ascensores se abrieran solas sin que hubiera ascensor.
 ```
 
+Estos hackeos han ido siendo descubiertos con los años, normalmente de forma casual. Son combinaciones de botones, cambios de polaridad, puentes rápidos y cosas parecidas. 
+
+Están tan integradas en el código de los sistemas que todos los intentos de extirparlos ha supuesto fallos generalizados del sistema. Así que se han terminado por aceptar como algo inevitable.
+
+Estos hackeos son una especie de mezcla de ventaja y poder que pueden aprenderse gastando un avance y cumpliendo los requisitos. 
+
+A priori, puede parecer que gastar un avance para controlar un ascensor es muy caro pero pensad que muchas veces los refuerzos podrán llegar antes o después si tiene control del montacargas que acceso a tu sección de la arcología.   
+
 xxx
+
+\saltocolumna
+
+Salvo que el hackeo diga lo contrario, **todos necesitan una tirada de Electrónica**. Si se pasa se consigue uno de los posibles efectos del hackeo. No se pueden ejecutar varios hackeos a la vez sobre el mismo sistema, solo un efecto estará activo, aquel con la tirada de Electronica más alta.
+
+Los hackeos son muy rápidos de realizar, por ello **solo necesitan una acción**. Salvo que hackeo diga otra cosa, la **duración es de 4 turnos**, xxx
+
+Una persona que conozca el mismo hackeo podrá **desactivarlo haciendo una tirada de Electrónica**. La dificultad es la tirada de Electrónica del que ejecutó el hackeo.
 
 ### Controlar iluminación
 
@@ -830,13 +881,13 @@ xxx
 
 xxx
 
+\saltopagina
+
 ### Controlar ascensor
 
 **Requisitos:** Experimentade, Llamar ascensor
 
 xxx
-
-\saltocolumna
 
 ### Dominar iluminación
 
@@ -867,6 +918,8 @@ xxx
 **Requisitos:** xxx
 
 xxx
+
+\saltocolumna
 
 \saltopagina
 

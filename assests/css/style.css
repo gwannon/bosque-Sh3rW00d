@@ -12,6 +12,7 @@
   --neon-color: #39ff14;
   --black-color: #000;
   --padding: 45px;
+  --border-height: 3px;
 }
 
 @font-face {
@@ -647,7 +648,13 @@ section:nth-child(odd) ol > li:before {
   background-color: var(--yellow-color);
 }
 
+p.seed {
+  color: var(--neon-color);
+  background-color: var(--black-color);
+  border: var(--border-height) dashed var(--neon-color);
+  padding: calc(var(--padding) / 2);
 
+}
 
 table {
   margin: 15px auto;

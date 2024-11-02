@@ -23,6 +23,8 @@ $html = str_replace("<div class='columns'>\n</div>", "", $html);
 $html = str_replace("<table>", "<div><table>", $html); 
 $html = str_replace("</table>", "</table></div>", $html); 
 
+$html = str_replace("<p><strong>Semilla de aventura:</strong>", "<p class='seed'><strong>Semilla de aventura:</strong>", $html); 
+
 
 file_put_contents(__DIR__ . "/../index.html", $html);
 
