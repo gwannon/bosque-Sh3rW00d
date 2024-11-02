@@ -51,6 +51,7 @@ printf '\\cfoot{ \\thepage\\ }\n'
 printf '\\begin{document}\n'
 printf '\\multido{}{'
 printf "$NUM_PAGES"
+printf '\\thispagestyle{empty}\n' # quitar numeración
 printf '}{\\phantom{x}\\newpage}\n'
 printf '\\end{document}\n'
 ) > $TMP_PAGES_TEX
