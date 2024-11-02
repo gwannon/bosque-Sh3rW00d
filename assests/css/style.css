@@ -731,10 +731,24 @@ section:last-of-type {
   background-size: cover;
 }
 
+section:nth-of-type(4) h1 {
+  background-image: url('../images/20585.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
 section:nth-of-type(5) h1 {
   background-image: url('../images/futuristic_circuit_texture_by_madragonn_d2aoqlt-414w-2x.jpg');
   background-repeat: no-repeat;
   background-position: bottom center;
+  background-size: cover;
+}
+
+section:nth-of-type(6) h1 {
+  background-image: url('../images/arcolog1a.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
   background-size: cover;
 }
 
@@ -743,6 +757,23 @@ section:nth-of-type(7) h1 {
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
+}
+
+section:nth-of-type(8) h1 {
+  background-image: url('../images/bestiar1o.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+
+}
+@media print {
+  section:nth-of-type(8) h1 {
+    justify-content: flex-end;
+    background-position: top center;
+  }
+  section:nth-of-type(8) h1 strong {
+    margin-bottom: 100px;
+  }
 }
 
 /* Botón */

@@ -6,7 +6,7 @@ Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo ex
 
 Formarás parte de un grupo de descastades que sobreviven ocultos en el megacomplejo Nottingham. Lucharás por tu supervivencia y tu libertad contra la directora J0hn, una malvada IA que está a cargo del complejo.
 
-La directora J0hn basa todas sus acciones en unos protocolos que buscan maximizar los beneficios para la empresa que la creo a ella y a la arcología de Nottingham. Todos recuerdan a la antigua, legítima y benevolente directora R1c4rd y esperan su regreso del proyecto del departamento de armamentística a la que fue asignada por la compañía. 
+J0hn rige Nottingham siguiendo unos protocolos que buscan maximizar los beneficios para la compañía sin importar lo que les pase a los habitantes del complejo. Todos recuerdan a la antigua, legítima y benevolente directora R1c4rd y esperan su regreso del proyecto del departamento de armamentística a la que fue asignada por la compañía. 
 
 Arrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ... 
 
@@ -56,14 +56,9 @@ xxx
 
 \saltopagina
 
-\sincolumna
-
 ## Orden social
-
-\concolumna
-
 ```
-Las gentes que viven en Nottingham son conocidos como notis. xxx
+Las gentes que viven en Nottingham son conocidas como notis. xxx
 ```
 
 xxx
@@ -73,6 +68,12 @@ xxx
 xxx
 
 ### Influencers (Iglesia)
+
+Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers adictos a la directora J0hn que marcan la vida de los _notis_. Ellos establecen las modas, lo que es _cool_ y lo que no, lo que se debe hacer y lo que no y, al final, lo que está bien y lo que está mal.
+
+Además, señalan a los disidentes y los del excluyen socialmente, de forma que sus acciones y proclamas contra el sistema son muchas veces rechazadas, desacreditadas y olvidadas.
+
+También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
 
 xxx
 
@@ -172,6 +173,8 @@ Les habitantes de Nottingham no conocen lo que son los espacios abiertos, no sab
 
 xxx
 
+\saltocolumna
+
 ### Ocio y entretenimiento
 
 xxx
@@ -197,9 +200,9 @@ xxx
 
 El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hielo pero sin patines y una pelota de goma en vez de un puck. Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos. Gana el equipo que más goles meta o el que consigue marcar en 3 rondas seguidas sin que su oponente le marque (llamado en el argot deportivo "baño").
 
-Uno de los elementos más interesantes del hockey de pasillo es el campo de juego. Según el reglamento oficial puede ser cualquier pasillo de la arcología que tenga un mínimo de 40 m² usando dos puertas del pasillo como porterías. 
-
 \saltopagina
+
+Uno de los elementos más interesantes del hockey de pasillo es el campo de juego. Según el reglamento oficial puede ser cualquier pasillo de la arcología que tenga un mínimo de 40 m² usando dos puertas del pasillo como porterías. 
 
 Las puertas que no tienen que ser del mismo tamaño ni tener unos mínimos o máximos, así que es importante ganar el sorteo inicial para elegir la portería más ventajosa. Aunque se cambie cada ronda, al ser 5 estarías 3 en la buena y 2 en la mala.
 
@@ -210,6 +213,8 @@ Los partidos son retransmitidos a través de las cámaras de vigilancia del pasi
 Debido al poco espacio del campo, los partidos son arbitrados desde fuera usando las imágenes de las cámaras de seguridad y hablando por los altavoces. Por la misma razón, los entrenadores, si se tienen, siguen el partido por las cámaras de seguridad y dan las órdenes también por la megafonía.
 
 El juego es más de habilidad para moverse entre espacios pequeños, de saber mover la bola y aprovechar los rebotes que de fuerza física, ya que no hay espacio para golpear a tu contrincante con el stick o para coger carrerilla.
+
+\saltocolumna
 
 Reglamento:
 
@@ -275,13 +280,13 @@ xxx
 
 xxx
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
 
 ## Les instaladores
-
-[![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
 
 \concolumna
 
@@ -301,13 +306,27 @@ xxx
 
 Cuando les instaladores se fueron por orden de la compañía, se llevaron los nanobots, pero no todos. Muchos de los nanitos de zonas en construcción quedaron huérfanos y sus firmwares desactualizado empezaron a fallar o a funcionar por su cuenta y siguieron construyendo ahora con materiales reciclados de origen biológico. Así es como el bosque obtuvo su nombre, al crearse estructuras orgánicas a las columnas techos, suelos y paredes del bosque.
 
-xxx
+\saltocolumna
 
-\saltopagina
+xxx
 
 ### La búsqueda de la contraseña de SU
 
 Les buscadores de la contraseña de SU, abreviando les buscadores, son un grupo de personas que creen que les instaladores dejaron en alguna parte un password de "superuser" que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
+
+xxx
+
+\saltopagina
+
+\sincolumna
+
+## El mundo exterior
+
+\concolumna
+
+```
+xxx
+```
 
 xxx
 
@@ -662,7 +681,7 @@ Alijos te ofrece esa riqueza al otro lado de la ley. Tienes grandes cantidades d
 
 **Requisitos:** Novate, no puede tenerse Nacide Libre
 
-Por alguna extraña razón, tu identidad a veces falla. Alguna vez tienes problemas al hacer pagos o cobrar tu sueldo. Lo interesante es que muchas veces los sistema de reconocimiento y vigilancia no logran detectarte o te toman por otra persona. 
+Por alguna extraña razón, tu identidad a veces falla. Alguna vez tienes problemas al hacer pagos o cobrar tu sueldo. Lo interesante es que muchas veces los sistemas de reconocimiento y vigilancia no logran detectarte o te toman por otra persona. 
 
 Si un sistema informático o intenta hacer un simple control de tu identidad funciona perfectamente o igual falla y a la segunda vez funciona perfectamente.
 
@@ -1182,6 +1201,8 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 \sincolumna
 
+[![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
+
 ## IA
 
 \concolumna
@@ -1228,6 +1249,8 @@ xxx
 \saltopagina
 
 \sincolumna
+
+[![Nature Neon By redheadsoldier](./assests/images/nature_neon_by_redheadsoldier_d9ycnm9-414w-2x.jpg "Nature Neon By redheadsoldier")](https://www.deviantart.com/redheadsoldier/art/Nature-Neon-601893009 "Nature Neon By redheadsoldier")
 
 ## Realidad aumentada y virtual
 
@@ -1315,7 +1338,44 @@ xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
+### Ayudante de sheriffs
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Ciberimplantes:** xxx
+* **Equipo:** xxx
+
 \saltocolumna
+
+### Alto influencer
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Ciberimplantes:** xxx
+* **Equipo:** xxx
+
+### Bajo influencer
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Ciberimplantes:** xxx
+* **Equipo:** xxx
+
 
 \saltopagina
 
@@ -1906,7 +1966,9 @@ Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros 
 
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo.
 
-* [Portada por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm) en Freepik
+* [Portada PDF por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm) en Freepik
+
+* [Portada 4rc0l061a de Nottingham por starline](https://www.freepik.es/vector-gratis/fondo-3d-abstracto-blanco-negro-hexagonal_5432173.htm) en Freepik
 
 * [Portada Historia](https://www.deviantart.com/madragonn/art/Futuristic-Circuit-Texture-138882737) Futuristic Circuit Texture By [madragonn](https://www.deviantart.com/madragonn/) Creative Commons Attribution 3.0 License
 
