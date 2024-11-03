@@ -56,7 +56,12 @@ xxx
 
 \saltopagina
 
+\sincolumna
+
 ## Orden social
+
+\concolumna
+
 ```
 Las gentes que viven en Nottingham son conocidas como notis. xxx
 ```
@@ -81,11 +86,11 @@ xxx
 
 xxx
 
+\saltocolumna
+
 ### Boskis (Fuera de la ley)
 
 xxx
-
-\saltocolumna
 
 \saltopagina
 
