@@ -711,6 +711,14 @@ table tbody tr:nth-child(odd) *:is(th,td) {
   color: var(--black-color);
 }
 
+section:nth-child(even) table tbody tr:nth-child(odd) {
+  background-color: var(--black-color);
+}
+
+section:nth-child(even) table tbody tr:nth-child(odd) *:is(th,td) {
+  color: var(--yellow-color);
+}
+
 /*section:nth-of-type(3) > h1 {
   background-image: url('../images/cyberpunk_sketch_by_thefearmaster.jpg');
   background-repeat: no-repeat;
@@ -759,20 +767,33 @@ section:nth-of-type(7) h1 {
   background-size: cover;
 }
 
-section:nth-of-type(8) h1 {
-  background-image: url('../images/bestiar1o.jpg');
+section:nth-of-type(9) h1 {
+  background-image: url('../images/27175.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  text-shadow: 0 0 6px #000;
+  color: var(--yellow-color);
+}
+
+section:nth-of-type(12) h1 {
+  background-image: url('../images/epilogo.jpg');
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
-
 }
+
 @media print {
-  section:nth-of-type(8) h1 {
+  section:nth-of-type(12) h1 {
     justify-content: flex-end;
     background-position: top center;
   }
-  section:nth-of-type(8) h1 strong {
+  section:nth-of-type(12) h1 strong {
     margin-bottom: 100px;
+  }
+
+  section:nth-of-type(9) h1 strong {
+    padding-bottom: 300px;
   }
 }
 

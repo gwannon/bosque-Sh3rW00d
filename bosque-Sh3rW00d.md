@@ -199,11 +199,11 @@ xxx
 
 ### Deporte
 
-El deporte se ha adaptado a la vida en la arcología gracias a las ultimas tecnologías, desde bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hielo.
+El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecnologías, hablamos de bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hierba. También son famosos los concursos de baile acrobáticos y las competiciones de tiro con tirachinas. 
 
 #### Hockey de pasillo
 
-El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hielo pero sin patines y una pelota de goma en vez de un puck. Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos.
+El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hierba adaptado a 3 jugadores al interior del complejo. Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos.
 
 \saltopagina
 
@@ -223,14 +223,14 @@ El juego es más de habilidad para moverse entre espacios pequeños, de saber mo
 
 \saltocolumna
 
-Reglamento:
+Reglamento general:
 
 * Solo se puede tocar la pelota con el stick.
 * No se puede golpear a otro jugador con el stick.
 * La pelota puede rebotar contra cualquier cosa del terreno de juego.
 * Si cometes una falta, debes soltar tu stick y no moverte los segundos de castigo. Tus compañeres y tus adversaries puede usarte como protección, obstáculo, etc. mientras estás en la falta.
 
-Hay gran cantidad de equipos amateurs en la arcología, pero solos 12 profesionales en la Liga de Hockey de pasillo. Estos equipos tienen  patrocinadores, remuneraciones, buen equipamiento, entrenadores, gimnasios, etc. Los más famosos suelen acabar de influencers de la directora J0hn, haciendo reels y directos para les fans de este deporte.
+Hay gran cantidad de equipos amateurs en la arcología, pero solos 12 profesionales en la Liga de Hockey de pasillo. Estos equipos tienen patrocinadores, remuneraciones, buen equipamiento, entrenadores, gimnasios, etc. Los más famosos suelen acabar de influencers de la directora J0hn, haciendo reels y directos para les fans de este deporte.
 
 El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y la sombra de los amaños siempre ha sobrevolado el hockey de pasillo profesional.
 
@@ -1060,51 +1060,71 @@ Aquí encontrarás reglas para sistemas nuevos propios de esta ambientación.
 
 ### Cómo jugar al hockey de pasillo
 
-Antes de empezar, hay que sortear el campo como quieras. Como ya hemos dicho, siempre hay un campo mejor que otro que y el ganador podrá tenerlo 3 de las 5 rondas de juego. Saca una carta y según su palo el campo bueno tiene una ventaja u otra.
+Antes de empezar, les jugadores (incluide le suplente) definen su posición en el campo (parabol, pasabol o lanzabol) en la que suelen jugar, entrenarse y tienen el equipo puesto. Por ejemplo, los Picaportes del Trent tienen 1 lanzabol, 2 pasabol (titular y suplente) y 1 parabol.
+
+A continuación hay que sortear el campo como quieras. Como ya hemos dicho, casi siempre hay un campo mejor que otro que y el ganador podrá tenerlo 3 de las 5 rondas de juego. Saca una carta y según su palo el campo bueno tiene una ventaja u otra.
 
 * **Corazones:** Portería pequeña. El parabol tiene un +2 a su tirada de Atletismo.
 * **Diamantes:** En forma de L. La parte corta de la L es donde está tu portería y permite que le pasabol juegue con ello al defenderse. Le pasabol tiene un +2 a Atletismo.
 * **Picas:** Portería grande. El lanzabol tiene un +2 a su tirada de Atletismo.
-* **Tréboles:** Sucio y lleno de trastos. El sitio está lleno de trastos que molestan al jugar y el suelo está sucio y resbaladizo. Todes les jugadores tienen -2 a atletismo.
+* **Tréboles:** Tdo el campo está sucio y lleno de trastos. El sitio está lleno de trastos que molestan al jugar y el suelo está sucio y resbaladizo. Todes les jugadores tienen -2 a atletismo.
 
 Un partido de hockey de pasillo consta de 5 rondas de combate. Cada ronda tiene una fase de estrategia y otra de juego.
 
-En la fase de estrategia se podrán escoger les 3 jugadores (parabol, pasabol, lanzabol) que van a participar en las jugadas de cada ronda siguiendo estas reglas de participación: le parabol no puede jugar de lanzabol y viceversa y nadie puede participar en las jugadas más de 3 rondas seguidas debiendo descansar una ronda como mínimo. También puede entrar a descansar une jugadore y salir une suplente, cumpliendo las normas anteriores.
+En la fase de estrategia se podrán escoger les 3 jugadores (parabol, pasabol, lanzabol) que van a participar en las jugadas de cada ronda siguiendo estas reglas de participación: le parabol no puede jugar en la posición de lanzabol y viceversa y nadie puede participar en las jugadas más de 3 rondas seguidas debiendo descansar una ronda como mínimo. También puede entrar a descansar une jugadore y salir une suplente, cumpliendo las normas anteriores.
 
-En la fase de juego les lanzaboles tiran Atletismo para jugar la bola, les paraboles podrá tirar Provocar para distraer al contrario o tirar Atletismo y les pasaboles podrá tirar Tácticas para manejar a su equipo o Atletismo. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos. Si alguna de las tiradas de Atletismo falla, pasa algo y el equipo automáticamente falla la ronda y el contrario gana el punto. Si los dos equipos fallan, ambos ganan un punto.
+En la fase de juego les **lanzaboles tiran Atletismo** para jugar la bola, les **paraboles podrá tirar Provocar para distraer al contrario o tirar Atletismo** y les **pasaboles podrá tirar Tácticas para manejar a su equipo o Atletismo**. Provocar y Tácticas solo se pueden usar en dos rondas por partido.
 
-Jugar fuera de tu puesto habitual, por ejemplo parabol por pasabol o pasabol por lanzabol supone un -2.
+Saca una carta de acción para cada jugador para marcar el orden como si fuera iniciativa. Cuando le toque, declara su tirada a cada jugador decide si actua, normal, agresivamente o defensivamente. Agresivamente le da un +1 a su tirada de Atletismo, pero también un +1 a al contrincante que tenga enfrente en el campo contrario (parabol-lanzabol, pasabol-pasabol y lanzabol-parabol) Cuando tire atletismo. Defensivamente le da un -2 a la tirada y también un -2 al contrario. Las tiradas de Tácticas y Provocar no se ven afectadas por jugar agresiva o defensivamente.
 
-Al final de cada ronda, saca una carta de acción. Si sale un trebol en la carta de acción, un evento en el partido (tira en la tabla de eventos).
+Tras declarar las tiradas, se tiran los dados aplicando los bonus y malus. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos.
+
+\saltopagina
+
+Si alguna de las tiradas de Atletismo falla, pasa algo y el equipo automáticamente falla la ronda y el contrario gana el punto. Si los dos equipos fallan, ambos ganan un punto.
+
+Jugar fuera de tu puesto habitual fijado al principio del partido, por ejemplo parabol por pasabol o pasabol por lanzabol supone un -2.
+
+Al final de cada ronda, saca una carta de acción. Si sale un trébol en la carta de acción, ocurre un evento en el partido (tira en la tabla de eventos).
 
 **Uso de benis:** convertir un fallo de Atletismo en un éxito directo, pero sin avances; poder participar en una ronda sin cumplir las reglas de participación.
 
 Al final de las 5 rondas gana el que más puntos tenga. También se puede ganar marcando en 3 rondas seguidas sin que tu oponente te marque. En caso de empate, se jugarán rondas extras a muerte súbita. En el momento que uno de los equipos marque un punto y el otro no, gana el encuentro.
 
-\saltopagina
-
 \sincolumna
 
-|1d10|Evento|
+|Carta|Evento|
 |---|---|
-|1|xxx|
-|2|xxx|
-|3|xxx|
-|4|xxx|
-|5|xxx|
-|6|xxx|
-|7|xxx|
-|8|xxx|
-|9|xxx|
-|10|xxx|
+|2|El partido es suspendido por le arbitre. Se va la luz, explota una tubería, etc.|
+|3|Salta la climatización y hace mucho calor. Al final de cada siguiente ronda todes les jugadores tiran Vigor para evitar un nivel de fatiga. Descansar un turno quita un nivel de fatiga.|
+|4|Un robot de servicio sale de la nada y se mueve por el campo. El arbitro anula la ronda y nadie gana puntos.|
+|5|Las cámaras de vídeo fallan y le arbitre no puede intervenir el resto del partido. Cualquier evento donde intervenga le arbitro no tiene efecto.|
+|6|Le arbitre amonesta a une jugadore al azar del equipo con menos puntos y no le quita ojo. Le jugadore tiene un -1 en su siguiente ronda.|
+|7/8/9|Sin efecto|
+|J|Le arbitre amonesta a une jugadore al azar del equipo con más puntos y no le quita ojo. Le jugadore tiene un -1 en su siguiente ronda.|
+|Q|Les seguidores del equipo con más puntos empiezan a apoyar a su equipo con golpes y cánticos a través de las paredes. El equipo gana un beni grupal.|
+|K|Les seguidores del equipo con menos puntos empiezan a apoyar a su equipo con golpes y cánticos a través de las paredes. El equipo gana un beni grupal.|
+|A|Une influencer empieza a retransmitir el partido. Les fans ven el partido enfervorecidos. El equipo ganador acabará en una fiesta salvaje con sus fans.|
 
-\concolumna
+\saltopagina
 
 ### Concursos de puntería
 
-xxx
+Siendo el tirachinas una de las pocas armas permitidas, los concursos de puntería para probar la habilidad con el slingshot son bastante comunes. Hay muchas variaciones, desde disparos o a todo tipo de dianas en diferentes modalidades, hasta disparos a objetivos en movimiento. Quizás la más arriesgada sea disparar a un objetivo en la cabeza de le contrincante. Si aciertas ganas puntos y si se mueve tu objetivo también ganas puntos.
+
+Esta última modalidad de tiro se juega de la siguiente manera. Primero se decide la distancia entre les participantes (corta y media, larga es muy rara por temas de espacio) y se decide al azar quién empieza a disparar.
+
+Le atacante hace una tirada de disparar para lanzar el proyectil al objetivo en la cabeza o el pecho de su contrincante (-2 por disparar a un objetivo pequeño). Si acierta en el objetivo o le golpea en el cuerpo (falla por 2 o menos), el defensor deberá pasar una tirada de Espíritu para mantenerse quieto en su sitio. 
+
+Si la distancia es corta no tiene negativo, si es media tiene -2 y si es larga un -4. La cuestión es que cuando más lejos, más fácilmente se falla hiriendo al defensor y este tiene más tiempo para ver venir la flecha, arrepentirse y moverse. Cuando termina el atacante dispara el defensor y así sucesivamente. 
+
+Cada vez que te golpeen añades un -1 a tu tirada de Espíritu porque sabes lo que te espera si te impacta el proyectil.
+
+Si aciertas el disparo, ganas un punto. Si además se mueve ganas 1 punto extra. Cuando alguno de los dos consigue sacar una ventaja de 3 puntos, gana el concurso.
 
 \saltocolumna
+
+Si alguien tiene una pifia en disparar hiere a su objetivo (tirada de daño real) y es descalificade si hace herida. Si pifias la tirada de Espíritu no pasa nada, pero el DJ puede describir algo vergonzoso que haces presa del miedo.
 
 ***
 
@@ -1616,7 +1636,7 @@ Estamos hablando de o chupatintas que están detrás de un mostrador gestionando
 
 ***
 
-# I)irectori0 de Nottingham **Directorio de Nottingham**
+# I)iЯe(tori0 de Nottingham **Directorio de Nottingham**
 
 
 \sincolumna
@@ -2086,7 +2106,9 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 * [Portada Historia](https://www.deviantart.com/madragonn/art/Futuristic-Circuit-Texture-138882737) Futuristic Circuit Texture By [madragonn](https://www.deviantart.com/madragonn/) Creative Commons Attribution 3.0 License
 
-* [Portada Cibernia](https://www.freepik.com/free-photo/background-with-printed-circuit-board-concept-modern-technologies_366211129.htm) en Freepik
+* [Portada Cibernia por pvproductions](https://www.freepik.com/free-photo/background-with-printed-circuit-board-concept-modern-technologies_366211129.htm) en Freepik
+
+* [Portada Directorio por srtarline](https://www.freepik.es/vector-gratis/fondo-pixeles-moderno-estilo-efecto-degradado_9874863.htm) en Freepik
 
 * [Retratos de personajes](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) por VÍCTOR JIMÉNEZ MERINO [(Licencia Attribution-NonCommercial 4.0 International)](https://creativecommons.org/licenses/by-nc/4.0/)
 
