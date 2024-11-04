@@ -110,11 +110,11 @@ xxx
 
 No existe moneda física, todo son transacciones electrónicas a través del sistema monetario de la empresa. Así que se ha impuesto el trueque tanto de productos como de servicios cuando se quieren hacer actividades por debajo del radar del la Directora J0hn.
 
-Los truques van desde cosas muy simples y del día a día como "tú arreglas el grifo de mi cubículo, yo te doy dos botes de mi salsa barbacoa casera" a trueques más complejos que incluso incluyen pagarés en papel (para no quedar registrados electrónicamente). Es curioso porque esos pagarés se han convertido en una especie de papel moneda que no se cobran si no que se intercambian una y otra vez y varían de valor según las circunstancias y lo que ofrezca el pagaré.
-
 #### Trueque
 
-El hecho de que la directora R1c4rd controle toda la economía de Nottingham ha hecho que florezca una economía sumergida y circular basada en el trueque de productos y el intercambio de trabajo. xxx
+El hecho de que la directora R1c4rd controle toda la economía de Nottingham ha hecho que florezca una economía sumergida y circular basada en el trueque de productos y el intercambio de trabajo.
+
+Los truques van desde cosas muy simples y del día a día como "tú arreglas el grifo de mi cubículo, yo te doy dos botes de mi salsa barbacoa casera" a trueques más complejos que incluso incluyen pagarés en papel (para no quedar registrados electrónicamente). Es curioso porque esos pagarés se han convertido en una especie de papel moneda que no se cobran si no que se intercambian una y otra vez y varían de valor según las circunstancias y lo que ofrezca el pagaré.
 
 ### Granjas y piscifactorías
 
@@ -168,11 +168,11 @@ xxx
 
 El clima, si se le puede llamar así, es siempre igual durante todo el año. La temperatura de la arcología es de entre 23 y 25 grados con una humedad relativa de entre 45% y 60%. La nieve, la lluvia o el viento son conceptos que conocen, pero que muy pocos han experimentado y normalmente de forma muy tangencial. Alguno sabrá como puede ser la lluvia, por ejemplo, al saltar los aspersores anti-incendios, o la nieve y el frío al estropearse los sistemas de climatización y generar demasiado frío e incluso hielo.
 
-xxx
-
 #### Sin cielo y sin horizonte
 
 Les habitantes de Nottingham no conocen lo que son los espacios abiertos, no saben lo que es mirar al cielo o ver el horizonte. Solo están acostumbrados a espacios cerrados de no más de 30 o 40 m². El mayor espacio abierto de Nottingham es la plaza Mayor, tan abierto que hay notis que tienen agorafobia.
+
+Claramente, no hay ni puesta ni salida de sol. Muchos sistemas simplemente pasan de modo diurno a modo nocturno para seguir los ciclos de sueños de les residentes del complejo. 
 
 ### Cultura y contracultura
 
@@ -352,7 +352,7 @@ xxx
 \concolumna
 
 ```
-xxx
+Una regla fundamental de esta ambientación es que es imposible salir al exterior de la arcología. El exterior es algo de lo que se habla, pero que la gente no ha visto nunca.
 ```
 
 xxx
@@ -511,7 +511,7 @@ Si no has caído bajo el influjo de la compañía y sus tretas, seguramente haya
 
 > Elige un hackeo que tenga como requisito Novate de la lista de hackeos de les instaladores, si no has elegido ninguno de los ciberimplantes que te ofrece la compañía.
 
-Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las maquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las maquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
+Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las máquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las máquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
 
 \saltopagina
 
@@ -549,7 +549,7 @@ Según sus creencias, les instaladores dejaron en alguna parte un password de _s
 No tienes por qué creerte todo ese rollo, pero igual estás segure de que hay algo escondido en la arcología que vuelva a poner las cosas a como estaban con la directora R1c4rd. 
 
 * **Habilidades recomendadas:** Investigar, Intimidar y Notar
-* **Ventajas recomendadas:** Ardor, Campeone y Investigadore
+* **Ventajas recomendadas:** Ardor, Campeone e Investigadore
 * **Desventajas recomendadas:** Heróique, Juramento y Obsesión
 
 ### Erudite
@@ -838,6 +838,15 @@ xxx
 
 xxx
 
+* **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 a Disparar.
+* **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
+* **Incendiarias:** Son bolas rellenas de material inflamable. Al impactar solo el daño de la FUE, pero añaden 1d6 de daño de fuego. xxx
+* **Rellenas de pintura:** Son bolas rellenas de una sustancia espesa parecida a pintura negar (o de otros colores) que cuesta mucho desprender. Se usan para marcar objetivos, normalmente con colores chillones, o para cegar sensores de vigilancia, tapando las lentes con esta brea pegajosa. Al impactar solo hacen el daño de la FUE.
+
+#### Cocketles molotov
+
+xxx
+
 ### Protecciones
 
 xxx
@@ -852,7 +861,7 @@ xxx
 
 \saltocolumna
 
-Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir, **se usa Atletismo**.
+Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, **se usa en su lugar Atletismo**.
 
 \saltopagina
 
@@ -860,11 +869,15 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 
 ### Listado de armamento
 
-|ARMA|DAÑO|DISTANCIA|PESO|COSTE|CDF|FUE MIN.|PA|NOTAS|COSTE|
+|ARMA|DAÑO|DISTANCIA|PESO|COSTE|CDF|FUE MIN.|PA|NOTAS|
 |---|---|---|---|---|---|---|---|
-|Slingshot|Str+d4-1|5/10/20|0,5|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos|30|
+|Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos|
 
 ¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
+
+|ARMA|DAÑO|PESO|COSTE|FUE MIN.|PA|NOTAS|
+|---|---|---|---|---|---|---|
+|Stick de hockey|FUE+d4|1|10|d6|0||
 
 ### Listado de protecciones
 
@@ -912,6 +925,7 @@ Gastar avances en más tiempo u otras modificaciones hace que resten 4 puntos a 
 ### Controlar iluminación
 
 **Requisitos:** Novate
+**Jerga:** xxx
 
 Mediante una mezcla de movimientos captados por los sensores de la iluminación y clics en los mandos de la luz, hacen que la iluminación actúe de las siguientes formas. Debes recordar que no hay fuentes naturales de la luz así que las estancias se quedan completamente a oscuras si se apaga la luz (a falta de otras formas de luz como leds de dispositivos o linternas). No se puede conseguir oscuridad total porque hay luces independientes de emergencia.
 
@@ -925,6 +939,7 @@ Mediante una mezcla de movimientos captados por los sensores de la iluminación 
 ### Controlar pantallas
 
 **Requisitos:** Novate
+**Jerga:** xxx
 
 xxx
 
@@ -935,6 +950,7 @@ xxx
 ### Llamar ascensor
 
 **Requisitos:** Novate
+**Jerga:** xxx
 
 Pulsando una combinación de botones de ascensores, montacargas y escaleras mecánicas puedes conseguir ciertos efectos sobre ellos.
 
@@ -945,6 +961,7 @@ Pulsando una combinación de botones de ascensores, montacargas y escaleras mec�
 ### Controlar puertas
 
 **Requisitos:** Experimentade
+**Jerga:** xxx
 
 xxx
 
@@ -955,6 +972,7 @@ xxx
 ### Controlar ascensor
 
 **Requisitos:** Experimentade, Llamar ascensor
+**Jerga:** xxx
 
 xxx
 
@@ -965,6 +983,7 @@ xxx
 ### Dominar iluminación
 
 **Requisitos:** Experimentade, Controlar iluminación
+**Jerga:** xxx
 
 xxx
 
@@ -981,6 +1000,7 @@ Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero 
 ### Controlar climatización
 
 **Requisitos:** Experimentade
+**Jerga:** xxx
 
 xxx
 
@@ -991,6 +1011,7 @@ xxx
 ### Controlar vigilancia
 
 **Requisitos:** Veterane, Controlar pantallas
+**Jerga:** xxx
 
 xxx
 
@@ -1001,16 +1022,18 @@ xxx
 ### Dominar climatización
 
 **Requisitos:** Veterane, Controlar climatización
+**Jerga:** ¡Dale caña a la ventilación!
 
 xxx
 
-* xxx
+* Puedes poner los ventiladores a tal velocidad, más allá de lo seguro, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * xxx
 * xxx
 
 ### Dominar puertas
 
 **Requisitos:** Veterane, Controlar puertas
+**Jerga:** xxx
 
 xxx
 
@@ -1023,6 +1046,7 @@ xxx
 ### Dominar vigilancia
 
 **Requisitos:** Heróique, Controlar vigilancia
+**Jerga:** xxx
 
 xxx
 
@@ -1032,7 +1056,8 @@ xxx
 
 ### Código Konami
 
-Requisitos: Legendario
+**Requisitos:** Legendario
+**Jerga:** xxx
 
 ![](./assests/images/codigo-konami.png)
 
@@ -1112,14 +1137,14 @@ Al final de las 5 rondas gana el que más puntos tenga. También se puede ganar 
 |---|---|
 |2|El partido es suspendido por le arbitre. Se va la luz, explota una tubería, etc.|
 |3|Salta la climatización y hace mucho calor. Al final de cada siguiente ronda todes les jugadores tiran Vigor para evitar un nivel de fatiga. Descansar un turno quita un nivel de fatiga.|
-|4|Un robot de servicio sale de la nada y se mueve por el campo. El arbitro anula la ronda y nadie gana puntos.|
+|4|Un robot de servicio sale de la nada y se mueve por el campo. Le arbitre anula la ronda y nadie gana puntos.|
 |5|Las cámaras de vídeo fallan y le arbitre no puede intervenir el resto del partido. Cualquier evento donde intervenga le arbitro no tiene efecto.|
 |6|Le arbitre amonesta a une jugadore al azar del equipo con menos puntos y no le quita ojo. Le jugadore tiene un -1 en su siguiente ronda.|
 |7/8/9|Sin efecto|
 |J|Le arbitre amonesta a une jugadore al azar del equipo con más puntos y no le quita ojo. Le jugadore tiene un -1 en su siguiente ronda.|
 |Q|Les seguidores del equipo con más puntos empiezan a apoyar a su equipo con golpes y cánticos a través de las paredes. El equipo gana un beni grupal.|
 |K|Les seguidores del equipo con menos puntos empiezan a apoyar a su equipo con golpes y cánticos a través de las paredes. El equipo gana un beni grupal.|
-|A|Une influencer empieza a retransmitir el partido. Les fans ven el partido enfervorecidos. El equipo ganador acabará en una fiesta salvaje con sus fans.|
+|A|Une influencer empieza a retransmitir el partido. Les fans ven el partido enfervorecides. El equipo ganador acabará en una fiesta salvaje con sus fans. Puedes usar esto como semilla de aventura tipo "Colega, ¿dónde está mi coche?"|
 
 \saltopagina
 
@@ -2100,6 +2125,20 @@ xxx
 \concolumna
 
 xxx
+
+\saltopagina
+
+\sincolumna
+
+## Agradecimientos
+
+\concolumna
+
+Agradecimientos a todas estas personas que me han dado su opinión y han contestado mis preguntas en diferentes redes.
+
+* [Asaltadoras del Rol](https://bsky.app/profile/cuchi.bsky.social)
+
+\saltocolumna
 
 \saltopagina
 
