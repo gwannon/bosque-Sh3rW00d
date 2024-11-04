@@ -840,9 +840,9 @@ xxx
 
 ##### Proyectiles para tirachinas
 
-xxx
+Una de las ventajas de los tirachinas es que **su munición puede ser cualquier cosa**, pelotas de goma, rodamientos de acero, canicas de cristal, etc. Eso tam bién quire decir que se pueden hacer **todo tipo de municiones especiales con diferentes funciones**. 
 
-* **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 a Disparar.
+* **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 al daño.
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
 * **Incendiarias:** Son bolas rellenas de material inflamable. Al impactar solo el daño de la FUE, pero añaden 1d6 de daño de fuego. xxx
 
@@ -850,9 +850,11 @@ xxx
 
 * **Rellenas de pintura:** Son bolas rellenas de una sustancia espesa parecida a pintura negar (o de otros colores) que cuesta mucho desprender. Se usan para marcar objetivos, normalmente con colores chillones, o para cegar sensores de vigilancia, tapando las lentes con esta brea pegajosa. Al impactar solo hacen el daño de la FUE.
 
-#### Cocketles molotov
+#### Cóctel molotov
 
 xxx
+
+Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se ha tirado un cóctel molotov se recibe 1d10 de daño y con un 5 o 6 en un d6 prenden fuego tus ropas.
 
 ### Protecciones
 
@@ -880,9 +882,15 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 
 ¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
 
+|ARMA|DAÑO|DISTANCIA|PESO|COSTE|ÁREA|NOTAS|
+|---|---|---|---|---|---|---|
+|Cóctel molotov|1d10|5/10/20|0.5|1|1 casilla|² Daño de fuego|
+
+² Si sale un 5 o 6 en un d6 prende la ropa del objetivo.
+
 |ARMA|DAÑO|PESO|COSTE|FUE MIN.|PA|NOTAS|
 |---|---|---|---|---|---|---|
-|Stick de hockey|FUE+d4|1|10|d6|0||
+|Stick de hockey|FUE+d4|1|10|d6|-|-|
 
 ### Listado de protecciones
 
@@ -946,13 +954,15 @@ Mediante una mezcla de movimientos captados por los sensores de la iluminación 
 
 **Requisitos:** Novate
 
-**Jerga:** xxx
+**Jerga:** Se acabo la programación, He pagado Netflix, Ven a la Luz Caroline, Saltar pixels. 
 
-xxx
+Les instaladores escondían sus propios modos de funcionamiento en menús secretos de las pantallas. Además de encenderlas, podían dejarse mensajes y lo más divertidos, sobrecargarlas y conseguir unos bonitos mini-fuegos artificiales.
 
-* Encender y apagar pantallas. xxx
-* Puedes poner mensajes simples y estáticos de fuentes externas.
-* xxx
+* Puedes **encender y apagar pantallas** y también **programar** su encendido y apagado.
+* Puedes **poner mensajes simples y estáticos** en las pantallas.
+* Puedes programar la sobrecarga de una pantalla de forma que salten chispas y se queme. El tiempo máximo de programación es de 4 turnos a no ser que gastes avances. Funcionaría como Truco, donde tu adversarie deberá tirar Astucia contra tu tirada de Electrónica. 
+
+**Avances:** 1 avance por cada pantalla adicional.
 
 ### Llamar ascensor
 
@@ -990,6 +1000,8 @@ xxx
 * xxx
 * xxx
 
+\saltopagina
+
 ### Dominar iluminación
 
 **Requisitos:** Experimentade, Controlar iluminación
@@ -999,8 +1011,6 @@ xxx
 xxx
 
 Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero controlando las luces de emergencia y similar.
-
-\saltopagina
 
 * Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
 * xxx
@@ -1028,7 +1038,22 @@ xxx
 
 xxx
 
+\saltocolumna
+
 * xxx
+* xxx
+* xxx
+
+
+### Dominar ascensor
+
+**Requisitos:** Veterane, Controlar ascensor
+
+**Jerga:** xxx
+
+xxx
+
+* Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. xxx
 * xxx
 * xxx
 
@@ -1040,11 +1065,11 @@ xxx
 
 xxx
 
-\saltocolumna
-
 * Puedes poner los ventiladores a tal velocidad, más allá de lo seguro, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * xxx
 * xxx
+
+\saltopagina
 
 ### Dominar puertas
 
@@ -1076,7 +1101,6 @@ xxx
 
 **Jerga:** xxx
 
-\saltopagina
 
 ![](./assests/images/codigo-konami.png)
 
@@ -1097,8 +1121,9 @@ xxx
 |Llamar ascensor|Novate|Robar el ascensor a otras personas o mandarlo a un extremo de su ruta|
 |Controlar puertas|Experimentade|xxx|
 |Controlar ascensor|Experimentade, Llamar ascensor|xxx|
-|Dominar iluminación|Experimentade, Control de la iluminación|xxx|
+|Dominar iluminación|Experimentade, Controlar iluminación|xxx|
 |Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
+|Dominar ascensor|Veterane, Controlar ascensor|xxx|
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
 |Controlar vigilancia|Veterane, Controlar pantallas|xxx|
 |Dominar puertas|Veterane, Controlar puertas|xxx|
@@ -1175,15 +1200,15 @@ Siendo el tirachinas una de las pocas armas permitidas, los concursos de punter�
 
 Esta última modalidad de tiro se juega de la siguiente manera. Primero se decide la distancia entre les participantes (corta y media, larga es muy rara por temas de espacio) y se decide al azar quién empieza a disparar.
 
-Le atacante hace una tirada de disparar para lanzar el proyectil al objetivo en la cabeza o el pecho de su contrincante (-2 por disparar a un objetivo pequeño). Si acierta en el objetivo o le golpea en el cuerpo (falla por 2 o menos), el defensor deberá pasar una tirada de Espíritu para mantenerse quieto en su sitio. 
+Le atacante hace **una tirada de Disparar para lanzar el proyectil al objetivo en la cabeza o el pecho de su contrincante** (-2 por disparar a un objetivo pequeño). Si acierta en el objetivo o le golpea en el cuerpo (falla por 2 o menos), **el defensor deberá pasar una tirada de Espíritu** para mantenerse quieto en su sitio. 
 
-Si la distancia es corta no tiene negativo, si es media tiene -2 y si es larga un -4. La cuestión es que cuando más lejos, más fácilmente se falla hiriendo al defensor y este tiene más tiempo para ver venir la flecha, arrepentirse y moverse. Cuando termina el atacante dispara el defensor y así sucesivamente. 
+Si la distancia es corta no tiene negativo, si es media tiene -2 y si es larga un -4. La cuestión es que cuando más lejos, más fácilmente se falla hiriendo al defensor y este tiene más tiempo para ver venir el proyectil, arrepentirse y moverse. Cuando termina el atacante dispara el defensor y así sucesivamente. 
 
-Cada vez que te golpeen añades un -1 a tu tirada de Espíritu porque sabes lo que te espera si te impacta el proyectil.
-
-Si aciertas el disparo, ganas un punto. Si además se mueve ganas 1 punto extra. Cuando alguno de los dos consigue sacar una ventaja de 3 puntos, gana el concurso.
+Cada vez que te golpeen añades un -1 a tu tirada de Espíritu porque sabes lo que te espera si te impacta el proyectil. Las ventajas que modifiquen la tirada de Miedo como osado se pueden usar.
 
 \saltocolumna
+
+Si aciertas el disparo, ganas un punto. Si, además, el objetivo se mueve ganas 1 punto extra. Cuando alguno de los dos consigue sacar una ventaja de 3 puntos, gana el concurso.
 
 Si alguien tiene una pifia en disparar hiere a su objetivo (tirada de daño real) y es descalificade si hace herida. Si pifias la tirada de Espíritu no pasa nada, pero el DJ puede describir algo vergonzoso que haces presa del miedo.
 
@@ -1307,11 +1332,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Mejora FUE|1|Sí|Reemplazos musculares, Inyector de adrenalina|
 |Mejora VIG|1|Sí|Placas dermales|
 
-\concolumna
-
-\saltopagina
-
-\sincolumna
+&nbsp;
 
 ### Listas de CI que mejoran habilidades
 
@@ -1329,6 +1350,15 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Latrocinio|1|No|Implante de ganzúa eléctrica en un dedo|
 |Medicina|1|Sí|Sensores médicos avanzados|
 |Notar|1|Sí|Telemetría ocular|
+
+\concolumna
+
+\saltopagina
+
+\sincolumna
+
+|Ciberimplantes|Puntos|Legal|Descripción|
+|---|---|---|---|
 |Ordenadores|1|Sí|Entrada I/O intracerebral|
 |Pelear|1|No|Ordenador de combate|
 |Persuadir|1|Sí|Modificaciones estéticas|
@@ -1338,11 +1368,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Supervivencia|1|Sí|Estación meteorológica|
 |Tácticas|1|Sí|IA de tácticas|
 
-\concolumna
-
-\saltopagina
-
-\sincolumna
+&nbsp;
 
 ### Listas de CI que permiten ventajas
 
@@ -1360,17 +1386,22 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Lingüista|2|Sí|Base de datos lingüística|
 |Mandíbula de hierro|2|Sí|Refuerzos óseos|
 |Pies ligeros|1|Sí|Servo-rodillas|
-|Puntería|2|Sí|Conexión a arma|
-|Reflejos de combate|2|Sí|Sistema anti-aturdimiento cervical|
-|Temple|2|Sí|Ciberreflejos|
-|Temple mejorado|4|Sí|Ciberreflejos mejorados|
-|Rápide|2|Sí|Bomba cardíaca|
 
 \concolumna
 
 \saltopagina
 
 \sincolumna
+
+|Ciberimplantes|Puntos|Legal|Descripción|
+|---|---|---|---|
+|Puntería|2|Sí|Conexión a arma|
+|Reflejos de combate|2|Sí|Sistema anti-aturdimiento cervical|
+|Temple|2|Sí|Ciberreflejos|
+|Temple mejorado|4|Sí|Ciberreflejos mejorados|
+|Rápide|2|Sí|Bomba cardíaca|
+
+&nbsp;
 
 ### Listas de CI que otorgan rasgos de bestia
 
@@ -1658,21 +1689,21 @@ xxx
 \concolumna
 
 ```
-xxx
+Vas a necesitar llenar tus tabernas de turbios personajes de miradas perdidas y tus tiendas y mercados de extraños vendedores. En esta sección tienes todo lo necesario para que rellenes todos esos huecos en tus historias con toda una galería de PNJ genériques.
 ```
+También los puedes usar como base para tus PNJ. Si el gerente del jardín hidropónico va a ser importante, coge la plantilla de mercadere y adórnalo con tus propios detalles.
 
-xxx
-
+En algunos casos te encontrarás algunas opciones de personalización muy simples de le PNJ para que tu mesa no termine por aprenderse los PNJs. Por ejemplo, les mercaderes pueden ser avariciosos, borrachos o bocazas y les artistes pueden ser Porretas, Curiose, Coje o Patose.
 
 ### Artesane
 
-Estamos hablando desde electriciste o albañil hasta profesiones muy especializadas como impresore 3d o técnique de climatización. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
+Estamos hablando desde electricistes o albañiles hasta profesiones muy especializadas como impresores 3d o técniques de climatización. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Latrocinio d4, Notar d4, Ordenadores d6, Pelear d4, Reparar d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Hombre de recursos
-* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
+* **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Persona de recursos
+* **Desventajas:** Elige 1 o más: Avariciose (Mayor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
 ### Artiste
@@ -1682,8 +1713,8 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Electrónica d4, Humanidades d6, Idioma Inglés d8, Interpretación d8, Notar d6, Ordenadores d4, Persuadir d6, Sigilo d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Desventajas:** Elegir 1: Hábito (menor alcohol, marihuana, etc.), Curioso, Cojo, Patoso
-* **Ventajas:** Elegir 1: Carismático, Famoso, Atractivo
+* **Desventajas:** Elegir 1: Hábito (menor alcohol, marihuana, etc.), Curiose, Coje, Patose
+* **Ventajas:** Elegir 1: Carismátique, Famose, Atractive
 * **Equipo:** Ropas vistosas, instrumento musical, herramientas relacionadas con su arte
 
 ### Delincuente de los bajos fondos
@@ -1691,14 +1722,16 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 Los oscuros callejones de Nottingham están llenas de este tipo de personajes. Tenemos matones, descuideras, cortabolsas, timadores, ladronas, etc.
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
-* **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
-* **Equipo:** Stick de hockey (FUE+d4)
 
 \saltopagina
 
-### Mercader
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alijos
+* **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
+* **Equipo:** Stick de hockey (FUE+d4), Tirachinas
+
+### Mercadere
 
 Vamos desde dependientes de tienda hasta taberneres o vendedores de comida callejera y toda la estructura de gente que trabaja en las grandes empresas comerciales, desde almaceneres hasta transportistas. Puedes gastar un par de puntos de habilidad en especializarles.
 
@@ -1709,6 +1742,8 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alcurnia, Rique
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
+\saltocolumna
+
 ### Funcionarie
 
 Estamos hablando de chupatintas que están detrás de un mostrador gestionando algún tipo de asunto para la empresa, desde permisos de obra a cobro de multas e impuestos.
@@ -1716,11 +1751,8 @@ Estamos hablando de chupatintas que están detrás de un mostrador gestionando a
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
-
-\saltocolumna
-
 * **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Habito (Menor)
-* **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rico
+* **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rique
 * **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
 
 ***
