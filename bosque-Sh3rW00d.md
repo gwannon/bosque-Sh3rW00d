@@ -76,7 +76,7 @@ xxx
 
 Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers adictos a la directora J0hn que marcan la vida de los _notis_. Ellos establecen las modas, lo que es _cool_ y lo que no, lo que se debe hacer y lo que no y, al final, lo que está bien y lo que está mal.
 
-Además, señalan a los disidentes y los del excluyen socialmente, de forma que sus acciones y proclamas contra el sistema son muchas veces rechazadas, desacreditadas y olvidadas.
+Además, señalan a los disidentes y los excluyen socialmente, de forma que sus acciones y proclamas contra el sistema son muchas veces rechazadas, desacreditadas y olvidadas.
 
 También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
 
@@ -186,8 +186,22 @@ xxx
 
 ### Gastronomía
 
-xxx
+La base de la gastronomía se basa en las algas producidas y procesadas en la algafactoria del Trent. A partir de estas algas se crean todo tipo de productos alimenticios como formas y sabores muy variados.
 
+El precio de estos productos de alga es relativamente bajo y accesible a todos los bolsillos. En teoría tienen todo lo necesario para una dieta saludable, pero hay estudios que dicen lo contrario.
+
+Mientras que la gente mayor prefiere la comida con forma y sabor a carnes y verduras de toda la vida, para cocinarlas según las recetas de toda la vida, las nuevas generaciones están adoptando una cocina basada en las algas sin procesar o simplemente triturarlas y convertirlas en batidos de proteínas. Esta moda es uno de los planes de la directora J0hn para mejorar los beneficios de la compañía; menos procesamiento, que convirtieron en casi dogma de fe para muchos _notis_.
+
+En respuesta a todo esto, bastantes grupos alternativos han empezado a dar gran importancia a los cultivos hidropónicos para cultivar tu propia comida en casa y se ha hecho muy popular, tener varias plantas de frutas y hortalizas. Todos estos productos frescos se han convertido en parte de la economía de trueque y las semillas se han convertido en objetos muy valiosos.
+
+Cómo ya hemos dicho otras veces, en el bosque es todo al revés, los productos frescos hidropónicos son la base de la alimentación al no tener un acceso directo a las algas. xxx
+
+De hecho los sheriffs vigilan muy mucho los almacenes y las fábricas de productos y suministros hidropónicos porque saben que los _boskis_ suelen atacarlos.
+
+Los restaurantes xxx
+
+La comida callejera, como el espacio es un lujo, se ha convertido en gente con armazones metálicos en los que tienen fuegos y donde te preparan la comida. Estos cocineros ambulantes llenan de olores todo el complejo, sobre todo los barrios más pobres y las zonas industriales y de talleres.
+ 
 ### Religiones y sectas
 
 xxx
@@ -196,6 +210,7 @@ xxx
 
 xxx
 
+Todos los años, en el día en que se puso la primera piedra del complejo, se organiza un festival con concurso de disparo con tirachinas con un suculento premio. xxx
 
 ### Deporte
 
