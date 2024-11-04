@@ -1731,6 +1731,19 @@ Los oscuros callejones de Nottingham están llenas de este tipo de personajes. T
 * **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
 * **Equipo:** Stick de hockey (FUE+d4), Tirachinas
 
+### Funcionarie
+
+Estamos hablando de chupatintas que están detrás de un mostrador gestionando algún tipo de asunto para la empresa, desde permisos de obra a cobro de multas e impuestos.
+
+* **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 4
+* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Habito (Menor)
+* **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rique
+* **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
+
+\saltocolumna
+
 ### Mercadere
 
 Vamos desde dependientes de tienda hasta taberneres o vendedores de comida callejera y toda la estructura de gente que trabaja en las grandes empresas comerciales, desde almaceneres hasta transportistas. Puedes gastar un par de puntos de habilidad en especializarles.
@@ -1742,18 +1755,6 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alcurnia, Rique
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
-\saltocolumna
-
-### Funcionarie
-
-Estamos hablando de chupatintas que están detrás de un mostrador gestionando algún tipo de asunto para la empresa, desde permisos de obra a cobro de multas e impuestos.
-
-* **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
-* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
-* **Paso:** 6; **Parada:** 4; **Dureza:** 4
-* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Habito (Menor)
-* **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rique
-* **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
 
 ***
 
