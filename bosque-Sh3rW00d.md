@@ -174,11 +174,11 @@ Les habitantes de Nottingham no conocen lo que son los espacios abiertos, no sab
 
 Claramente, no hay ni puesta ni salida de sol. Muchos sistemas simplemente pasan de modo diurno a modo nocturno para seguir los ciclos de sueños de les residentes del complejo. 
 
+\saltocolumna
+
 ### Cultura y contracultura
 
 xxx
-
-\saltocolumna
 
 ### Ocio y entretenimiento
 
@@ -191,6 +191,8 @@ La base de la gastronomía se basa en las algas producidas y procesadas en la al
 El precio de estos productos de alga es relativamente bajo y accesible a todos los bolsillos. En teoría tienen todo lo necesario para una dieta saludable, pero hay estudios que dicen lo contrario.
 
 Mientras que la gente mayor prefiere la comida con forma y sabor a carnes y verduras de toda la vida, para cocinarlas según las recetas de toda la vida, las nuevas generaciones están adoptando una cocina basada en las algas sin procesar o simplemente triturarlas y convertirlas en batidos de proteínas. Esta moda es uno de los planes de la directora J0hn para mejorar los beneficios de la compañía; menos procesamiento, que convirtieron en casi dogma de fe para muchos _notis_.
+
+\saltopagina
 
 En respuesta a todo esto, bastantes grupos alternativos han empezado a dar gran importancia a los cultivos hidropónicos para cultivar tu propia comida en casa y se ha hecho muy popular, tener varias plantas de frutas y hortalizas. Todos estos productos frescos se han convertido en parte de la economía de trueque y las semillas se han convertido en objetos muy valiosos.
 
@@ -212,6 +214,8 @@ xxx
 
 Todos los años, en el día en que se puso la primera piedra del complejo, se organiza un festival con concurso de disparo con tirachinas con un suculento premio. xxx
 
+\saltocolumna
+
 ### Deporte
 
 El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecnologías, hablamos de bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hierba. También son famosos los concursos de baile acrobáticos y las competiciones de tiro con tirachinas. 
@@ -220,13 +224,13 @@ El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecn
 
 El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hierba adaptado a 3 jugadores al interior del complejo. Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos.
 
-\saltopagina
-
 Gana el equipo que más goles meta o el que consigue marcar en 3 rondas seguidas sin que su oponente le marque (llamado en el argot deportivo "baño").
 
 Uno de los elementos más interesantes del hockey de pasillo es el campo de juego. Según el reglamento oficial puede ser cualquier pasillo de la arcología que tenga un mínimo de 40 m² usando dos puertas del pasillo como porterías. 
 
 Las puertas que no tienen que ser del mismo tamaño ni tener unos mínimos o máximos, así que es importante ganar el sorteo inicial para elegir la portería más ventajosa. Aunque se cambie cada ronda, al ser 5 estarías 3 en la buena y 2 en la mala.
+
+\saltopagina
 
 En los partidos oficiales de liga se elige al azar el campo de entre todos los corredores, galerías, pasillos y pasajes que cumplan las indicaciones. 5 minutos antes de empezar se desaloja el pasillo y entran les jugadores a calentar.
 
@@ -236,14 +240,14 @@ Debido al poco espacio del campo, los partidos son arbitrados desde fuera usando
 
 El juego es más de habilidad para moverse entre espacios pequeños, de saber mover la bola y aprovechar los rebotes que de fuerza física, ya que no hay espacio para golpear a tu contrincante con el stick o para coger carrerilla.
 
-\saltocolumna
-
 Reglamento general:
 
 * Solo se puede tocar la pelota con el stick.
 * No se puede golpear a otro jugador con el stick.
 * La pelota puede rebotar contra cualquier cosa del terreno de juego.
 * Si cometes una falta, debes soltar tu stick y no moverte los segundos de castigo. Tus compañeres y tus adversaries puede usarte como protección, obstáculo, etc. mientras estás en la falta.
+
+\saltocolumna
 
 Hay gran cantidad de equipos amateurs en la arcología, pero solos 12 profesionales en la Liga de Hockey de pasillo. Estos equipos tienen patrocinadores, remuneraciones, buen equipamiento, entrenadores, gimnasios, etc. Los más famosos suelen acabar de influencers de la directora J0hn, haciendo reels y directos para les fans de este deporte.
 
@@ -841,6 +845,9 @@ xxx
 * **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 a Disparar.
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
 * **Incendiarias:** Son bolas rellenas de material inflamable. Al impactar solo el daño de la FUE, pero añaden 1d6 de daño de fuego. xxx
+
+\saltocolumna
+
 * **Rellenas de pintura:** Son bolas rellenas de una sustancia espesa parecida a pintura negar (o de otros colores) que cuesta mucho desprender. Se usan para marcar objetivos, normalmente con colores chillones, o para cegar sensores de vigilancia, tapando las lentes con esta brea pegajosa. Al impactar solo hacen el daño de la FUE.
 
 #### Cocketles molotov
@@ -858,8 +865,6 @@ xxx
 #### Monturas: Roller skates, skateboards y e-bikes
 
 xxx
-
-\saltocolumna
 
 Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, **se usa en su lugar Atletismo**.
 
@@ -925,6 +930,7 @@ Gastar avances en más tiempo u otras modificaciones hace que resten 4 puntos a 
 ### Controlar iluminación
 
 **Requisitos:** Novate
+
 **Jerga:** xxx
 
 Mediante una mezcla de movimientos captados por los sensores de la iluminación y clics en los mandos de la luz, hacen que la iluminación actúe de las siguientes formas. Debes recordar que no hay fuentes naturales de la luz así que las estancias se quedan completamente a oscuras si se apaga la luz (a falta de otras formas de luz como leds de dispositivos o linternas). No se puede conseguir oscuridad total porque hay luces independientes de emergencia.
@@ -939,6 +945,7 @@ Mediante una mezcla de movimientos captados por los sensores de la iluminación 
 ### Controlar pantallas
 
 **Requisitos:** Novate
+
 **Jerga:** xxx
 
 xxx
@@ -950,6 +957,7 @@ xxx
 ### Llamar ascensor
 
 **Requisitos:** Novate
+
 **Jerga:** Quiero un subidón, Me está dando un bajón, Llama a Otis (por la placa del fabricante que hay en los ascensores más antiguos) 
 
 Pulsando una combinación de botones de ascensores, montacargas y escaleras mecánicas puedes conseguir ciertos efectos sobre ellos.
@@ -961,6 +969,7 @@ Pulsando una combinación de botones de ascensores, montacargas y escaleras mec�
 ### Controlar puertas
 
 **Requisitos:** Experimentade
+
 **Jerga:** xxx
 
 xxx
@@ -972,6 +981,7 @@ xxx
 ### Controlar ascensor
 
 **Requisitos:** Experimentade, Llamar ascensor
+
 **Jerga:** xxx
 
 xxx
@@ -983,11 +993,14 @@ xxx
 ### Dominar iluminación
 
 **Requisitos:** Experimentade, Controlar iluminación
+
 **Jerga:** xxx
 
 xxx
 
 Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero controlando las luces de emergencia y similar.
+
+\saltopagina
 
 * Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
 * xxx
@@ -995,11 +1008,10 @@ Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero 
 
 **Avances:** 1 avance por cada más objetivo extra.
 
-\saltopagina
-
 ### Controlar climatización
 
 **Requisitos:** Experimentade
+
 **Jerga:** xxx
 
 xxx
@@ -1011,6 +1023,7 @@ xxx
 ### Controlar vigilancia
 
 **Requisitos:** Veterane, Controlar pantallas
+
 **Jerga:** xxx
 
 xxx
@@ -1022,9 +1035,12 @@ xxx
 ### Dominar climatización
 
 **Requisitos:** Veterane, Controlar climatización
+
 **Jerga:** ¡Dale caña a la ventilación!
 
 xxx
+
+\saltocolumna
 
 * Puedes poner los ventiladores a tal velocidad, más allá de lo seguro, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * xxx
@@ -1033,6 +1049,7 @@ xxx
 ### Dominar puertas
 
 **Requisitos:** Veterane, Controlar puertas
+
 **Jerga:** xxx
 
 xxx
@@ -1041,11 +1058,10 @@ xxx
 * xxx
 * xxx
 
-\saltocolumna
-
 ### Dominar vigilancia
 
 **Requisitos:** Heróique, Controlar vigilancia
+
 **Jerga:** xxx
 
 xxx
@@ -1057,13 +1073,18 @@ xxx
 ### Código Konami
 
 **Requisitos:** Legendario
+
 **Jerga:** xxx
+
+\saltopagina
 
 ![](./assests/images/codigo-konami.png)
 
 xxx
 
 \saltocolumna
+
+\saltopagina
 
 \sincolumna
 
@@ -1642,6 +1663,18 @@ xxx
 
 xxx
 
+
+### Artesane
+
+Estamos hablando desde electriciste o albañil hasta profesiones muy especializadas como impresore 3d o técnique de climatización. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Latrocinio d4, Notar d4, Ordenadores d6, Pelear d4, Reparar d8
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Hombre de recursos
+* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
+* **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
+
 ### Artiste
 
 Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier tipo, comediantes, ...
@@ -1658,18 +1691,34 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 Los oscuros callejones de Nottingham están llenas de este tipo de personajes. Tenemos matones, descuideras, cortabolsas, timadores, ladronas, etc.
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pelear d6, Ordenadores d4, Sigilo d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
-* **Equipo:** Cuchillo (FUE+d4)
+* **Equipo:** Stick de hockey (FUE+d4)
+
+\saltopagina
+
+### Mercader
+
+Vamos desde dependientes de tienda hasta taberneres o vendedores de comida callejera y toda la estructura de gente que trabaja en las grandes empresas comerciales, desde almaceneres hasta transportistas. Puedes gastar un par de puntos de habilidad en especializarles.
+
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d4
+* **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d8, Pelear d4, Pasillear d6, Ordenadores d4, Persuadir d6, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 4
+* **Desventajas:** Elige 1 o más: Avariciose (Mayor), Bocazas (Menor), Caute (Menor), Habito (Mayor, Alcoholismo)
+* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alcurnia, Rique
+* **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
 ### Funcionarie
 
-Estamos hablando de o chupatintas que están detrás de un mostrador gestionando algún tipo de asunto para la empresa, desde permisos de obra a cobro de multas e impuestos.
+Estamos hablando de chupatintas que están detrás de un mostrador gestionando algún tipo de asunto para la empresa, desde permisos de obra a cobro de multas e impuestos.
 
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
+
+\saltocolumna
+
 * **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Habito (Menor)
 * **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rico
 * **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
@@ -1699,11 +1748,17 @@ xxx
 
 ### El río Trent
 
-El río Trent es una inmensa algafactoría donde se produce xxx. Es lo más parecido a un río o un mar que han visto les notis. xxx
+El río Trent es una inmensa algafactoría donde se produce xxx. 
 
-### Modulo prisión "xxx"
+Es lo más parecido a un río o un mar que han visto les notis. xxx
+
+### El correccional
 
 xxx
+
+### El pozo
+
+Este gigantesco pozo sin fondo fue diseñado les instaladores xxx
 
 \saltocolumna
 
