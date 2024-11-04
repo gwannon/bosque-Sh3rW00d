@@ -950,7 +950,7 @@ xxx
 ### Llamar ascensor
 
 **Requisitos:** Novate
-**Jerga:** xxx
+**Jerga:** Quiero un subidón, Me está dando un bajón, Llama a Otis (por la placa del fabricante que hay en los ascensores más antiguos) 
 
 Pulsando una combinación de botones de ascensores, montacargas y escaleras mecánicas puedes conseguir ciertos efectos sobre ellos.
 
