@@ -852,9 +852,11 @@ Una de las ventajas de los tirachinas es que **su munición puede ser cualquier 
 
 #### Cóctel molotov
 
-xxx
+Este clásico finlandés, no pierde fuerza por mucho que avancen los siglos y la tecnología. Su bajo precio y su gran eficacia no tienen competencia y siempre habrá combustible, tela y recipientes que se rompen al golpear superficies duras.
 
-Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se ha tirado un cóctel molotov se recibe 1d10 de daño y con un 5 o 6 en un d6 prenden fuego tus ropas.
+Se pueden preparar, si tienes los componentes, 10 cócteles por horas con una tirada de Reparar exitosa.
+
+Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se ha tirado un cóctel molotov, se recibe 1d10 de daño y con un 5 o 6 en un d6 prenden fuego tus ropas.
 
 ### Protecciones
 
@@ -890,12 +892,14 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 
 |ARMA|DAÑO|PESO|COSTE|FUE MIN.|PA|NOTAS|
 |---|---|---|---|---|---|---|
-|Stick de hockey|FUE+d4|1|10|d6|-|-|
+|Stick de hockey de pasillo|FUE+d4|1|10|d6|-|Contundente|
+|Palanca|xxx|xxx|xxx|xxx|xxx|xxx|
 
 ### Listado de protecciones
 
 |PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
 |---|---|---|---|---|---|
+|Equipamiento de hockey de pasillo|xxx|xxx|xxx|xxx|xxx|
 
 ### Listado de vehículos
 
