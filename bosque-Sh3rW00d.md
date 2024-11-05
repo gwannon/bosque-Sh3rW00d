@@ -893,7 +893,7 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 |ARMA|DAÑO|PESO|COSTE|FUE MIN.|PA|NOTAS|
 |---|---|---|---|---|---|---|
 |Stick de hockey de pasillo|FUE+d4|1|10|d6|-|Contundente|
-|Palanca|xxx|xxx|xxx|xxx|xxx|xxx|
+|Palanca de hierro|FUE+d6|1|15|d6|-|Contundente|
 
 ### Listado de protecciones
 
