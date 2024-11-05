@@ -1897,6 +1897,18 @@ Tiene una simulación de cielo que muestra un día soleado y totalmente despejad
 
 xxx
 
+### Escuela de danza de Lady Myrna
+
+Lady Myrna es una de las mejores bailarinas de Nottingham, bailando para las clases más altas. En la cima de carrera decidió montar una escuela donde enseñar su arte a las personas que lo aman tanto como ella.
+
+Su escuela, a pesar de lo que podría creerse, está en un gimnasio de la Zona Media que es también su casa. La realidad es que, aunque cobra bien por sus clases, no puede permitirse un local en la Zona Alta con lo que gana como profesora.
+
+En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que sus alumnes usan en sus prácticas. Ha montado un equipo de escenografía (sonido y luces) de gran calidad para las clases.
+
+Myrna es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella "verdadero talento".
+
+> **Clases de danza:** Por unos 2500 dólares y dos semanas de entrenamiento intensivo, mejorará tu valor de Interpretación en un nivel de dado cuando bailes. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avances. Para que te acepte en su escuela deberás demostrar que o tienes mucho dinero o eres muy famose o un mínimo de d6 en Interpretación.
+
 \saltocolumna
 
 \saltopagina
