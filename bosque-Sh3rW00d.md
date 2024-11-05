@@ -172,7 +172,7 @@ El clima, si se le puede llamar así, es siempre igual durante todo el año. La 
 
 Les habitantes de Nottingham no conocen lo que son los espacios abiertos, no saben lo que es mirar al cielo o ver el horizonte. Solo están acostumbrados a espacios cerrados de no más de 30 o 40 m². El mayor espacio abierto de Nottingham es la plaza Mayor, tan abierto que hay notis que tienen agorafobia.
 
-Claramente, no hay ni puesta ni salida de sol. Muchos sistemas simplemente pasan de modo diurno a modo nocturno para seguir los ciclos de sueños de les residentes del complejo. 
+Claramente, no hay ni puesta ni salida de sol. Muchos sistemas simplemente pasan de modo diurno a modo nocturno para seguir los ciclos de sueños de les residentes del complejo. Para paliar esa falta de luz solar, la compañía instala focos ultravioletas que se encienden en modo diurno. Esto junto a buenos suplementos de vitamina d en todos los alimentos evitan el raquitismo y otras enfermedades oseas.
 
 \saltocolumna
 
@@ -308,6 +308,8 @@ xxx
 ```
 xxx
 ```
+
+[![Pandillero By Fernand0FC](./assests/images/pandillero_by_fernand0fc_dcaqebx-414w-2x.jpg "HeadShots By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Pandillero-743621901 "Pandillero By Fernand0FC")
 
 xxx
 
@@ -1517,6 +1519,8 @@ xxx
 En un mundo hipertecnificado, la forma más fácil de que no te hackeen información es que esta sea física. Los planos de un nuevo ingenio es mejor tenerlos en papel y que los lleve une mensajere en bici que mandarlos por mensajes digitales.
 ```
 
+[![Delivery By Fernand0FC](./assests/images/delivery_by_fernand0fc_dd9kr8q-414w-2x.jpg "Delivery By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Delivery-802145258 "Delivery By Fernand0FC")
+
 xxx
 
 \saltocolumna
@@ -1795,7 +1799,7 @@ xxx
 
 ### El río Trent
 
-El río Trent es una inmensa algafactoría donde se produce xxx. 
+El río Trent es una inmensa algafactoría donde se produce la gran mayoría de comida de la arcología. xxx 
 
 Es lo más parecido a un río o un mar que han visto les notis. xxx
 
@@ -1803,11 +1807,69 @@ Es lo más parecido a un río o un mar que han visto les notis. xxx
 
 xxx
 
+\saltocolumna
+
 ### El pozo
 
-Este gigantesco pozo sin fondo fue diseñado les instaladores xxx
+[![Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir](./assests/images/32454817667_059d6f26aa_c.jpg "Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir")](https://www.flickr.com/photos/jsjgeology/32454817667 "Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir")
+
+
+Este gigantesco agujero sin fondo en la base del complejo es la primera estructura Nottingham. Este pozo sin fondo lo excavó la compañía en las tierras de Nottingham y lo lleno de miles y miles de toneladas de nanitos. Les instaladores usaron esos nanitos para construir los cimientos y luego la estructura del complejo. Según crecía el complejo, el pozo se iba secando hasta quedar vacío. 
+
+Se dice que todavía nanitos quedan en su fondo esperando ordenes de trabajo de sus dueños, les instaladores. xxx
+
+xxx
+
+\saltopagina
+
+xxx
+
+**Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que casi 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo puede ser muy peligroso. 
+
+### Campo de tiro de Gus
+
+En este taller desocupado puedes encontrar todo tipo de dianas y obstáculos y variopintes personajes muy centrados intentando tiros y rebotes imposibles 
+
+Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas es casi una filosofía de vida y como si de monjes shaolín se tratará entrenan día y noche para hacer los más increíbles tiro. El tiro con tiragomas es para muchos de elles una forma de meditación e iluminación.
+
+Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código étíco y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
 
 \saltocolumna
+
+> Por unos 500 dólares en alijos (que serán usados en mejorar el campo de tiro) y dos semanas de entrenamiento intensivo, mejorarás el valor de Dispar de le PJ en un nivel de dado cuando combatas con tirachinas. Tu valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
+
+### La Taberna de Albión
+
+La Taberna de Albión es uno de los locales mejores y con más ambiente de Nottingham y el mejor de la Zona Baja. Bebida y comida abundante a precios asequibles. De hecho sus cócteles de vodka casero tienen mucha fama por ser muy fuertes, de hecho es puro alcohol.
+
+> Si haces un cóctel molotov con el vodka del Alción descubrirás que es realmente efectivo, haciendo 1d12 de daño en vez de un 1d10. Pero el coste se eleva de 1 a 5 dólares por cóctel.
+
+Cada viernes hay timbas de cartas sin límite que empiezan con el glitch de noche y acaban con el glitch del día. Se mueve mucho dinero (sobretodo en alijos) y vienen jugadores de todo el complejo.
+
+La clientela es muy variada, desde trabajadores de la algafactoría, hasta influencers atraídos por las emociones de participar en timbas de poker ilegales y de quizás ver algún criminal e incluso hacerse un reel con alguno de ellos. 
+
+\saltopagina
+
+Estas historias son difundidas por Esther, dueña del bar. Es cierto que alguna ocasión algún forajide famoso ha pasado la mona en el suelo del bar, pero no es algo muy común.
+
+ Las visitas de los sheriffs son frecuentes con lo que es un lugar a evitar si eres un profugue de la ley.
+
+> Las partidas son legales dentro de la ilegalidad del juego, asi que en principio une jugadore no tendrá positivos ni negativos por jugar en el Albión.
+
+
+### El gumbo eterno
+
+Hace 15 años, durante una gran escasez de algas, Mamá Claire, de ascendencia jamaicana, sacó su olla de gumbo a una plazoleta cerca de su casa y empezó a repartir platos de comida a sus vecinos. Cada uno trajo lo que pudo y Mamá siguió cocinando gumbo. El fuego de su cocina lleva sin apagarse desde entonces y nunca le ha negado un plato de comida. La gente trae lo poco que les sobra para el llamado gumbo eterno de Mamá Claire y ella lo reparte entre los más desfavorecidos del complejo.
+
+Muches cocineres e influencers gastronómiques ha intentado conseguir la receta del gumbo, pero Mamá se ha negado a darla. También le han hecho ofertas de trabajo como cocinera en casas de la zona alta y las ha declinado todas. Ella es feliz con su gente en los bajos de Nottingham.
+
+El **secreto del gumbo** de Claire son los **productos frescos ecológicos que los _boskis_** suelen proporcionarle en sus incursiones al complejo.
+
+\saltocolumna
+
+Si necesitas contactar con la gente del bosque Mamá Claire puede ser una buena vía sobre todo si echas buen material en su olla.
+
+> Recompensa con un par de benis a cualquiera que deje comestibles o done sus alijos para el gumbo eterno.
 
 \saltopagina
 
