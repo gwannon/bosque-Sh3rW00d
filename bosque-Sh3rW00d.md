@@ -968,7 +968,7 @@ Mediante una mezcla de movimientos captados por los sensores de la iluminación 
 
 **Requisitos:** Novate
 
-**Jerga:** Se acabo la programación, He pagado Netflix, Ven a la Luz Caroline, Saltar pixels. 
+**Jerga:** Se acabó la programación, He pagado Netflix, Ven a la Luz Caroline, Saltar pixels. 
 
 Les instaladores escondían sus propios modos de funcionamiento en menús secretos de las pantallas. Además de encenderlas, podían dejarse mensajes y lo más divertidos, sobrecargarlas y conseguir unos bonitos mini-fuegos artificiales.
 
@@ -1167,7 +1167,7 @@ A continuación hay que sortear el campo como quieras. Como ya hemos dicho, casi
 * **Corazones:** Portería pequeña. El parabol tiene un +2 a su tirada de Atletismo.
 * **Diamantes:** En forma de L. La parte corta de la L es donde está tu portería y permite que le pasabol juegue con ello al defenderse. Le pasabol tiene un +2 a Atletismo.
 * **Picas:** Portería grande. El lanzabol tiene un +2 a su tirada de Atletismo.
-* **Tréboles:** Tdo el campo está sucio y lleno de trastos. El sitio está lleno de trastos que molestan al jugar y el suelo está sucio y resbaladizo. Todes les jugadores tienen -2 a atletismo.
+* **Tréboles:** Todo el campo está sucio y lleno de trastos. El sitio está lleno de trastos que molestan al jugar y el suelo está sucio y resbaladizo. Todes les jugadores tienen -2 a Atletismo.
 
 Un partido de hockey de pasillo consta de 5 rondas de combate. Cada ronda tiene una fase de estrategia y otra de juego.
 
