@@ -101,8 +101,7 @@ https://www.deviantart.com/cyberaeon/art/Hacker-588810800
 https://www.deviantart.com/cyberaeon/art/Sage-705811083
 https://www.deviantart.com/fernand0fc/art/NETRUNNER-845709826
 https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124
-https://www.deviantart.com/fernand0fc/art/Delivery-802145258
-https://www.deviantart.com/fernand0fc/art/Pandillero-743621901
+https://www.deviantart.com/tovmauzer/art/Hack-you-251023874
+https://www.deviantart.com/anthrokim/art/Sapoong-character-artbook-Mouse-875111836
 
-https://www.deviantart.com/redheadsoldier/art/Nature-Neon-601893009
-
+https://www.deviantart.com/cyberaeon/art/Kaline-761977281
