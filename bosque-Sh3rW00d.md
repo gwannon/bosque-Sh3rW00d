@@ -491,7 +491,7 @@ Se recomienda **no ponerse ventajas de pistolero**, como Disparo Rápido, ya que
 
 ### Idiomas
 
-El inglés es el idioma predominante en Nottimgham, asi que es no hay problemas de comunicación entre personas y máquinas. Puede encontrarse libros u objetos con textos en otros idiomas, pero no debería ser difícil conseguir traducciones más o menos buenas.
+El inglés es el idioma predominante en Nottingham, asi que es no hay problemas de comunicación entre personas y máquinas. Puede encontrarse libros u objetos con textos en otros idiomas, pero no debería ser difícil conseguir traducciones más o menos buenas.
 
 > Empiezas con la habilidad **Idioma Inglés a nivel de tu Astucia y un d4 en Idioma Leet**.
 
@@ -832,7 +832,13 @@ xxx
 
 ### Armas
 
+Las armas de fuego no están permitidas en el complejo y, de hecho, su tenencia y/o construcción tienen las mayores penas de los delitos no violentos. En principio solo los sheriffs y sus ayudantes tienen acceso a este tipo de armas. 
+
 xxx
+
+Puedes usar armas normales de la época actual del manual básico de SWEA para que las porten tus PNJ cuando se enfrnete a tu mesa. Si derrotan a su enemigo y este está armado podrán quedarse con la armas, pero deberán racionar las balas porque son extremadamente escasas. También deben saber que les autoridades de Nottingham pondrán directamente en la lista de más buscados a personas que porten armas de fuego.
+
+Culturalmente también tienes que tener en cuenta que el pueblo quiere a ladrones carismáticos que reparten su botín con les pobres, no a asesinos violentos armados hasta los dientes que van dejando un reguero de sangre por donde pasan.
 
 #### Slingshot (Tirachinas)
 
@@ -845,14 +851,13 @@ Una de las ventajas de los tirachinas es que **su munición puede ser cualquier 
 * **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 al daño.
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
 * **Incendiarias:** Son bolas rellenas de material inflamable. Al impactar solo el daño de la FUE, pero añaden 1d6 de daño de fuego. xxx
-
-\saltocolumna
-
 * **Rellenas de pintura:** Son bolas rellenas de una sustancia espesa parecida a pintura negar (o de otros colores) que cuesta mucho desprender. Se usan para marcar objetivos, normalmente con colores chillones, o para cegar sensores de vigilancia, tapando las lentes con esta brea pegajosa. Al impactar solo hacen el daño de la FUE.
 
 #### Cóctel molotov
 
-Este clásico finlandés, no pierde fuerza por mucho que avancen los siglos y la tecnología. Su bajo precio y su gran eficacia no tienen competencia y siempre habrá combustible, tela y recipientes que se rompen al golpear superficies duras.
+Este clásico finlandés no pierde fuerza por mucho que avancen los siglos y la tecnología. Su bajo precio y su gran eficacia no tienen competencia y siempre habrá combustible, tela y recipientes que se rompen al golpear superficies duras.
+
+\saltopagina
 
 Se pueden preparar, si tienes los componentes, 10 cócteles por horas con una tirada de Reparar exitosa.
 
@@ -866,13 +871,12 @@ xxx
 
 xxx
 
+
 #### Monturas: Roller skates, skateboards y e-bikes
 
 xxx
 
 Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, **se usa en su lugar Atletismo**.
-
-\saltopagina
 
 \sincolumna
 
@@ -894,6 +898,12 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 |---|---|---|---|---|---|---|
 |Stick de hockey de pasillo|FUE+d4|1|10|d6|-|Contundente|
 |Palanca de hierro|FUE+d6|1|15|d6|-|Contundente|
+
+\concolumna
+
+\saltopagina
+
+\sincolumna
 
 ### Listado de protecciones
 
