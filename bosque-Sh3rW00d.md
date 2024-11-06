@@ -839,7 +839,15 @@ Puedes usar armas normales de la época actual del manual básico de SWEA para q
 
 Culturalmente también tienes que tener en cuenta que el pueblo quiere a ladrones carismáticos que reparten su botín con les pobres, no a asesinos violentos armados hasta los dientes que van dejando un reguero de sangre por donde pasan.
 
+#### Arcos
+
+xxx
+
 #### Slingshot (Tirachinas)
+
+xxx
+
+##### Rebotes
 
 xxx
 
@@ -861,6 +869,8 @@ Este clásico finlandés no pierde fuerza por mucho que avancen los siglos y la 
 Se pueden preparar, si tienes los componentes, 10 cócteles por horas con una tirada de Reparar exitosa.
 
 Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se ha tirado un cóctel molotov, se recibe 1d10 de daño y con un 5 o 6 en un d6 prenden fuego tus ropas.
+
+Hay **tirachinas especiales para el lanzamiento de cócteles que duplican su alcance**, pero en este caso **se usaría Disparar** en vez de Atletismo
 
 ### Protecciones
 
@@ -1751,7 +1761,7 @@ Estamos hablando de chupatintas que están detrás de un mostrador gestionando a
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
-* **Desventajas:** Elige 1 o más: Avariciosoe(Mayor), Bocazas (Menor), Habito (Menor)
+* **Desventajas:** Elige 1 o más: Avariciose (Mayor), Bocazas (Menor), Habito (Menor)
 * **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rique
 * **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
 
