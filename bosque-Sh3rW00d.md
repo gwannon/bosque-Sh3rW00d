@@ -172,9 +172,7 @@ El clima, si se le puede llamar así, es siempre igual durante todo el año. La 
 
 Les habitantes de Nottingham no conocen lo que son los espacios abiertos, no saben lo que es mirar al cielo o ver el horizonte. Solo están acostumbrados a espacios cerrados de no más de 30 o 40 m². El mayor espacio abierto de Nottingham es la plaza Mayor, tan abierto que hay notis que tienen agorafobia.
 
-Claramente, no hay ni puesta ni salida de sol. Muchos sistemas simplemente pasan de modo diurno a modo nocturno para seguir los ciclos de sueños de les residentes del complejo. Para paliar esa falta de luz solar, la compañía instala focos ultravioletas que se encienden en modo diurno. Esto junto a buenos suplementos de vitamina d en todos los alimentos evitan el raquitismo y otras enfermedades oseas.
-
-\saltocolumna
+Claramente, no hay ni puesta ni salida de sol. Muchos sistemas simplemente pasan de modo diurno a modo nocturno para seguir los ciclos de sueños de les residentes del complejo. Para paliar esa falta de luz solar, la compañía instala focos ultravioletas que se encienden en modo diurno. Esto junto a buenos suplementos de vitamina D en todos los alimentos evitan el raquitismo y otras enfermedades óseas.
 
 ### Cultura y contracultura
 
@@ -470,7 +468,6 @@ Vives rodeado de tecnología las 24 horas del día. Quieras o no, sabes usar tod
 
 > Todes les personajes **empiezan con Electrónica d4 y Ordenadores d4**.
 
-
 ### La ciencia mató la magia
 
 A no ser que quieras darle un toque paranormal, **Ocultismo desaparece** de las habilidades elegibles. También **desaparecen las habilidades como Hechicería, Ciencia Extraña, Fe, etc. y las ventajas de poder** que tienen un carácter mágico.
@@ -499,7 +496,7 @@ El inglés es el idioma predominante en Nottingham, asi que es no hay problemas 
 
 ### Secretos
 
-Los secretos es algo muy común entre les personajes de las historias de Robin Hood. Robin es un noble, Scarlet es un hermanastro de Robin o Marian se disfraza de hombre para ayudar a los pobres. He querido trasmitir esa esencia con esta regla de creación de personajes. 
+Los secretos es algo muy común entre les personajes de las historias de Robin Hood. Robin es un noble, Scarlet es un hermanastro de Robín o Marian se disfraza de hombre para ayudar a los pobres. He querido trasmitir esa esencia con esta regla de creación de personajes. 
 
 > Tode personaje debe **tener un Secreto (mayor o menor)** entre sus desventajas.
 
@@ -728,11 +725,11 @@ El problema lo tienen los sistemas de seguridad y vigilancia, hacen tantos chequ
 
 **Requisitos:** Novate
 
-Por alguna razón eres necesario para la compañía y no puede permitirse que desaparezcas. Quizás tus habilidades son muy valoradas o únicas, estás protegido por alguien importante o hay algo en tí que la compañía busca. Sea lo que sea, todas las IA y les secuaces de la compañía tienen ordenes de no dañarte, pueden intentar noquearte o inmovilizarte, pero deben evitar hacerle daño.
+Por alguna razón eres necesario para la compañía y no puede permitirse que desaparezcas. Quizás tus habilidades son muy valoradas o únicas, estás protegido por alguien importante o hay algo en ti que la compañía busca. Sea lo que sea, todas las IA y les secuaces de la compañía tienen órdenes de no dañarte, pueden intentar noquearte o inmovilizarte, pero deben evitar hacerle daño.
 
 De normal **esta ventaja debería tener un Secreto** que explique por qué eres necesarie para la compañía.
 
-> Todos los agentes de la compañía (humanos, constructos e IA) **deben pasar una tirada de Espíritu para tratar de dañarte**. Si fallan tendrán que cambiar su acción y intercambiarla por otra no dañina.
+> Todos los agentes de la compañía (humanos, constructos e IA) **deben pasar una tirada de Espíritu para tratar de dañarte**. Si fallan tendrán que cambiar su acción e intercambiarla por otra no dañina.
 
 \saltocolumna
 
@@ -772,7 +769,7 @@ Estas desventajas permiten darle un toque ciberpunk a tus personajes.
 
 La capacidad de tu cuerpo aceptar ciberimplantes es mucho menor que el del resto de las personas.
 
-> A todos **los costes de puntos de ciberimplantes debes sumarle 1 punto extra** por tu alergia. Si una persona normal gasta 2 puntos de ciberimplantes en ponerse un implante que le otorga Reflejos de combate, tu gastas 3 puntos. Lo bueno es que tu cuerpo combate la tecnología y tienes +1 a las tiradas de Vigor contra cosas como nanitos que se metan en tu organismo.
+> A todos **los costes de puntos de ciberimplantes debes sumarle 1 punto extra** por tu alergia. Si una persona normal gasta 2 puntos de ciberimplantes en ponerse un implante que le otorga Reflejos de combate, tú gastas 3 puntos. Lo bueno es que tu cuerpo combate la tecnología y tienes +1 a las tiradas de Vigor contra cosas como nanitos que se metan en tu organismo.
 
 ### Ciberparanoia (mayor/menor)
 
@@ -838,7 +835,7 @@ Las armas de fuego no están permitidas en el complejo y, de hecho, su tenencia 
 
 xxx
 
-Puedes usar armas normales de la época actual del manual básico de SWEA para que las porten tus PNJ cuando se enfrnete a tu mesa. Si derrotan a su enemigo y este está armado podrán quedarse con la armas, pero deberán racionar las balas porque son extremadamente escasas. También deben saber que les autoridades de Nottingham pondrán directamente en la lista de más buscados a personas que porten armas de fuego.
+Puedes usar armas normales de la época actual del manual básico de SWEA para que las porten tus PNJ cuando se enfrente a tu mesa. Si derrotan a su enemigo y este está armado podrán quedarse con las armas, pero deberán racionar las balas porque son extremadamente escasas. También deben saber que les autoridades de Nottingham pondrán directamente en la lista de más buscados a personas que porten armas de fuego.
 
 Culturalmente también tienes que tener en cuenta que el pueblo quiere a ladrones carismáticos que reparten su botín con les pobres, no a asesinos violentos armados hasta los dientes que van dejando un reguero de sangre por donde pasan.
 
@@ -970,9 +967,9 @@ Mediante una mezcla de movimientos captados por los sensores de la iluminación 
 
 **Requisitos:** Novate
 
-**Jerga:** Se acabó la programación, He pagado Netflix, Ven a la Luz Caroline, Saltar pixels. 
+**Jerga:** Se acabó la programación, He pagado Netflix, Ven a la Luz Caroline, Saltar píxeles. 
 
-Les instaladores escondían sus propios modos de funcionamiento en menús secretos de las pantallas. Además de encenderlas, podían dejarse mensajes y lo más divertidos, sobrecargarlas y conseguir unos bonitos mini-fuegos artificiales.
+Les instaladores escondían sus propios modos de funcionamiento en menús secretos de las pantallas. Además de encenderlas, podían dejarse mensajes y lo más divertido, sobrecargarlas y conseguir unos bonitos mini-fuegos artificiales.
 
 * Puedes **encender y apagar pantallas** y también **programar** su encendido y apagado.
 * Puedes **poner mensajes simples y estáticos** en las pantallas.
@@ -988,7 +985,7 @@ Les instaladores escondían sus propios modos de funcionamiento en menús secret
 
 Pulsando una combinación de botones de ascensores, montacargas y escaleras mecánicas puedes conseguir ciertos efectos sobre ellos.
 
-* Puedes hacer que un **ascensor/montacargas venga a tí**, saltándote cualquier otra llamada previa.
+* Puedes hacer que un **ascensor/montacargas venga a ti**, saltándote cualquier otra llamada previa.
 * Puedes hacer que un **ascensor/montacargas vaya a un extremo u otro de su ruta**. Este hackeo dura hasta que llega al punto final de su ruta elegido.
 * Puedes **cambiar la dirección de unas escaleras mecánicas**. Moverse en dirección contraria a las escaleras se considera terreno difícil.
 
@@ -1177,7 +1174,7 @@ En la fase de estrategia se podrán escoger les 3 jugadores (parabol, pasabol, l
 
 En la fase de juego les **lanzaboles tiran Atletismo** para jugar la bola, les **paraboles podrá tirar Provocar para distraer al contrario o tirar Atletismo** y les **pasaboles podrá tirar Tácticas para manejar a su equipo o Atletismo**. Provocar y Tácticas solo se pueden usar en dos rondas por partido.
 
-Saca una carta de acción para cada jugador para marcar el orden como si fuera iniciativa. Cuando le toque, declara su tirada a cada jugador decide si actua, normal, agresivamente o defensivamente. Agresivamente le da un +1 a su tirada de Atletismo, pero también un +1 a al contrincante que tenga enfrente en el campo contrario (parabol-lanzabol, pasabol-pasabol y lanzabol-parabol) Cuando tire atletismo. Defensivamente le da un -2 a la tirada y también un -2 al contrario. Las tiradas de Tácticas y Provocar no se ven afectadas por jugar agresiva o defensivamente.
+Saca una carta de acción para cada jugador para marcar el orden como si fuera iniciativa. Cuando le toque, declara su tirada a cada jugador decide si actúa, normal, agresivamente o defensivamente. Agresivamente le da un +1 a su tirada de Atletismo, pero también un +1 a al contrincante que tenga enfrente en el campo contrario (parabol-lanzabol, pasabol-pasabol y lanzabol-parabol) Cuando tire atletismo. Defensivamente le da un -2 a la tirada y también un -2 al contrario. Las tiradas de Tácticas y Provocar no se ven afectadas por jugar agresiva o defensivamente.
 
 Tras declarar las tiradas, se tiran los dados aplicando los bonus y malus. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos.
 
@@ -1289,21 +1286,20 @@ Cada uno de los tipos de ciberimplantes tiene sus propias reglas.
 
 Estas mejoras permiten aumentar un nivel el dado del atributo.
 
-*   Puedes gastar un avance en este tipo de CI tantas veces por rango como quieras.
-*   Puedes gastar varios avances en mejorar el mismo atributo sin límite, pero a partir d12 los implantes no son camuflables (ver "CI camuflables").
-*   Si alguno de tus implantes no es camuflable todos los del mismo atributo se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
-
+* Puedes gastar un avance en este tipo de CI tantas veces por rango como quieras.
+* Puedes gastar varios avances en mejorar el mismo atributo sin límite, pero a partir d12 los implantes no son camuflables (ver "CI camuflables").
+* Si alguno de tus implantes no es camuflable todos los del mismo atributo se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
 
 #### CI que mejoran habilidades
 
 Estas mejoras permiten aumentar un nivel el dado de la habilidad.
 
-*   El dado de habilidad aumenta un nivel independiente del nivel de su atributo.
+* El dado de habilidad aumenta un nivel independiente del nivel de su atributo.
 
 \saltopagina
 
-*   Puedes gastar avances en CI para conseguir subir una habilidad por encima de d12, pero a partir d12 los implantes no son camuflables.
-*   Si alguno de tus implantes no es camuflable todos los de la misma habilidad se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
+* Puedes gastar avances en CI para conseguir subir una habilidad por encima de d12, pero a partir d12 los implantes no son camuflables.
+* Si alguno de tus implantes no es camuflable todos los de la misma habilidad se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
 
 #### CI que otorgan ventajas
 
@@ -1354,7 +1350,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
-|Apostar|1|Sí|Calculadora de probabilidades cerebral|
+|Apostar|1|Sí|Calculadora cerebral de probabilidades|
 |Ciencias|1|Sí|Base de datos científica|
 |Conducir|1|Sí|Ciberconexión a vehículo|
 |Disparar|1|No|HUB de puntería|
@@ -1469,7 +1465,6 @@ xxx
 ### IA polivalentes
 
 xxx
-
 
 \saltocolumna
 
@@ -1659,10 +1654,10 @@ xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Capacidades especiales:**
-    * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-    * **Impávido:** Es inmune al miedo e Intimidar.
-    * **Tamaño (-2):** Modificar al atacarlo -2. Son pequeños robots que se dedican a limpiar suelos, paredes y techos.
-    * **Trepamuros:** Se mueven a paso 6 por paredes y techos y pueden incluso correr.
+  * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+  * **Impávido:** Es inmune al miedo e Intimidar.
+  * **Tamaño (-2):** Modificar al atacarlo -2. Son pequeños robots que se dedican a limpiar suelos, paredes y techos.
+  * **Trepamuros:** Se mueven a paso 6 por paredes y techos y pueden incluso correr.
 * **Equipo:** xxx
 
 ### Cargador
@@ -1675,8 +1670,8 @@ xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Capacidades especiales:**
-    * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-    * **Impávido:** Es inmune al miedo e Intimidar.
+  * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+  * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** xxx
 
 \saltopagina
@@ -1691,9 +1686,9 @@ xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Capacidades especiales:**
-    * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-    * **Impávido:** Es inmune al miedo e Intimidar.
-    * **Tamaño (-1):** Puede moverse sin problemas por tubos de ventilación y otros conductos grandes.
+  * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+  * **Impávido:** Es inmune al miedo e Intimidar.
+  * **Tamaño (-1):** Puede moverse sin problemas por tubos de ventilación y otros conductos grandes.
 * **Equipo:** xxx
 
 \saltocolumna
@@ -1711,7 +1706,7 @@ Vas a necesitar llenar tus tabernas de turbios personajes de miradas perdidas y 
 ```
 También los puedes usar como base para tus PNJ. Si el gerente del jardín hidropónico va a ser importante, coge la plantilla de mercadere y adórnalo con tus propios detalles.
 
-En algunos casos te encontrarás algunas opciones de personalización muy simples de le PNJ para que tu mesa no termine por aprenderse los PNJs. Por ejemplo, les mercaderes pueden ser avariciosos, borrachos o bocazas y les artistes pueden ser Porretas, Curiose, Coje o Patose.
+En algunos casos te encontrarás algunas opciones de personalización muy simples de le PNJ para que tu mesa no termine por aprenderse los PNJ. Por ejemplo, les mercaderes pueden ser avariciosos, borrachos o bocazas y les artistes pueden ser Porretas, Curiose, Coje o Patose.
 
 ### Artesane
 
@@ -1756,7 +1751,7 @@ Estamos hablando de chupatintas que están detrás de un mostrador gestionando a
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
-* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Habito (Menor)
+* **Desventajas:** Elige 1 o más: Avariciosoe(Mayor), Bocazas (Menor), Habito (Menor)
 * **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rique
 * **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
 
@@ -1773,11 +1768,9 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alcurnia, Rique
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
-
 ***
 
 # I)iЯe(tori0 de Nottingham **Directorio de Nottingham**
-
 
 \sincolumna
 
@@ -1813,10 +1806,9 @@ xxx
 
 [![Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir](./assests/images/32454817667_059d6f26aa_c.jpg "Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir")](https://www.flickr.com/photos/jsjgeology/32454817667 "Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir")
 
-
 Este gigantesco agujero sin fondo en la base del complejo es la primera estructura Nottingham. Este pozo sin fondo lo excavó la compañía en las tierras de Nottingham y lo lleno de miles y miles de toneladas de nanitos. Les instaladores usaron esos nanitos para construir los cimientos y luego la estructura del complejo. Según crecía el complejo, el pozo se iba secando hasta quedar vacío. 
 
-Se dice que todavía nanitos quedan en su fondo esperando ordenes de trabajo de sus dueños, les instaladores. xxx
+Se dice que todavía nanitos quedan en su fondo esperando órdenes de trabajo de sus dueños, les instaladores. xxx
 
 xxx
 
@@ -1832,7 +1824,7 @@ En este taller desocupado puedes encontrar todo tipo de dianas y obstáculos y v
 
 Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas es casi una filosofía de vida y como si de monjes shaolín se tratará entrenan día y noche para hacer los más increíbles tiro. El tiro con tiragomas es para muchos de elles una forma de meditación e iluminación.
 
-Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código étíco y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
+Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
 
 \saltocolumna
 
@@ -1844,7 +1836,7 @@ La Taberna de Albión es uno de los locales mejores y con más ambiente de Notti
 
 > Si haces un cóctel molotov con el vodka del Alción descubrirás que es realmente efectivo, haciendo 1d12 de daño en vez de un 1d10. Pero el coste se eleva de 1 a 5 dólares por cóctel.
 
-Cada viernes hay timbas de cartas sin límite que empiezan con el glitch de noche y acaban con el glitch del día. Se mueve mucho dinero (sobretodo en alijos) y vienen jugadores de todo el complejo.
+Cada viernes hay timbas de cartas sin límite que empiezan con el glitch de noche y acaban con el glitch del día. Se mueve mucho dinero (sobre todo en alijos) y vienen jugadores de todo el complejo.
 
 La clientela es muy variada, desde trabajadores de la algafactoría, hasta influencers atraídos por las emociones de participar en timbas de poker ilegales y de quizás ver algún criminal e incluso hacerse un reel con alguno de ellos. 
 
@@ -1854,8 +1846,7 @@ Estas historias son difundidas por Esther, dueña del bar. Es cierto que alguna 
 
  Las visitas de los sheriffs son frecuentes con lo que es un lugar a evitar si eres un profugue de la ley.
 
-> Las partidas son legales dentro de la ilegalidad del juego, asi que en principio une jugadore no tendrá positivos ni negativos por jugar en el Albión.
-
+> Las partidas son legales dentro de la ilegalidad del juego, así que en principio une jugadore no tendrá positivos ni negativos por jugar en el Albión.
 
 ### El gumbo eterno
 
@@ -1901,6 +1892,8 @@ xxx
 
 Lady Myrna es una de las mejores bailarinas de Nottingham, bailando para las clases más altas. En la cima de carrera decidió montar una escuela donde enseñar su arte a las personas que lo aman tanto como ella.
 
+\saltocolumna
+
 Su escuela, a pesar de lo que podría creerse, está en un gimnasio de la Zona Media que es también su casa. La realidad es que, aunque cobra bien por sus clases, no puede permitirse un local en la Zona Alta con lo que gana como profesora.
 
 En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que sus alumnes usan en sus prácticas. Ha montado un equipo de escenografía (sonido y luces) de gran calidad para las clases.
@@ -1908,8 +1901,6 @@ En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que
 Myrna es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella "verdadero talento".
 
 > **Clases de danza:** Por unos 2500 dólares y dos semanas de entrenamiento intensivo, mejorará tu valor de Interpretación en un nivel de dado cuando bailes. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avances. Para que te acepte en su escuela deberás demostrar que o tienes mucho dinero o eres muy famose o un mínimo de d6 en Interpretación.
-
-\saltocolumna
 
 \saltopagina
 
@@ -2255,7 +2246,7 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 Las vidas sentimentales y sexuales de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí. Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
 
 ### Participar en el proyecto
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
 ### Lenguaje inclusivo
 
@@ -2264,6 +2255,7 @@ xxx
 \saltocolumna
 
 ### Define los velos y herramientas de seguridad
+
 > Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
 > **Por:** [FaustoRolero](https://twitter.com/FaustoRolero)
