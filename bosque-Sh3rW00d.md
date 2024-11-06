@@ -1834,7 +1834,7 @@ xxx
 
 En este taller desocupado puedes encontrar todo tipo de dianas y obstáculos y variopintes personajes muy centrados intentando tiros y rebotes imposibles 
 
-Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas es casi una filosofía de vida y como si de monjes shaolín se tratará entrenan día y noche para hacer los más increíbles tiro. El tiro con tiragomas es para muchos de elles una forma de meditación e iluminación.
+Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas (y algunos el arco) es casi una filosofía de vida y como si de monjes shaolin se tratará entrenan día y noche para hacer los más increíbles tiros. El tiro con tiragomas es, además, para muches de elles una forma de meditación e iluminación.
 
 Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
 
@@ -2229,6 +2229,69 @@ xxx
 \concolumna
 
 [![Retrato de Helen Aim](./assests/images/helen-aim.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+> **Sugerencia de interpretación:** xxx
+
+\saltopagina
+
+\sincolumna
+
+## Mamá Claire, reina del gumbo &#35;
+
+\concolumna
+
+[![Retrato de Mamá Claire](./assests/images/mama-claire.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+> **Sugerencia de interpretación:** xxx
+
+\saltopagina
+
+\sincolumna
+
+## Gus, filosofo y guerrero &#35;
+
+\concolumna
+
+[![Retrato de Gus](./assests/images/gus.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+> **Sugerencia de interpretación:** xxx
+
+\saltopagina
+
+\sincolumna
+
+## Esther, tabernera del Albión &#35;
+
+\concolumna
+
+[![Retrato de Esther,](./assests/images/esther.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 
