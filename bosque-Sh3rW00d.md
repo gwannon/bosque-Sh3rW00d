@@ -486,9 +486,11 @@ Se recomienda **no ponerse ventajas de pistolero**, ya que el acceso a las armas
 
 **Tampoco son útiles habilidades como Cabalgar**, ya que no hay animales que montar, ni Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica. **Supervivencia es sustituida por Pasillear**, su versión urbana para la arcología.
 
-**Mal nadador desaparece como desventaja**, debido a que no hay casi grandes masas de agua donde nadar sea importante. Como ya hemos dicho, no hay animales, **Vinculo Animal y Señor de las bestias tampoco se pueden escoger**.
+**Mal nadador desaparece como desventaja**, debido a que no hay casi grandes masas de agua donde nadar sea importante. 
 
 \saltopagina
+
+Como ya hemos dicho, no hay animales, **Vinculo Animal y Señor de las bestias tampoco se pueden escoger**.
 
 ### Idiomas
 
@@ -502,13 +504,13 @@ Los secretos es algo muy común entre les personajes de las historias de Robin H
 
 > Tode personaje debe **tener un Secreto (mayor o menor)** entre sus desventajas.
 
-### Ciberimplantes
-
-Los ciberimplantes son algo común entre les _notis_, sobre todo desde que la compañía ofrece implantes gratis para mejorar tu productividad. La compañia solo financia implantes legales y que estén relacionados con la profesión de su empleade.
-
 \saltocolumna
 
-> Opcionalmente, puedes tener un **implante cualquier tipo, pero solo de valor 1 y tiene ser legal**.
+### Ciberimplantes
+
+Los ciberimplantes son algo común entre les _notis_, sobre todo desde que la compañía ofrece implantes gratis para mejorar tu productividad. La compañía solo financia implantes legales y que estén relacionados con la profesión de su empleade.
+
+> Opcionalmente, puedes tener un **implante cualquier tipo, pero solo de valor 1 y legal**.
 
 ### Hackeos de les instaladores
 
@@ -862,9 +864,20 @@ Una de las ventajas de los tirachinas es que **su munición puede ser cualquier 
 * **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 al daño.
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
 * **Incendiarias:** Son bolas rellenas de material inflamable. Al impactar solo el daño de la FUE, pero añaden 1d6 de daño de fuego. xxx
+
+\saltopagina
+
 * **Rellenas de pintura:** Son bolas rellenas de una sustancia espesa parecida a pintura negar (o de otros colores) que cuesta mucho desprender. Se usan para marcar objetivos, normalmente con colores chillones, o para cegar sensores de vigilancia, tapando las lentes con esta brea pegajosa. Al impactar solo hacen el daño de la FUE.
 
-#### Cerbatanas
+#### Aire comprimido
+
+xxx
+
+##### Cerbatanas
+
+xxx
+
+##### Pistolas de clavos
 
 xxx
 
@@ -872,11 +885,11 @@ xxx
 
 Este clásico finlandés no pierde fuerza por mucho que avancen los siglos y la tecnología. Su bajo precio y su gran eficacia no tienen competencia y siempre habrá combustible, tela y recipientes que se rompen al golpear superficies duras.
 
-\saltopagina
-
 Se pueden preparar, si tienes los componentes, 10 cócteles por horas con una tirada de Reparar exitosa.
 
 Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se ha tirado un cóctel molotov, se recibe 1d10 de daño y con un 5 o 6 en un d6 prenden fuego tus ropas.
+
+\saltocolumna
 
 Hay **tirachinas especiales para el lanzamiento de cócteles que duplican su alcance**, pero en este caso **se usaría Disparar** en vez de Atletismo
 
@@ -895,6 +908,8 @@ xxx
 
 Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, **se usa en su lugar Atletismo**.
 
+\saltopagina
+
 \sincolumna
 
 ### Listado de armamento
@@ -902,6 +917,9 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 |ARMA|DAÑO|DISTANCIA|PESO|COSTE|CDF|FUE MIN.|PA|NOTAS|
 |---|---|---|---|---|---|---|---|
 |Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos|
+|Arco compuesto|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
+|Cerbatana de aire comprimido|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
+|Pistola de clavos|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
 
 ¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
 
@@ -1846,13 +1864,13 @@ Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachi
 
 \saltocolumna
 
-> Por unos 500 dólares en alijos (que serán usados en mejorar el campo de tiro) y dos semanas de entrenamiento intensivo, mejorarás el valor de Dispar de le PJ en un nivel de dado cuando combatas con tirachinas. Tu valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
+> Por unos **500 dólares en alijos** (que serán usados en mejorar el campo de tiro) y dos semanas de entrenamiento intensivo, mejorarás el valor de Disparar de le PJ en **un nivel de dado cuando combatas con tirachinas o arco** (puedes entrenar varias veces, pero con diferente arma). Tu valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
 
 ### La Taberna de Albión
 
-La Taberna de Albión es uno de los locales mejores y con más ambiente de Nottingham y el mejor de la Zona Baja. Bebida y comida abundante a precios asequibles. De hecho sus cócteles de vodka casero tienen mucha fama por ser muy fuertes, de hecho es puro alcohol.
+La Taberna de Albión es uno de los locales mejores y con más ambiente de Nottingham y el mejor de la Zona Baja. Bebida y comida abundante a precios asequibles. De hecho sus cócteles de vodka casero tienen mucha fama por ser muy fuertes y es que son puro alcohol.
 
-> Si haces un cóctel molotov con el vodka del Alción descubrirás que es realmente efectivo, haciendo 1d12 de daño en vez de un 1d10. Pero el coste se eleva de 1 a 5 dólares por cóctel.
+> Si haces un **cóctel molotov con el vodka del Alción** descubrirás que es realmente efectivo, haciendo **1d12 de daño** en vez de un 1d10. Pero el **coste se eleva de 1 a 5** dólares por cóctel.
 
 Cada viernes hay timbas de cartas sin límite que empiezan con el glitch de noche y acaban con el glitch del día. Se mueve mucho dinero (sobre todo en alijos) y vienen jugadores de todo el complejo.
 
@@ -1868,13 +1886,15 @@ Estas historias son difundidas por Esther, dueña del bar. Es cierto que alguna 
 
 ### El gumbo eterno
 
-Hace 15 años, durante una gran escasez de algas, Mamá Claire, de ascendencia jamaicana, sacó su olla de gumbo a una plazoleta cerca de su casa y empezó a repartir platos de comida a sus vecinos. Cada uno trajo lo que pudo y Mamá siguió cocinando gumbo. El fuego de su cocina lleva sin apagarse desde entonces y nunca le ha negado un plato de comida. La gente trae lo poco que les sobra para el llamado gumbo eterno de Mamá Claire y ella lo reparte entre los más desfavorecidos del complejo.
+Hace 15 años, durante una gran escasez de algas, Mamá Claire, de ascendencia jamaicana, sacó su olla de gumbo a una plazoleta cerca de su casa y empezó a repartir platos de comida a sus vecinos. Cada uno trajo lo que pudo y Mamá siguió cocinando gumbo. El fuego de su cocina lleva sin apagarse desde entonces y nunca le ha negado un plato de comida a nadie. La gente trae lo poco que les sobra para echarlo en la olla de Mamá Claire y ella lo reparte entre los más desfavorecidos del complejo.
 
 Muches cocineres e influencers gastronómiques ha intentado conseguir la receta del gumbo, pero Mamá se ha negado a darla. También le han hecho ofertas de trabajo como cocinera en casas de la zona alta y las ha declinado todas. Ella es feliz con su gente en los bajos de Nottingham.
 
 El **secreto del gumbo** de Claire son los **productos frescos ecológicos que los _boskis_** suelen proporcionarle en sus incursiones al complejo.
 
 \saltocolumna
+
+**Semilla de aventura:** Une sibarite _blus_ quiere descubrir la receta del gumbo de Mamá Claire, pero no consigue que nadie le traiga un plato y se niega a ir hasta la Zona Baja. Tu banda puede cobrarle una buena pasta por el trabajo o hacer que el _blus_ les deba un favor. Sea lo que sea, no debería ser muy complicado conseguir un taper de gumbo, mamá Claire lo regala.
 
 Si necesitas contactar con la gente del bosque Mamá Claire puede ser una buena vía sobre todo si echas buen material en su olla.
 
