@@ -480,7 +480,7 @@ Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, e
 
 ### Espacios cerrados
 
-Se recomienda **no ponerse ventajas de pistolero**, como Disparo Rápido, ya que son bastante inútiles en esta ambientación. Todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde las habilidades de tirador son menos útiles.
+Se recomienda **no ponerse ventajas de pistolero**, ya que el acceso a las armas de fuego es muy limitado. Además todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde es bastante fácil que entres en combate cuerpo a cuerpo con lo que tu arma de fuego es una desventaja.
 
 **Tampoco son útiles habilidades como Cabalgar**, ya que no hay animales que montar, ni Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica. **Supervivencia es sustituida por Pasillear**, su versión urbana para la arcología.
 
@@ -846,6 +846,8 @@ xxx
 #### Slingshot (Tirachinas)
 
 xxx
+
+El tirachinas se considera una arma distancia pequeña con lo que no tiene penalizadores al usarlo en cuerpo a cuerpo.
 
 ##### Rebotes
 
@@ -1219,7 +1221,7 @@ Al final de las 5 rondas gana el que más puntos tenga. También se puede ganar 
 
 ### Concursos de puntería
 
-Siendo el tirachinas una de las pocas armas permitidas, los concursos de puntería para probar la habilidad con el slingshot son bastante comunes. Hay muchas variaciones, desde disparos o a todo tipo de dianas en diferentes modalidades, hasta disparos a objetivos en movimiento. Quizás la más arriesgada sea disparar a un objetivo en la cabeza de le contrincante. Si aciertas ganas puntos y si se mueve tu objetivo también ganas puntos.
+Siendo el tirachinas una de las pocas armas permitidas, los concursos de puntería para probar la habilidad con el arco o tirachainas son bastante comunes. Hay muchas variaciones, desde disparos o a todo tipo de dianas en diferentes modalidades, hasta disparos a objetivos en movimiento. Quizás la más arriesgada sea disparar a un objetivo en la cabeza de le contrincante. Si aciertas ganas puntos y si se mueve tu objetivo también ganas puntos.
 
 Esta última modalidad de tiro se juega de la siguiente manera. Primero se decide la distancia entre les participantes (corta y media, larga es muy rara por temas de espacio) y se decide al azar quién empieza a disparar.
 
