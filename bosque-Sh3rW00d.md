@@ -2191,7 +2191,7 @@ xxx
 
 \concolumna
 
-[![Retrato de Scarlet](./assests/images/scarlet.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
+[![Lazer rifle By Fernand0FC](./assests/images/netrunner_by_fernand0fc_ddzihvm-pre.jpg "Lazer rifle By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/NETRUNNER-845709826 "Lazer rifle By Fernand0FC")
 
 xxx
 
