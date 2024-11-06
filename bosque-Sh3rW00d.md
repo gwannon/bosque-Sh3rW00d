@@ -201,6 +201,8 @@ De hecho los sheriffs vigilan muy mucho los almacenes y las fábricas de product
 Los restaurantes xxx
 
 La comida callejera, como el espacio es un lujo, se ha convertido en gente con armazones metálicos en los que tienen fuegos y donde te preparan la comida. Estos cocineros ambulantes llenan de olores todo el complejo, sobre todo los barrios más pobres y las zonas industriales y de talleres.
+
+Quizás lo más interesante gastronomicamente hablando de toda la arcología es la llamada **Olla de Gumbo de la Mamá Claire en la zona Baja**. Es una olla de comida comunal gestiona por Mamá Claire. Lleva sin apagarse y dando de comer a les hambrientes desde hace 15 años, cuando una hambruna hizo que Mamá Claire sacara una olla de gumbo a la calle y empezará a cocinar para sus vecines. La gente traía los pocos alimentos que tenían para echarlo a la olla y así Claire seguía cocinando. Y así ya lleva 15 años removiendo su gumbo, que es considerado una auténtica exquisitez de la comida popular.
  
 ### Religiones y sectas
 
@@ -861,6 +863,10 @@ Una de las ventajas de los tirachinas es que **su munición puede ser cualquier 
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
 * **Incendiarias:** Son bolas rellenas de material inflamable. Al impactar solo el daño de la FUE, pero añaden 1d6 de daño de fuego. xxx
 * **Rellenas de pintura:** Son bolas rellenas de una sustancia espesa parecida a pintura negar (o de otros colores) que cuesta mucho desprender. Se usan para marcar objetivos, normalmente con colores chillones, o para cegar sensores de vigilancia, tapando las lentes con esta brea pegajosa. Al impactar solo hacen el daño de la FUE.
+
+#### Cerbatanas
+
+xxx
 
 #### Cóctel molotov
 
@@ -2249,12 +2255,14 @@ xxx
 
 \concolumna
 
-[![Retrato de Mamá Claire](./assests/images/mama-claire.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
+[![Keys to the kingdom By Meg-James](./assests/images/keys_to_the_kingdom_by_meg_james_dek8qiw-414w-2x.png "Keys to the kingdom By Meg-James")](https://www.deviantart.com/meg-james/art/Keys-to-the-kingdom-880526408 "Keys to the kingdom By Meg-James")
 
 xxx
 
+> Se cuenta que Mamá Claire puede leer tu futuro en el gumbo, te echa una ración en tu plato y lee el gumbo. Es por ello que Mamá Claire tiene Ocultismo, por si quieres que les haga una predicción.
+
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, ocultismo d8,Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
@@ -2269,8 +2277,6 @@ xxx
 ## Gus, filosofo y guerrero &#35;
 
 \concolumna
-
-[![Retrato de Gus](./assests/images/gus.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 
@@ -2290,8 +2296,6 @@ xxx
 ## Esther, tabernera del Albión &#35;
 
 \concolumna
-
-[![Retrato de Esther,](./assests/images/esther.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 

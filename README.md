@@ -105,3 +105,9 @@ https://www.deviantart.com/tovmauzer/art/Hack-you-251023874
 https://www.deviantart.com/anthrokim/art/Sapoong-character-artbook-Mouse-875111836
 
 https://www.deviantart.com/cyberaeon/art/Kaline-761977281
+
+
+https://www.deviantart.com/meg-james/art/Always-onto-the-next-thing-877215494
+https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535
+
+https://www.deviantart.com/meg-james/art/Head-for-the-hills-611429081
