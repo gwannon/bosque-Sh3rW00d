@@ -214,8 +214,6 @@ xxx
 
 Todos los años, en el día en que se puso la primera piedra del complejo, se organiza un festival con concurso de disparo con tirachinas con un suculento premio. xxx
 
-\saltocolumna
-
 ### Deporte
 
 El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecnologías, hablamos de bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hierba. También son famosos los concursos de baile acrobáticos y las competiciones de tiro con tirachinas. 
@@ -226,11 +224,11 @@ El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre
 
 Gana el equipo que más goles meta o el que consigue marcar en 3 rondas seguidas sin que su oponente le marque (llamado en el argot deportivo "baño").
 
+\saltopagina
+
 Uno de los elementos más interesantes del hockey de pasillo es el campo de juego. Según el reglamento oficial puede ser cualquier pasillo de la arcología que tenga un mínimo de 40 m² usando dos puertas del pasillo como porterías. 
 
 Las puertas que no tienen que ser del mismo tamaño ni tener unos mínimos o máximos, así que es importante ganar el sorteo inicial para elegir la portería más ventajosa. Aunque se cambie cada ronda, al ser 5 estarías 3 en la buena y 2 en la mala.
-
-\saltopagina
 
 En los partidos oficiales de liga se elige al azar el campo de entre todos los corredores, galerías, pasillos y pasajes que cumplan las indicaciones. 5 minutos antes de empezar se desaloja el pasillo y entran les jugadores a calentar.
 
@@ -247,8 +245,6 @@ Reglamento general:
 * La pelota puede rebotar contra cualquier cosa del terreno de juego.
 * Si cometes una falta, debes soltar tu stick y no moverte los segundos de castigo. Tus compañeres y tus adversaries puede usarte como protección, obstáculo, etc. mientras estás en la falta.
 
-\saltocolumna
-
 Hay gran cantidad de equipos amateurs en la arcología, pero solos 12 profesionales en la Liga de Hockey de pasillo. Estos equipos tienen patrocinadores, remuneraciones, buen equipamiento, entrenadores, gimnasios, etc. Los más famosos suelen acabar de influencers de la directora J0hn, haciendo reels y directos para les fans de este deporte.
 
 El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y la sombra de los amaños siempre ha sobrevolado el hockey de pasillo profesional.
@@ -256,6 +252,10 @@ El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y
 **Semilla de aventura:** Un pequeño equipo de hockey de pasillo ha dado el campanazo este año, pueden hasta ganar la liga. Pero necesitan guardaespaldas que les protejan, ya que hay gente que quiere impedir que lleguen a la final.
 
 ### Sexo y género
+
+xxx
+
+### Títulos nobiliarios
 
 xxx
 
@@ -2229,11 +2229,11 @@ xxx
 
 \sincolumna
 
-## Much, hijo del molinero &#35;
+## Much, hije del molinero &#35;
 
 \concolumna
 
-[![Retrato de Much](./assests/images/much.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
+[![Incy By sokoistrying](./assests/images/incy_by_sokoistrying_dgtp0nc-414w-2x.jpg "Incy By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Incy-1017334920 "Incy By sokoistrying")
 
 xxx
 
