@@ -1839,19 +1839,23 @@ La arcología se divide en 4 zonas, xxx
 xxx
 ```
 
+**Nivel de seguridad:** xxx
+
 xxx
 
 ### El río Trent
 
-El río Trent es una inmensa algafactoría donde se produce la gran mayoría de comida de la arcología. xxx 
+El río Trent es como se conoce una inmensa algafactoría donde se produce la gran mayoría de comida de la arcología. Es una de las industrias más importantes de la arcología y muy importante para la compañía no solo porque su buen funcionamiento supone el buen funcionamiento del complejo, sino porque también da tremendos beneficios a la empresa.
 
-Es lo más parecido a un río o un mar que han visto les notis. xxx
-
-### El correccional
+Con su cientos de piscinas de agua dulce llenas de algas, es para muches _notis_ lo más parecido a un río o un mar que hayan visto en su vida. Es tan grande que han tenido que aprovechar habitáculos alrededor del Trent para expandir las piscinas de crecimiento de algas de forma que les peatones pueden pasear entre sus piscinas mientras se mueven por la zona.
 
 xxx
 
 \saltocolumna
+
+### El correccional
+
+xxx
 
 ### El pozo
 
@@ -1859,15 +1863,13 @@ xxx
 
 Este gigantesco agujero sin fondo en la base del complejo es la primera estructura Nottingham. Este pozo sin fondo lo excavó la compañía en las tierras de Nottingham y lo lleno de miles y miles de toneladas de nanitos. Les instaladores usaron esos nanitos para construir los cimientos y luego la estructura del complejo. Según crecía el complejo, el pozo se iba secando hasta quedar vacío. 
 
-Se dice que todavía nanitos quedan en su fondo esperando órdenes de trabajo de sus dueños, les instaladores. xxx
-
-xxx
-
 \saltopagina
 
-xxx
+Se dice que todavía quedan nanitos en su fondo esperando órdenes de trabajo de sus dueños, les instaladores. Sin embargo nadie ha intentado bajar e investigar lo que haya en el fondo, de hecho se considera un lugar maldito que todo el mundo trata de evitar.
 
-**Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que casi 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo puede ser muy peligroso. 
+El pozo mide unos 20m de diámetro y se desconoce su profundidad, pero todo lo que se lanza dentro desaparece. No sería de extrañar que alguien se deshiciera de cadáveres y/o productos peligrosos en su oscuridad.
+
+**Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. Estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que casi 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo con los restos que se lanzan desde arriba puede ser muy peligroso. 
 
 ### Campo de tiro de Gus
 
@@ -1877,21 +1879,19 @@ Para algunas de las personas que asisten a este pequeño campo de tiro el tirach
 
 Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
 
-\saltocolumna
-
 > Por unos **500 dólares en alijos** (que serán usados en mejorar el campo de tiro) y dos semanas de entrenamiento intensivo, mejorarás el valor de Disparar de le PJ en **un nivel de dado cuando combatas con tirachinas o arco** (puedes entrenar varias veces, pero con diferente arma). Tu valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
 
 ### La Taberna de Albión
 
 La Taberna de Albión es uno de los locales mejores y con más ambiente de Nottingham y el mejor de la Zona Baja. Bebida y comida abundante a precios asequibles. De hecho sus cócteles de vodka casero tienen mucha fama por ser muy fuertes y es que son puro alcohol.
 
-> Si haces un **cóctel molotov con el vodka del Alción** descubrirás que es realmente efectivo, haciendo **1d12 de daño** en vez de un 1d10. Pero el **coste se eleva de 1 a 5** dólares por cóctel.
+> Si haces un **cóctel molotov con el vodka del Albión** descubrirás que es realmente efectivo, haciendo **1d12 de daño** en vez de un 1d10. Pero el **coste se eleva de 1 a 5** dólares por cóctel.
 
 Cada viernes hay timbas de cartas sin límite que empiezan con el glitch de noche y acaban con el glitch del día. Se mueve mucho dinero (sobre todo en alijos) y vienen jugadores de todo el complejo.
 
-La clientela es muy variada, desde trabajadores de la algafactoría, hasta influencers atraídos por las emociones de participar en timbas de poker ilegales y de quizás ver algún criminal e incluso hacerse un reel con alguno de ellos. 
-
 \saltopagina
+
+La clientela es muy variada, desde trabajadores de la algafactoría, hasta influencers atraídos por las emociones de participar en timbas de poker ilegales y de quizás ver algún criminal e incluso hacerse un reel con alguno de ellos. 
 
 Estas historias son difundidas por Esther, dueña del bar. Es cierto que alguna ocasión algún forajide famoso ha pasado la mona en el suelo del bar, pero no es algo muy común.
 
@@ -1906,8 +1906,6 @@ Hace 15 años, durante una gran escasez de algas, Mamá Claire, de ascendencia j
 Muches cocineres e influencers gastronómiques ha intentado conseguir la receta del gumbo, pero Mamá se ha negado a darla. También le han hecho ofertas de trabajo como cocinera en casas de la zona alta y las ha declinado todas. Ella es feliz con su gente en los bajos de Nottingham.
 
 El **secreto del gumbo** de Claire son los **productos frescos ecológicos que los _boskis_** suelen proporcionarle en sus incursiones al complejo.
-
-\saltocolumna
 
 **Semilla de aventura:** Une sibarite _blus_ quiere descubrir la receta del gumbo de Mamá Claire, pero no consigue que nadie le traiga un plato y se niega a ir hasta la Zona Baja. Tu banda puede cobrarle una buena pasta por el trabajo o hacer que el _blus_ les deba un favor. Sea lo que sea, no debería ser muy complicado conseguir un taper de gumbo, mamá Claire lo regala.
 
@@ -1926,6 +1924,8 @@ Si necesitas contactar con la gente del bosque Mamá Claire puede ser una buena 
 ```
 xxx
 ```
+
+**Nivel de seguridad:** xxx
 
 xxx
 
@@ -1961,22 +1961,9 @@ Myrna es muy selectiva, por no decir elitista, sobre a quien enseña todo su art
 
 \sincolumna
 
-## Zona alta
-
-\concolumna
-
-```
-xxx
-```
-
-xxx
-
-\sincolumna
-
 ### Bolrum
 
 ![Bolrum](./assests/images/bolrum.jpg )
-
 
 \concolumna
 
@@ -1986,18 +1973,45 @@ El Bolrum es donde debes ir, si eres alguien en Nottingham. **Es el mayor espaci
 
 Lo interesante es que no hay nada, absolutamente nada, en sus 60x60x4 metros. Sus paredes de un blanco inmaculado se funden mediante un efecto óptico con los también inmaculadamente blancos techos y suelo, de forma que no sabes dónde empieza o acaba la sala.
 
-\saltocolumna
-
 A esto se le une que no entra ni sale de esta gran sala ni sonido ni señales electromagnéticas y cuando cierran su puerta está desaparece completamente. Tampoco hay ningún tipo de cámara que registre que pasa dentro. Además, el aire es ionizado de forma que se eliminan todos los olores.
 
 Su suelo inteligente se mueve ligeramente cuando caminas, de forma que te hace ir en círculos y por más que andes no llegas nunca a encontrarte con la pared.
 
+**Se alquila por horas con un máximo de 4 personas por 1.000$ la hora.** Además, ofrece extras como catering, DJ profesional, etc. 
 
-**Se alquila por horas con un máximo de 4 personas por 1.000$ la hora.** Además, ofrece extras como catering, DJ profesional, etc.
+Cuenta también con un modo oscuridad que elimina toda luz, consiguiendo una privación sensorial total.
+
+La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor. Al pagar se abre la puerta y puedes entrar. No se reserva con lo que hay que hacer cola fuera y cuando se acaba el tiempo, se abre la puerta para que salgas. Si permaneces dentro generas una deuda de 50$ el minuto hasta que desalojas el lugar.
 
 \saltopagina
 
-La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor. Al pagar se abre la puerta y puedes entrar. No se reserva con lo que hay que hacer cola fuera y cuando se acaba el tiempo, se abre la puerta para que salgas. Si permaneces dentro generas una deuda de 50$ el minuto hasta que desalojas el lugar.
+**Semilla de aventura:** Al abrirse la puerta para entrar al Bolrum, se puede ver perfectamente un cadáver ensangrentado. Tiene la garganta cortada y no se ve ninguna hoja.
+
+### Pastelería Badreddin
+
+En un anexo de la Plaza Mayor tiene Hassan Badreddin su pastelería, la mejor pastelería del complejo. Los Badreddin llevan haciendo las mismas recetas familiares para preparar sus dulces y pasteles desde la creación de Nottingham. Pese a su fama y a la cola que hay todos los días frente a su puerta y que llega hasta la plaza mayor son muy asequibles y hasta les más pobres pueden disfrutar de sus muffins.
+
+Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une blus con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
+
+> Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente la reacción del agasajado sea un nivel menos hostil. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
+
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## Zona alta
+
+\concolumna
+
+```
+xxx
+```
+
+**Nivel de seguridad:** xxx
+
+xxx
 
 ### El zoo de la directora J0hn
 
@@ -2018,6 +2032,8 @@ xxx
 ```
 xxx
 ```
+
+**Nivel de seguridad:** xxx
 
 xxx
 
@@ -2041,6 +2057,10 @@ xxx
 
 xxx
 
+### Moverse entre zonas
+
+xxx
+
 \saltocolumna
 
 \saltopagina
@@ -2058,22 +2078,6 @@ xxx
 xxx
 
 ### Espacios pregenerados
-
-```
-xxx
-```
-
-xxx
-
-\saltocolumna
-
-\saltopagina
-
-\sincolumna
-
-## Moverse entre zonas
-
-\concolumna
 
 ```
 xxx

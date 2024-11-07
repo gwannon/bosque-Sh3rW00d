@@ -27,7 +27,6 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * Zona media
   * Zona alta
   * El bosque
-  * Transporte público
   * Creación de espacios para tus aventuras
   * Moverse entre zonas
 
