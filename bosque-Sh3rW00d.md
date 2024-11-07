@@ -1025,6 +1025,21 @@ Pulsando una combinación de botones de ascensores, montacargas y escaleras mec�
 * Puedes hacer que un **ascensor/montacargas vaya a un extremo u otro de su ruta**. Este hackeo dura hasta que llega al punto final de su ruta elegido.
 * Puedes **cambiar la dirección de unas escaleras mecánicas**. Moverse en dirección contraria a las escaleras se considera terreno difícil.
 
+### Controlar realidad aumentada
+
+**Requisitos:** Novate
+
+**Jerga:** xxx
+
+Cada espacio del complejo tiene un generador de realidad aumentada que otorga a los dispositivos de realidad aumentada de las personas que están en el de información interesante sobre los espacios. Hablamos de datos públicos de otras personas en ese espacio a la ruta hacia diferentes lugares (literalmente se genera una línea amarilla en el suelo que te indica el camino como si de un videojuego se tratara). Mediante una combinación de pasos, el generador de realidad los detecta y te abre un _modo instalador_ que te ofrece las siguientes ventajas.
+
+* **Presencia cercana de otro instaladore,** lo cual no es útil porque se fueron todes.
+
+\saltopagina
+
+* **Genera datos aleatorios de tí** de forma que según los dispositivos de realidad aumentada eres otra persona. El resto de usuarios no veran tus datos reales. Los sistemas de seguridad no funcionan con los de realidad aumentada y siguen reconociendote.
+* xxx
+
 ### Controlar puertas
 
 **Requisitos:** Experimentade
@@ -1048,8 +1063,6 @@ xxx
 * xxx
 * xxx
 * xxx
-
-\saltopagina
 
 ### Dominar iluminación
 
@@ -1081,13 +1094,11 @@ xxx
 
 ### Controlar vigilancia
 
-**Requisitos:** Veterane, Controlar pantallas
+**Requisitos:** Veterane, Controlar pantallas, Controlar realidad aumentada
 
 **Jerga:** xxx
 
 xxx
-
-\saltocolumna
 
 * xxx
 * xxx
@@ -1099,6 +1110,8 @@ xxx
 **Requisitos:** Veterane, Controlar ascensor
 
 **Jerga:** xxx
+
+\saltopagina
 
 xxx
 
@@ -1118,8 +1131,6 @@ xxx
 * xxx
 * xxx
 
-\saltopagina
-
 ### Dominar puertas
 
 **Requisitos:** Veterane, Controlar puertas
@@ -1138,6 +1149,8 @@ xxx
 
 **Jerga:** xxx
 
+\saltocolumna
+
 xxx
 
 * xxx
@@ -1155,8 +1168,6 @@ xxx
 
 xxx
 
-\saltocolumna
-
 \saltopagina
 
 \sincolumna
@@ -1168,13 +1179,14 @@ xxx
 |Controlar pantallas|Novate|Encender y apagar pantallas y poner mensajes simples|
 |Controlar iluminación|Novate|Encender y apagar luces y otros efectos simples|
 |Llamar ascensor|Novate|Robar el ascensor a otras personas o mandarlo a un extremo de su ruta|
+|Controlar realidad aumentada|Novate|xxx|
 |Controlar puertas|Experimentade|xxx|
 |Controlar ascensor|Experimentade, Llamar ascensor|xxx|
 |Dominar iluminación|Experimentade, Controlar iluminación|xxx|
 |Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
 |Dominar ascensor|Veterane, Controlar ascensor|xxx|
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
-|Controlar vigilancia|Veterane, Controlar pantallas|xxx|
+|Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|xxx|
 |Dominar puertas|Veterane, Controlar puertas|xxx|
 |Dominar vigilancia|Heróique, Controlar vigilancia|xxx|
 |Código Konami|Legendario|xxx|
@@ -1280,8 +1292,11 @@ Todas las personas nacidas en una maternidad de la arcología, son implantados n
 El HUB de conexión permite entre otras muchas cosas.
 
 * Conectarse en realidad aumentada a la red de la arcología.
-* Controlar la domótica del hogar.
-* xxx
+* Controlar la domótica del hogar y/o del lugar de trabajo.
+* Pagos en establecimientos.
+* Pedir ayuda en caso de emergencia. Además te geolocaliza (solo cuando tienes una emergencia) para que vayan a buscarte.
+* Mensajes de la directora J0hn. 
+* Y todo lo que quieras tú como DJ. La idea es que tenga un carácter informativo tanto del exterior a la persona y de la persona al exterior.
 
 El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo les hijes de boskis pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
 
