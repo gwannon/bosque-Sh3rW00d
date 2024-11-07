@@ -1933,6 +1933,8 @@ xxx
 
 xxx
 
+Como y hemos dicho, no hay ni gradas ni asientos, sino miles de cámaras que retransmiten los eventos deportivos a su propietario/socio. De forma que lo ves en realidad aumentada como si estuvieras allí. Claramente hay cámaras en mejores puestos que otros y por tanto son más caras y normalmente están destinadas a _blus_ e influencers.
+
 ### Plaza Mayor
 
 La Plaza Mayor es la estancia más grande de la arcología y aun así no será mayor que un estadio de fútbol actual. xxx
@@ -1941,11 +1943,11 @@ Tiene una simulación de cielo que muestra un día soleado y totalmente despejad
 
 xxx
 
+\saltocolumna
+
 ### Escuela de danza de Lady Myrna
 
 Lady Myrna es una de las mejores bailarinas de Nottingham, bailando para las clases más altas. En la cima de carrera decidió montar una escuela donde enseñar su arte a las personas que lo aman tanto como ella.
-
-\saltocolumna
 
 Su escuela, a pesar de lo que podría creerse, está en un gimnasio de la Zona Media que es también su casa. La realidad es que, aunque cobra bien por sus clases, no puede permitirse un local en la Zona Alta con lo que gana como profesora.
 
@@ -1969,9 +1971,37 @@ xxx
 
 xxx
 
+\sincolumna
+
+### Bolrum
+
+![Bolrum](./assests/images/bolrum.jpg )
+
+
+\concolumna
+
+La premisa es que en un lugar como Nottingham donde el espacio vacío es un desperdicio, la soledad una utopía y el silencio algo imposible, Bolrum es el lujo absoluto.
+
+El Bolrum es donde debes ir, si eres alguien en Nottingham. **Es el mayor espacio de ocio del complejo** y el segundo espacio de mayor tamaño después de la Plaza Mayor.
+
+Lo interesante es que no hay nada, absolutamente nada, en sus 60x60x4 metros. Sus paredes de un blanco inmaculado se funden mediante un efecto óptico con los también inmaculadamente blancos techos y suelo, de forma que no sabes dónde empieza o acaba la sala.
+
+\saltocolumna
+
+A esto se le une que no entra ni sale de esta gran sala ni sonido ni señales electromagnéticas y cuando cierran su puerta está desaparece completamente. Tampoco hay ningún tipo de cámara que registre que pasa dentro. Además, el aire es ionizado de forma que se eliminan todos los olores.
+
+Su suelo inteligente se mueve ligeramente cuando caminas, de forma que te hace ir en círculos y por más que andes no llegas nunca a encontrarte con la pared.
+
+
+**Se alquila por horas con un máximo de 4 personas por 1.000$ la hora.** Además, ofrece extras como catering, DJ profesional, etc.
+
+\saltopagina
+
+La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor. Al pagar se abre la puerta y puedes entrar. No se reserva con lo que hay que hacer cola fuera y cuando se acaba el tiempo, se abre la puerta para que salgas. Si permaneces dentro generas una deuda de 50$ el minuto hasta que desalojas el lugar.
+
 ### El zoo de la directora J0hn
 
-Como parte de una campaña mejora de la opinión pública la directora J0hn creo este zoo de animales clonados y animatrónicas. xxx
+Como parte de una campaña mejora de la opinión pública, la directora J0hn creó este zoo de animales clonados y animatrónicas. xxx
 
 xxx
 
@@ -2433,6 +2463,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada Cibernia por pvproductions](https://www.freepik.com/free-photo/background-with-printed-circuit-board-concept-modern-technologies_366211129.htm) en Freepik
 
 * [Portada Directorio por srtarline](https://www.freepik.es/vector-gratis/fondo-pixeles-moderno-estilo-efecto-degradado_9874863.htm) en Freepik
+
+* [Portada Bestiario por malikadesign](https://www.freepik.es/vector-gratis/cartel-futurista-retro-cyberpunk-ilustracion-vectorial_30526493.htm) en Freepik
 
 * [Retratos de personajes](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) por VÍCTOR JIMÉNEZ MERINO [(Licencia Attribution-NonCommercial 4.0 International)](https://creativecommons.org/licenses/by-nc/4.0/)
 

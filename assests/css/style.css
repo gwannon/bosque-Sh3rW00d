@@ -744,6 +744,7 @@ section:nth-of-type(4) h1 {
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
+  text-shadow: none;
 }
 
 section:nth-of-type(5) h1 {
@@ -765,6 +766,14 @@ section:nth-of-type(7) h1 {
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
+}
+
+section:nth-of-type(8) h1 {
+  background-image: url('../images/popbg1_06.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+  text-shadow: none;
 }
 
 section:nth-of-type(9) h1 {
