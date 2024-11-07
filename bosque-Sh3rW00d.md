@@ -2122,13 +2122,9 @@ Recuerda que tode PJ con este símbolo &#35; en su nombre son considerades comod
 
 Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura, no la mia.
 
-> Todos los retratos de personajes son de [VÍCTOR JIMÉNEZ MERINO](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) que permite usarlo con [Licencia Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
-
 ## Lady Marian, lideresa del bosque &#35;
 
 \concolumna
-
-[![Retrato de Lady Marian](./assests/images/lady-marian.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 
@@ -2149,8 +2145,6 @@ xxx
 
 \concolumna
 
-[![Retrato de Fraile Tuck](./assests/images/tuck.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
-
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -2169,8 +2163,6 @@ xxx
 ## Little John &#35;
 
 \concolumna
-
-[![Retrato de Little John](./assests/images/little-john.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 
@@ -2212,8 +2204,6 @@ xxx
 
 \concolumna
 
-[![Retrato de Guy de Gisbourne](./assests/images/guy-gisbourne.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
-
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -2253,8 +2243,6 @@ xxx
 ## Helen Aim, cantante e influencer &#35;
 
 \concolumna
-
-[![Retrato de Helen Aim](./assests/images/helen-aim.png)](https://ashen-victor.itch.io/sci-fi-character-portraits-poject)
 
 xxx
 
