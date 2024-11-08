@@ -202,11 +202,11 @@ Los restaurantes xxx
 
 La comida callejera, como el espacio es un lujo, se ha convertido en gente con armazones metálicos en los que tienen fuegos y donde te preparan la comida. Estos cocineros ambulantes llenan de olores todo el complejo, sobre todo los barrios más pobres y las zonas industriales y de talleres.
 
-Quizás lo más interesante gastronomicamente hablando de toda la arcología es la llamada **Olla de Gumbo de la Mamá Claire en la zona Baja**. Es una olla de comida comunal gestiona por Mamá Claire. Lleva sin apagarse y dando de comer a les hambrientes desde hace 15 años, cuando una hambruna hizo que Mamá Claire sacara una olla de gumbo a la calle y empezará a cocinar para sus vecines. La gente traía los pocos alimentos que tenían para echarlo a la olla y así Claire seguía cocinando. Y así ya lleva 15 años removiendo su gumbo, que es considerado una auténtica exquisitez de la comida popular.
+Quizás lo más interesante gastronómicamente hablando de toda la arcología es la llamada **Olla de Gumbo de la Mamá Claire en la zona Baja**. Es una olla de comida comunal gestiona por Mamá Claire. Lleva sin apagarse y dando de comer a les hambrientes desde hace 15 años, cuando una hambruna hizo que Mamá Claire sacara una olla de gumbo a la calle y empezará a cocinar para sus vecines. La gente traía los pocos alimentos que tenían para echarlo a la olla y así Claire seguía cocinando. Y así ya lleva 15 años removiendo su gumbo, que es considerado una auténtica exquisitez de la comida popular.
  
 ### Religiones y sectas
 
-xxx
+xxÓ
 
 ### Fiestas, celebraciones y otros eventos
 
@@ -377,8 +377,10 @@ xxx
 \concolumna
 
 ```
-xxx
+La "primera piedra" de la arcología conocida como Nottingham se colocço hace ya unos 200 años.
 ```
+
+En realidad nunca se puso una primera piedra, sino que todo empezó con un gigantesco pozo perforado en la roca en el que se vertieron toneladas y toneladas de nanitos constructores. Les instaladores lanzaron sus programas de construcción y los nanitos empezarón a construir el complejo usando los materiales que se les suministraban y xxx
 
 xxx
 
@@ -1532,6 +1534,14 @@ xxx
 ```
 
 xxx
+
+### Nanotecnología y seres vivos
+
+Un hecho importante a tener en cuenta es que los nanitos no entienden a los seres vivos y por eso su uso en medicina y biología es muy complicado. NO tienen problemas al crear complejas estructuras metálicas o plásticas, pero la biología y sus constantes cambios se les hacen muy difícil. Es por ello que no entienden el dolor ni los sentimientos y estados de ánimo. Por ejemplo, no pueden ser programados para que funcionen en un ente biológico sin provocar dolor, ya que para ellos el dolor es otra señal más del cuerpo del sistema nervioso.
+
+Por decirlo de forma sencilla, cuando construyen una casa, la casa no se queja, ni está todo el rato moviéndose y cambiando de tamaño y forma y si lo hace es dentro de un entorno controlable. 
+
+Así pues el uso de nanitos en entidades biológicas está reservado a la experimentación en laboratorios y todavía no habido grandes avances en esta tecnología. Salvo cosas muy puntuales como reparación de huesos o estimular de ciertas glándulas. En ambos casos los nanorobots solo tienen una única tarea y es muy simple, con lo que no les genera gran problema.   
 
 \saltocolumna
 
