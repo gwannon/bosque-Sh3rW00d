@@ -1519,6 +1519,10 @@ xxx
 
 xxx
 
+### Las directoras
+
+xxx
+
 \saltocolumna
 
 \saltopagina
@@ -2070,6 +2074,8 @@ xxx
 ### Moverse entre zonas
 
 xxx
+
+Las zonas están conectadas como hemos explicado antes, pero siempre es posible hacer una buena tirada de Pasillear que permita acceder de uan a otras saltando los pasos intermedios. 
 
 \saltocolumna
 
