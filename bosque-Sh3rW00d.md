@@ -174,6 +174,14 @@ Les habitantes de Nottingham no conocen lo que son los espacios abiertos, no sab
 
 Claramente, no hay ni puesta ni salida de sol. Muchos sistemas simplemente pasan de modo diurno a modo nocturno para seguir los ciclos de sueños de les residentes del complejo. Para paliar esa falta de luz solar, la compañía instala focos ultravioletas que se encienden en modo diurno. Esto junto a buenos suplementos de vitamina D en todos los alimentos evitan el raquitismo y otras enfermedades óseas.
 
+#### Incendios
+
+Los incendios son lo más peligroso que pudiera pasar en Nottingham y es por ello que hay sistemas anti-incendios en todas partes. La directora J0hn es muy escrupulosa en el cumplimiento de la normativa anti-incendios y tiene a gente testando los sistemas anti-inciendo en todas partes.
+
+Hace décadas que un incendio no ha afectado a más de un espacio. Y eso deja claro la efectividad de los sistemas y sus encargades de mantenimiento.
+
+Por desgracia, puede tocarte un simulacro de incendios en cualquier parte y acabar mojado por la fétida agua de los aspersores. En realidad sería como esos días que sales a la calle y te pilla un chaparrón.
+
 ### Cultura y contracultura
 
 xxx
@@ -2012,6 +2020,18 @@ Pero el huerto no solo sirve para limpiar la imagen de la directora, también si
 
 \saltocolumna
 
+### LEDland
+
+LEDland es uno de los pasillos de acceso a la plaza Mayor. Recibe el nombre de los miles de leds que cubren su paredes y techos. 
+
+Antiguamente este acceso estaba cubierto por una sustancia gomosa creada por les instaladores, de la que se desconocía su utilidad. Un día una mujer llamada Anette, del equipo de mantenimiento, mientras cambiaba las luces del pasillo, clavó unos leds en la goma para tenerlos más a mano y se encendieron. Según  se cuenta, en cuanto se encendió el primer led recibió un aviso de que iba ser ascendida.
+
+Está historia corrió como la pólvora, y LEDland se convirtió en un pozo de los deseos. La gente va allí con miniLEDs y busca un espacio libre, pides un deseo. Si se enciende se cumplirá y si falla (cosas que ocurre muy pocas veces) no se hará realidad.
+
+Corre otra historia, en la Anette murió en accidente de trabajo a los pocos días de empezar en su nuevo puesto. Hay gente que cree que los deseos son peligrosos y pueden volverse contra ti.
+
+> Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso estudiando a la gente pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en la magia, lo cual es raro para su mente analítica y pragmática. Si esto fuera de dominio público, un estafador hábil podría montar un buen golpe contra la directora J0hn.
+
 \saltopagina
 
 \sincolumna
@@ -2073,6 +2093,32 @@ xxx
 Como parte de una campaña mejora de la opinión pública, la directora J0hn creó este zoo de animales clonados y animatrónicas. xxx
 
 xxx
+
+### El balneario de Bath
+
+El balneario de Bath es el centro de ocio y entretenimiento más importante de toda la arcología.
+
+Empezó siendo un pequeño balneario donde los ricos e influyentes de Nottingham "tomaban las aguas" y recibían sesiones de rehabilitación. Con los años ha ido creciendo hasta convertirse en casi un resort vacacional.
+
+Hay varios ambientes que simulan desde un onsen japonés o una terma romana o, incluso con proyecciones de video, una paradisíaca playa de arena fina. Les trajadores de esas zonas visten adecuados a la ambientación y los tratamientos también van en función de la ambientación. Digamos que el rigor histórico no ha sido importante a la hora de diseñar espacios, útiles, uniformes y demás.
+
+El spa está formado por dos zonas, la de hotel con cientos de habitaciones más o menos lujosas. La comida es siempre servida en la habitación ya que no disponen de un gran comedor. De hecho, lo normal es que los huéspedes hagan vida en sus habitaciones y solo salgan a los tratamientos, momento en que se limpian sus habitaciones.
+
+Se pueden reservar habitáculos para reuniones donde hacer actividades comerciales o con otros huéspedes, como jugar a las cartas, jugar a videojuegos, discutir de negocios, proyecciones varias, etc.
+
+Solo a un grupo muy exclusivo de clientes fijes se les ofrece salas especiales como mazmorras sexuales o salas para ceremonias religiosas.
+
+La otra parte es el SPA que son una gran cantidad de habitáculos donde el personal da los tratamientos. Hablamos de saunas, salas de bañeras calientes y frías, salas con chorros de agua a diferentes potencias, cabinas de masajes, etc.
+
+> Los precios de las habitaciones rondan entre los 200$ y los 10.000$ por una noche e incluyen una comida
+
+Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el lugar donde dar tu gran golpe. Aquí pasan buenas temporadas la gente importante con sus séquitos y sus objetos de valor. Y lo ultimo que les preocupa es que les vayan a robar.
+
+\saltopagina
+
+A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta   desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
+
+**Semillas de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les blus asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
 
 \saltocolumna
 

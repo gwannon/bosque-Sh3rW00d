@@ -148,9 +148,9 @@ h1 > span {
 h1:hover > span {
   opacity: 1;
 }
-
-.saltopagina { display: block; height: 0; overflow: hidden; }
-
+@media screen {
+  .saltopagina { display: block; height: 0; overflow: hidden; }
+}
 
 
 body > section:nth-of-type(odd) { background-color: var(--black-color); color: var(--yellow-color); }
