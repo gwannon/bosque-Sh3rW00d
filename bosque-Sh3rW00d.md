@@ -1519,11 +1519,11 @@ xxx
 
 xxx
 
+\saltocolumna
+
 ### Las directoras
 
 xxx
-
-\saltocolumna
 
 \saltopagina
 
@@ -1608,6 +1608,11 @@ xxx
 xxx
 
 ### Tecnología láser
+
+xxx
+
+
+### Hologramas
 
 xxx
 
@@ -1743,7 +1748,7 @@ xxx
 
 ### Comadrejas
 
-xxx
+Esto pequeños robots son alargados como comadrejas, aunque más grandes, se encargan de moverse por tuberías y conductos para limpiarlos y retirar todo tipo de restos que pudieran atascar el conducto. No es un enemigo problemático a no ser que tengas que enfrentarte a ella mientras te arrastras por un conducto.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
@@ -1795,14 +1800,24 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 * **Ventajas:** Elegir 1: Carismátique, Famose, Atractive
 * **Equipo:** Ropas vistosas, instrumento musical, herramientas relacionadas con su arte
 
+### Cientifique
+
+Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde físiques, químiques, bióloggues, etc. Siempre con batas blancas en impolutos laboratorios llenos material de investigación. 
+
+\saltopagina
+
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Ciencias d8, Conocimientos Generales d8, Electrónica d6, Idioma inglés d8, Notar d8, Odenadores d6, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Ventajas:** Elige 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
+* **Desventajas:** Elige 1 (Avergonzado, Despistado, Fobia, Patoso)
+* **Equipo:** Equipo científico adecuado a su especialidad y ordenador portátil o pad
+
 ### Delincuente de los bajos fondos
 
 Los oscuros callejones de Nottingham están llenas de este tipo de personajes. Tenemos matones, descuideras, cortabolsas, timadores, ladronas, etc.
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
-
-\saltopagina
-
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alijos
@@ -1819,8 +1834,6 @@ Estamos hablando de chupatintas que están detrás de un mostrador gestionando a
 * **Desventajas:** Elige 1 o más: Avariciose (Mayor), Bocazas (Menor), Habito (Menor)
 * **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rique
 * **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
-
-\saltocolumna
 
 ### Mercadere
 
@@ -1871,13 +1884,21 @@ xxx
 
 xxx
 
+### The premises
+
+Robert Guthrie es un buhonero/empeñista que se conoce por tener tratos con delicuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
+
+Aunque tiene una tienda fija ,esta abre y cierra cuando le da la gana. Además puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
+
+También es un buen lugar donde buscar materiales y productos peligrosos e ilegales. En su almacén (o en su mochila si esta fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
+
+\saltopagina
+
 ### El pozo
 
 [![Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir](./assests/images/32454817667_059d6f26aa_c.jpg "Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir")](https://www.flickr.com/photos/jsjgeology/32454817667 "Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir")
 
 Este gigantesco agujero sin fondo en la base del complejo es la primera estructura Nottingham. Este pozo sin fondo lo excavó la compañía en las tierras de Nottingham y lo lleno de miles y miles de toneladas de nanitos. Les instaladores usaron esos nanitos para construir los cimientos y luego la estructura del complejo. Según crecía el complejo, el pozo se iba secando hasta quedar vacío. 
-
-\saltopagina
 
 Se dice que todavía quedan nanitos en su fondo esperando órdenes de trabajo de sus dueños, les instaladores. Sin embargo nadie ha intentado bajar e investigar lo que haya en el fondo, de hecho se considera un lugar maldito que todo el mundo trata de evitar.
 
@@ -1895,6 +1916,8 @@ Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachi
 
 > Por unos **500 dólares en alijos** (que serán usados en mejorar el campo de tiro) y dos semanas de entrenamiento intensivo, mejorarás el valor de Disparar de le PJ en **un nivel de dado cuando combatas con tirachinas o arco** (puedes entrenar varias veces, pero con diferente arma). Tu valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
 
+\saltopagina
+
 ### La Taberna de Albión
 
 La Taberna de Albión es uno de los locales mejores y con más ambiente de Nottingham y el mejor de la Zona Baja. Bebida y comida abundante a precios asequibles. De hecho sus cócteles de vodka casero tienen mucha fama por ser muy fuertes y es que son puro alcohol.
@@ -1903,13 +1926,13 @@ La Taberna de Albión es uno de los locales mejores y con más ambiente de Notti
 
 Cada viernes hay timbas de cartas sin límite que empiezan con el glitch de noche y acaban con el glitch del día. Se mueve mucho dinero (sobre todo en alijos) y vienen jugadores de todo el complejo.
 
-\saltopagina
-
 La clientela es muy variada, desde trabajadores de la algafactoría, hasta influencers atraídos por las emociones de participar en timbas de poker ilegales y de quizás ver algún criminal e incluso hacerse un reel con alguno de ellos. 
 
 Estas historias son difundidas por Esther, dueña del bar. Es cierto que alguna ocasión algún forajide famoso ha pasado la mona en el suelo del bar, pero no es algo muy común.
 
- Las visitas de los sheriffs son frecuentes con lo que es un lugar a evitar si eres un profugue de la ley.
+Las visitas de los sheriffs son frecuentes con lo que es un lugar a evitar, si eres un profugue de la ley.
+
+\saltocolumna
 
 > Las partidas son legales dentro de la ilegalidad del juego, así que en principio une jugadore no tendrá positivos ni negativos por jugar en el Albión.
 
@@ -1921,11 +1944,15 @@ Muches cocineres e influencers gastronómiques ha intentado conseguir la receta 
 
 El **secreto del gumbo** de Claire son los **productos frescos ecológicos que los _boskis_** suelen proporcionarle en sus incursiones al complejo.
 
-**Semilla de aventura:** Une sibarite _blus_ quiere descubrir la receta del gumbo de Mamá Claire, pero no consigue que nadie le traiga un plato y se niega a ir hasta la Zona Baja. Tu banda puede cobrarle una buena pasta por el trabajo o hacer que el _blus_ les deba un favor. Sea lo que sea, no debería ser muy complicado conseguir un taper de gumbo, mamá Claire lo regala.
+\saltopagina
+
+**Semilla de aventura:** Une sibarite _blus_ quiere descubrir la receta del gumbo de Mamá Claire, pero no consigue que nadie le traiga un plato y se niega a ir hasta la Zona Baja. Tu banda puede cobrarle una buena pasta por el trabajo o hacer que el _blus_ les deba un favor. Sea lo que sea, no debería ser muy complicado conseguir un cuenco de gumbo, mamá Claire lo regala.
 
 Si necesitas contactar con la gente del bosque Mamá Claire puede ser una buena vía sobre todo si echas buen material en su olla.
 
 > Recompensa con un par de benis a cualquiera que deje comestibles o done sus alijos para el gumbo eterno.
+
+\saltocolumna
 
 \saltopagina
 
@@ -1970,6 +1997,20 @@ En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que
 Myrna es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella "verdadero talento".
 
 > **Clases de danza:** Por unos 2500 dólares y dos semanas de entrenamiento intensivo, mejorará tu valor de Interpretación en un nivel de dado cuando bailes. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avances. Para que te acepte en su escuela deberás demostrar que o tienes mucho dinero o eres muy famose o un mínimo de d6 en Interpretación.
+
+\saltopagina
+
+### El huerto urbano
+
+La directora J0hn además del zoo, mandó construir un huerto urbano de 20x20m, donde hay plantadas hortalizas y frutas y algunas plantas exóticas. Una vez a la semana la producción es sorteada entre los habitantes del complejo.
+
+Pero el huerto no solo sirve para limpiar la imagen de la directora, también sirve como laboratorio final de diferentes departamentos científicos de la compañía. De hecho, no es llevado por personal normal de mantenimiento del complejo, sino por botánicos especializados en hidropónica.
+
+> Por unos 200$ (como soborno) puedes conseguir que alguien del personal del huerto te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de DJ). También puedes por 100$ conseguir frutas u hortalizas por raras que sean y estén o no de temporada.
+
+**Semilla de aventura:** La última persona que gano las verduras del huerto ha estado unos días comportándose muy raro, con fallos de memoria y ahora presenta ronchas y prurito por todo el cuerpo. Quizás habría que investigar el huerto y ver que trama la directora.
+
+\saltocolumna
 
 \saltopagina
 
@@ -2367,6 +2408,24 @@ xxx
 \sincolumna
 
 ## Esther, tabernera del Albión &#35;
+
+\concolumna
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+> **Sugerencia de interpretación:** xxx
+
+
+\sincolumna
+
+## Robert Guthrie, buhonero ambulante &#35;
 
 \concolumna
 

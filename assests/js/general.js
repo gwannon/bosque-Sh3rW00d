@@ -27,26 +27,17 @@ $(document).ready(function () {
 
   $("body>section:nth-of-type(3) div a").on('click', function (e) {
     e.preventDefault();
-    console.log($(this).attr('href'));
     link = $(this).attr('href').substring(1);
-    console.log('*[id="'+link+'"]');
-
-    $('html, body').animate({
-      scrollTop: $('*[id="'+link+'"]').offset().top
-    }, 500);
-
-    /*$(".saltopagina").each(function () {
-
-      if('#'+$(this).attr('id') == link) {
-        console.log('#'+$(this).attr('id')+"  "+$(this).offset().top);
+    $(".saltopagina").each(function () {
+      if($(this).attr('id') == link) {
 
         $('html, body').animate({
           scrollTop: $(this).offset().top
         }, 500);
 
       }
+    });
 
-    });*/
   });
 
   //WordCount

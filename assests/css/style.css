@@ -149,7 +149,7 @@ h1:hover > span {
   opacity: 1;
 }
 
-.saltopagina { display: none; }
+.saltopagina { display: block; height: 0; overflow: hidden; }
 
 
 
