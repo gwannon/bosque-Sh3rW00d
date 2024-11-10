@@ -2018,13 +2018,13 @@ Claramente hay cámaras en mejores puestos que otros y por tanto son más caras 
 
 Puedes comprar entradas para eventos específicos a la compañía o pagar un abono de temporada. También puedes alquilar de forma alegal la cámara a una persona con un abono de temporada.
 
-> La IA que controla todo el sistema de cámara ha desarrollado con los años ciertos gustos deportivos y tiende a tratar mejor a sus compañeros hinchas que al resto. Si vas con los colores de su equipo, al interactuar con ella recibes un +2 a todas las tiradas en las que interactúes con ella.
+\saltocolumna
 
-\saltopagina
+> La IA que controla todo el sistema de cámara ha desarrollado con los años ciertos gustos deportivos y tiende a tratar mejor a sus compañeros hinchas que al resto. Si vas con los colores de su equipo, al interactuar con ella recibes un +2 a todas las tiradas en las que interactúes con ella.
 
 ### Escuela de danza de Lady Myrna
 
-Lady Myrna es una de las mejores bailarinas de Nottingham, bailando para las clases más altas. En la cima de carrera decidió montar una escuela donde enseñar su arte a las personas que lo aman tanto como ella.
+Lady Myrna es una de las mejores bailarinas de Nottingham y ha bailado para las clases más altas del complejo. En la cima de carrera decidió montar una escuela donde enseñar su arte a las personas que lo aman tanto como ella.
 
 Su escuela, a pesar de lo que podría creerse, está en un gimnasio de la Zona Media que es también su casa. La realidad es que, aunque cobra bien por sus clases, no puede permitirse un local en la Zona Alta con lo que gana como profesora.
 
@@ -2032,9 +2032,11 @@ En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que
 
 Myrna es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella "verdadero talento".
 
-> **Clases de danza:** Por unos 2500 dólares y dos semanas de entrenamiento intensivo, mejorará tu valor de Interpretación en un nivel de dado cuando bailes. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avances. Para que te acepte en su escuela deberás demostrar que o tienes mucho dinero o eres muy famose o un mínimo de d6 en Interpretación.
+\saltopagina
 
-\saltocolumna
+A pesar de los avances de la robótica, no ha sido capaz de igualar el arte de las personas que han dedicado su vida a la danza. Es por ello que hay padres y madres con el deseo y el dinero de pagar los precios de Lady Myrna para que sus hijes aprendan danza clásica. 
+
+> **Clases de danza:** Por unos 2500 dólares y dos semanas de entrenamiento intensivo, mejorará tu valor de Interpretación en un nivel de dado cuando bailes. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avances. Para que te acepte en su escuela deberás demostrar que o tienes mucho dinero o eres muy famose o un mínimo de d6 en Interpretación.
 
 ### El huerto urbano
 
@@ -2042,11 +2044,11 @@ La directora J0hn además del zoo, mandó construir un huerto urbano de 20x20m, 
 
 Pero el huerto no solo sirve para limpiar la imagen de la directora, también sirve como laboratorio final de diferentes departamentos científicos de la compañía. De hecho, no es llevado por personal normal de mantenimiento del complejo, sino por botánicos especializados en hidropónica.
 
+\saltocolumna
+
 > Por unos 200$ (como soborno) puedes conseguir que alguien del personal del huerto te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de DJ). También puedes por 100$ conseguir frutas u hortalizas por raras que sean y estén o no de temporada.
 
 **Semilla de aventura:** La última persona que gano las verduras del huerto ha estado unos días comportándose muy raro, con fallos de memoria y ahora presenta ronchas y prurito por todo el cuerpo. Quizás habría que investigar el huerto y ver que trama la directora.
-
-\saltopagina
 
 ### Pastelería Badreddin
 
@@ -2054,19 +2056,21 @@ En un anexo de la Plaza Mayor tiene Hassan Badreddin su pastelería, la mejor pa
 
 Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une blus con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
 
+\saltopagina
+
 > Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente la reacción del agasajado sea un nivel menos hostil. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
 
 ### LEDland
 
 LEDland es uno de los pasillos de acceso a la Plaza Mayor. Recibe el nombre de los miles de leds que cubren sus paredes y techos. Despide tanta luz que tienes que usar gafas con cristales tintados para pasar.
 
-\saltocolumna
-
 Antiguamente, este acceso estaba cubierto por una sustancia gomosa creada por les instaladores, de la que se desconocía su utilidad. Un día una mujer llamada Anette, del equipo de mantenimiento, mientras cambiaba las luces del pasillo, clavó unos leds en la goma para tenerlos más a mano y se encendieron. Según se cuenta, en cuanto se encendió el primer led recibió un aviso de que iba a ser ascendida.
 
 Esta historia corrió como la pólvora y LEDland se convirtió en un pozo de los deseos. La gente va allí con miniLEDs, busca un espacio libre donde clavar su lucecita y pide un deseo. Si se enciende se cumplirá y si falla (cosas que ocurre muy pocas veces) no se hará realidad.
 
 Corre otra historia, en la que Anette murió en accidente de trabajo a los pocos días de empezar en su nuevo puesto. Hay gente que cree que los deseos de LEDland son peligrosos y pueden volverse contra ti.
+
+\saltocolumna
 
 > Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso y memoria estudiando a la gente que pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en lo sobrenatural y la magia, lo cual es raro para su mente analítica y científica. Si lo de su extraña afición se llegara a conocer, un estafador hábil podría montar un buen golpe contra la directora J0hn usando ese conocimiento.
 
@@ -2186,6 +2190,8 @@ xxx
 ### El Gran Roble (GR)
 
 El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les boskis. xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -2543,10 +2549,30 @@ xxx
 
 > **Sugerencia de interpretación:** xxx
 
+\saltopagina
 
 \sincolumna
 
 ## Robert Guthrie, buhonero ambulante &#35;
+
+\concolumna
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+> **Sugerencia de interpretación:** xxx
+
+\saltopagina
+
+\sincolumna
+
+## Harriette, tecnobruja del bosque &#35;
 
 \concolumna
 
