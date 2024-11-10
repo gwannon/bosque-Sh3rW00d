@@ -1884,13 +1884,13 @@ xxx
 
 ### El río Trent
 
-El río Trent es como se conoce una inmensa algafactoría donde se produce la gran mayoría de comida de la arcología. Es una de las industrias más importantes de la arcología y muy importante para la compañía no solo porque su buen funcionamiento supone el buen funcionamiento del complejo, sino porque también da tremendos beneficios a la empresa.
+El río Trent es como se conoce una inmensa algafactoría donde se produce la gran mayoría de comida de la arcología. Es una de las industrias más importantes de la arcología y es muy importante para la compañía no solo porque su buen funcionamiento supone el buen funcionamiento del complejo, sino porque también da tremendos beneficios a la empresa.
 
 Con su cientos de piscinas de agua dulce llenas de algas, es para muches _notis_ lo más parecido a un río o un mar que hayan visto en su vida. Es tan grande que han tenido que aprovechar habitáculos alrededor del Trent para expandir las piscinas de crecimiento de algas de forma que les peatones pueden pasear entre sus piscinas mientras se mueven por la zona.
 
-xxx
-
 \saltocolumna
+
+> La mayoria de la comida del complejo sale del Trent, con lo que si algo le pasa a la algafactoria puede suponer una gran hambruna sobre todo entre los _curris_.
 
 ### El correccional
 
@@ -1902,9 +1902,9 @@ Robert Guthrie es un buhonero/empeñista que se conoce por tener tratos con deli
 
 Aunque tiene una tienda fija ,esta abre y cierra cuando le da la gana. Además puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
 
-También es un buen lugar donde buscar materiales y productos peligrosos e ilegales. En su almacén (o en su mochila si esta fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
-
 \saltopagina
+
+También es un buen lugar donde buscar materiales y productos peligrosos e ilegales. En su almacén (o en su mochila si esta fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
 
 ### El pozo
 
@@ -1926,9 +1926,9 @@ Para algunas de las personas que asisten a este pequeño campo de tiro el tirach
 
 Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
 
-> Por unos **500 dólares en alijos** (que serán usados en mejorar el campo de tiro) y dos semanas de entrenamiento intensivo, mejorarás el valor de Disparar de le PJ en **un nivel de dado cuando combatas con tirachinas o arco** (puedes entrenar varias veces, pero con diferente arma). Tu valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
-
 \saltopagina
+
+> Por unos **500 dólares en alijos** (que serán usados en mejorar el campo de tiro) y dos semanas de entrenamiento intensivo, mejorarás el valor de Disparar de le PJ en **un nivel de dado cuando combatas con tirachinas o arco** (puedes entrenar varias veces, pero con diferente arma). Tu valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
 
 ### La Taberna de Albión
 
@@ -1944,8 +1944,6 @@ Estas historias son difundidas por Esther, dueña del bar. Es cierto que alguna 
 
 Las visitas de los sheriffs son frecuentes con lo que es un lugar a evitar, si eres un profugue de la ley.
 
-\saltocolumna
-
 > Las partidas son legales dentro de la ilegalidad del juego, así que en principio une jugadore no tendrá positivos ni negativos por jugar en el Albión.
 
 ### El gumbo eterno
@@ -1954,9 +1952,9 @@ Hace 15 años, durante una gran escasez de algas, Mamá Claire, de ascendencia j
 
 Muches cocineres e influencers gastronómiques ha intentado conseguir la receta del gumbo, pero Mamá se ha negado a darla. También le han hecho ofertas de trabajo como cocinera en casas de la zona alta y las ha declinado todas. Ella es feliz con su gente en los bajos de Nottingham.
 
-El **secreto del gumbo** de Claire son los **productos frescos ecológicos que los _boskis_** suelen proporcionarle en sus incursiones al complejo.
-
 \saltopagina
+
+El **secreto del gumbo** de Claire son los **productos frescos ecológicos que los _boskis_** suelen proporcionarle en sus incursiones al complejo.
 
 **Semilla de aventura:** Une sibarite _blus_ quiere descubrir la receta del gumbo de Mamá Claire, pero no consigue que nadie le traiga un plato y se niega a ir hasta la Zona Baja. Tu banda puede cobrarle una buena pasta por el trabajo o hacer que el _blus_ les deba un favor. Sea lo que sea, no debería ser muy complicado conseguir un cuenco de gumbo, mamá Claire lo regala.
 
@@ -1982,21 +1980,47 @@ xxx
 
 xxx
 
-### El estadio
-
-xxx
-
-Como y hemos dicho, no hay ni gradas ni asientos, sino miles de cámaras que retransmiten los eventos deportivos a su propietario/socio. De forma que lo ves en realidad aumentada como si estuvieras allí. Claramente hay cámaras en mejores puestos que otros y por tanto son más caras y normalmente están destinadas a _blus_ e influencers.
+\sincolumna
 
 ### Plaza Mayor
 
-La Plaza Mayor es la estancia más grande de la arcología y aun así no será mayor que un estadio de fútbol actual. xxx
+[![Mike Grauer 1980s shopping mall. water fountain. p By Mackingster](./assests/images/mike_grauer_1980s_shopping_mall__water_fountain__p_by_mackingster_dfaiiu3-fullview.jpg "Mike Grauer 1980s shopping mall. water fountain. p By Mackingster")](https://www.deviantart.com/mackingster/art/Mike-Grauer-1980s-shopping-mall-water-fountain-p-924653019 "Mike Grauer 1980s shopping mall. water fountain. p By Mackingster")
+
+\concolumna
+
+La Plaza Mayor es la estancia más grande de la arcología y aun así no será mayor que un estadio de fútbol actual. Es el centro de la vida en la arcología de Nottingham y en general todos los eventos importantes toman lugar aquí.
 
 Tiene una simulación de cielo que muestra un día soleado y totalmente despejado y una noche demasiado estrellada. No hay ni puesta ni salida de sol. Simplemente glitchea unos segundos y pasa de noche a día o viceversa. De hecho, les notis, tienen dos expresiones "glitch de la mañana" y "glitch de la noche" para hablar del alba o del ocaso.
 
 xxx
 
 \saltocolumna
+
+Hay _notis_, sobre todo de la parte baja del complejo donde los espacios son más pequeños, que sufren agorafobia y son incapaces de atravesarla.
+
+La Plaza Mayor es el km cero de la mayoría de las rutas de turbo ascensores que permiten llegar a todas las esquinas del complejo. Eso hace que tenga siempre un montón de tráfico de peatones.
+
+xxx
+
+\saltopagina
+
+### El terreno
+
+El terreno es un estadio deportivo donde se celebran los mas importantes eventos deportivos de Nottingham. Hablamos de las finales del campeonato de hockey de pasillo profesional y el concurso de tiro anual el Día de la Primera Piedra.
+
+Este espacio no es mucho más de una cancha de tenis con unos vestuarios y una sala para ruedas de prensa. No hay espacio para el público, que solo asiste de forma virtual.
+
+El estadio cumple la función de circo en la famosa locución latina "Pan y circo". Entretiene a los _curris_ y evita que se subleven contra la compañía.
+
+Como ya hemos dicho, no hay ni gradas ni asientos, sino miles de cámaras que retransmiten los eventos deportivos a su propietario/socio. De forma que lo ves en tu dispositivo de realidad aumentada como si estuvieras allí. El sistema simula a tus compañeres de grada y puedes hablar con elles o cantar los himnos de tu equipo, incluso abrazarte a elles y celebrar las victorias y llorar las derrotas.
+
+Claramente hay cámaras en mejores puestos que otros y por tanto son más caras y normalmente están destinadas a _blus_ e _influencers_.
+
+Puedes comprar entradas para eventos específicos a la compañía o pagar un abono de temporada. También puedes alquilar de forma alegal la cámara a una persona con un abono de temporada.
+
+> La IA que controla todo el sistema de cámara ha desarrollado con los años ciertos gustos deportivos y tiende a tratar mejor a sus compañeros hinchas que al resto. Si vas con los colores de su equipo, al interactuar con ella recibes un +2 a todas las tiradas en las que interactúes con ella.
+
+\saltopagina
 
 ### Escuela de danza de Lady Myrna
 
@@ -2010,7 +2034,7 @@ Myrna es muy selectiva, por no decir elitista, sobre a quien enseña todo su art
 
 > **Clases de danza:** Por unos 2500 dólares y dos semanas de entrenamiento intensivo, mejorará tu valor de Interpretación en un nivel de dado cuando bailes. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avances. Para que te acepte en su escuela deberás demostrar que o tienes mucho dinero o eres muy famose o un mínimo de d6 en Interpretación.
 
-\saltopagina
+\saltocolumna
 
 ### El huerto urbano
 
@@ -2022,19 +2046,29 @@ Pero el huerto no solo sirve para limpiar la imagen de la directora, también si
 
 **Semilla de aventura:** La última persona que gano las verduras del huerto ha estado unos días comportándose muy raro, con fallos de memoria y ahora presenta ronchas y prurito por todo el cuerpo. Quizás habría que investigar el huerto y ver que trama la directora.
 
-\saltocolumna
+\saltopagina
+
+### Pastelería Badreddin
+
+En un anexo de la Plaza Mayor tiene Hassan Badreddin su pastelería, la mejor pastelería del complejo. Los Badreddin llevan haciendo las mismas recetas familiares para preparar sus dulces y pasteles desde la creación de Nottingham. Pese a su fama y a la cola que hay todos los días frente a su puerta y que llega hasta la plaza mayor son muy asequibles y hasta les más pobres pueden disfrutar de sus muffins.
+
+Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une blus con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
+
+> Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente la reacción del agasajado sea un nivel menos hostil. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
 
 ### LEDland
 
-LEDland es uno de los pasillos de acceso a la plaza Mayor. Recibe el nombre de los miles de leds que cubren su paredes y techos. 
+LEDland es uno de los pasillos de acceso a la Plaza Mayor. Recibe el nombre de los miles de leds que cubren sus paredes y techos. Despide tanta luz que tienes que usar gafas con cristales tintados para pasar.
 
-Antiguamente este acceso estaba cubierto por una sustancia gomosa creada por les instaladores, de la que se desconocía su utilidad. Un día una mujer llamada Anette, del equipo de mantenimiento, mientras cambiaba las luces del pasillo, clavó unos leds en la goma para tenerlos más a mano y se encendieron. Según  se cuenta, en cuanto se encendió el primer led recibió un aviso de que iba ser ascendida.
+\saltocolumna
 
-Está historia corrió como la pólvora, y LEDland se convirtió en un pozo de los deseos. La gente va allí con miniLEDs y busca un espacio libre, pides un deseo. Si se enciende se cumplirá y si falla (cosas que ocurre muy pocas veces) no se hará realidad.
+Antiguamente, este acceso estaba cubierto por una sustancia gomosa creada por les instaladores, de la que se desconocía su utilidad. Un día una mujer llamada Anette, del equipo de mantenimiento, mientras cambiaba las luces del pasillo, clavó unos leds en la goma para tenerlos más a mano y se encendieron. Según se cuenta, en cuanto se encendió el primer led recibió un aviso de que iba a ser ascendida.
 
-Corre otra historia, en la Anette murió en accidente de trabajo a los pocos días de empezar en su nuevo puesto. Hay gente que cree que los deseos son peligrosos y pueden volverse contra ti.
+Esta historia corrió como la pólvora y LEDland se convirtió en un pozo de los deseos. La gente va allí con miniLEDs, busca un espacio libre donde clavar su lucecita y pide un deseo. Si se enciende se cumplirá y si falla (cosas que ocurre muy pocas veces) no se hará realidad.
 
-> Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso estudiando a la gente pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en la magia, lo cual es raro para su mente analítica y pragmática. Si esto fuera de dominio público, un estafador hábil podría montar un buen golpe contra la directora J0hn.
+Corre otra historia, en la que Anette murió en accidente de trabajo a los pocos días de empezar en su nuevo puesto. Hay gente que cree que los deseos de LEDland son peligrosos y pueden volverse contra ti.
+
+> Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso y memoria estudiando a la gente que pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en lo sobrenatural y la magia, lo cual es raro para su mente analítica y científica. Si lo de su extraña afición se llegara a conocer, un estafador hábil podría montar un buen golpe contra la directora J0hn usando ese conocimiento.
 
 \saltopagina
 
@@ -2065,14 +2099,6 @@ La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor
 \saltopagina
 
 **Semilla de aventura:** Al abrirse la puerta para entrar al Bolrum, se puede ver perfectamente un cadáver ensangrentado. Tiene la garganta cortada y no se ve ninguna hoja.
-
-### Pastelería Badreddin
-
-En un anexo de la Plaza Mayor tiene Hassan Badreddin su pastelería, la mejor pastelería del complejo. Los Badreddin llevan haciendo las mismas recetas familiares para preparar sus dulces y pasteles desde la creación de Nottingham. Pese a su fama y a la cola que hay todos los días frente a su puerta y que llega hasta la plaza mayor son muy asequibles y hasta les más pobres pueden disfrutar de sus muffins.
-
-Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une blus con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
-
-> Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente la reacción del agasajado sea un nivel menos hostil. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
 
 \saltocolumna
 
@@ -2122,7 +2148,7 @@ Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el
 
 A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta   desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
 
-**Semillas de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les blus asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
+**Semilla de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les blus asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
 
 \saltocolumna
 

@@ -1038,7 +1038,8 @@ h1 > strong {
     margin: 0;
   }
   
-  .saltopagina + .columns > *:first-child {
+  .saltopagina + .columns > *:first-child:not(p.seed),
+  .saltocolumna + * {
     margin-top: 0;
     padding-top: 0;
   }
