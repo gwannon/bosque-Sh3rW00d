@@ -2187,6 +2187,36 @@ xxx
 
 El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les boskis. xxx
 
+\saltopagina
+
+### El refugio de la bruja
+
+En los más profundo de Bosque Sh3rW00d hay una choza de planchas irregulares de diferentes polímeros y cristal, que le dan un aspecto fantasmagórico.  Les _boskis_ lo llaman el refugio de la bruja y no suelen acercarse salvo que necesiten los servicios tecnológicos de la bruja. 
+
+Hay colgando de diferentes partes de la choza carillones de viento hechos de materiales reciclados que emiten extraños sonidos acentuando el ambiente terrorífico del lugar. Lo curioso es que no se mueven porque no hay nunca viento.
+
+Todes en el bosque saben que **Harriette la bruja** es la persona con la que hablar cuando tienes que **reparar algún objeto electrónico, reprogramar un robot, hackear algún aparato u obtener _oscuros_ conocimientos informáticos**.  
+
+El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos, comida, bebida, vídeos recreativos, etc.) y lo que quieres que haga y el equipo necesario y vuelves en un par de días. Si la ofrenda no está, es que acepta tu trato y ha realizado la tarea. Donde dejaste la ofrenda tendrás el código del programa que le pediste, la unidad de almacenamiento con los datos hackeados, etc. Si no ha tocado nada es que lo ha rechazado y puedes mejorar tu ofrenda o recogerlo todo y volver por donde has venido.
+
+Solo cuando tiene que enseñar sus conocimientos a otras personas se muestra dejando unos videotutoriales enseñando lo que le has pedido. Aunque la persona que sale en el vídeo está generada por ordenador, la voz siempre es la misma. Siempre amenaza con todo tipo de desgracias a los que rebelen sus secretos a terceros.
+
+**La bruja Harriette es la última de les instalador que quedan en el complejo.** Solo era una aprendiz cuando les instaladores se fueron de Nottingham y la dejaron al cuidado de todo lo que no pudieron llevarse. 
+
+Es por eso que se estableció en la zona actual que era la zona en la trabajaban cuando tuvieron que irse. El problema es que solo era una neófita y había muchos secretos de les instaladores que desconocía y sigue desconociendo. Con los años los problemas de mantenimiento superaron sus conocimientos y los nanitos empezaron a trabajar por su cuenta creando lo que conocemos como Bosque Sh3rW00d.
+
+Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superiores al de resto habitantes de Nottingham**. Además dispone todavía de una masa importante de nanitos que aceptan su programación.
+
+> Harriette esta muy muy mayor y sabe que le quedan pocos años de vida es por ellos que busca alguien que reciba sus conocimientos y se quede cuidando de sus artilugios instaladores y sus nanitos. Cualquier persona con Electrónica d6 y Ordenadores d6 y que conozca algún hackeo de les instaladores podría ser la elegida.
+
+\saltopagina
+
+Alrededor de la casa de la bruja puedes encontrar robots en _modo encantado_ que se dedican a dar vueltas alrededor de la casa limpiando el bosque y defendiéndolo en caso de ataque. Da lo mismo que sean simple robots comadreja o pesados robots de carga y trabajo. 
+
+Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos de la instaladora y reprogramado pudiendo hacer unas pocas funciones de defensa y limpieza e impidiéndoles comunicarse con sus dueños o abandonar la zona. **Portar armas o actuar de forma violenta** dentro de la zona de seguridad del refugio, supone que **los robots atacarán sin cuartel** a les intruses.
+
+> Basado en una idea de [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
+
 \saltocolumna
 
 \saltopagina
