@@ -2100,7 +2100,22 @@ La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor
 
 **Semilla de aventura:** Al abrirse la puerta para entrar al Bolrum, se puede ver perfectamente un cadáver ensangrentado. Tiene la garganta cortada y no se ve ninguna hoja.
 
+### cUcHI BAR
+
+El cUcHI BAR es el mejor lugar de sushi y sake de algas de Nottingham. Recibe su nombre de su neón estropeado. Las dos eses mayúsculas perdieron su parte inferior en unos disturbios y se quedaron como dos ces minúsculas. 
+
+A Dupont, su dueño y cocinero, le resultó gracioso y no reparó el neón. De hecho, la gente distingue entre el sushi y el _cuchi_, usando este segundo para el referirse al sushi del cUcHI BAR.
+
+El establecimiento está decorado como un izakaya japones y siempre está lleno debido a sus buenos precios, excelente calidad e increíble ambiente.
+Es el lugar preferido para las celebraciones de todo tipo, deportivas, comerciales, exámenes aprobados, ascensos, etc. Las 5 mesas del local siempre están llenas de gente de toda condición celebrando, riendo, cantando y brindando con sake.
+
+Los platos son servidos por un antiquísimo robot camarero que se equivoca la mitad de las veces al entregar los platos, pero es parte del encanto del local y la gente se come lo que le pone. Al final todo está buenísimo y no te importa.
+
 \saltocolumna
+
+El pescado está hecho a base de algas, como toda la comida en la arcología, pero Dupont sabe marinarla de tal forma que pierde su sabor artificial y parece más natural.
+
+> Dupont no solo es un experto en preparar sushi, es un maestro en el afilado de cuchillos. Si consigues que afiles tus armas de filo. Este afilado es tan fino que otorga un +1 al daño hasta que una tirada de daño con esa arma saques un 1.
 
 \saltopagina
 
