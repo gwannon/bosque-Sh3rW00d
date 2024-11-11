@@ -1962,15 +1962,15 @@ Si necesitas contactar con la gente del bosque Mamá Claire puede ser una buena 
 
 Un día vas a tu trabajo y de repente a la entrada de tu turboascensor hay grabada en el suelo una rayuela con motivos de peces payasos, estrellas de mar y corales.
 
-Durante una semana está en ese sitio y empiezan a venir niñes a jugar hasta que desaparece tal como apareció. Al cabo de unas semanas encuentras otra rayuela de unicornios en un pasillo de servicio que vuelve a desaparecer al de unos días, así en un ciclo infinito.
+Durante una semana está en ese sitio y de vez en cuando algun niñe se pone a jugar hasta que un día desaparece tal como apareció. Al cabo de unas semanas encuentras otra rayuela de unicornios en un pasillo de servicio que vuelve a desaparecer al de unos días, así en un ciclo infinito.
 
 \saltocolumna
 
-Esta rayuela es conocida por les pillueles de la calle como la rayuela fantasma. **La rayuela la crea y la destruye un grupo de nanitos.** Lo lleva haciendo así desde la desaparición de les instaladores. Su última tarea era crear una rayuela en un parque infantil y no les dieron la orden de parar, con lo que llevan siglo y medio creando rayuelas con motivos infantiles y borrándolas al no recibir el "ok" de sus amos. Con el tiempo su programación les ha dicho que se movieran por todo el complejo, igual no conseguían el visto bueno porque se habían equivocado de lugar.
+Esta rayuela es conocida por les pillueles de la calle como la rayuela fantasma y corren todo tipo de leyendas. Sin embargo ninguna acierta con la realidad, **la rayuela la crea y la destruye un grupo de nanitos.** Lo lleva haciendo así desde la desaparición de les instaladores. Su última tarea era crear una rayuela en un parque infantil y no le dieron la orden de parar, con lo que lleva siglo y medio creando rayuelas con motivos infantiles y borrándolas al no recibir el "ok" de sus amos. Con el tiempo su programación les ha dicho que se movieran por todo el complejo, que igual no conseguían el visto bueno porque se habían equivocado de lugar.
 
 La zona de trabajo de este grupo de nanitos es la Zona Baja, pero han empezado a aparecer en la Zona Media y a empezar a llamar la atención. Como son cosas de niñes a nadie le preocupan, por ahora.
 
-> Este grupo de nanitos está activo y plenamente funcional. Alguien suficientemente hábil en electrónica y ordenadores podría reprogramar a los nanitos y ponerlos a su servicio haciéndoles creer que han terminado su tarea actual y pueden seguir con nuevos proyectos. Este grupo pequeño de nanitos puede ser muy útil para una banda de delincuentes que se dedique a robar a les riques y dárselo a les pobres.
+> Este grupo de nanitos está activo y plenamente funcional. Alguien suficientemente **hábil en Electrónica y Ordenadores podría reprogramar a los nanitos** y ponerlos a su servicio. El principal escollo será convencerles de que han terminado la tarea, por ejemplo, haciendo que algunes niñes de la zona jueguen y se diviertan en la rayuela.
 
 ### Mercadillo nocturno
 
@@ -2223,13 +2223,17 @@ A priori todo el spa está aislado de la arcología y solo se puede entrar por l
 
 ### Feria de Nottingham
 
-Cada mes, el último jueves, la directora J0hn organiza una feria medieval en las calles comerciales de la Zona Alta. Un grupo de influencers y blus, eligen a una obra de caridad y todo lo que se recaude es donado a esa causa.
+Cada mes, el último jueves, la directora J0hn organiza una feria medieval en las calles comerciales de la Zona Alta. Un grupo de influencers y blus, eligen a una obra de caridad y todo lo que se recaude es donado a esa causa. El problema está en que normalmente el dinero es gastado de la forma más inútil posible y nunca ayuda a los desfavorecidos.
+
+La feria tiene todos los clásicos, duelos caballeros a espada, juglares y bardos ambulantes, marionetas, mucha comida en formas variadas a la brasa, gente que echa las cartas del tarot. Hay gran cantidad de tenderetes con diferentes juegos de habilidad, desde el guaca-mole, hasta lanzar los aros o sacar la espada de la piedra.
+
+La gente rica que existe suele ir disfrazada, el problema es que el rigor histórico no es lo suyo y podemos ver mosqueteros, faraones de Egipto, trogloditas, etc. La mayoría de las veces, la elección del disfraz es un tema estético, pero nadie se queja de las inexactitudes históricas. 
 
 xxx
 
 Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reirse en la cara de la directora J0hn y sus sheriffs.
 
-**Semilla de aventuras:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famosos vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
+**Semilla de aventura:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famosos vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
 
 \saltocolumna
 
@@ -2538,6 +2542,8 @@ xxx
 ## Helen Aim, cantante e influencer &#35;
 
 \concolumna
+
+[![Dapper Kolkai By ZandoArts](./assests/images/dapper_kolkai_by_zandoarts_dfij990-pre.jpg "Dapper Kolkai By ZandoArts")](https://www.deviantart.com/zandoarts/art/Dapper-Kolkai-938124180 "Dapper Kolkai By ZandoArts")
 
 xxx
 

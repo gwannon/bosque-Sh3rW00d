@@ -60,6 +60,16 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * Bajos fondos y crimen organizado
   * Les instaladores
   * El mundo exterior
+* Directorio de Nottingham
+  * El correccional
+  * Taller de e-bikes de Noc
+  * Salón de juegos y pachinko "La olla de oro"
+  * Plaza Mayor
+  * El zoo de la directora J0hn
+  * Feria de Nottingham
+  * El Gran Roble (GR)
+  * RLN (Radio libre de Nottingham)
+
 
 ### 0.3.2 En desarrollo
 
@@ -117,3 +127,9 @@ https://www.deviantart.com/meg-james/art/Always-onto-the-next-thing-877215494
 https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535
 
 https://www.deviantart.com/meg-james/art/Head-for-the-hills-611429081
+
+
+
+https://www.deviantart.com/zandoarts/art/The-Crystal-Choreographer-739964865
+
+https://www.deviantart.com/netunokinoart/gallery
