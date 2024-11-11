@@ -1966,29 +1966,33 @@ Durante una semana está en ese sitio y empiezan a venir niñes a jugar hasta qu
 
 \saltocolumna
 
-**La rayuela la crea y la destruye un grupo de nanitos.** Lo lleva haciendo así desde la desaparición de les instaladores. Su última tarea era crear una rayuela en un parque infantil y no les dieron la orden de parar, con lo que llevan siglos y medio creando rayuelas con motivos infantiles y borraándolas al no recibir el ok de sus amos. Con el tiempo su programación les dijo que se movieran por todo el complejo porque igual el no conseguir el visto bueno era debido a que se habían equivocado de lugar.
+Esta rayuela es conocida por les pillueles de la calle como la rayuela fantasma. **La rayuela la crea y la destruye un grupo de nanitos.** Lo lleva haciendo así desde la desaparición de les instaladores. Su última tarea era crear una rayuela en un parque infantil y no les dieron la orden de parar, con lo que llevan siglo y medio creando rayuelas con motivos infantiles y borrándolas al no recibir el "ok" de sus amos. Con el tiempo su programación les ha dicho que se movieran por todo el complejo, igual no conseguían el visto bueno porque se habían equivocado de lugar.
 
-Su zona de trabajo de la rayuela es la zona baja pero ha empezado a aparecer en la zona media y a empezar a llamar la atención. Pero como son cosas de Inés a nadie le preocupan.
+La zona de trabajo de este grupo de nanitos es la Zona Baja, pero han empezado a aparecer en la Zona Media y a empezar a llamar la atención. Como son cosas de niñes a nadie le preocupan, por ahora.
 
-> Este grupo de nanitos está activo y plenamente funcional. Alguien con suficientemente hábil en electrónica y ordenadores podría reprogramar a los nanitos y ponerlos a su servicio. Este grupo pequeño de nanitos puede ser muy útil para una banda de delincuentes que se dedique a robar a les riques y dárselo a les pobres.
+> Este grupo de nanitos está activo y plenamente funcional. Alguien suficientemente hábil en electrónica y ordenadores podría reprogramar a los nanitos y ponerlos a su servicio haciéndoles creer que han terminado su tarea actual y pueden seguir con nuevos proyectos. Este grupo pequeño de nanitos puede ser muy útil para una banda de delincuentes que se dedique a robar a les riques y dárselo a les pobres.
 
 ### Mercadillo nocturno
 
-El mercadillo nocturno, también conocido como mercadillo de Halloween, se celebra cada 5 días durante el modo nocturno del complejo. Es un mercadillo en el que la gente coloca en las puertas de sus habitáculos, pantallas con fotos y vídeos de las cosas que venden y también de las cosas que necesitan. Si ves algo que necesitas o de lo quieres deshacerte, llamas a la puerta y negocias un trato.
+El mercadillo nocturno, también conocido como mercadillo de Halloween, se celebra cada 5 días durante el modo nocturno del complejo. Es un mercadillo en el que la gente coloca en las puertas de sus habitáculos, pantallas con fotos y vídeos de las cosas que vende y también de las cosas que necesita. 
 
 \saltopagina
 
-Son muy raras las transacciones en dinero, todo el mundo prefiere que la compañía no meta mano en estás actividades de subsistencia. Aún así, son muy pocos los que venden productos ilegales. Normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
+Si ves algo que necesitas y tienes algo de lo quieres deshacerte, llamas a la puerta y negocias un trato.
 
-Según se cuenta, está tradición viene de otra más antigua llamada Halloween (de ahí su nombre) donde les niñes iban de puerta en puerta de sus vecines haciendo tratos para conseguir dulces.
+Son muy raras las transacciones en dinero, todo el mundo prefiere que la compañía no meta mano en estás actividades de subsistencia. Son muy pocos los que venden productos ilegales y normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
+
+Según se cuenta, está tradición viene de otra más antigua llamada Halloween (de ahí su nombre) donde les niñes iban de noche de puerta en puerta de sus vecines haciendo tratos para conseguir dulces.
 
 Con los años ha habido gente que ha pasado de montar el mercadillo para deshacerse del excedente de lo que producía en casa, a montar auténticas tiendas abiertas todos los días.
 
 Como en casi todos estos eventos de carácter social han empezado a venir _influencers_ a hacer reels de esta costumbre de la gente humilde de la Zona Baja. El problema es que están afectando al orden natural del mercado al pagar mucho dinero por cosas que no lo valen o acaparando toda la producción de un producto, subiendo su precio y haciendo que no sean accesibles a los bolsillos más pobres. Hace años las _fantarinas_ se compraban por otras frutas pieza por pieza. Desde que se pusieron de moda en cócteles de lujo, su precio ronda 1 a 7.
 
+\saltocolumna
+
 > Durante las noches de mercadillo se puede tirar Pasillear para encontrar cualquier tipo de producto a un 40/50% de su precio real. Como DJ puedes añadir negativos a la tirada para encontrar artículos más difíciles de localizar o escasos.
 
-\saltocolumna
+**Semilla de aventura:** Une estúpide influencer ha montado un concurso en el mercadillo. Ganará aquella persona que consiga, intercambiando cosas en el mercadillo, el objeto más valioso y raro. Tienen que grabar todas las transacciones y entregárselas al influencer. El premio son 10.000$ y esto ha hecho que la Zona Baja esté llena de gente participando y armando jaleo. Quizás una banda de tunantes podría escarmentar al influencer. Lo que nadie sabe es que todos los videos irán a manos de la directora J0hn que quiere escanear los interiores de las casas de la gente de la Zona Baja. Usando esas grabaciones, podría detectar pisos francos de rebeldes, simpatizantes y otros delincuentes.
 
 ### El correccional
 
@@ -1997,6 +2001,8 @@ xxx
 ### Taller de e-bikes de Noc
 
 xxx
+
+\saltopagina
 
 ### Salón de juegos y pachinko "La olla de oro"
 
@@ -2007,6 +2013,8 @@ xxx
 xxx
 
 > Las bolas de pachinko puede ser usadas como abrojos. Tirando un puñado de bolas al suelo, conviertes una casilla en terreno dificil y es imposible correr por esa casilla. Si se tira un cubo lleno de bolas (de los que usan les jugadores para recoger sus premios gordos), se pueden cubrir hasta 5 casillas. También pueden usarse como proyectiles de tirachinas sin ningún tipo de penalización a Disparar o al daño.
+
+\saltocolumna
 
 \saltopagina
 
@@ -2245,10 +2253,6 @@ xxx
 
 El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les boskis. xxx
 
-\saltocolumna
-
-\saltopagina
-
 ### El refugio de la bruja
 
 En los más profundo de Bosque Sh3rW00d hay una choza de planchas irregulares de diferentes polímeros y cristal, que le dan un aspecto fantasmagórico.  Les _boskis_ lo llaman el refugio de la bruja y no suelen acercarse salvo que necesiten los servicios tecnológicos de la bruja. 
@@ -2265,11 +2269,11 @@ Solo cuando tiene que enseñar sus conocimientos a otras personas se muestra dej
 
 Es por eso que se estableció en la zona actual que era la zona en la trabajaban cuando tuvieron que irse. El problema es que solo era una neófita y había muchos secretos de les instaladores que desconocía y sigue desconociendo. Con los años los problemas de mantenimiento superaron sus conocimientos y los nanitos empezaron a trabajar por su cuenta creando lo que conocemos como Bosque Sh3rW00d.
 
+\saltopagina
+
 Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superiores al de resto habitantes de Nottingham**. Además dispone todavía de una masa importante de nanitos que aceptan su programación.
 
 > Harriette esta muy muy mayor y sabe que le quedan pocos años de vida es por ellos que busca alguien que reciba sus conocimientos y se quede cuidando de sus artilugios instaladores y sus nanitos. Cualquier persona con Electrónica d6 y Ordenadores d6 y que conozca algún hackeo de les instaladores podría ser la elegida.
-
-\saltopagina
 
 Alrededor de la casa de la bruja puedes encontrar robots en _modo encantado_ que se dedican a dar vueltas alrededor de la casa limpiando el bosque y defendiéndolo en caso de ataque. Da lo mismo que sean simple robots comadreja o pesados robots de carga y trabajo. 
 
@@ -2277,11 +2281,11 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 > Basado en una idea de [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
 
+\saltocolumna
+
 ### RLN (Radio libre de Nottingham)
 
 xxx
-
-\saltocolumna
 
 \saltopagina
 
