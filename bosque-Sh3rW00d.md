@@ -1972,12 +1972,21 @@ Su zona de trabajo de la rayuela es la zona baja pero ha empezado a aparecer en 
 
 > Este grupo de nanitos está activo y plenamente funcional. Alguien con suficientemente hábil en electrónica y ordenadores podría reprogramar a los nanitos y ponerlos a su servicio. Este grupo pequeño de nanitos puede ser muy útil para una banda de delincuentes que se dedique a robar a les riques y dárselo a les pobres.
 
+### Mercadillo nocturno
+
+El mercadillo nocturno, también conocido como mercadillo de Halloween, se celebra cada 5 días durante el modo nocturno del complejo. Es un mercadillo en el que la gente coloca en las puertas de sus habitáculos, pantallas con fotos y vídeos de las cosas que venden y también de las cosas que necesita. Si ves algo que necesitas o de lo quieres deshacerte, llamas a la puerta y negocias un trato.
+
+Son muy raras las transacciones en dinero, todo el mundo prefiere que la compañía no meta mano en estás actividades de subsistencia. Aún así son muy pocos los que venden productos ilegales. Normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
+
+Según se cuenta, está tradición viene de otra más antigua llamada Halloween (de ahí su nombre) donde les niñes iban de puerta en puerta de sus vecines haciendo tratos para conseguir dulces.
+
+Con los años ha habido gente que ha pasado de montar el mercadillo para deshacerse del excedente de lo que producía en casa, a montar auténticas tiendas abiertas todos los días.
+
+Cómo en casi todos estos eventos de carácter social han empezado a venir incluencers. El problema es que están afectando al orden natural del mercado al pagar mucho dinero por cosas que no lo valen o acaparando toda la producción, subiendo su precio y haciendo que no sean accesibles a los bolsillos más pobres. Hace años las fantarinas se compraban por otras frutas pieza por pieza, desde que se pusieron de moda en cócteles su precio ronda 1 por 7.
+
+> Durante las noches de mercadillo se puede tirar Pasillear para encontrar cualquier tipo de producto a un 40/50% de su precio real. Como DJ puedes añadir negativos a la tirada para encontrar artículos más difíciles de localizar o escasos.
 
 ### El correccional
-
-xxx
-
-### Mercadillo nocturno
 
 xxx
 
