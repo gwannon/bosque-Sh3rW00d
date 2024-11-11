@@ -2221,7 +2221,7 @@ xxx
 
 Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reirse en la cara de la directora J0hn y sus sheriffs.
 
-**Semilla de aventuras:** La troupe de artistes que suele participar en la fería medievald e esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabarón borraches perdides con el famosos vodka del local. Alguien podría robarles sus disfraces y colarse en la fería de esta tarde noche.
+**Semilla de aventuras:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famosos vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
 
 \saltocolumna
 
