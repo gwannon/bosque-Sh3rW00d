@@ -1892,10 +1892,6 @@ Con su cientos de piscinas de agua dulce llenas de algas, es para muches _notis_
 
 > La mayoria de la comida del complejo sale del Trent, con lo que si algo le pasa a la algafactoria puede suponer una gran hambruna sobre todo entre los _curris_.
 
-### El correccional
-
-xxx
-
 ### The premises
 
 Robert Guthrie es un buhonero/empeñista que se conoce por tener tratos con delicuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
@@ -1962,7 +1958,28 @@ Si necesitas contactar con la gente del bosque Mamá Claire puede ser una buena 
 
 > Recompensa con un par de benis a cualquiera que deje comestibles o done sus alijos para el gumbo eterno.
 
+### La rayuela fantasma
+
+Un día vas a tu trabajo y de repente a la entrada de tu turboascensor hay grabada en el suelo una rayuela con motivos de peces payasos, estrellas de mar y corales.
+
+Durante una semana está en ese sitio y empiezan a venir niñes a jugar hasta que desaparece tal como apareció. Al cabo de unas semanas encuentras otra rayuela de unicornios en un pasillo de servicio que vuelve a desaparecer al de unos días, así en un ciclo infinito.
+
 \saltocolumna
+
+**La rayuela la crea y la destruye un grupo de nanitos.** Lo lleva haciendo así desde la desaparición de les instaladores. Su última tarea era crear una rayuela en un parque infantil y no les dieron la orden de parar, con lo que llevan siglos y medio creando rayuelas con motivos infantiles y borraándolas al no recibir el ok de sus amos. Con el tiempo su programación les dijo que se movieran por todo el complejo porque igual el no conseguir el visto bueno era debido a que se habían equivocado de lugar.
+
+Su zona de trabajo de la rayuela es la zona baja pero ha empezado a aparecer en la zona media y a empezar a llamar la atención. Pero como son cosas de Inés a nadie le preocupan.
+
+> Este grupo de nanitos está activo y plenamente funcional. Alguien con suficientemente hábil en electrónica y ordenadores podría reprogramar a los nanitos y ponerlos a su servicio. Este grupo pequeño de nanitos puede ser muy útil para una banda de delincuentes que se dedique a robar a les riques y dárselo a les pobres.
+
+
+### El correccional
+
+xxx
+
+### Mercadillo nocturno
+
+xxx
 
 \saltopagina
 
@@ -2074,6 +2091,10 @@ Corre otra historia, en la que Anette murió en accidente de trabajo a los pocos
 
 > Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso y memoria estudiando a la gente que pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en lo sobrenatural y la magia, lo cual es raro para su mente analítica y científica. Si lo de su extraña afición se llegara a conocer, un estafador hábil podría montar un buen golpe contra la directora J0hn usando ese conocimiento.
 
+### Feria de Nottingham
+
+xxx
+
 \saltopagina
 
 \sincolumna
@@ -2104,11 +2125,11 @@ La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor
 
 **Semilla de aventura:** Al abrirse la puerta para entrar al Bolrum, se puede ver perfectamente un cadáver ensangrentado. Tiene la garganta cortada y no se ve ninguna hoja.
 
-### cUcHI BAR
+### ᶜUᶜHI BAR
 
-El cUcHI BAR es el mejor lugar de sushi y sake de algas de Nottingham. Recibe su nombre de su neón estropeado. Las dos eses mayúsculas perdieron su parte inferior en unos disturbios y se quedaron como dos ces minúsculas. 
+El ᶜUᶜHI BAR es el mejor lugar de sushi y sake de algas de Nottingham. Recibe su nombre de su neón estropeado. Las dos eses mayúsculas perdieron su parte inferior en unos disturbios y se quedaron como dos ces minúsculas. 
 
-A Dupont, su dueño y cocinero, le resultó gracioso y no reparó el neón. De hecho, la gente distingue entre el sushi y el _cuchi_, usando este segundo para el referirse al sushi del cUcHI BAR.
+A Dupont, su dueño y cocinero, le resultó gracioso y no reparó el neón. De hecho, la gente distingue entre el sushi y el _cuchi_, usando este segundo para el referirse al sushi del ᶜUᶜHI BAR.
 
 El establecimiento está decorado como un izakaya japones y siempre está lleno debido a sus buenos precios, excelente calidad e increíble ambiente.
 Es el lugar preferido para las celebraciones de todo tipo, deportivas, comerciales, exámenes aprobados, ascensos, etc. Las 5 mesas del local siempre están llenas de gente de toda condición celebrando, riendo, cantando y brindando con sake.
