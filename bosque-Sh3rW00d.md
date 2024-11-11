@@ -1974,21 +1974,39 @@ Su zona de trabajo de la rayuela es la zona baja pero ha empezado a aparecer en 
 
 ### Mercadillo nocturno
 
-El mercadillo nocturno, también conocido como mercadillo de Halloween, se celebra cada 5 días durante el modo nocturno del complejo. Es un mercadillo en el que la gente coloca en las puertas de sus habitáculos, pantallas con fotos y vídeos de las cosas que venden y también de las cosas que necesita. Si ves algo que necesitas o de lo quieres deshacerte, llamas a la puerta y negocias un trato.
+El mercadillo nocturno, también conocido como mercadillo de Halloween, se celebra cada 5 días durante el modo nocturno del complejo. Es un mercadillo en el que la gente coloca en las puertas de sus habitáculos, pantallas con fotos y vídeos de las cosas que venden y también de las cosas que necesitan. Si ves algo que necesitas o de lo quieres deshacerte, llamas a la puerta y negocias un trato.
 
-Son muy raras las transacciones en dinero, todo el mundo prefiere que la compañía no meta mano en estás actividades de subsistencia. Aún así son muy pocos los que venden productos ilegales. Normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
+\saltopagina
+
+Son muy raras las transacciones en dinero, todo el mundo prefiere que la compañía no meta mano en estás actividades de subsistencia. Aún así, son muy pocos los que venden productos ilegales. Normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
 
 Según se cuenta, está tradición viene de otra más antigua llamada Halloween (de ahí su nombre) donde les niñes iban de puerta en puerta de sus vecines haciendo tratos para conseguir dulces.
 
 Con los años ha habido gente que ha pasado de montar el mercadillo para deshacerse del excedente de lo que producía en casa, a montar auténticas tiendas abiertas todos los días.
 
-Cómo en casi todos estos eventos de carácter social han empezado a venir incluencers. El problema es que están afectando al orden natural del mercado al pagar mucho dinero por cosas que no lo valen o acaparando toda la producción, subiendo su precio y haciendo que no sean accesibles a los bolsillos más pobres. Hace años las fantarinas se compraban por otras frutas pieza por pieza, desde que se pusieron de moda en cócteles su precio ronda 1 por 7.
+Como en casi todos estos eventos de carácter social han empezado a venir _influencers_ a hacer reels de esta costumbre de la gente humilde de la Zona Baja. El problema es que están afectando al orden natural del mercado al pagar mucho dinero por cosas que no lo valen o acaparando toda la producción de un producto, subiendo su precio y haciendo que no sean accesibles a los bolsillos más pobres. Hace años las _fantarinas_ se compraban por otras frutas pieza por pieza. Desde que se pusieron de moda en cócteles de lujo, su precio ronda 1 a 7.
 
 > Durante las noches de mercadillo se puede tirar Pasillear para encontrar cualquier tipo de producto a un 40/50% de su precio real. Como DJ puedes añadir negativos a la tirada para encontrar artículos más difíciles de localizar o escasos.
+
+\saltocolumna
 
 ### El correccional
 
 xxx
+
+### Taller de e-bikes de Noc
+
+xxx
+
+### Salón de juegos y pachinko "La olla de oro"
+
+xxx
+
+> Es tal el ruido que hay en el local que todas las tiradas de Notar que impliquen el oído tienen un -4. 
+
+xxx
+
+> Las bolas de pachinko puede ser usadas como abrojos. Tirando un puñado de bolas al suelo, conviertes una casilla en terreno dificil y es imposible correr por esa casilla. Si se tira un cubo lleno de bolas (de los que usan les jugadores para recoger sus premios gordos), se pueden cubrir hasta 5 casillas. También pueden usarse como proyectiles de tirachinas sin ningún tipo de penalización a Disparar o al daño.
 
 \saltopagina
 
@@ -2088,7 +2106,7 @@ Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las ma
 
 ### LEDland
 
-LEDland es uno de los pasillos de acceso a la Plaza Mayor. Recibe el nombre de los miles de leds que cubren sus paredes y techos. Despide tanta luz que tienes que usar gafas con cristales tintados para pasar.
+LEDland es uno de los pasillos de acceso a la Plaza Mayor. Recibe el nombre de los miles de leds que cubren sus paredes y techos. Despide tanta luz que tienes que usar gafas con cristales tintados para pasar (-2 a Disparar y Notar si no llevas gafas de sol).
 
 Antiguamente, este acceso estaba cubierto por una sustancia gomosa creada por les instaladores, de la que se desconocía su utilidad. Un día una mujer llamada Anette, del equipo de mantenimiento, mientras cambiaba las luces del pasillo, clavó unos leds en la goma para tenerlos más a mano y se encendieron. Según se cuenta, en cuanto se encendió el primer led recibió un aviso de que iba a ser ascendida.
 
@@ -2099,10 +2117,6 @@ Corre otra historia, en la que Anette murió en accidente de trabajo a los pocos
 \saltocolumna
 
 > Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso y memoria estudiando a la gente que pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en lo sobrenatural y la magia, lo cual es raro para su mente analítica y científica. Si lo de su extraña afición se llegara a conocer, un estafador hábil podría montar un buen golpe contra la directora J0hn usando ese conocimiento.
-
-### Feria de Nottingham
-
-xxx
 
 \saltopagina
 
@@ -2136,7 +2150,7 @@ La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor
 
 ### ᶜUᶜHI BAR
 
-El ᶜUᶜHI BAR es el mejor lugar de sushi y sake de algas de Nottingham. Recibe su nombre de su neón estropeado. Las dos eses mayúsculas perdieron su parte inferior en unos disturbios y se quedaron como dos ces minúsculas. 
+El ᶜUᶜHI BAR es el mejor lugar de sushi y sake de algas de Nottingham. Recibe su nombre de su neón estropeado. Las dos eses mayúsculas perdieron su parte inferior en unos disturbios y se quedaron como dos ces minúsculas.
 
 A Dupont, su dueño y cocinero, le resultó gracioso y no reparó el neón. De hecho, la gente distingue entre el sushi y el _cuchi_, usando este segundo para el referirse al sushi del ᶜUᶜHI BAR.
 
@@ -2149,7 +2163,7 @@ Los platos son servidos por un antiquísimo robot camarero que se equivoca la mi
 
 El pescado está hecho a base de algas, como toda la comida en la arcología, pero Dupont sabe marinarla de tal forma que pierde su sabor artificial y parece más natural.
 
-> Dupont no solo es un experto en preparar sushi, es un maestro en el afilado de cuchillos. Si consigues que afiles tus armas de filo. Este afilado es tan fino que otorga un +1 al daño hasta que una tirada de daño con esa arma saques un 1.
+> Dupont no solo es un experto en preparar sushi, es un maestro en el afilado de cuchillos. Si consigues que afiles tus armas de filo, el afilado es tan fino que otorga un +1 al daño hasta que en una tirada de daño con esa arma saques un 1.
 
 \saltopagina
 
@@ -2198,6 +2212,16 @@ Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el
 A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta   desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
 
 **Semilla de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les blus asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
+
+### Feria de Nottingham
+
+Cada mes, el último jueves, la directora J0hn organiza una feria medieval en las calles comerciales de la Zona Alta. Un grupo de influencers y blus, eligen a una obra de caridad y todo lo que se recaude es donado a esa causa.
+
+xxx
+
+Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reirse en la cara de la directora J0hn y sus sheriffs.
+
+**Semilla de aventuras:** La troupe de artistes que suele participar en la fería medievald e esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabarón borraches perdides con el famosos vodka del local. Alguien podría robarles sus disfraces y colarse en la fería de esta tarde noche.
 
 \saltocolumna
 
@@ -2252,6 +2276,10 @@ Alrededor de la casa de la bruja puedes encontrar robots en _modo encantado_ que
 Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos de la instaladora y reprogramado pudiendo hacer unas pocas funciones de defensa y limpieza e impidiéndoles comunicarse con sus dueños o abandonar la zona. **Portar armas o actuar de forma violenta** dentro de la zona de seguridad del refugio, supone que **los robots atacarán sin cuartel** a les intruses.
 
 > Basado en una idea de [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
+
+### RLN (Radio libre de Nottingham)
+
+xxx
 
 \saltocolumna
 
