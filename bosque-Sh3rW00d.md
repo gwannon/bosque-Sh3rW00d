@@ -2731,6 +2731,7 @@ xxx
 Agradecimientos a todas estas personas que me han dado su opinión y han contestado mis preguntas en diferentes redes.
 
 * [Asaltadoras del Rol](https://bsky.app/profile/cuchi.bsky.social)
+* [Ramón Corominas](https://mastorol.es/@tinitun@mstdn.social)
 
 \saltocolumna
 
