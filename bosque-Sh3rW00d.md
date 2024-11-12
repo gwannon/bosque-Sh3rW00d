@@ -2054,6 +2054,16 @@ La Plaza Mayor es el km cero de la mayoría de las rutas de turbo ascensores que
 
 xxx
 
+#### La gran pantalla
+
+En un uno de los laterales de la plaza hay una gran pantalla de unos 30x10m donde la directora J0hn hace sus apariciones y publica sus edictos. Esta pantalla es vandalizada continuamente con pintadas, pegatinas, globos de pintura. De hecho hay varios bandas cuyo rito de entrada es estropear alguna manera esa gran pantalla.
+
+La directora J0hn, cuando hace sus apariciones públicas en eta pantalla, lo hace como una especie de ser de energía de silueta femenina sobre un fondo negro con luces en forma de punto o de caracteres raros.
+
+Esto contrapone con la directora R1c4rd que solía salir como una mujer mayor, elegante y profesional en el vestir y normalmente en algún tipo de despacho corporativo.
+
+El resto del tiempo hay difernetes marquesinas deslizantes que muestran titulares de diferentes edictos del complejo, avisos de cortes de agua o luz, cambios en leyes. Si pagas a la compañia, prevía censura, puedes poner tu propio mensaje, que va desde felicitaciones de cumpleaños a proposiciones de boda. Solo se permiten cosas personales. Los anuncios y promociones están prohibidos y no suelen pasar la censura.
+
 \saltopagina
 
 ### El terreno
@@ -2225,17 +2235,22 @@ A priori todo el spa está aislado de la arcología y solo se puede entrar por l
 
 Cada mes, el último jueves, la directora J0hn organiza una feria medieval en las calles comerciales de la Zona Alta. Un grupo de influencers y blus, eligen a una obra de caridad y todo lo que se recaude es donado a esa causa. El problema está en que normalmente el dinero es gastado de la forma más inútil posible y nunca ayuda a los desfavorecidos.
 
-La feria tiene todos los clásicos, duelos caballeros a espada, juglares y bardos ambulantes, marionetas, mucha comida en formas variadas a la brasa, gente que echa las cartas del tarot. Hay gran cantidad de tenderetes con diferentes juegos de habilidad, desde el guaca-mole, hasta lanzar los aros o sacar la espada de la piedra.
+La feria tiene todos los clásicos, duelos caballeros a espada, juglares y bardos ambulantes, marionetas, mucha comida a la brasa, gente que echa las cartas del tarot, etc. Hay gran cantidad de tenderetes con diferentes juegos de habilidad, desde el guaca-mole, hasta lanzar los aros o sacar la espada de la piedra.
 
-La gente rica que existe suele ir disfrazada, el problema es que el rigor histórico no es lo suyo y podemos ver mosqueteros, faraones de Egipto, trogloditas, etc. La mayoría de las veces, la elección del disfraz es un tema estético, pero nadie se queja de las inexactitudes históricas. 
+El acto central de la feria es una subasta de objetos que los mecenas de la feria donan a la causa de ese mes y que normalmente vuelven a recuperar pujando le propietarie por su propio producto. Una vez ganada la puja, el objeto queda en consigna a la espera de que le ganadore pague por él el precio de su puja ganadora.
 
-xxx
-
-Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reirse en la cara de la directora J0hn y sus sheriffs.
-
-**Semilla de aventura:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famosos vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
+Lo que se recauda en los diferentes puestos de la fería, en la subasta y en el baile se dedica a una causa benéfica y normalmente se gasta de la peor parte posible, llegando a veces al rídiculo máximo. Esto se debe a que les organizadores están tan separados de la realidad de las clases de bajas de Nottingham que no entienden muchos los problemas sociales sobre los que han recaudado dinero. Todavía se recuerda a cuando gastaron todo el dinero de una feria en comprar cascos de seguridad para ayudar a las victimas del derrumbamiento de una sección de la Zona Baja de la arcoloǵia.
 
 \saltocolumna
+
+La gente rica que asiste suele ir disfrazada, el problema es que el rigor histórico no es lo suyo y podemos ver mosqueteros, faraones de Egipto, trogloditas, etc. La mayoría de las veces, la elección del disfraz es un tema estético, pero claro, nadie se queja de las inexactitudes históricas. 
+
+Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado para los mecenas. Es en este baile donde lucen sus mejores joyas, ropas y aparatos tecnológicos, mientras hacen los bailes de moda esa temporada.
+
+> Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reirse en la cara de la directora J0hn y sus sheriffs.
+
+**Semilla de aventura:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famoso vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
+
 
 \saltopagina
 
@@ -2732,6 +2747,7 @@ Agradecimientos a todas estas personas que me han dado su opinión y han contest
 
 * [Asaltadoras del Rol](https://bsky.app/profile/cuchi.bsky.social)
 * [Ramón Corominas](https://mastorol.es/@tinitun@mstdn.social)
+* [José Sku](https://bsky.app/profile/sku-jose.bsky.social)
 
 \saltocolumna
 
