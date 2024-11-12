@@ -70,12 +70,11 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * El correccional
   * Taller de e-bikes de Noc
   * Salón de juegos y pachinko "La olla de oro"
-  * Plaza Mayor
   * El zoo de la directora J0hn
   * El Gran Roble (GR)
   * RLN (Radio libre de Nottingham)
 
-
+* Terminada localización "Plaza Mayor"
 
 ### 0.3.2 12/11/2024
 
@@ -143,3 +142,6 @@ https://www.deviantart.com/meg-james/art/Head-for-the-hills-611429081
 https://www.deviantart.com/zandoarts/art/The-Crystal-Choreographer-739964865
 
 https://www.deviantart.com/netunokinoart/gallery
+
+
+https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505

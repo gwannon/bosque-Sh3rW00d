@@ -2012,7 +2012,7 @@ xxx
 
 xxx
 
-> Las bolas de pachinko puede ser usadas como abrojos. Tirando un puñado de bolas al suelo, conviertes una casilla en terreno dificil y es imposible correr por esa casilla. Si se tira un cubo lleno de bolas (de los que usan les jugadores para recoger sus premios gordos), se pueden cubrir hasta 5 casillas. También pueden usarse como proyectiles de tirachinas sin ningún tipo de penalización a Disparar o al daño.
+> Las bolas de pachinko puede ser usadas como abrojos. Tirando un puñado de bolas al suelo, conviertes una casilla en terreno difícil y es imposible correr por esa casilla. Si se tira un cubo lleno de bolas (de los que usan les jugadores para recoger sus premios gordos), se pueden cubrir hasta 5 casillas. También pueden usarse como proyectiles de tirachinas sin ningún tipo de penalización a Disparar o al daño.
 
 \saltocolumna
 
@@ -2040,11 +2040,9 @@ xxx
 
 \concolumna
 
-La Plaza Mayor es la estancia más grande de la arcología y aun así no será mayor que un estadio de fútbol actual. Es el centro de la vida en la arcología de Nottingham y en general todos los eventos importantes toman lugar aquí.
+La Plaza Mayor es **la estancia abierta más grande de la arcología** aun así no será mayor que un **campo de fútbol** actual. Es el centro de la vida en la arcología de Nottingham y en general todos los eventos importantes toman lugar aquí.
 
 Tiene una simulación de cielo que muestra un día soleado y totalmente despejado y una noche demasiado estrellada. No hay ni puesta ni salida de sol. Simplemente glitchea unos segundos y pasa de noche a día o viceversa. De hecho, les notis, tienen dos expresiones "glitch de la mañana" y "glitch de la noche" para hablar del alba o del ocaso.
-
-xxx
 
 \saltocolumna
 
@@ -2052,19 +2050,41 @@ Hay _notis_, sobre todo de la parte baja del complejo donde los espacios son má
 
 La Plaza Mayor es el km cero de la mayoría de las rutas de turbo ascensores que permiten llegar a todas las esquinas del complejo. Eso hace que tenga siempre un montón de tráfico de peatones.
 
-xxx
+Alrededor de la plaza hay todo tipo de tiendas, puestos de comida, tabernas, etc. en general de nivel medio/alto. Suelen estar bastante abarrotadas, ya que siempre hay algún tipo de oferta o rebajas activas.
+
+\saltopagina
+
+Como siempre fuera de las tiendas hay portacarteles publicitando los productos de determinadas tiendas haciendo todo tipo de malabares, acrobacias, canciones, repartiendo muestras gratuitas, etc.
+
+#### El espacio de descanso
+
+En el centro hay una especie de espacio de descanso y relax con bancos de cementos y unos canales de agua y de fuentes que discurren entre los bancos. En tiempos de la directora R1c4rd podías encontrar grupos de gente haciendo un pícnic o parejas haciendo manitas.
+
+Hoy en día están siempre vacías, ya que en cuanto alguien se sienta aparece algún sheriff de los que patrullan la plaza para echarte de allí.
+
+> Debajo del parque hay un bunker con un centro de datos que la directora R1c4rd usaba para dejar copias de seguridad de todos sus datos (que no su programación). Cuanto esta se fue, dejo su última copia en este lugar. J0hn no se atreve a borrar esa copia, digamoslo por una mezcla de respeto y superstición, y tampoco quiere usarla por si al abrirla activa algo que haga volver a R1c4rd. Tampoco quiere que la gente la encuentre así que hace que los sheriffs no permitan a nadie colocarse allí.
+
+#### Los dólmenes
+
+En un lateral de la plaza puedes encontrar una zona empedrada con 2 dólmenes de tiempos prehistóricos que se descubrieron durante la construcción de la arcología y que la directora R1c4rd decidió restaurar y proteger.
+
+\saltocolumna
+
+Los dólmenes hoy en día están totalmente vandalizados con grafitis, textos grabados, trozos de piedra arrancados, etc. y los equipos de mantenimiento hace años que dejaron de preocuparse de limpiarlos y restaurarlos.
+
+> Los **dolmenes son una protección perfecta** en caso de combate en la Plaza Mayor, ya que **las piedras son resistentes (Consistencia 20)** y tienen paredes y una pequeñas entrada.
 
 #### La gran pantalla
 
 En un uno de los laterales de la plaza hay una gran pantalla de unos 30x10m donde la directora J0hn hace sus apariciones y publica sus edictos. Esta pantalla es vandalizada continuamente con pintadas, pegatinas, globos de pintura. De hecho hay varios bandas cuyo rito de entrada es estropear alguna manera esa gran pantalla.
 
-La directora J0hn, cuando hace sus apariciones públicas en eta pantalla, lo hace como una especie de ser de energía de silueta femenina sobre un fondo negro con luces en forma de punto o de caracteres raros.
+La directora J0hn, cuando hace sus apariciones públicas en eta pantalla, lo hace como una especie de ser de energía de silueta femenina sobre un fondo negro con patrones geométricos luminosos.
 
 Esto contrapone con la directora R1c4rd que solía salir como una mujer mayor, elegante y profesional en el vestir y normalmente en algún tipo de despacho corporativo.
 
-El resto del tiempo hay difernetes marquesinas deslizantes que muestran titulares de diferentes edictos del complejo, avisos de cortes de agua o luz, cambios en leyes. Si pagas a la compañia, prevía censura, puedes poner tu propio mensaje, que va desde felicitaciones de cumpleaños a proposiciones de boda. Solo se permiten cosas personales. Los anuncios y promociones están prohibidos y no suelen pasar la censura.
-
 \saltopagina
+
+El resto del tiempo hay diferentes marquesinas deslizantes que muestran titulares de diferentes edictos del complejo, avisos de cortes de agua o luz, cambios en leyes. Si pagas a la compañía, previa censura, puedes poner tu propio mensaje, que va desde felicitaciones de cumpleaños a proposiciones de boda. Solo se permiten cosas personales. Los anuncios y promociones están prohibidos y no suelen pasar la censura.
 
 ### El terreno
 
@@ -2080,8 +2100,6 @@ Claramente hay cámaras en mejores puestos que otros y por tanto son más caras 
 
 Puedes comprar entradas para eventos específicos a la compañía o pagar un abono de temporada. También puedes alquilar de forma alegal la cámara a una persona con un abono de temporada.
 
-\saltocolumna
-
 > La IA que controla todo el sistema de cámara ha desarrollado con los años ciertos gustos deportivos y tiende a tratar mejor a sus compañeros hinchas que al resto. Si vas con los colores de su equipo, al interactuar con ella recibes un +2 a todas las tiradas en las que interactúes con ella.
 
 ### Escuela de danza de Lady Myrna
@@ -2092,9 +2110,9 @@ Su escuela, a pesar de lo que podría creerse, está en un gimnasio de la Zona M
 
 En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que sus alumnes usan en sus prácticas. Ha montado un equipo de escenografía (sonido y luces) de gran calidad para las clases.
 
-Myrna es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella "verdadero talento".
-
 \saltopagina
+
+Myrna es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella "verdadero talento".
 
 A pesar de los avances de la robótica, no ha sido capaz de igualar el arte de las personas que han dedicado su vida a la danza. Es por ello que hay padres y madres con el deseo y el dinero de pagar los precios de Lady Myrna para que sus hijes aprendan danza clásica. 
 
@@ -2105,8 +2123,6 @@ A pesar de los avances de la robótica, no ha sido capaz de igualar el arte de l
 La directora J0hn además del zoo, mandó construir un huerto urbano de 20x20m, donde hay plantadas hortalizas y frutas y algunas plantas exóticas. Una vez a la semana la producción es sorteada entre los habitantes del complejo.
 
 Pero el huerto no solo sirve para limpiar la imagen de la directora, también sirve como laboratorio final de diferentes departamentos científicos de la compañía. De hecho, no es llevado por personal normal de mantenimiento del complejo, sino por botánicos especializados en hidropónica.
-
-\saltocolumna
 
 > Por unos 200$ (como soborno) puedes conseguir que alguien del personal del huerto te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de DJ). También puedes por 100$ conseguir frutas u hortalizas por raras que sean y estén o no de temporada.
 
@@ -2239,18 +2255,19 @@ La feria tiene todos los clásicos, duelos caballeros a espada, juglares y bardo
 
 El acto central de la feria es una subasta de objetos que los mecenas de la feria donan a la causa de ese mes y que normalmente vuelven a recuperar pujando le propietarie por su propio producto. Una vez ganada la puja, el objeto queda en consigna a la espera de que le ganadore pague por él el precio de su puja ganadora.
 
-Lo que se recauda en los diferentes puestos de la fería, en la subasta y en el baile se dedica a una causa benéfica y normalmente se gasta de la peor parte posible, llegando a veces al rídiculo máximo. Esto se debe a que les organizadores están tan separados de la realidad de las clases de bajas de Nottingham que no entienden muchos los problemas sociales sobre los que han recaudado dinero. Todavía se recuerda a cuando gastaron todo el dinero de una feria en comprar cascos de seguridad para ayudar a las victimas del derrumbamiento de una sección de la Zona Baja de la arcoloǵia.
-
-\saltocolumna
+Lo que se recauda en los diferentes puestos de la feria, en la subasta y en el baile se dedica a una causa benéfica y normalmente se gasta de la peor parte posible, llegando a veces al ridículo máximo. Esto se debe a que les organizadores están tan separados de la realidad de las clases de bajas de Nottingham que no entienden muchos los problemas sociales sobre los que han recaudado dinero. Todavía se recuerda a cuando gastaron todo el dinero de una feria en comprar cascos de seguridad para ayudar a las victimas del derrumbamiento de una sección de la Zona Baja de la arcología.
 
 La gente rica que asiste suele ir disfrazada, el problema es que el rigor histórico no es lo suyo y podemos ver mosqueteros, faraones de Egipto, trogloditas, etc. La mayoría de las veces, la elección del disfraz es un tema estético, pero claro, nadie se queja de las inexactitudes históricas. 
 
 Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado para los mecenas. Es en este baile donde lucen sus mejores joyas, ropas y aparatos tecnológicos, mientras hacen los bailes de moda esa temporada.
 
-> Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reirse en la cara de la directora J0hn y sus sheriffs.
+> Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reírse en la cara de la directora J0hn y sus sheriffs.
+
+\saltopagina
 
 **Semilla de aventura:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famoso vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
 
+\saltocolumna
 
 \saltopagina
 
@@ -2306,7 +2323,7 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 xxx
 
-Hay por todo el complejo wifis piratas que repiten la señal de la RLN para que los programas puedan ser descargados o escuchados en directo en todo el complejo. La directora J0hn suele hacer batidas para acabar con esos wifis, de hecho tiene robots comadrejas especializadas en destruir estos aparatos. Sin embargo, en pocos días aparecen nuevos para sustituir a los destruidos, ya que mucha gente tiene descargadas las instrucciones para montar los repetidores de señal a partir de piezas de desgüace y software libre y por muy poco dinero.
+Hay por todo el complejo wifis piratas que repiten la señal de la RLN para que los programas puedan ser descargados o escuchados en directo en todo el complejo. La directora J0hn suele hacer batidas para acabar con esos wifis, de hecho tiene robots comadrejas especializadas en destruir estos aparatos. Sin embargo, en pocos días aparecen nuevos para sustituir a los destruidos, ya que mucha gente tiene descargadas las instrucciones para montar los repetidores de señal a partir de piezas de desguace y software libre y por muy poco dinero.
 
 \saltopagina
 
