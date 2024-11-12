@@ -2306,6 +2306,8 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 xxx
 
+Hay por todo el complejo wifis piratas que repiten la señal de la RLN para que los programas puedan ser descargados o escuchados en directo en todo el complejo. La directora J0hn suele hacer batidas para acabar con esos wifis, de hecho tiene robots comadrejas especializadas en destruir estos aparatos. Sin embargo, en pocos días aparecen nuevos para sustituir a los destruidos, ya que mucha gente tiene descargadas las instrucciones para montar los repetidores de señal a partir de piezas de desgüace y software libre y por muy poco dinero.
+
 \saltopagina
 
 \sincolumna
