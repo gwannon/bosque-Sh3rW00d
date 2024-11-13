@@ -2725,26 +2725,11 @@ xxx
 
 \sincolumna
 
-Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, ideas y consejos sobre esta ambientación que os podrán ser de ayuda.
-
 ## Notas del autor
 
 \concolumna
 
-### Relaciones sexo-afectivas
-
-Las vidas sentimentales y sexuales de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí. Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
-
-### Participar en el proyecto
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://linktr.ee/gwannon) y hablamos.
-
-### Lenguaje inclusivo
-
-La principal razón de usar lenguaje inclusivo en este documento es porque no me gusta dejar a nadie fuera y si eso lo consigo usando el género neutro con "e" pues perfecto. Aparte, considero que es algo que pega dentro de una ambientación ciberpunk, así que con más razón. Las lenguas evolucionan y en 200 años en el futuro porque no iba a haberse impuesto una lengua más inclusiva. De hecho, os invito a interpretar vuestres PJ usando el género neutro. Creo que puede ser divertido y darle un punto diferente a las aventuras.
-
-Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el lenguaje inclusivo. Espero que os escueza cada "e" y no paséis de la primera página. Sinceramente, no os quiero ni en mi juego ni en mi mesa. 
-
-\saltocolumna
+Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, ideas y consejos sobre esta ambientación que os podrán ser de ayuda.
 
 ### Define los velos y herramientas de seguridad
 
@@ -2752,10 +2737,40 @@ Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
 > **Por:** [FaustoRolero](https://twitter.com/FaustoRolero)
 
-Aquí tienes algunas herramientas de seguridad que puedes usar:
+Aquí tienes algunas herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
-* [DEVIR](https://devir.es/herramientas-seguridad-rol)
-* [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
+
+### Relaciones sexo-afectivas
+
+Las vidas sentimentales y sexuales de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. 
+
+Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí.
+
+Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
+
+### Participar en el proyecto
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://linktr.ee/gwannon) y hablamos.
+
+### Lenguaje inclusivo
+
+La principal razón de usar lenguaje inclusivo en este documento es porque no me gusta dejar a nadie fuera y si eso lo consigo usando el género neutro con "e" pues perfecto. Aparte, considero que es algo que pega dentro de una ambientación ciberpunk, así que con más razón.
+
+Las lenguas evolucionan y en 200 años en el futuro porque no iba a haberse impuesto una lengua más inclusiva. De hecho, os invito a interpretar vuestres PJ usando el género neutro. Creo que puede ser divertido y darle un punto diferente a las aventuras.
+
+\saltopagina
+
+Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el lenguaje inclusivo. Espero que os escueza cada "e" y no paséis de la primera página. Sinceramente, no os quiero ni en mi juego ni en mi mesa. 
+
+
+### ¿Por qué Savage Worlds?
+
+Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento. Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
+
+### Suplementos que puedes usar
+
+xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -2775,16 +2790,6 @@ xxx
 * **notis:** ciudadanes que viven en la arcología Nottingham.
 
 \saltocolumna
-
-\saltopagina
-
-\sincolumna
-
-## Suplementos que puedes usar
-
-\concolumna
-
-xxx
 
 \saltopagina
 
