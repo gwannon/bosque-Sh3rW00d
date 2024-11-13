@@ -872,7 +872,7 @@ xxx
 
 ##### Proyectiles para tirachinas
 
-Una de las ventajas de los tirachinas es que **su munición puede ser cualquier cosa**, pelotas de goma, rodamientos de acero, canicas de cristal, etc. Eso tam bién quire decir que se pueden hacer **todo tipo de municiones especiales con diferentes funciones**. 
+Una de las ventajas de los tirachinas es que **su munición puede ser cualquier cosa**, pelotas de goma, rodamientos de acero, canicas de cristal, etc. Eso también quire decir que se pueden hacer **todo tipo de municiones especiales con diferentes funciones**. 
 
 * **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 al daño.
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
@@ -1001,11 +1001,13 @@ Gastar avances en más tiempo u otras modificaciones hace que resten 4 puntos a 
 
 **Requisitos:** Novate
 
-**Jerga:** Ve a pagar el recibo de la luz, Muchos kilowatios/hora, Clap Clap Clap (3 palmadas), Funde los plomos 
+**Jerga:** Ve a pagar el recibo de la luz, Muchos kilovatios/hora, Clap Clap Clap (3 palmadas), Funde los plomos 
 
 Mediante una mezcla de movimientos captados por los sensores de la iluminación y clics en los mandos de la luz, hacen que la iluminación actúe de las siguientes formas. Debes recordar que no hay fuentes naturales de la luz así que las estancias se quedan completamente a oscuras si se apaga la luz (a falta de otras formas de luz como leds de dispositivos o linternas). No se puede conseguir oscuridad total porque hay luces independientes de emergencia.
 
 \saltopagina
+
+[![Hacker By cyberaeon](./assests/images/hacker_by_cyberaeon_d9qk9bk-375w-2x.jpg "Hacker By cyberaeon")](https://www.deviantart.com/cyberaeon/art/Hacker-588810800 "Hacker By cyberaeon")
 
 * Puedes inutilizar la iluminación haciendo que se quede **encendida o apagada durante la duración del hackeo**.
 * Poner las luces en **modo estroboscópico**, lo que supone **-1 a todas las tiradas de habilidad que exijan la vista** como disparar o buscar algo.
@@ -1037,6 +1039,8 @@ Pulsando una combinación de botones de ascensores, montacargas y escaleras mec�
 * Puedes hacer que un **ascensor/montacargas vaya a un extremo u otro de su ruta**. Este hackeo dura hasta que llega al punto final de su ruta elegido.
 * Puedes **cambiar la dirección de unas escaleras mecánicas**. Moverse en dirección contraria a las escaleras se considera terreno difícil.
 
+\saltopagina
+
 ### Controlar realidad aumentada
 
 **Requisitos:** Novate
@@ -1047,9 +1051,7 @@ Cada espacio del complejo tiene un generador de realidad aumentada que otorga a 
 
 * **Presencia cercana de otro instaladore,** lo cual no es útil porque se fueron todes.
 
-\saltopagina
-
-* **Genera datos aleatorios de tí** de forma que según los dispositivos de realidad aumentada eres otra persona. El resto de usuarios no verán tus datos reales. Los sistemas de seguridad no funcionan con los de realidad aumentada y siguen reconociendote.
+* **Genera datos aleatorios de tí** de forma que según los dispositivos de realidad aumentada eres otra persona. El resto de usuarios no verán tus datos reales. Los sistemas de seguridad no funcionan con los de realidad aumentada y siguen reconociéndote.
 * El _modo instalador_ **agrega a una capa extra de información** que les instaladores usaban para su trabajo, principalmente un inventario de los objetos de la zona estableciendo cuanto llevaban allí y cuando se realizó el último mantenimiento. Puede usarse, por ejemplo, para saber si una alcantarilla lleva mucho tiempo sin abrirse o cuanto lleva una pared llena de grafitis sin limpiarse. Como DJ, puedes añadir datos extras a las descripciones, al activar este modo. Esos datos puedan ser usados como pistas por tu banda.
 
 ### Controlar puertas
@@ -1086,6 +1088,8 @@ xxx
 
 Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero controlando las luces de emergencia y similar.
 
+\saltopagina
+
 * Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
 * xxx
 * xxx
@@ -1103,8 +1107,6 @@ xxx
 * xxx
 * xxx
 * xxx
-
-\saltopagina
 
 ### Controlar vigilancia
 
@@ -1157,6 +1159,8 @@ xxx
 * xxx
 * xxx
 
+\saltopagina
+
 ### Dominar vigilancia
 
 **Requisitos:** Heróique, Controlar vigilancia
@@ -1179,6 +1183,8 @@ xxx
 ![](./assests/images/codigo-konami.png)
 
 xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -2287,6 +2293,8 @@ xxx
 
 El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les boskis. xxx
 
+xxx
+
 ### El refugio de la bruja
 
 En lo más profundo de Bosque Sh3rW00d hay una choza de planchas irregulares de diferentes polímeros y cristal, que le dan un aspecto fantasmagórico.  Les _boskis_ lo llaman el refugio de la bruja y no suelen acercarse salvo que necesiten los servicios tecnológicos de la bruja. 
@@ -2456,6 +2464,8 @@ Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombr
 ## Lady Marian, lideresa del bosque &#35;
 
 \concolumna
+
+[![Motoko By cyberaeon](./assests/images/delv9wr-e67e25f9-0c8f-472e-9e8d-e23287d7ca86.jpg "Motoko By cyberaeon")](https://www.deviantart.com/cyberaeon/art/Motoko-883257579 "Motoko By cyberaeon")
 
 xxx
 

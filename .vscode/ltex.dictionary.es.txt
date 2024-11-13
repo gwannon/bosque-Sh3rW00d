@@ -224,3 +224,10 @@ paraboles
 Roller
 SWEA
 algafactoria
+Incy
+Corominas
+Robin
+MIN
+VEL
+bike
+geolocaliza
