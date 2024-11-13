@@ -176,7 +176,7 @@ Claramente, no hay ni puesta ni salida de sol. Muchos sistemas simplemente pasan
 
 #### Incendios
 
-Los incendios son lo más peligroso que pudiera pasar en Nottingham y es por ello que hay sistemas anti-incendios en todas partes. La directora J0hn es muy escrupulosa en el cumplimiento de la normativa anti-incendios y tiene a gente testando los sistemas anti-inciendo en todas partes.
+Los incendios son lo más peligroso que pudiera pasar en Nottingham y es por ello que hay sistemas anti-incendios en todas partes. La directora J0hn es muy escrupulosa en el cumplimiento de la normativa anti-incendios y tiene a gente testando los sistemas anti-incendio en todas partes.
 
 Hace décadas que un incendio no ha afectado a más de un espacio. Y eso deja claro la efectividad de los sistemas y sus encargades de mantenimiento.
 
@@ -389,10 +389,10 @@ xxx
 \concolumna
 
 ```
-La "primera piedra" de la arcología conocida como Nottingham se colocço hace ya unos 200 años.
+La "primera piedra" de la arcología conocida como Nottingham se colocó hace ya unos 200 años.
 ```
 
-En realidad nunca se puso una primera piedra, sino que todo empezó con un gigantesco pozo perforado en la roca en el que se vertieron toneladas y toneladas de nanitos constructores. Les instaladores lanzaron sus programas de construcción y los nanitos empezarón a construir el complejo usando los materiales que se les suministraban y xxx
+En realidad nunca se puso una primera piedra, sino que todo empezó con un gigantesco pozo perforado en la roca en el que se vertieron toneladas y toneladas de nanitos constructores. Les instaladores lanzaron sus programas de construcción y los nanitos empezaron a construir el complejo usando los materiales que se les suministraban y xxx
 
 xxx
 
@@ -543,7 +543,7 @@ Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que b
 \concolumna
 
 ```
-A la hora de crear tu PJ te presentamos algunos arquetipos que te ayuden a construirlo. es importante tener en cuenta que las aventuras de robin Hood siempre hablan de personajes parias y fuera de la ley y he seguido esa idea al diseñar estos arquetipos.
+A la hora de crear tu PJ te presentamos algunos arquetipos que te ayuden a construirlo. es importante tener en cuenta que las aventuras de Robin Hood siempre hablan de personajes parias y fuera de la ley y he seguido esa idea al diseñar estos arquetipos.
 ```
 
 También puedes crear los tuyos propios, pero recuerda que el espíritu del juego es que estén al otro lado de la ley o muy cerca.
@@ -670,7 +670,7 @@ Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la com
 \concolumna
 
 ```
-Bosque Sh3rW00d es una ambientación ciberpunk tremendamente urbana lo cual implica cambios en las habilidades básicas de savage Worlds.
+Bosque Sh3rW00d es una ambientación ciberpunk tremendamente urbana lo cual implica cambios en las habilidades básicas de Savage Worlds.
 ```
 
 Como ya se ha dicho en la creación de personajes, **desaparecen Ciencia Extraña, Fe, Hechicería, Ocultismo y Psiónica**.
@@ -827,7 +827,7 @@ Si eres detenido, es fácil saber que no estas en el sistema, porque el sistema 
 
 Si en algún momento **te implantan un HUB de conexión se pierde esta ventaja**.
 
-> No tienes **ninguna de las ventajas de tener HUB de conexión** al sistema, pero lo compensas no teniendo **ninguna de las desventajas**. A priori no existes para la directora J0hn y sus tentáculos cibernéticos. No hay registros, ni huellas, ni ningún dato sobre tí y **eres invisible para la gran mayoría cámaras y sensores de la arcología**.
+> No tienes **ninguna de las ventajas de tener HUB de conexión** al sistema, pero lo compensas no teniendo **ninguna de las desventajas**. A priori no existes para la directora J0hn y sus tentáculos cibernéticos. No hay registros, ni huellas, ni ningún dato sobre ti y **eres invisible para la gran mayoría cámaras y sensores de la arcología**.
 
 \saltopagina
 
@@ -988,7 +988,7 @@ Estos hackeos son una especie de mezcla de ventaja y poder que **pueden aprender
 
 A priori, puede parecer que gastar un avance para controlar un ascensor es muy caro, pero pensad que muchas veces los refuerzos podrán llegar antes o después si tienes control del montacargas que da acceso a tu sección de la arcología.   
 
-Salvo que el hackeo diga lo contrario, **todos necesitan una tirada de Electrónica**. Si se pasa se consigue uno de los posibles efectos del hackeo. No se pueden ejecutar varios hackeos a la vez sobre el mismo sistema, solo un efecto estará activo, aquel con la tirada de Electronica más alta.
+Salvo que el hackeo diga lo contrario, **todos necesitan una tirada de Electrónica**. Si se pasa se consigue uno de los posibles efectos del hackeo. No se pueden ejecutar varios hackeos a la vez sobre el mismo sistema, solo un efecto estará activo, aquel con la tirada de Electrónica más alta.
 
 \saltocolumna
 
@@ -1002,16 +1002,15 @@ Gastar avances en más tiempo u otras modificaciones hace que resten 4 puntos a 
 
 **Requisitos:** Novate
 
-**Jerga:** xxx
+**Jerga:** Ve a pagar el recibo de la luz, Muchos kilowatios/hora, Clap Clap Clap (3 palmadas), Funde los plomos 
 
 Mediante una mezcla de movimientos captados por los sensores de la iluminación y clics en los mandos de la luz, hacen que la iluminación actúe de las siguientes formas. Debes recordar que no hay fuentes naturales de la luz así que las estancias se quedan completamente a oscuras si se apaga la luz (a falta de otras formas de luz como leds de dispositivos o linternas). No se puede conseguir oscuridad total porque hay luces independientes de emergencia.
 
-* Puedes inutilizar la iluminación haciendo que se quede **encendida o apagada durante la duración del hackeo**.
-
 \saltopagina
 
+* Puedes inutilizar la iluminación haciendo que se quede **encendida o apagada durante la duración del hackeo**.
 * Poner las luces en **modo estroboscópico**, lo que supone **-1 a todas las tiradas de habilidad que exijan la vista** como disparar o buscar algo.
-* Poner las luces en **modo random** de forma que se **enciendan o apaguen al azar** cada turno (par se apagan, impar se encienden).
+* Poner las luces en **modo _random_** de forma que se **enciendan o apaguen al azar** cada turno (par se apagan, impar se encienden).
 
 ### Controlar pantallas
 
@@ -1043,7 +1042,7 @@ Pulsando una combinación de botones de ascensores, montacargas y escaleras mec�
 
 **Requisitos:** Novate
 
-**Jerga:** xxx
+**Jerga:** Solo puede quedar uno, Ponte candado, Juguemos a los sims 
 
 Cada espacio del complejo tiene un generador de realidad aumentada que otorga a los dispositivos de realidad aumentada de las personas que están en el de información interesante sobre los espacios. Hablamos de datos públicos de otras personas en ese espacio a la ruta hacia diferentes lugares (literalmente se genera una línea amarilla en el suelo que te indica el camino como si de un videojuego se tratara). Mediante una combinación de pasos, el generador de realidad los detecta y te abre un _modo instalador_ que te ofrece las siguientes ventajas.
 
@@ -1051,8 +1050,8 @@ Cada espacio del complejo tiene un generador de realidad aumentada que otorga a 
 
 \saltopagina
 
-* **Genera datos aleatorios de tí** de forma que según los dispositivos de realidad aumentada eres otra persona. El resto de usuarios no veran tus datos reales. Los sistemas de seguridad no funcionan con los de realidad aumentada y siguen reconociendote.
-* xxx
+* **Genera datos aleatorios de tí** de forma que según los dispositivos de realidad aumentada eres otra persona. El resto de usuarios no verán tus datos reales. Los sistemas de seguridad no funcionan con los de realidad aumentada y siguen reconociendote.
+* El _modo instalador_ **agrega a una capa extra de información** que les instaladores usaban para su trabajo, principalmente un inventario de los objetos de la zona estableciendo cuanto llevaban allí y cuando se realizó el último mantenimiento. Puede usarse, por ejemplo, para saber si una alcantarilla lleva mucho tiempo sin abrirse o cuanto lleva una pared llena de grafitis sin limpiarse. Como DJ, puedes añadir datos extras a las descripciones, al activar este modo. Esos datos puedan ser usados como pistas por tu banda.
 
 ### Controlar puertas
 
@@ -1106,6 +1105,8 @@ xxx
 * xxx
 * xxx
 
+\saltopagina
+
 ### Controlar vigilancia
 
 **Requisitos:** Veterane, Controlar pantallas, Controlar realidad aumentada
@@ -1125,12 +1126,12 @@ xxx
 
 **Jerga:** xxx
 
-\saltopagina
+xxx 
 
-xxx
+El problema de este hackeo es que hay que hacerlo desde dentro del ascensor.
 
 * Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. xxx
-* xxx
+* Puedes bloquear las puertas encerrando dentro a sus pasajeres. xxx
 * xxx
 
 ### Dominar climatización
@@ -1162,8 +1163,6 @@ xxx
 **Requisitos:** Heróique, Controlar vigilancia
 
 **Jerga:** xxx
-
-\saltocolumna
 
 xxx
 
@@ -1271,7 +1270,7 @@ Al final de las 5 rondas gana el que más puntos tenga. También se puede ganar 
 
 ### Concursos de puntería
 
-Siendo el tirachinas una de las pocas armas permitidas, los concursos de puntería para probar la habilidad con el arco o tirachainas son bastante comunes. Hay muchas variaciones, desde disparos o a todo tipo de dianas en diferentes modalidades, hasta disparos a objetivos en movimiento. Quizás la más arriesgada sea disparar a un objetivo en la cabeza de le contrincante. Si aciertas ganas puntos y si se mueve tu objetivo también ganas puntos.
+Siendo el tirachinas una de las pocas armas permitidas, los concursos de puntería para probar la habilidad con el arco o tirachinas son bastante comunes. Hay muchas variaciones, desde disparos o a todo tipo de dianas en diferentes modalidades, hasta disparos a objetivos en movimiento. Quizás la más arriesgada sea disparar a un objetivo en la cabeza de le contrincante. Si aciertas ganas puntos y si se mueve tu objetivo también ganas puntos.
 
 Esta última modalidad de tiro se juega de la siguiente manera. Primero se decide la distancia entre les participantes (corta y media, larga es muy rara por temas de espacio) y se decide al azar quién empieza a disparar.
 
@@ -1980,7 +1979,7 @@ El mercadillo nocturno, también conocido como mercadillo de Halloween, se celeb
 
 Si ves algo que necesitas y tienes algo de lo quieres deshacerte, llamas a la puerta y negocias un trato.
 
-Son muy raras las transacciones en dinero, todo el mundo prefiere que la compañía no meta mano en estás actividades de subsistencia. Son muy pocos los que venden productos ilegales y normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
+Son muy raras las transacciones en dinero, todo el mundo prefiere que la compañía no meta mano en estas actividades de subsistencia. Son muy pocos los que venden productos ilegales y normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
 
 Según se cuenta, está tradición viene de otra más antigua llamada Halloween (de ahí su nombre) donde les niñes iban de noche de puerta en puerta de sus vecines haciendo tratos para conseguir dulces.
 
@@ -2008,7 +2007,7 @@ xxx
 
 xxx
 
-> Es tal el ruido que hay en el local que todas las tiradas de Notar que impliquen el oído tienen un -4. 
+> Es tal el ruido que hay en el local que todas las tiradas de Notar que impliquen el oído tienen un -4. La iluminación está atenuada y hay muchas luces brillantes así que Disparar se ve afectado con un xxx a la tirada por malas condiciones de visibilidad.
 
 xxx
 
@@ -2072,11 +2071,11 @@ En un lateral de la plaza puedes encontrar una zona empedrada con 2 dólmenes de
 
 Los dólmenes hoy en día están totalmente vandalizados con grafitis, textos grabados, trozos de piedra arrancados, etc. y los equipos de mantenimiento hace años que dejaron de preocuparse de limpiarlos y restaurarlos.
 
-> Los **dolmenes son una protección perfecta** en caso de combate en la Plaza Mayor, ya que **las piedras son resistentes (Consistencia 20)** y tienen paredes y una pequeñas entrada.
+> Los **dolmenes son una protección perfecta** en caso de combate en la Plaza Mayor, ya que **las piedras son resistentes (Consistencia 20)** y tienen paredes y una pequeña entrada.
 
 #### La gran pantalla
 
-En un uno de los laterales de la plaza hay una gran pantalla de unos 30x10m donde la directora J0hn hace sus apariciones y publica sus edictos. Esta pantalla es vandalizada continuamente con pintadas, pegatinas, globos de pintura. De hecho hay varios bandas cuyo rito de entrada es estropear alguna manera esa gran pantalla.
+En un uno de los laterales de la plaza hay una gran pantalla de unos 30x10m donde la directora J0hn hace sus apariciones y publica sus edictos. Esta pantalla es vandalizada continuamente con pintadas, pegatinas, globos de pintura. De hecho, hay varias bandas cuyo rito de entrada es estropear alguna manera esa gran pantalla.
 
 La directora J0hn, cuando hace sus apariciones públicas en eta pantalla, lo hace como una especie de ser de energía de silueta femenina sobre un fondo negro con patrones geométricos luminosos.
 
@@ -2229,7 +2228,7 @@ Empezó siendo un pequeño balneario donde los ricos e influyentes de Nottingham
 
 Hay varios ambientes que simulan desde un onsen japonés o una terma romana o, incluso con proyecciones de video, una paradisíaca playa de arena fina. Les trajadores de esas zonas visten adecuados a la ambientación y los tratamientos también van en función de la ambientación. Digamos que el rigor histórico no ha sido importante a la hora de diseñar espacios, útiles, uniformes y demás.
 
-El spa está formado por dos zonas, la de hotel con cientos de habitaciones más o menos lujosas. La comida es siempre servida en la habitación ya que no disponen de un gran comedor. De hecho, lo normal es que los huéspedes hagan vida en sus habitaciones y solo salgan a los tratamientos, momento en que se limpian sus habitaciones.
+El spa está formado por dos zonas, la de hotel con cientos de habitaciones más o menos lujosas. La comida es siempre servida en la habitación, ya que no disponen de un gran comedor. De hecho, lo normal es que los huéspedes hagan vida en sus habitaciones y solo salgan a los tratamientos, momento en que se limpian sus habitaciones.
 
 Se pueden reservar habitáculos para reuniones donde hacer actividades comerciales o con otros huéspedes, como jugar a las cartas, jugar a videojuegos, discutir de negocios, proyecciones varias, etc.
 
@@ -2237,13 +2236,13 @@ Solo a un grupo muy exclusivo de clientes fijes se les ofrece salas especiales c
 
 La otra parte es el SPA que son una gran cantidad de habitáculos donde el personal da los tratamientos. Hablamos de saunas, salas de bañeras calientes y frías, salas con chorros de agua a diferentes potencias, cabinas de masajes, etc.
 
-> Los precios de las habitaciones rondan entre los 200$ y los 10.000$ por una noche e incluyen una comida
+> Los precios de las habitaciones rondan entre los 200$ y los 10.000$ por una noche e incluyen una comida.
 
-Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el lugar donde dar tu gran golpe. Aquí pasan buenas temporadas la gente importante con sus séquitos y sus objetos de valor. Y lo ultimo que les preocupa es que les vayan a robar.
+Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el lugar donde dar tu gran golpe. Aquí pasan buenas temporadas la gente importante con sus séquitos y sus objetos de valor. Y lo último que les preocupa es que les vayan a robar.
 
 \saltopagina
 
-A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta   desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
+A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
 
 **Semilla de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les blus asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
 
@@ -2255,7 +2254,7 @@ La feria tiene todos los clásicos, duelos caballeros a espada, juglares y bardo
 
 El acto central de la feria es una subasta de objetos que los mecenas de la feria donan a la causa de ese mes y que normalmente vuelven a recuperar pujando le propietarie por su propio producto. Una vez ganada la puja, el objeto queda en consigna a la espera de que le ganadore pague por él el precio de su puja ganadora.
 
-Lo que se recauda en los diferentes puestos de la feria, en la subasta y en el baile se dedica a una causa benéfica y normalmente se gasta de la peor parte posible, llegando a veces al ridículo máximo. Esto se debe a que les organizadores están tan separados de la realidad de las clases de bajas de Nottingham que no entienden muchos los problemas sociales sobre los que han recaudado dinero. Todavía se recuerda a cuando gastaron todo el dinero de una feria en comprar cascos de seguridad para ayudar a las victimas del derrumbamiento de una sección de la Zona Baja de la arcología.
+Lo que se recauda en los diferentes puestos de la feria, en la subasta y en el baile se dedica a una causa benéfica y normalmente se gasta de la peor parte posible, llegando a veces al ridículo máximo. Esto se debe a que les organizadores están tan separados de la realidad de las clases de bajas de Nottingham que no entienden muchos los problemas sociales sobre los que han recaudado dinero. Todavía se recuerda a cuando gastaron todo el dinero de una feria en comprar cascos de seguridad para ayudar a las víctimas del derrumbamiento de una sección de la Zona Baja de la arcología.
 
 La gente rica que asiste suele ir disfrazada, el problema es que el rigor histórico no es lo suyo y podemos ver mosqueteros, faraones de Egipto, trogloditas, etc. La mayoría de las veces, la elección del disfraz es un tema estético, pero claro, nadie se queja de las inexactitudes históricas. 
 
@@ -2291,7 +2290,7 @@ El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayor�
 
 ### El refugio de la bruja
 
-En los más profundo de Bosque Sh3rW00d hay una choza de planchas irregulares de diferentes polímeros y cristal, que le dan un aspecto fantasmagórico.  Les _boskis_ lo llaman el refugio de la bruja y no suelen acercarse salvo que necesiten los servicios tecnológicos de la bruja. 
+En lo más profundo de Bosque Sh3rW00d hay una choza de planchas irregulares de diferentes polímeros y cristal, que le dan un aspecto fantasmagórico.  Les _boskis_ lo llaman el refugio de la bruja y no suelen acercarse salvo que necesiten los servicios tecnológicos de la bruja. 
 
 Hay colgando de diferentes partes de la choza carillones de viento hechos de materiales reciclados que emiten extraños sonidos acentuando el ambiente terrorífico del lugar. Lo curioso es que no se mueven porque no hay nunca viento.
 
@@ -2299,19 +2298,19 @@ Todes en el bosque saben que **Harriette la bruja** es la persona con la que hab
 
 El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos, comida, bebida, vídeos recreativos, etc.) y lo que quieres que haga y el equipo necesario y vuelves en un par de días. Si la ofrenda no está, es que acepta tu trato y ha realizado la tarea. Donde dejaste la ofrenda tendrás el código del programa que le pediste, la unidad de almacenamiento con los datos hackeados, etc. Si no ha tocado nada es que lo ha rechazado y puedes mejorar tu ofrenda o recogerlo todo y volver por donde has venido.
 
-Solo cuando tiene que enseñar sus conocimientos a otras personas se muestra dejando unos videotutoriales enseñando lo que le has pedido. Aunque la persona que sale en el vídeo está generada por ordenador, la voz siempre es la misma. Siempre amenaza con todo tipo de desgracias a los que rebelen sus secretos a terceros.
+Solo cuando tiene que enseñar sus conocimientos a otras personas se muestra dejando unos videotutoriales enseñando lo que le has pedido. Aunque la persona que sale en el vídeo está generada por ordenador, la voz siempre es la misma. Siempre amenaza con todo tipo de desgracias a los que revelen sus secretos a terceros.
 
 **La bruja Harriette es la última de les instalador que quedan en el complejo.** Solo era una aprendiz cuando les instaladores se fueron de Nottingham y la dejaron al cuidado de todo lo que no pudieron llevarse. 
 
-Es por eso que se estableció en la zona actual que era la zona en la trabajaban cuando tuvieron que irse. El problema es que solo era una neófita y había muchos secretos de les instaladores que desconocía y sigue desconociendo. Con los años los problemas de mantenimiento superaron sus conocimientos y los nanitos empezaron a trabajar por su cuenta creando lo que conocemos como Bosque Sh3rW00d.
+Es por eso que se estableció en la zona actual que era la zona en la que trabajaban cuando tuvieron que irse. El problema es que solo era una neófita y había muchos secretos de les instaladores que desconocía y sigue desconociendo. Con los años los problemas de mantenimiento superaron sus conocimientos y los nanitos empezaron a trabajar por su cuenta creando lo que conocemos como Bosque Sh3rW00d.
 
 \saltopagina
 
 Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superiores al de resto habitantes de Nottingham**. Además dispone todavía de una masa importante de nanitos que aceptan su programación.
 
-> Harriette esta muy muy mayor y sabe que le quedan pocos años de vida es por ellos que busca alguien que reciba sus conocimientos y se quede cuidando de sus artilugios instaladores y sus nanitos. Cualquier persona con Electrónica d6 y Ordenadores d6 y que conozca algún hackeo de les instaladores podría ser la elegida.
+> Harriette está muy muy mayor y sabe que le quedan pocos años de vida es por ellos que busca alguien que reciba sus conocimientos y se quede cuidando de sus artilugios instaladores y sus nanitos. Cualquier persona con Electrónica d6 y Ordenadores d6 y que conozca algún hackeo de les instaladores podría ser la elegida.
 
-Alrededor de la casa de la bruja puedes encontrar robots en _modo encantado_ que se dedican a dar vueltas alrededor de la casa limpiando el bosque y defendiéndolo en caso de ataque. Da lo mismo que sean simple robots comadreja o pesados robots de carga y trabajo. 
+Alrededor de la casa de la bruja puedes encontrar robots en _modo encantado_ que se dedican a dar vueltas alrededor de la casa limpiando el bosque y defendiéndolo en caso de ataque. Da lo mismo que sean simples robots comadreja o pesados robots de carga y trabajo. 
 
 Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos de la instaladora y reprogramado pudiendo hacer unas pocas funciones de defensa y limpieza e impidiéndoles comunicarse con sus dueños o abandonar la zona. **Portar armas o actuar de forma violenta** dentro de la zona de seguridad del refugio, supone que **los robots atacarán sin cuartel** a les intruses.
 
@@ -2710,7 +2709,9 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 
 ### Lenguaje inclusivo
 
-xxx
+La principal razón de usar lenguaje inclusivo en este documento es porque no me gusta dejar a nadie fuera y si eso lo consigo usando el género neutro con "e" pues perfecto. A parte, considero que es algo que pega dentro de una ambientación ciberpunk, así que con más razón. Las lenguas evolucionan y en 200 años en el futuro porque no iba a haberse impuesto una lengua más inclusiva. De hecho, os invito a interpretar vuestres PJ usando el género neutro. Creo que puede ser divertido y darle un punto diferente a las aventuras.
+
+Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el lenguaje inclusivo. Espero que os escueza cada "e" y no paséis de la primera página. Sinceramente, no os quiero ni en mi juego ni en mi mesa. 
 
 \saltocolumna
 
