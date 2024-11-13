@@ -1998,6 +1998,40 @@ Como en casi todos estos eventos de carácter social han empezado a venir _influ
 
 **Semilla de aventura:** Une estúpide influencer ha montado un concurso en el mercadillo. Ganará aquella persona que consiga, intercambiando cosas en el mercadillo, el objeto más valioso y raro. Tienen que grabar todas las transacciones y entregárselas al influencer. El premio son 10.000$ y esto ha hecho que la Zona Baja esté llena de gente participando y armando jaleo. Quizás una banda de tunantes podría escarmentar al influencer. Lo que nadie sabe es que todos los videos irán a manos de la directora J0hn que quiere escanear los interiores de las casas de la gente de la Zona Baja. Usando esas grabaciones, podría detectar pisos francos de rebeldes, simpatizantes y otros delincuentes.
 
+### Salón de juegos y pachinko "La olla de oro"
+
+La olla empezó como pequeño espacio debajo de unas escaleras donde su dueña original, conocida en la zona como Doña Marina, puso unas máquinas vending, gachaballs y una tragaperras.
+
+\saltopagina
+
+Las tragaperras y las máquinas de gachaballs pronto se convirtieron en una interesante fuente de ingresos y empezaron a ocupar todo el espacio.
+
+Rápidamente, Pedro Gonzalves, el hijo de Marina, al heredar el local, empezó a comprar habitáculos de alrededor para meter más máquinas. Con el tiempo quitó los gachaballs y empezó a meter máquinas de pachinko. 
+
+Hoy en día es un laberinto de unas 20 salas interconectadas entre si con unas 120 máquinas con gente jugando las 24 horas.
+
+> Es tal el ruido que hay en el local que todas las tiradas de **Notar que impliquen el oído tienen un -** La iluminación está atenuada y hay muchas luces brillantes así que **Disparar se ve afectado con un -2** a la tirada por malas condiciones de visibilidad.
+
+El logo del local es una olla de cocción lenta dorada. Pedro quería la típica olla llena de monedas al final del arco iris pero la IA generativa fue muy literal al crear la imagen y dibujó una olla de cocción lenta hecha de oro. El equivoco hizo gracia a Marina que tenía una olla parecida y obligó a Pedro a quedarse con el logo.
+
+Pedro tiene una cuadrilla de anuncios humanos que se mueven por el complejo anunciando la sala de juegos con vistosos carteles con pantallas LEDs mostrando las mejores opciones de apuestas. 
+
+El juego es legal en Nottingham, pero está muy controlado, o debería estarlo. La mayoría de las maquinas de la Olla de Oro están trucadas y la directora J0hn y lo sabe, pero lo permite porque saca réditos de la actividad.
+
+[![Olla de cocción lenta](./assests/images/crockpot.jpg "Olla de cocción lenta")](https://es.wikipedia.org/wiki/Olla_de_cocci%C3%B3n_lenta#/media/Archivo:Crock_pot_of_chili.jpg "Olla de cocción lenta")
+
+Primero, podemos hablar en general, los locales como la Olla de Oro crean una masa empobrecida de ludópatas que trabajarán por una miseria. Eso claramente beneficia a la compañía.
+
+Además, es una gran fuente de información. Sus anuncios humanos vigilan toda la ciudad grabando ilegalmente con cámaras ocultas en sus carteles todo lo que pasa a su alrededor sin levantar sospechas. Toda esa info es pasada a los sheriffs para su uso en la detección de disidentes y enemigos de J0hn.
+
+Pedro también suministra info, cuando alguno de les jugadores mueve grandes sumas de dinero en su casino. También sonsaca información interesante a cambio de reducir las deudas de les perdedores.
+
+Pedro se está enriqueciendo a gran velocidad y ha empezado a formar un pequeño grupo mafioso que está empezando a tontear con otras formas de crimen organizado. Por ahora con el beneplácito de la directora J0hn.
+
+\saltopagina
+
+> Las **bolas de pachinko pueden ser usadas como abrojos**. Tirando un puñado de bolas al suelo, conviertes una casilla en terreno difícil y es imposible correr por esa casilla. Si se tira un cubo lleno de bolas (de los que usan les jugadores para recoger sus premios gordos), se pueden cubrir hasta 5 casillas. También pueden usarse como proyectiles de tirachinas sin ningún tipo de penalización a Disparar o al daño.
+
 ### El correccional
 
 xxx
@@ -2005,18 +2039,6 @@ xxx
 ### Taller de e-bikes de Noc
 
 xxx
-
-\saltopagina
-
-### Salón de juegos y pachinko "La olla de oro"
-
-xxx
-
-> Es tal el ruido que hay en el local que todas las tiradas de Notar que impliquen el oído tienen un -4. La iluminación está atenuada y hay muchas luces brillantes así que Disparar se ve afectado con un xxx a la tirada por malas condiciones de visibilidad.
-
-xxx
-
-> Las bolas de pachinko puede ser usadas como abrojos. Tirando un puñado de bolas al suelo, conviertes una casilla en terreno difícil y es imposible correr por esa casilla. Si se tira un cubo lleno de bolas (de los que usan les jugadores para recoger sus premios gordos), se pueden cubrir hasta 5 casillas. También pueden usarse como proyectiles de tirachinas sin ningún tipo de penalización a Disparar o al daño.
 
 \saltocolumna
 
