@@ -2088,7 +2088,7 @@ El resto del tiempo hay diferentes marquesinas deslizantes que muestran titulare
 
 ### El terreno
 
-El terreno es un estadio deportivo donde se celebran los mas importantes eventos deportivos de Nottingham. Hablamos de las finales del campeonato de hockey de pasillo profesional y el concurso de tiro anual el Día de la Primera Piedra.
+El terreno es un estadio deportivo donde se celebran los más importantes eventos deportivos de Nottingham. Hablamos de las finales del campeonato de hockey de pasillo profesional y el concurso de tiro anual el Día de la Primera Piedra.
 
 Este espacio no es mucho más de una cancha de tenis con unos vestuarios y una sala para ruedas de prensa. No hay espacio para el público, que solo asiste de forma virtual.
 
