@@ -166,7 +166,7 @@ xxx
 
 ### Vida de interior y clima
 
-El clima, si se le puede llamar así, es siempre igual durante todo el año. La temperatura de la arcología es de entre 23 y 25 grados con una humedad relativa de entre 45% y 60%. La nieve, la lluvia o el viento son conceptos que conocen, pero que muy pocos han experimentado y normalmente de forma muy tangencial. Alguno sabrá como puede ser la lluvia, por ejemplo, al saltar los aspersores anti-incendios, o la nieve y el frío al estropearse los sistemas de climatización y generar demasiado frío e incluso hielo.
+El clima, si se le puede llamar así, es siempre igual durante todo el año. La temperatura de la arcología es de entre 23 y 25 grados con una humedad relativa de entre 45% y 60%. La nieve, la lluvia o el viento son conceptos que conocen, pero que muy pocos han experimentado y normalmente de forma muy tangencial. Alguno sabrá como puede ser la lluvia, por ejemplo, al saltar los aspersores antiincendios, o la nieve y el frío al estropearse los sistemas de climatización y generar demasiado frío e incluso hielo.
 
 #### Sin cielo y sin horizonte
 
@@ -176,7 +176,7 @@ Claramente, no hay ni puesta ni salida de sol. Muchos sistemas simplemente pasan
 
 #### Incendios
 
-Los incendios son lo más peligroso que pudiera pasar en Nottingham y es por ello que hay sistemas anti-incendios en todas partes. La directora J0hn es muy escrupulosa en el cumplimiento de la normativa anti-incendios y tiene a gente testando los sistemas anti-incendio en todas partes.
+Los incendios son lo más peligroso que pudiera pasar en Nottingham y es por ello que hay sistemas antiincendios en todas partes. La directora J0hn es muy escrupulosa en el cumplimiento de la normativa antiincendios y tiene a gente testando los sistemas anti-incendio en todas partes.
 
 Hace décadas que un incendio no ha afectado a más de un espacio. Y eso deja claro la efectividad de los sistemas y sus encargades de mantenimiento.
 
@@ -558,7 +558,6 @@ Te mueves rápide y nunca estás mucho tiempo quiete en un mismo sitio. Por así
 * **Ventajas recomendadas:** As, Mr. Arreglalotodo y Manos firmes
 * **Desventajas recomendadas:** Impulsive, Leal y Pobreza
 
-
 ### Buscadore
 
 Les buscadores son un grupo de personas que creen en un mundo mejor y han jurado conseguirlo.
@@ -763,7 +762,7 @@ Ser un cargo importante del sindicato debería venir con un Secreto, mayor o men
 
 Los sindicades siempre se apoyan (en temas laborales y de derechos), se ayudan y se cubren. No tienen por qué dar la vida por ti, pero arriesgarán lo mismo que arriesgues tú.
 
-> A parte de las ventajas de pertenecer a un grupo fuerte y unido, puedes **acceder a productos ilegales no controlados por las mafias** (drogas, estimulantes o implantes letales) como ciberimplantes ilegales que no sean de combate o materiales de hackeo.
+> Aparte de las ventajas de pertenecer a un grupo fuerte y unido, puedes **acceder a productos ilegales no controlados por las mafias** (drogas, estimulantes o implantes letales) como ciberimplantes ilegales que no sean de combate o materiales de hackeo.
 
 \saltopagina
 
@@ -1818,7 +1817,7 @@ Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde f�
 \saltopagina
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Ciencias d8, Conocimientos Generales d8, Electrónica d6, Idioma inglés d8, Notar d8, Odenadores d6, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Ciencias d8, Conocimientos Generales d8, Electrónica d6, Idioma inglés d8, Notar d8, Ordenadores d6, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Elige 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
 * **Desventajas:** Elige 1 (Avergonzado, Despistado, Fobia, Patoso)
@@ -1885,21 +1884,21 @@ xxx
 
 El río Trent es como se conoce una inmensa algafactoría donde se produce la gran mayoría de comida de la arcología. Es una de las industrias más importantes de la arcología y es muy importante para la compañía no solo porque su buen funcionamiento supone el buen funcionamiento del complejo, sino porque también da tremendos beneficios a la empresa.
 
-Con su cientos de piscinas de agua dulce llenas de algas, es para muches _notis_ lo más parecido a un río o un mar que hayan visto en su vida. Es tan grande que han tenido que aprovechar habitáculos alrededor del Trent para expandir las piscinas de crecimiento de algas de forma que les peatones pueden pasear entre sus piscinas mientras se mueven por la zona.
+Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis_ lo más parecido a un río o un mar que hayan visto en su vida. Es tan grande que han tenido que aprovechar habitáculos alrededor del Trent para expandir las piscinas de crecimiento de algas de forma que les peatones pueden pasear entre sus piscinas mientras se mueven por la zona.
 
 \saltocolumna
 
-> La mayoria de la comida del complejo sale del Trent, con lo que si algo le pasa a la algafactoria puede suponer una gran hambruna sobre todo entre los _curris_.
+> La mayoría de la comida del complejo sale del Trent, con lo que si algo le pasa a la algafactoria puede suponer una gran hambruna sobre todo entre los _curris_.
 
 ### The premises
 
-Robert Guthrie es un buhonero/empeñista que se conoce por tener tratos con delicuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
+Robert Guthrie es un buhonero/empeñista que se conoce por tener tratos con delincuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
 
 Aunque tiene una tienda fija ,esta abre y cierra cuando le da la gana. Además puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
 
 \saltopagina
 
-También es un buen lugar donde buscar materiales y productos peligrosos e ilegales. En su almacén (o en su mochila si esta fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
+También es un buen lugar donde buscar materiales y productos peligrosos e ilegales. En su almacén (o en su mochila si está fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
 
 ### El pozo
 
@@ -1933,7 +1932,7 @@ La Taberna de Albión es uno de los locales mejores y con más ambiente de Notti
 
 Cada viernes hay timbas de cartas sin límite que empiezan con el glitch de noche y acaban con el glitch del día. Se mueve mucho dinero (sobre todo en alijos) y vienen jugadores de todo el complejo.
 
-La clientela es muy variada, desde trabajadores de la algafactoría, hasta influencers atraídos por las emociones de participar en timbas de poker ilegales y de quizás ver algún criminal e incluso hacerse un reel con alguno de ellos. 
+La clientela es muy variada, desde trabajadores de la algafactoría, hasta influencers atraídos por las emociones de participar en timbas de póker ilegales y de quizás ver algún criminal e incluso hacerse un reel con alguno de ellos. 
 
 Estas historias son difundidas por Esther, dueña del bar. Es cierto que alguna ocasión algún forajide famoso ha pasado la mona en el suelo del bar, pero no es algo muy común.
 
@@ -1961,7 +1960,7 @@ Si necesitas contactar con la gente del bosque Mamá Claire puede ser una buena 
 
 Un día vas a tu trabajo y de repente a la entrada de tu turboascensor hay grabada en el suelo una rayuela con motivos de peces payasos, estrellas de mar y corales.
 
-Durante una semana está en ese sitio y de vez en cuando algun niñe se pone a jugar hasta que un día desaparece tal como apareció. Al cabo de unas semanas encuentras otra rayuela de unicornios en un pasillo de servicio que vuelve a desaparecer al de unos días, así en un ciclo infinito.
+Durante una semana está en ese sitio y de vez en cuando algún niñe se pone a jugar hasta que un día desaparece tal como apareció. Al cabo de unas semanas encuentras otra rayuela de unicornios en un pasillo de servicio que vuelve a desaparecer al de unos días, así en un ciclo infinito.
 
 \saltocolumna
 
@@ -2061,7 +2060,7 @@ En el centro hay una especie de espacio de descanso y relax con bancos de cement
 
 Hoy en día están siempre vacías, ya que en cuanto alguien se sienta aparece algún sheriff de los que patrullan la plaza para echarte de allí.
 
-> Debajo del parque hay un bunker con un centro de datos que la directora R1c4rd usaba para dejar copias de seguridad de todos sus datos (que no su programación). Cuanto esta se fue, dejo su última copia en este lugar. J0hn no se atreve a borrar esa copia, digamoslo por una mezcla de respeto y superstición, y tampoco quiere usarla por si al abrirla activa algo que haga volver a R1c4rd. Tampoco quiere que la gente la encuentre así que hace que los sheriffs no permitan a nadie colocarse allí.
+> Debajo del parque hay un búnker con un centro de datos que la directora R1c4rd usaba para dejar copias de seguridad de todos sus datos (que no su programación). Cuanto esta se fue, dejo su última copia en este lugar. J0hn no se atreve a borrar esa copia, digamoslo por una mezcla de respeto y superstición, y tampoco quiere usarla por si al abrirla activa algo que haga volver a R1c4rd. Tampoco quiere que la gente la encuentre así que hace que los sheriffs no permitan a nadie colocarse allí.
 
 #### Los dólmenes
 
@@ -2071,7 +2070,7 @@ En un lateral de la plaza puedes encontrar una zona empedrada con 2 dólmenes de
 
 Los dólmenes hoy en día están totalmente vandalizados con grafitis, textos grabados, trozos de piedra arrancados, etc. y los equipos de mantenimiento hace años que dejaron de preocuparse de limpiarlos y restaurarlos.
 
-> Los **dolmenes son una protección perfecta** en caso de combate en la Plaza Mayor, ya que **las piedras son resistentes (Consistencia 20)** y tienen paredes y una pequeña entrada.
+> Los **dólmenes son una protección perfecta** en caso de combate en la Plaza Mayor, ya que **las piedras son resistentes (Consistencia 20)** y tienen paredes y una pequeña entrada.
 
 #### La gran pantalla
 
@@ -2123,7 +2122,7 @@ La directora J0hn además del zoo, mandó construir un huerto urbano de 20x20m, 
 
 Pero el huerto no solo sirve para limpiar la imagen de la directora, también sirve como laboratorio final de diferentes departamentos científicos de la compañía. De hecho, no es llevado por personal normal de mantenimiento del complejo, sino por botánicos especializados en hidropónica.
 
-> Por unos 200$ (como soborno) puedes conseguir que alguien del personal del huerto te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de DJ). También puedes por 100$ conseguir frutas u hortalizas por raras que sean y estén o no de temporada.
+> Por unos 200$ (como soborno) puedes conseguir que alguien del personal del huerto te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de DJ). También puedes por 100 $ conseguir frutas u hortalizas por raras que sean y estén o no de temporada.
 
 **Semilla de aventura:** La última persona que gano las verduras del huerto ha estado unos días comportándose muy raro, con fallos de memoria y ahora presenta ronchas y prurito por todo el cuerpo. Quizás habría que investigar el huerto y ver que trama la directora.
 
@@ -2165,7 +2164,7 @@ La premisa es que en un lugar como Nottingham donde el espacio vacío es un desp
 
 El Bolrum es donde debes ir, si eres alguien en Nottingham. **Es el mayor espacio de ocio del complejo** y el segundo espacio de mayor tamaño después de la Plaza Mayor.
 
-Lo interesante es que no hay nada, absolutamente nada, en sus 60x60x4 metros. Sus paredes de un blanco inmaculado se funden mediante un efecto óptico con los también inmaculadamente blancos techos y suelo, de forma que no sabes dónde empieza o acaba la sala.
+Lo interesante es que no hay nada, absolutamente nada, en sus 60x60x4m. Sus paredes de un blanco inmaculado se funden mediante un efecto óptico con los también inmaculadamente blancos techos y suelo, de forma que no sabes dónde empieza o acaba la sala.
 
 A esto se le une que no entra ni sale de esta gran sala ni sonido ni señales electromagnéticas y cuando cierran su puerta está desaparece completamente. Tampoco hay ningún tipo de cámara que registre que pasa dentro. Además, el aire es ionizado de forma que se eliminan todos los olores.
 
@@ -2236,7 +2235,7 @@ Solo a un grupo muy exclusivo de clientes fijes se les ofrece salas especiales c
 
 La otra parte es el SPA que son una gran cantidad de habitáculos donde el personal da los tratamientos. Hablamos de saunas, salas de bañeras calientes y frías, salas con chorros de agua a diferentes potencias, cabinas de masajes, etc.
 
-> Los precios de las habitaciones rondan entre los 200$ y los 10.000$ por una noche e incluyen una comida.
+> Los precios de las habitaciones rondan entre los 200 $ y los 10.000 $ por una noche e incluyen una comida.
 
 Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el lugar donde dar tu gran golpe. Aquí pasan buenas temporadas la gente importante con sus séquitos y sus objetos de valor. Y lo último que les preocupa es que les vayan a robar.
 
@@ -2420,9 +2419,9 @@ xxx
 
 xxx
 
-### Noche de poker
+### Noche de póker
 
-> xxx suele organizar noches de poker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que xxx se ha enterado y se va a autoinvitar.  
+> xxx suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que xxx se ha enterado y se va a autoinvitar.  
 
 xxx
 
@@ -2709,7 +2708,7 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 
 ### Lenguaje inclusivo
 
-La principal razón de usar lenguaje inclusivo en este documento es porque no me gusta dejar a nadie fuera y si eso lo consigo usando el género neutro con "e" pues perfecto. A parte, considero que es algo que pega dentro de una ambientación ciberpunk, así que con más razón. Las lenguas evolucionan y en 200 años en el futuro porque no iba a haberse impuesto una lengua más inclusiva. De hecho, os invito a interpretar vuestres PJ usando el género neutro. Creo que puede ser divertido y darle un punto diferente a las aventuras.
+La principal razón de usar lenguaje inclusivo en este documento es porque no me gusta dejar a nadie fuera y si eso lo consigo usando el género neutro con "e" pues perfecto. Aparte, considero que es algo que pega dentro de una ambientación ciberpunk, así que con más razón. Las lenguas evolucionan y en 200 años en el futuro porque no iba a haberse impuesto una lengua más inclusiva. De hecho, os invito a interpretar vuestres PJ usando el género neutro. Creo que puede ser divertido y darle un punto diferente a las aventuras.
 
 Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el lenguaje inclusivo. Espero que os escueza cada "e" y no paséis de la primera página. Sinceramente, no os quiero ni en mi juego ni en mi mesa. 
 
@@ -2793,7 +2792,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 * [Portada Cibernia por pvproductions](https://www.freepik.com/free-photo/background-with-printed-circuit-board-concept-modern-technologies_366211129.htm) en Freepik
 
-* [Portada Directorio por srtarline](https://www.freepik.es/vector-gratis/fondo-pixeles-moderno-estilo-efecto-degradado_9874863.htm) en Freepik
+* [Portada Directorio por starline](https://www.freepik.es/vector-gratis/fondo-pixeles-moderno-estilo-efecto-degradado_9874863.htm) en Freepik
 
 * [Portada Bestiario por malikadesign](https://www.freepik.es/vector-gratis/cartel-futurista-retro-cyberpunk-ilustracion-vectorial_30526493.htm) en Freepik
 
