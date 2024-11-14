@@ -2833,6 +2833,9 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 * [Portada Bestiario por malikadesign](https://www.freepik.es/vector-gratis/cartel-futurista-retro-cyberpunk-ilustracion-vectorial_30526493.htm) en Freepik
 
+* [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
+
+
 * [Retratos de personajes](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) por VÍCTOR JIMÉNEZ MERINO [(Licencia Attribution-NonCommercial 4.0 International)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 \saltocolumna

@@ -129,6 +129,14 @@ $html = str_replace("|INDICE|", $indice, $html);
 
 
 
+$counter = 2;
+$html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
+  global $counter;
+
+  $matches[0] = '"saltopagina" id="anchor'.$counter.'"';
+  $counter++;
+  return $matches[0];
+}, $html);
 
 
 file_put_contents(__DIR__ . "/../index.html", $html);

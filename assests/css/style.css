@@ -774,6 +774,21 @@ section:nth-of-type(9) h1 {
   color: var(--yellow-color);
 }
 
+section:nth-of-type(10) h1 {
+  background-image: url('../images/591.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  text-shadow: 0 0 6px #000;
+  color: var(--yellow-color);
+  flex-direction: column;
+  align-content: flex-start;
+  align-items: stretch;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  padding-left: 80px;
+}
+
 section:nth-of-type(12) h1 {
   background-image: url('../images/epilogo.jpg');
   background-repeat: no-repeat;
@@ -1181,8 +1196,7 @@ section h1 + .saltopagina:after {
   cursor: pointer;
   margin: 0 0 1px 0;
   text-decoration: none;
-  font-size: .7em;
-  max-height: 19px;
+  font-size: 1em;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
