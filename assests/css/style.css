@@ -125,7 +125,6 @@ h1 {
   .saltopagina { display: block; height: 0; overflow: hidden; }
 }
 
-
 body > section:nth-of-type(odd) { background-color: var(--black-color); color: var(--yellow-color); }
 
 body > section:before {
@@ -188,13 +187,16 @@ section:first-of-type {
   align-items: center;
   flex-direction: column;
   align-content: center;
-  padding: 10px;
   box-sizing: border-box;
 }
 
-section:first-of-type > div {
+section:first-of-type > div:not(.saltopagina) {
   width: 100%;
   max-width: 505px;
+}
+
+section:first-of-type > div.saltopagina {
+  display: none;
 }
 
 section:nth-of-type(2) > p,
@@ -259,7 +261,7 @@ h1 {
   margin: 0;
   text-align: center;
   color: var(--black-color);
-  text-shadow: 0 0 5px var(--black-color);
+  /*text-shadow: 0 0 5px var(--black-color);*/
   height: 60vh;
   display: flex;
   flex-direction: column;
@@ -275,7 +277,7 @@ h1 {
 section:nth-child(odd) h1 {
   background-color: var(--black-color);
   color: var(--yellow-color);
-  text-shadow: 0 0 5px var(--yellow-color);
+  /*text-shadow: 0 0 5px var(--yellow-color);*/
 }
 
 h2,
@@ -715,6 +717,8 @@ section:nth-of-type(7) h1 {
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
+  color: var(--purple-color);
+  text-shadow: 2px 0 var(--yellow-color), -2px 0 var(--yellow-color), 0 2px var(--yellow-color), 0 -2px var(--yellow-color), 1px 1px var(--yellow-color), -1px -1px var(--yellow-color), 1px -1px var(--yellow-color), -1px 1px var(--yellow-color);
 }
 
 section:nth-of-type(8) h1 {
@@ -997,7 +1001,7 @@ h1 > strong {
 }
 
 body {
-  counter-reset: primary 0;
+  counter-reset: primary 1;
 }
 
 .saltopagina {
@@ -1012,21 +1016,28 @@ body {
   justify-content: center;
   align-items: center;
   content: counters(primary, "-", style);
-  color: var(--black-color);
+  color: var(--neon-color);
   position: absolute;
-  bottom: calc(var(--padding) - var(--size));
-  left: calc(50% - (var(--size) / 2));
+  bottom: 11px;
+  /*left: calc(50% - (var(--size) / 2));*/
+  left: 10px;
   width: var(--size);
   height: var(--size);
-  background-color: var(--neon-color);
+  background-color: var(--purple-color);
   z-index: 45;
   opacity: 1;
   clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
 }
 
-section .saltopagina:first-of-type:after,
+/*section .saltopagina:first-of-type:after,*/
 section h1 + .saltopagina:after {
   opacity: 0;
+}
+
+.saltopagina.even:after {
+  left: auto;
+  right: 10px;
+  clip-path: polygon(33% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 33%);
 }
 
 @media print {
@@ -1105,28 +1116,13 @@ section h1 + .saltopagina:after {
   section:first-of-type > div:nth-of-type(3) {
     padding-bottom: 90px;
   }
+
+  body>section:nth-of-type(3) {
+    padding-top: var(--padding) ;
+  }
 }
 
 /* Indice */
-
-@media print {
-
-  body>section:nth-of-type(3) {
-    padding: 0 var(--margin) ;
-  }
-  
-  body>section:nth-of-type(3)>div {
-    padding-top: var(--margin);
-    width: 100%;
-    margin: 0;
-    padding: 50px;
-    box-sizing: border-box;
-  }
-
-  body>section:nth-of-type(3) .saltopagina {
-    width: 100%;
-  }
-}
 
 @media screen {
   body>section:nth-of-type(3) {
