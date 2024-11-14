@@ -76,6 +76,7 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 
 * Terminada localización "La olla de oro"
 * Terminada localización "Plaza Mayor"
+* Paginación mediante CSS
 
 ### 0.3.2 12/11/2024
 

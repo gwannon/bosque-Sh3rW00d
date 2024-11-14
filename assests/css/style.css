@@ -55,18 +55,7 @@ body {
   
 }
 
-.saltopagina:after {
-  content: "";
-  position: absolute;
-  bottom: 35px;
-  left: calc(50% - 20px);
-  width: 40px;
-  height: 40px;
-  background-color: var(--yellow-color);
-  clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
-  z-index: 15;
-  opacity: 1;
-}
+
 
 a { color: inherit; }
 /*a { color: var(--black-color); }
@@ -1024,6 +1013,45 @@ h1 > strong {
   opacity: 0;
 }
 
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+ /*symbols: "" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10";*/
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: 'VT323';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: black;
+  position: absolute;
+  bottom: calc(var(--padding) - var(--size));
+  left: calc(50% - (var(--size) / 2));
+  width: var(--size);
+  height: var(--size);
+  background-color: var(--neon-color);
+  z-index: 45;
+  opacity: 1;
+  clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
+}
+
+section .saltopagina:first-of-type:after,
+section h1 + .saltopagina:after {
+  opacity: 0;
+}
 
 @media print {
 
