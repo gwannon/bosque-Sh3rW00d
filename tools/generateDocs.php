@@ -3,7 +3,8 @@
 require __DIR__ . '/../vendor/autoload.php';
 include(__DIR__ ."/config.php");
 
-//Generamos el HTML
+/* Generamos el HTML */
+/* -------------------------------------------------------------- */
 use FastVolt\Helper\Markdown;
 $mkd = Markdown::new();
 $mkd->setContent(file_get_contents(__DIR__ . "/../bosque-Sh3rW00d.md"));
@@ -23,7 +24,8 @@ $html = str_replace("<table>", "<div><table>", $html);
 $html = str_replace("</table>", "</table></div>", $html); 
 $html = str_replace("<p><strong>Semilla de aventura:</strong>", "<p class='seed'><strong>Semilla de aventura:</strong>", $html); 
 
-//Generamos MEtas
+/* Generamos Metas */
+/* -------------------------------------------------------------- */
 $metas = "InfoKey: Subject\n";
 $metas .= "InfoValue: ".$tags['DESCRIPTION']." Versión ".$tags['VERSION']."\n\n";
 $metas .= "InfoKey: Author\n";
@@ -48,17 +50,15 @@ foreach(explode("\n", removeHtmlComments($doc->savehtml($body))) as $line) {
 
 $metas .= bookMark("Portada", 1, 1);
 $json[] = ["title" => "Portada","page" => 1];
-
 $metas .= bookMark("Licencia de uso", 1, 3);
 $json[] = ["title" => "Licencia de uso","page" => 3];
-
 $metas .= bookMark("Índice", 1, 4);
 $json[] = ["title" => "Índice","page" => 4];
 
 $counter = 1;
 foreach($lines as $line) {
   if(preg_match("/(<h1>)/", $line)) {
-    $line = str_replace("</strong>" , "", $line = str_replace(" <strong>" , "____", $line));
+    $line = str_replace("</strong>" , "", str_replace(" <strong>" , "____", $line));
     $line = strip_tags($line);
     $temp = explode("____", $line);
     $metas .= bookMark($temp[1], 1, $counter);
@@ -83,7 +83,8 @@ foreach($lines as $line) {
 $metas .= bookMark("Contraportada", 1, $counter);
 $json[] = ["title" => "Contraportada", "page" => $counter];
 
-//Generamos el Índice HTML
+/* Generamos el Índice HTML */
+/* -------------------------------------------------------------- */
 $indice = "";
 foreach ($json as $item) {
   if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2'])) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
@@ -101,9 +102,11 @@ $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
 file_put_contents(__DIR__ . "/../index.html", $html);
 file_put_contents(__DIR__ . "/../metas.txt", $metas);
 
+/* LIBs */
+/* -------------------------------------------------------------- */
+
 function cleanLine($line) {
-  $line = str_replace(array("  ", "   ", "\t", "\n", "\r"), "", $line);
-  return $line;
+  return str_replace(array("  ", "   ", "\t", "\n", "\r"), "", $line);
 }
 
 function bookMark($title, $level, $counter) {

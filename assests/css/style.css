@@ -58,8 +58,6 @@ body {
 
 
 a { color: inherit; }
-/*a { color: var(--black-color); }
-body > section:nth-of-type(odd) a, body > section:nth-of-type(odd) a:link, body > section:nth-of-type(odd) a:visited {color: var(--yellow-color); }*/
 
 body > section {
   margin: auto;
@@ -94,10 +92,6 @@ ul {
 }
 
 @media (min-width: calc(100vh * 0.7)) {
-  /*body>section {
-    max-width: calc(100vh * 0.7);
-    padding: 0px;
-  }*/
 
   section > p,
   section > ul,
@@ -127,16 +121,6 @@ h1 {
   font-family: 'VT323', monospace, arial;
 }
 
-h1 > span {
-  display: block;
-  font-size: 22px;
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-h1:hover > span {
-  opacity: 1;
-}
 @media screen {
   .saltopagina { display: block; height: 0; overflow: hidden; }
 }
@@ -206,14 +190,11 @@ section:first-of-type {
   align-content: center;
   padding: 10px;
   box-sizing: border-box;
-  /*background-color: var(--black-color)*/
-
 }
 
 section:first-of-type > div {
   width: 100%;
   max-width: 505px;
-  /*color: var(--yellow-color);*/
 }
 
 section:nth-of-type(2) > p,
@@ -225,7 +206,6 @@ section:last-of-type > div > h1 {
   height: auto;
   margin: 0;
   background-color: transparent;
-  /*color: var(--yellow-color);*/
 }
 
 section:first-of-type > div > p {
@@ -235,11 +215,6 @@ section:first-of-type > div > p {
 section:first-of-type > div:nth-of-type(3) {
   text-align: center;
 }
-
-/*section:first-of-type > div:nth-of-type(2) > h2:before,
-section:first-of-type > div:nth-of-type(1) > h3:before {
-  background-color: var(--yellow-color);
-}*/
 
 section:nth-of-type(2) {
   padding-top: var(--padding);
@@ -285,9 +260,6 @@ h1 {
   text-align: center;
   color: var(--black-color);
   text-shadow: 0 0 5px var(--black-color);
-}
-
-h1 {
   height: 60vh;
   display: flex;
   flex-direction: column;
@@ -601,10 +573,6 @@ section:nth-child(odd) blockquote > p {
   position: relative;
 }
 
-/*section > blockquote > p > a {
-  color: var(--yellow-color);
-}*/
-
 body > section:nth-child(odd) > blockquote > p > a,
 body > section:nth-child(odd) > blockquote > p > a:visited {
   color: var(--black-color) !important;
@@ -656,7 +624,6 @@ section:nth-child(even) table {
 
 section > div:has(table) {
   overflow-x: auto;
-  /*margin-bottom: 30px;*/
   padding-bottom: 0px;
 }
 
@@ -707,13 +674,6 @@ section:nth-child(even) table tbody tr:nth-child(odd) {
 section:nth-child(even) table tbody tr:nth-child(odd) *:is(th,td) {
   color: var(--yellow-color);
 }
-
-/*section:nth-of-type(3) > h1 {
-  background-image: url('../images/cyberpunk_sketch_by_thefearmaster.jpg');
-  background-repeat: no-repeat;
-  background-position: bottom center;
-  background-size: cover;
-}*/
 
 section:last-of-type {
   max-height: calc(100vh - 1px);
@@ -787,6 +747,14 @@ section:nth-of-type(10) h1 {
   flex-wrap: wrap;
   justify-content: flex-end;
   padding-left: 80px;
+}
+
+section:nth-of-type(11) h1 {
+  background-image: url('../images/3152762.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  background-color: #001607;
 }
 
 section:nth-of-type(12) h1 {
@@ -891,11 +859,6 @@ a.download:hover:before {
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
-
-/*p:has(a img[alt^=Retrato]) {
-  float: left;
-  width: 50%;
-}*/
 
 blockquote {
   clear: both;
@@ -1028,11 +991,9 @@ h1 > strong {
   opacity: 0;
 }
 
-
 /* Paginación */
 @counter-style style {
   system: numeric;
- /*symbols: "" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10";*/
 }
 
 body {
@@ -1051,7 +1012,7 @@ body {
   justify-content: center;
   align-items: center;
   content: counters(primary, "-", style);
-  color: black;
+  color: var(--black-color);
   position: absolute;
   bottom: calc(var(--padding) - var(--size));
   left: calc(50% - (var(--size) / 2));
@@ -1118,7 +1079,6 @@ section h1 + .saltopagina:after {
     opacity: 1;
   }
 
-
   body > .saltopagina:nth-of-type(1):after,
   body > section:nth-of-type(4) .saltopagina:nth-of-type(1):after,
   body > section:nth-of-type(5) .saltopagina:nth-of-type(1):after,
@@ -1151,8 +1111,6 @@ section h1 + .saltopagina:after {
 
 @media print {
 
-
-
   body>section:nth-of-type(3) {
     padding: 0 var(--margin) ;
   }
@@ -1164,11 +1122,6 @@ section h1 + .saltopagina:after {
     padding: 50px;
     box-sizing: border-box;
   }
-  
-  /*body>section:nth-of-type(3) > div:first-of-type,
-  body>section:nth-of-type(3)>div:nth-of-type(2) {
-    padding-top: 0;
-  }*/
 
   body>section:nth-of-type(3) .saltopagina {
     width: 100%;
@@ -1204,7 +1157,8 @@ section h1 + .saltopagina:after {
 
 .likeH1,
 .likeSPAN {
-    font-family: 'Oswald', sans-serif;
+  font-size: 1.3em;
+  font-family: 'VT323', monospace, arial;
 }
 
 .likeH2 {
