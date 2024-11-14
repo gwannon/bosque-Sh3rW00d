@@ -1,5 +1,4 @@
 $(document).ready(function () {
-
   var currentPageNumber = 1;
   $(".saltopagina").each(function () {
     currentPageNumber++
@@ -25,19 +24,17 @@ $(document).ready(function () {
     $("body>section:nth-of-type(3) div").append('<a href="#anchor' + pageNumber + '" class="like' + $(this).prop("tagName") + '"><span>'+pageNumber+'</span>' + label + '</a>');
   });
 
+  /* Smooth scroll en el indice */
   $("body>section:nth-of-type(3) div a").on('click', function (e) {
     e.preventDefault();
     link = $(this).attr('href').substring(1);
     $(".saltopagina").each(function () {
       if($(this).attr('id') == link) {
-
         $('html, body').animate({
           scrollTop: $(this).offset().top
         }, 500);
-
       }
     });
-
   });
 
   //WordCount
