@@ -86,28 +86,28 @@ foreach($lines as $line) {
     echo "BookmarkTitle: ".$temp[1]."\n";
     echo "BookmarkLevel: 1\n";
     echo "BookmarkPageNumber: {$counter}\n";
-    $json[] = ["title" => $temp[1],"page" => $counter];
+    $json[] = ["title" => $temp[1],"page" => $counter, "tag" => "H1"];
   } else if(preg_match("/(<h2>)/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 2\n";
     echo "BookmarkPageNumber: {$counter}\n";
-    $json[] = ["title" => $line,"page" => $counter];
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H2"];
   } else if(preg_match("/(<h3>)/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 3\n";
     echo "BookmarkPageNumber: {$counter}\n";
-    $json[] = ["title" => $line,"page" => $counter];
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H3"];
   } else if(preg_match("/(<h4>)/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 4\n";
     echo "BookmarkPageNumber: {$counter}\n";
-    $json[] = ["title" => $line,"page" => $counter];
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H4"];
   } else if(preg_match("/saltopagina/", $line)) {
     $counter++;
   }
@@ -120,7 +120,17 @@ echo "BookmarkPageNumber: {$counter}\n";
 $json[] = ["title" => "Contraportada","page" => $counter];
 
 $html = file_get_contents(__DIR__ . "/../index.html");
-$html = str_replace("|INDICE|", "var indice = ".json_encode($json).";", $html);
+//INDICE
+$indice = "";
+foreach ($json as $item) {
+  if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2'])) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
+}
+$html = str_replace("|INDICE|", $indice, $html);
+
+
+
+
+
 file_put_contents(__DIR__ . "/../index.html", $html);
 
 function cleanLine($line) {

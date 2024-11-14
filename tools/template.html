@@ -43,7 +43,7 @@
       <div class="saltopagina"></div>
     </section>
     <section id="anchorindice">
-      <div class="columns"></div>
+      <div class="columns">|INDICE|</div>
       <span class="saltopagina"></span>
     </section>
     <section>
@@ -51,7 +51,16 @@
     </section>
   </body>
   <link rel="stylesheet" href="./assests/css/style.css?ver=|VERSION|&hash=|HASH|">
-  <script src="./assests/js/jquery-3.6.3.min.js"></script>
-  <script>|INDICE|</script>
-  <script src="./assests/js/general.js?ver=|VERSION|&hash=|HASH|"></script>
+  <script>
+    //WordCount
+    var cont = jQuery("body").html();
+    cont = cont.replace(/<[^>]*>/g," ");
+    cont = cont.replace(/\s+/g, ' ');
+    cont = cont.trim();
+    var n = cont.split(" ").length
+    console.log(n+" words");
+  
+    //PageCount
+    console.log(($('.saltopagina').length + 1)+" pages");
+  </script>
 </html>
