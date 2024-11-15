@@ -114,7 +114,7 @@ No existe moneda física, todo son transacciones electrónicas a través del sis
 
 El hecho de que la directora R1c4rd controle toda la economía de Nottingham ha hecho que florezca una economía sumergida y circular basada en el trueque de productos y el intercambio de trabajo.
 
-Los truques van desde cosas muy simples y del día a día como "tú arreglas el grifo de mi cubículo, yo te doy dos botes de mi salsa barbacoa casera" a trueques más complejos que incluso incluyen pagarés en papel (para no quedar registrados electrónicamente). Es curioso porque esos pagarés se han convertido en una especie de papel moneda que no se cobran si no que se intercambian una y otra vez y varían de valor según las circunstancias y lo que ofrezca el pagaré.
+Los truques van desde cosas muy simples y del día a día como "tú arreglas el grifo de mi cubículo, yo te doy dos botes de mi salsa barbacoa casera" a trueques más complejos que incluso incluyen pagarés en papel (para no quedar registrados electrónicamente). Es curioso porque esos pagarés se han convertido en una especie de papel moneda que no se cobran sino que se intercambian una y otra vez y varían de valor según las circunstancias y lo que ofrezca el pagaré.
 
 ### Granjas y piscifactorías
 
@@ -2473,7 +2473,7 @@ xxx
 
 ***
 
-# |oers0nas **Personas**
+# |Ͻers0nas **Personas**
 
 \sincolumna
 
