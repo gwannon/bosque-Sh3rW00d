@@ -86,7 +86,7 @@ ul {
   padding-left: 22px;
 }
 
-/*@media (min-width: calc(100vh * 0.7)) {
+@media (min-width: calc(100vh * 0.7)) {
   section > p,
   section > ul,
   section > blockquote,
@@ -99,7 +99,6 @@ ul {
   section > ul,
   section > div,
   section > a  {
-
     padding: 0 0 calc(var(--padding) / 3) 0;
     margin: 0 var(--padding) ;
   }
@@ -109,14 +108,14 @@ ul {
     counter-reset: li;
     margin-left: calc(var(--padding) + 1.2rem + 10px);
   }
-}*/
+}
 
 body > section:nth-of-type(odd) { 
   background-color: var(--black-color); 
   color: var(--yellow-color); 
 }
 
-body > section:before {
+body:before {
   opacity: 0;
   position: fixed;
   content: "";
@@ -138,9 +137,10 @@ body > section:before {
     0% 0%
   );
   transform: scaleX(-1);
+  z-index: 5;
 }
 
-body > section:after {
+body:after {
   opacity: 0;
   position: fixed;
   content: "";
@@ -165,6 +165,7 @@ body > section:after {
     100% calc(100% - 30px), 
     100% 100%, 
     0px 100%);
+  z-index: 5;
 }
 
 section:first-of-type {
@@ -177,6 +178,15 @@ section:first-of-type {
   flex-direction: column;
   align-content: center;
   box-sizing: border-box;
+}
+
+section:first-of-type,
+section:last-of-type {
+  z-index: 10;
+}
+
+section:first-of-type:after {
+  display: none;
 }
 
 section:first-of-type > div:not(.saltopagina) {
@@ -642,12 +652,17 @@ section:last-of-type {
   min-height: calc(100vh - 1px);
 }
 
-section:first-of-type,
-section:last-of-type {
-  background-image: url('../images/4664.png');
+section:first-of-type {
+  background-image: url('../images/portada.jpg');
   background-repeat: no-repeat;
-  background-position: bottom center;
-  background-size: cover;
+  background-position: top center;
+  background-size: contain;
+
+  align-items: center;
+    flex-direction: column;
+    align-content: center;
+    box-sizing: border-box;
+    justify-content: flex-end;
 }
 
 section:nth-of-type(4) h1 {
@@ -723,6 +738,13 @@ section:nth-of-type(11) h1 {
 
 section:nth-of-type(12) h1 {
   background-image: url('../images/epilogo.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+section:last-of-type {
+  background-image: url('../images/4664.png');
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
@@ -969,7 +991,7 @@ body {
   width: var(--size);
   height: var(--size);
   background-color: var(--purple-color);
-  z-index: 45;
+  z-index: 10;
   opacity: 1;
   clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
 }
@@ -1057,10 +1079,6 @@ section h1 + .saltopagina:after {
   section .saltopagina:not(li) + * {
     margin-top: var(--padding);
   }
- 
-  body:after { 
-    opacity: 1;
-  }
 
   body > .saltopagina:nth-of-type(1):after,
   body > section:nth-of-type(4) .saltopagina:nth-of-type(1):after,
@@ -1074,8 +1092,8 @@ section h1 + .saltopagina:after {
     display: none;
   }
 
-  body > section:after,
-  body > section:before { opacity: 1; }
+  body:after,
+  body:before { opacity: 1; }
 
   h1 {
     margin-left: -10px !important;

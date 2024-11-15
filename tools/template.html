@@ -15,16 +15,11 @@
   <body>
     <section>
       <div>
-        <h3 class="noindex glitched">Ambientación para el juego de rol Savage Worlds</h3>
-      </div>
-      <div>
         <h1 class="noindex">|TITLE|</h1 >
         <h2 class="noindex glitched">|SHORTDESCRIPTION|</h2>
         <p>Ver. |VERSION|</p>
       </div>
-      <div>
-        <img src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle" style="width:150px;height:100px;">
-      </div>
+      <img style="position: absolute; top: 45px; right: 0px; width:150px;height:100px; background-color: black;" src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle">
       <div class="saltopagina"></div>
     </section>
     <section>
@@ -53,13 +48,13 @@
   <link rel="stylesheet" href="./assests/css/style.css?ver=|VERSION|&hash=|HASH|">
   <script>
     //WordCount
-    var cont = jQuery("body").html();
+    var cont = document.documentElement.innerHTML;
     cont = cont.replace(/<[^>]*>/g," ");
     cont = cont.replace(/\s+/g, ' ');
     cont = cont.trim();
     var n = cont.split(" ").length
     console.log(n+" words");
     //PageCount
-    console.log(($('.saltopagina').length + 1)+" pages");
+    console.log((document.querySelectorAll('.saltopagina').length + 1)+" pages");
   </script>
 </html>

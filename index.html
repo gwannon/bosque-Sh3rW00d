@@ -15,16 +15,11 @@
   <body>
     <section>
       <div>
-        <h3 class="noindex glitched">Ambientación para el juego de rol Savage Worlds</h3>
-      </div>
-      <div>
         <h1 class="noindex">Bosque Sh3rW00d</h1 >
         <h2 class="noindex glitched">Aventuras ciberpunk en el bosque de Sh3rW00d</h2>
         <p>Ver. BETA 0.3.3</p>
       </div>
-      <div>
-        <img src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle" style="width:150px;height:100px;">
-      </div>
+      <img style="position: absolute; top: 45px; right: 0px; width:150px;height:100px; background-color: black;" src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle">
       <div class="saltopagina even" id="anchor2"></div>
     </section>
     <section>
@@ -2343,7 +2338,8 @@ No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicé
 <h3>Imágenes</h3>
 <p>No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo.</p>
 <ul>
-<li><a href="https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm">Portada PDF por Harryarts</a> en Freepik</li>
+<li><a href="https://www.freepik.com/free-vector/computer-circuit-board-tree-creative-electronics-concept-poster-vector-illustration_4348098.htm">Portada PDF por macrovector_official</a> en Freepik</li>
+<li><a href="https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm">Contraportada PDF por Harryarts</a> en Freepik</li>
 <li><a href="https://www.freepik.es/vector-gratis/fondo-3d-abstracto-blanco-negro-hexagonal_5432173.htm">Portada 4rc0l061a de Nottingham por starline</a> en Freepik</li>
 <li><a href="https://www.deviantart.com/madragonn/art/Futuristic-Circuit-Texture-138882737">Portada Historia</a> Futuristic Circuit Texture By <a href="https://www.deviantart.com/madragonn/">madragonn</a> Creative Commons Attribution 3.0 License</li>
 <li><a href="https://www.freepik.com/free-photo/background-with-printed-circuit-board-concept-modern-technologies_366211129.htm">Portada Cibernia por pvproductions</a> en Freepik</li>
@@ -2380,16 +2376,16 @@ No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicé
 <div class='columns'>
     </section>
   </body>
-  <link rel="stylesheet" href="./assests/css/style.css?ver=BETA 0.3.3&hash=20241115134535">
+  <link rel="stylesheet" href="./assests/css/style.css?ver=BETA 0.3.3&hash=20241115234138">
   <script>
     //WordCount
-    var cont = jQuery("body").html();
+    var cont = document.documentElement.innerHTML;
     cont = cont.replace(/<[^>]*>/g," ");
     cont = cont.replace(/\s+/g, ' ');
     cont = cont.trim();
     var n = cont.split(" ").length
     console.log(n+" words");
     //PageCount
-    console.log(($('.saltopagina').length + 1)+" pages");
+    console.log((document.querySelectorAll('.saltopagina').length + 1)+" pages");
   </script>
 </html>

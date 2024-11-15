@@ -2821,7 +2821,8 @@ Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros 
 
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo.
 
-* [Portada PDF por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm) en Freepik
+* [Portada PDF por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-tree-creative-electronics-concept-poster-vector-illustration_4348098.htm) en Freepik
+* [Contraportada PDF por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm) en Freepik
 * [Portada 4rc0l061a de Nottingham por starline](https://www.freepik.es/vector-gratis/fondo-3d-abstracto-blanco-negro-hexagonal_5432173.htm) en Freepik
 * [Portada Historia](https://www.deviantart.com/madragonn/art/Futuristic-Circuit-Texture-138882737) Futuristic Circuit Texture By [madragonn](https://www.deviantart.com/madragonn/) Creative Commons Attribution 3.0 License
 * [Portada Cibernia por pvproductions](https://www.freepik.com/free-photo/background-with-printed-circuit-board-concept-modern-technologies_366211129.htm) en Freepik
