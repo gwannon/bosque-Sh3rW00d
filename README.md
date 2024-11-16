@@ -60,13 +60,15 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * Equipo
   * Hackeos de les instaladores
 
-### 0.3.3 En desarrollo
+### 0.3.4 En desarrollo
 
 * Directorio de Nottingham
   * Descripciones de cada zona
   * El correccional
   * Taller de e-bikes de Noc
   * El Gran Roble (GR)
+
+### 0.3.3 16/11/2024
 
 * Terminada localización "RLN (Radio Libre de Nottingham)"
 * Terminada localización "El zoo de la directora J0hn"

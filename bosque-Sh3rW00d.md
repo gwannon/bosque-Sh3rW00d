@@ -2367,7 +2367,7 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 ### RLN (Radio libre de Nottingham)
 
-La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata.
+La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad esta más cerca de un podcast que de una radio tradicional.
 
 Alfonse es el único locutor de la RLN y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapilatista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
 
