@@ -150,3 +150,11 @@ https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505
 
 
 https://www.deviantart.com/mishkatron/art/Hyperpop-977410817
+
+
+
+https://www.deviantart.com/geokorf/art/Brilliant-Green-Zelyonka-683280003
+
+https://www.deviantart.com/geokorf/art/Dasha-Pop-Girl-682564793
+
+https://www.deviantart.com/geokorf/art/Best-buy-193206307

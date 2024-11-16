@@ -2243,9 +2243,29 @@ xxx
 
 ### El zoo de la directora J0hn
 
-Como parte de una campaña mejora de la opinión pública, la directora J0hn creó este zoo de animales clonados y animatrónicas. xxx
+Como parte de una campaña de mejora de la opinión pública, la directora J0hn creó este zoo de animales animatrónicos. El zoo es de acceso gratuito y está abierto 24 horas al día.
 
-xxx
+El zoo es un pasillo largo que va dando a diferentes salas. Cada sala tiene un ambiente (selva, sabana, etc.) y uno o más animales animatrónicos en caso de animales gregarios.
+
+Los **animales son sobre todo terrestres, carnívoros** como grandes felinos y **herbívoros muy agresivos** como jabalíes. Cada cierto tiempo se cambian los modelos o se vuelven a traer antiguos remozados. 
+
+> Puedes meter cualquier tipo de animal y sus estadísticas. Usa, si quieres, las del manual básico y **añádele Impávido y Constructo**.
+
+Les visitantes van pasando por el pasillo y viendo los ambientes. Pueden entrar y moverse por el ambiente. De normal, los animatrónicos son bastante tranquilos, incluso se les puede acariciar. Pero de vez en cuando se vuelven extremadamente violentos, nunca hacen contacto físico, pero dan buenos sustos.
+
+Las animatrónicas son muy realistas (pelaje, garras, colmillos, respiran, etc.), pero una tirada de **Ciencias podría detectar que tienen ciertos rasgos un poco exagerados** como un excesivo tamaño y brillo de los dientes o posturas más agresivas, como si siempre fueran a saltarte encima.
+
+Cómo muchas cosas que la directora J0hn organiza en Nottingham tiene una cara oculta. La directora usa estos robots en un estudio psicológico y sociológico. Está aprendiendo a crear robots lo más reales posible, tratando de superar el "valle inquietante" y a la vez estudiar como hacerlos más terribles e intimidantes.
+
+Todo el zoo está lleno de sensores médicos, que miden muchos indicadores biológicos como temperatura corporal, sudoración, pulso, etc. Programan diferentes rutinas en los animales y **estudian cuáles provocan más miedo en los visitantes**.
+
+Todo este estudio plantea **implementarlo en sus sheriffs robóticos** para usarlo en funciones como interrogatorio o control de masas.
+
+Nunca se han registrado ataques o fugas, pero según se van implementando nuevas rutinas los fallos aumentan y puede que en un futuro próximo ocurran.
+
+> Si lo deseas, tus animales animatrónicos *pueden tener la capacidad de provocar miedo** siguiendo las reglas del manual básico.
+
+\saltopagina
 
 ### El balneario de Bath
 
@@ -2261,17 +2281,19 @@ Se pueden reservar habitáculos para reuniones donde hacer actividades comercial
 
 Solo a un grupo muy exclusivo de clientes fijes se les ofrece salas especiales como mazmorras sexuales o salas para ceremonias religiosas.
 
+\saltocolumna
+
 La otra parte es el SPA que son una gran cantidad de habitáculos donde el personal da los tratamientos. Hablamos de saunas, salas de bañeras calientes y frías, salas con chorros de agua a diferentes potencias, cabinas de masajes, etc.
 
 > Los precios de las habitaciones rondan entre los 200 $ y los 10.000 $ por una noche e incluyen una comida.
 
 Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el lugar donde dar tu gran golpe. Aquí pasan buenas temporadas la gente importante con sus séquitos y sus objetos de valor. Y lo último que les preocupa es que les vayan a robar.
 
-\saltopagina
-
 A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
 
 **Semilla de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les blus asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
+
+\saltopagina
 
 ### Feria de Nottingham
 
@@ -2289,11 +2311,7 @@ Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado pa
 
 > Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reírse en la cara de la directora J0hn y sus sheriffs.
 
-\saltopagina
-
 **Semilla de aventura:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famoso vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
-
-\saltocolumna
 
 \saltopagina
 
@@ -2721,7 +2739,7 @@ xxx
 
 ***
 
-# 3|oíl0go **Epílogo**
+# 3|Ͻíl0go **Epílogo**
 
 \sincolumna
 
