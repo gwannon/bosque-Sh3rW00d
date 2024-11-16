@@ -156,3 +156,14 @@ https://www.deviantart.com/geokorf/art/Brilliant-Green-Zelyonka-683280003
 https://www.deviantart.com/geokorf/art/Dasha-Pop-Girl-682564793
 
 https://www.deviantart.com/geokorf/art/Best-buy-193206307
+
+
+https://www.deviantart.com/simoneferriero/art/Gaming-Room-755474000
+
+https://www.deviantart.com/simoneferriero/art/Unicorn-850319777
+
+https://www.deviantart.com/simoneferriero/art/New-Gear-3-4-886955058
+
+https://www.deviantart.com/simoneferriero/art/Looking-for-Clues-817273636
+
+https://www.deviantart.com/simoneferriero/art/Sleepy-Time-800832062
