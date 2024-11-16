@@ -744,10 +744,10 @@ section:nth-of-type(12) h1 {
 }
 
 section:last-of-type {
-  background-image: url('../images/4664.png');
+  background-image: url(../images/4664.png);
   background-repeat: no-repeat;
-  background-position: bottom center;
-  background-size: cover;
+  background-position: bottom right;
+  background-size: 80% auto;
 }
 
 /* Botón */
