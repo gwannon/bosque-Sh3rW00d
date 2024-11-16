@@ -283,17 +283,31 @@ xxx
 La compañía tiene el control de la justicia y del sistema penal de Nottingham, pero tuvo que firmar ciertos contratos con garantías de que será justa e imparcial. 
 ```
 
-La compañía tuvo que establecer una serie de leyes que regirían el funcionamiento de Nottingham cuando adquirió la concesión de construcción y explotación de esta arcología. xxx
+La compañía tuvo que establecer una serie de leyes que regirían el funcionamiento de Nottingham cuando adquirió la concesión de construcción y explotación de esta arcología. En general las leyes son bastante normales y parecidas a las actuales, pero con cierta tendencia liberal de proteger al capital y la propiedad privada.
+
+Pero claro, este es un juego de gente fuera de la ley, asi que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y John la sustituyo, esto cambio radicalmente.
+
+Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay es un escudo social que te pague una ayuda si te quedas sin trabajo o estas enfermo y no puedes trabaja, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabaras en prisión.
+
+Ademas, el sistema penal es francamente punitivista. Si eres encontrado culpable, pagaras tu deuda con la sociedad con trabajo forzado. La reinserción no está dentro de los objetivos del sistema penal.
+
+### Fuera de la ley
+
+Una gran cantidad de les notis que comenten delitos relacionados deudas e impagos suelen huir al bosque como una forma de escapar de terminar en la cárcel. Por ejemplo, si pierdes tu trabajo, es fácil que acabes viviendo en la calle lo cual te llevará a cometer más delitos y dar con tus huesos en la cárcel.
+
+En vez de eso, la gente desahuciada o que no puede pagar sus deudas con la compañía cogen sus cosas y parten al bosque donde suelen acabar integrándose en comunidades de _boskis_.
+
+De hecho, les primeres _boskis_ fueron una mezcla de personas que no encajaban o estaban en contra del sistema que trataba de imponer la directora J0hn y las clases más bajas que no podían pagar rentas, impuestos e iban acabar en la indigencia y más tarde en la calle.
 
 ### Los juicios
 
 Las directoras tienen el privilegio de juzgar a todos los habitantes de Nottingham y su decisión no es recurrible. Pero eso genera mucho consumo de ciclos y solo juzgan casos importantes. El resto de crímenes son juzgadas por "las 3 sabIAs".
 
+\saltopagina
+
 Las 3 sabIAs son 3 IA de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por la defensa, otra por la acusación y una tercera al azar entre todas las IA de Nottingham.
 
 Las IA escuchan a las partes, estudian las pruebas y dan un veredicto. El veredicto debe ser unánime. Los 3 votos deben ser iguales, lo cual es curioso, ya que una de las IA es de la defensa y otra de la acusación y no deberían coincidir nunca, pero discuten a miles de megaherzios y terminan llegando a un acuerdo. Como no tienen muchos de los sesgos humanos suelen llegar a veredictos bastante justos y equitativos.
-
-\saltocolumna
 
 Les mejores abogades van detectando las IA que más posibilidades tienen de llevarse al resto a su campo.
 
@@ -303,11 +317,23 @@ Durante el juicio que dura entre 12 y 24 horas las IA solo pueden trabajar en el
 
 ### Penas
 
-xxx
+Una vez eres encontrade culpable, está vez sí, la directora J0hn decide tu pena, que suele tratarse de una indemnización económica.
+
+Esa indemnización se traduce en días de trabajo que debes cumplir en el correccional de Nottingham.
+
+Esos días, meses o años de trabajos forzados son innegociables. Por mucho dinero que tengas, no puedes usarlo para pagar la indemnización. De hecho la compañía la suele adelantar y luego la recupera según vas trabajando 
+
+La indemnización puede ser tan grande que se convierta prácticamente en una cadena perpetua.
+
+En los delitos más graves como los asesinatos, pueden tener inmensas indemnizaciones, pero normalmente la directora J0hn tiene la prerrogativa de poner la pena capital.
+
+La sentencia de muerte se ejecuta por la horca en un cadalso construido ex profeso en la Plaza Mayor para que sea visto por todo el mundo.
 
 #### Trabajos forzados
 
-xxx
+Los trabajos forzados pueden ser muy variados desde trabajo manual de mantenimiento en cuadrillas vigiladas, trabajo en una cadena de montaje o incluso trabajos más intelectuales como programación delante de un ordenador.
+
+No se explota a los reclusos con jornadas interminables y duros trabajos, pero como lo más bajo de la sociedad no tienen ningún tipo de privilegio y sus instalaciones, sus alimentación y sus cuidados son lo más barato posible. 
 
 \saltopagina
 
