@@ -1567,6 +1567,14 @@ xxx
 
 xxx
 
+#### Las instancias
+
+Las grandes IA directoras pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea especifica.
+
+Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
+
+xxx
+
 \saltopagina
 
 \sincolumna
@@ -2480,6 +2488,12 @@ xxx
 > En la última fase, con la ayuda de sus aliades y la misteriosa contraseña de SU, deberán **derrocar a la IA directora J0hn** y devolverle el control a R1c4rd.
 
 \concolumna
+
+### Resumen
+
+xxx
+
+Con la copia de seguridad de R1c4rd, sabiendo que Alfonse es un fork de R1c4rd y los conocimiento de instaladore de la bruja Harriette pueden intentar resucitar a la antigua directora de Nottingham.
 
 xxx
 
