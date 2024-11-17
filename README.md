@@ -23,6 +23,7 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 ### 0.7 Previsión
 
 * Directorio de Nottingham
+  * Descripciones de cada zona
   * Creación de espacios para tus aventuras
   * Moverse entre zonas
 
@@ -62,18 +63,18 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 ### 0.3.4 En desarrollo
 
 * Directorio de Nottingham
-  * Descripciones de cada zona
   * El correccional
   * Taller de e-bikes de Noc
   * El Gran Roble (GR)
 
+* Terminada localización "RLN (Radio Libre de Nottingham)"
+* Terminada sección de "Leyes y justicia"
+
 ### 0.3.3 16/11/2024
 
-* Terminada localización "RLN (Radio Libre de Nottingham)"
 * Terminada localización "El zoo de la directora J0hn"
 * Terminada localización "La olla de oro"
 * Terminada localización "Plaza Mayor"
-* Terminada sección de "Leyes y justicia"
 * Paginación mediante CSS
 
 ### 0.3.2 12/11/2024
@@ -115,8 +116,6 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 
 https://www.deviantart.com/sokoistrying/art/Ethan-860101986
 
-https://www.deviantart.com/cyberaeon/art/Hacker-588810800
-
 https://www.deviantart.com/cyberaeon/art/Sage-705811083
 
 https://www.deviantart.com/fernand0fc/art/Implacable-770378489
@@ -129,34 +128,25 @@ https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124
 
 https://www.deviantart.com/anthrokim/art/Sapoong-character-artbook-Mouse-875111836
 
-https://www.deviantart.com/cyberaeon/art/Kaline-761977281
-
 https://www.deviantart.com/meg-james/art/Always-onto-the-next-thing-877215494
 
 https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535
 
 https://www.deviantart.com/meg-james/art/Head-for-the-hills-611429081
 
-
-
 https://www.deviantart.com/zandoarts/art/The-Crystal-Choreographer-739964865
 
 https://www.deviantart.com/netunokinoart/gallery
 
-
 https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505
-
 
 https://www.deviantart.com/mishkatron/art/Hyperpop-977410817
 
-
-
-https://www.deviantart.com/geokorf/art/Brilliant-Green-Zelyonka-683280003
+https://www.deviantart.com/mishkatron/art/Slaughteress-2019-784620826
 
 https://www.deviantart.com/geokorf/art/Dasha-Pop-Girl-682564793
 
 https://www.deviantart.com/geokorf/art/Best-buy-193206307
-
 
 https://www.deviantart.com/simoneferriero/art/Gaming-Room-755474000
 
@@ -167,3 +157,5 @@ https://www.deviantart.com/simoneferriero/art/New-Gear-3-4-886955058
 https://www.deviantart.com/simoneferriero/art/Looking-for-Clues-817273636
 
 https://www.deviantart.com/simoneferriero/art/Sleepy-Time-800832062
+
+https://www.deviantart.com/graffmx/art/For-Jess-347211172

@@ -261,6 +261,11 @@ El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y
 
 **Semilla de aventura:** Un pequeño equipo de hockey de pasillo ha dado el campanazo este año, pueden hasta ganar la liga. Pero necesitan guardaespaldas que les protejan, ya que hay gente que quiere impedir que lleguen a la final.
 
+
+[![Lovers By Mishkatron](./assests/images/lovers_by_mishkatron_ddjnyhp-pre.jpg "Lovers By Mishkatron")](https://www.deviantart.com/mishkatron/art/Lovers-819090781 "Lovers By Mishkatron")
+
+
+
 ### Sexo y género
 
 xxx
@@ -919,6 +924,8 @@ xxx
 ##### Pistolas de clavos
 
 xxx
+
+
 
 #### Cóctel molotov
 
@@ -1678,6 +1685,9 @@ xxx
 
 ## Secuaces
 
+
+[![Slaughteress 2019 By Mishkatron](./assests/images/slaughteress_2019_by_mishkatron_dcz55ay-pre.jpg "Slaughteress 2019 By Mishkatron")](https://www.deviantart.com/mishkatron/art/Slaughteress-2019-784620826 "Slaughteress 2019 By Mishkatron")
+
 \concolumna
 
 ```
@@ -1710,8 +1720,6 @@ xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
-\saltocolumna
-
 ### Alto influencer
 
 xxx
@@ -1724,6 +1732,8 @@ xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
+\saltopagina
+
 ### Bajo influencer
 
 xxx
@@ -1735,6 +1745,8 @@ xxx
 * **Ventajas:** xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -2590,6 +2602,8 @@ xxx
 
 \concolumna
 
+[![Brilliant Green (Zelyonka) By GeoKorf](./assests/images/brilliant_green__zelyonka__by_geokorf_dbat283-pre.png "Brilliant Green (Zelyonka) By GeoKorf")](https://www.deviantart.com/geokorf/art/Brilliant-Green-Zelyonka-683280003 "Brilliant Green (Zelyonka) By GeoKorf")
+
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -2733,6 +2747,8 @@ xxx
 
 \concolumna
 
+[![Kaline By cyberaeon](./assests/images/kaline_by_cyberaeon_dclntfl-375w-2x.jpg "Kaline By cyberaeon")](https://www.deviantart.com/cyberaeon/art/Kaline-761977281 "Kaline By cyberaeon")
+
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -2801,6 +2817,29 @@ xxx
 
 > **Sugerencia de interpretación:** xxx
 
+\saltopagina
+
+\sincolumna
+
+## Alfonse, locutor antisistema &#35;
+
+\concolumna
+
+[![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
+
+xxx
+
+* **Atributos:** Astucia dX, Espíritu dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Capacidades especiales:**
+  * **Inteligencia artificial:** Es una IA y por tanto no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
+  * **Instancias:** xxx
+* **Equipo:** xxx
+
+> **Sugerencia de interpretación:** xxx
+
 ***
 
 # 3|Ͻíl0go **Epílogo**
@@ -2820,7 +2859,6 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 > **Por:** [FaustoRolero](https://twitter.com/FaustoRolero)
 
 Aquí tienes algunas herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
-
 
 ### Relaciones sexo-afectivas
 
