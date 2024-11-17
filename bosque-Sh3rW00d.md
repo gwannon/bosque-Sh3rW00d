@@ -202,11 +202,9 @@ Mientras que la gente mayor prefiere la comida con forma y sabor a carnes y verd
 
 En respuesta a todo esto, bastantes grupos alternativos han empezado a dar gran importancia a los cultivos hidropónicos para cultivar tu propia comida en casa y se ha hecho muy popular, tener varias plantas de frutas y hortalizas. Todos estos productos frescos se han convertido en parte de la economía de trueque y las semillas se han convertido en objetos muy valiosos.
 
-Cómo ya hemos dicho otras veces, en el bosque es todo al revés, los productos frescos hidropónicos son la base de la alimentación al no tener un acceso directo a las algas. xxx
+Cómo ya hemos dicho otras veces, en el bosque es todo al revés, los productos frescos hidropónicos son la base de la alimentación al no tener un acceso directo a las algas. De hecho los sheriffs vigilan muy mucho los almacenes y las fábricas de productos y suministros hidropónicos porque saben que los _boskis_ suelen atacarlos.
 
-De hecho los sheriffs vigilan muy mucho los almacenes y las fábricas de productos y suministros hidropónicos porque saben que los _boskis_ suelen atacarlos.
-
-Los restaurantes xxx
+Los restaurantes en la zona baja y media en su mayoría son como _ramen shops_, una barra sobre la que comen 3 o 4 personas y detrás de la barra un cocinero y su cocina. Los restaurantes de la zona alta son ya mucho más grandes y lujosos, aunque siguen teniendo pocas mesas y tratan de trabajar mucho con productos hidropónicos comprados a los _notis_.
 
 La comida callejera, como el espacio es un lujo, se ha convertido en gente con armazones metálicos en los que tienen fuegos y donde te preparan la comida. Estos cocineros ambulantes llenan de olores todo el complejo, sobre todo los barrios más pobres y las zonas industriales y de talleres.
 
@@ -214,19 +212,21 @@ Quizás lo más interesante gastronómicamente hablando de toda la arcología es
  
 ### Religiones y sectas
 
+Al obtener la concesión de Nottingham, la compañía firmo muchos temas legales y uno de ellos fue respetar la libertad de credo y religión de los _notis_. En la teoría no puede discriminar por temas religiosos, pero en la práctica hay ciertas creencias religiosas que le resultan peligrosas como el culto a les instaladores que persigue (de forma oculta) y trata de hacer desaparecer. 
+
 xxx
 
 ### Fiestas, celebraciones y otros eventos
 
 xxx
 
+\saltopagina
+
 Todos los años, en el día en que se puso la primera piedra del complejo, se organiza un festival con concurso de disparo con tirachinas con un suculento premio. xxx
 
 ### Deporte
 
 El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecnologías, hablamos de bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hierba. También son famosos los concursos de baile acrobáticos y las competiciones de tiro con tirachinas. 
-
-\saltopagina
 
 #### Hockey de pasillo
 
@@ -253,18 +253,15 @@ Reglamento general:
 * La pelota puede rebotar contra cualquier cosa del terreno de juego.
 * Si cometes una falta, debes soltar tu stick y no moverte los segundos de castigo. Tus compañeres y tus adversaries puede usarte como protección, obstáculo, etc. mientras estás en la falta.
 
+\saltopagina
+
 Hay gran cantidad de equipos amateurs en la arcología, pero solos 12 profesionales en la Liga de Hockey de pasillo. Estos equipos tienen patrocinadores, remuneraciones, buen equipamiento, entrenadores, gimnasios, etc. Los más famosos suelen acabar de influencers de la directora J0hn, haciendo reels y directos para les fans de este deporte.
 
 El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y la sombra de los amaños siempre ha sobrevolado el hockey de pasillo profesional.
 
-\saltopagina
-
 **Semilla de aventura:** Un pequeño equipo de hockey de pasillo ha dado el campanazo este año, pueden hasta ganar la liga. Pero necesitan guardaespaldas que les protejan, ya que hay gente que quiere impedir que lleguen a la final.
 
-
 [![Lovers By Mishkatron](./assests/images/lovers_by_mishkatron_ddjnyhp-pre.jpg "Lovers By Mishkatron")](https://www.deviantart.com/mishkatron/art/Lovers-819090781 "Lovers By Mishkatron")
-
-
 
 ### Sexo y género
 
@@ -2829,7 +2826,9 @@ xxx
 
 xxx
 
-> Alfonse se encuentra distribuido entre un primer wifi que hay el bosque y los wifis piratas que hay por todo el complejo. Su capacidad de procesamiento crece o merma según aumentan los wifis piratas. De hecho, es más lista y anticapitalista según tiene más wifis piratas. En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido, Alfonse pierde mucha capacidad de proceso y se nota en sus programas. De hecho, la lectura de fanfics marca su momentos peores.    
+\saltocolumna
+
+> Alfonse se encuentra distribuido entre un primer wifi que hay el bosque y los wifis piratas que hay por todo el complejo. Su capacidad de procesamiento crece o merma según aumentan los wifis piratas. De hecho, es más lista y anticapitalista según tiene más wifis piratas. En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido, Alfonse pierde mucha capacidad de proceso y se nota en sus programas. De hecho, la lectura de fanfics marca sus momentos peores.    
 
 * **Atributos:** Astucia dX, Espíritu dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
