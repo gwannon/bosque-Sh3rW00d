@@ -251,14 +251,14 @@ Debido al poco espacio del campo, los partidos son arbitrados desde fuera usando
 
 El juego es más de habilidad para moverse entre espacios pequeños, de saber mover la bola y aprovechar los rebotes que de fuerza física, ya que no hay espacio para golpear a tu contrincante con el stick o para coger carrerilla.
 
+\saltopagina
+
 Reglamento general:
 
 * Solo se puede tocar la pelota con el stick.
 * No se puede golpear a otro jugador con el stick.
 * La pelota puede rebotar contra cualquier cosa del terreno de juego.
 * Si cometes una falta, debes soltar tu stick y no moverte los segundos de castigo. Tus compañeres y tus adversaries puede usarte como protección, obstáculo, etc. mientras estás en la falta.
-
-\saltopagina
 
 Hay gran cantidad de equipos amateurs en la arcología, pero solos 12 profesionales en la Liga de Hockey de pasillo. Estos equipos tienen patrocinadores, remuneraciones, buen equipamiento, entrenadores, gimnasios, etc. Los más famosos suelen acabar de influencers de la directora J0hn, haciendo reels y directos para les fans de este deporte.
 
@@ -2105,17 +2105,19 @@ xxx
 
 ### El cementerio haitiano
 
-Aunque los enterramientos están prohibidos en la arcología y solo se permite la incineración, las familias haitianas tienden a crear espacios comunes donde dejan las cápsulas contenedoras de cenizas. Decoran estas zonas siguiendo las tradiciones con velas, guirnaldas y flores y dejan ofrendas en ellas a los ancestros. Pero las nuevas generaciones traen también sus tiras LED, mini reproductores de música, imágenes holográficas, etc. Estos cementeríos improvisados son muy importantes para les vecines y suelen ser vigilados por gente de comunidad.   
+Aunque los enterramientos están prohibidos en la arcología y solo se permite la incineración, las familias haitianas tienden a crear espacios comunes donde dejan las cápsulas contenedoras de cenizas. Decoran estas zonas siguiendo las tradiciones con velas, guirnaldas y flores y dejan ofrendas en ellas a los ancestros. Pero las nuevas generaciones traen también sus capsulas personalziadas impresas en 3D, tiras LED, mini reproductores de música, imágenes holográficas, etc. Estos cementerios improvisados son muy importantes para les vecines y suelen ser vigilados por gente de comunidad.   
 
-Con los años uno de estas zonas comunales ha tomado más importancia que el resto y se le conoce como el cementerio haitiano. xxx
-
-xxx
-
-Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas no descendientes de haitianos han empezado a dejar las cenizas de sus muertes. Cada una de ellas decoradas en la tradición de los muertos _almacenados_ allí. xxx
-
-Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio y tiene a un equipo haciendo pruebas de ADN a los restos para identificar y psoteriormente sellar las cápsulas de cenizas.
+Con los años uno de estas zonas comunales ha tomado más importancia que el resto y se le conoce como el cementerio haitiano. Todo empezó cuando una anciana dejo en su testamento que sus cenizas quedarán donde murió su esposa años antes en un accidente de trabajo. En esa zona, aprovechando un hueco para unos extintores (hace años robados), su hijo dejó la biocápsula de las cenizas. A esa primera urna, le fueron siguiendo más y se fue creando una especie fondo común de donaciones (dinero que dejaban los difuntos para su funeral) con el que la comunidad haitiana fue comprando habitáculos anexos donde meter más cápsulas.
 
 \saltocolumna
+
+Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas no descendientes de haitianos han empezado a dejar las cenizas de sus muertes. Cada una de ellas decoradas en la tradición de los muertos _almacenados_ allí. Se empiezan a ver zonas parecidas a santuarios sinto, 
+
+Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio y tiene a un equipo haciendo pruebas de ADN a los restos para identificar y posteriormente sellar las cápsulas de cenizas.
+
+Este cementerio es el sitio más importante en el que se celebra el fét gede, el Día de los muertos en Haití. En Noviembre el lugar se convierte una extraña fiesta que rinde culto a los espíritus de los muertos.
+
+> A pesar de todas las ideas conspiranóicas que corren sobren la identificación de las cenizas, en este caso las acciones de la directora J0hn no tienen ningún tipo de plan oculto. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.  
 
 \saltopagina
 
@@ -2398,6 +2400,8 @@ xxx
 
 > La verdad de la historia de Café Corta es que robo la receta original a un biólogo llamado Zeyaur Khan y consiguió arruinarle durante el pleito por los derechos de la fórmula del café. Antes de dar con sus huesos en la cárcel, Zeyaur Khan huyo al bosque donde montó un invernadero en el que sigue estudiando las algas y como mejorar su producción, su sabor y sus beneficios alimentarios. 
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -2486,11 +2490,13 @@ Zeyaur Khan construyo hace ya unos años esta especie de invernadero en lo profu
 
 xxx
 
+\saltopagina
+
 Es importante destacar que el invenadero esta sobre una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámtro que da directamente al cielo. Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. xxx
 
 xxx
 
-
+\saltocolumna
 
 \saltopagina
 
