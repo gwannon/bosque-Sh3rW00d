@@ -2916,7 +2916,13 @@ xxx
 
 \concolumna
 
+Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y por tanto poder producir café en el Trent. La gente ya no necesitaba.
+
 xxx
+
+> Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con mucho efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
+
+\saltocolumna
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
@@ -2985,17 +2991,19 @@ xxx
 
 ## Glosario de términos
 
-xxx
+Aquí tienes un listado de términos especiales usados en esta ambientación.
 
 \concolumna
 
 * **blus:** xxx
 * **boskis:** habitantes del bosque.
-* **curris:** xxx
+* **cuchi:** un tipo de sushi.
+* **curris:** la clase trabajadora de Nottingham.
 * **fork:** copia de un software a partir de la cual se empieza a desarrollar nuevo software normalmente con capacidades diferentes del original.
 * **glitch de la mañana:** amanecer
 * **glitch de la noche:** anochecer
 * **notis:** ciudadanes que viven en la arcología Nottingham.
+* **superusuario:** también llamado _root_, se refiere en un sistema informático al usuarie más poderose con capacidades especiales.
 
 \saltocolumna
 
