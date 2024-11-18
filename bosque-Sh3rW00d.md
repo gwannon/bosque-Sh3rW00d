@@ -2106,19 +2106,23 @@ xxx
 
 ### El cementerio haitiano
 
-Aunque los enterramientos están prohibidos en la arcología y solo se permite la incineración, las familias haitianas tienden a crear espacios comunes donde dejan las cápsulas contenedoras de cenizas. Decoran estas zonas siguiendo las tradiciones con velas, guirnaldas y flores y dejan ofrendas en ellas a los ancestros. Pero las nuevas generaciones traen también sus capsulas personalziadas impresas en 3D, tiras LED, mini reproductores de música, imágenes holográficas, etc. Estos cementerios improvisados son muy importantes para les vecines y suelen ser vigilados por gente de comunidad.   
-
-Con los años uno de estas zonas comunales ha tomado más importancia que el resto y se le conoce como el cementerio haitiano. Todo empezó cuando una anciana dejo en su testamento que sus cenizas quedarán donde murió su esposa años antes en un accidente de trabajo. En esa zona, aprovechando un hueco para unos extintores (hace años robados), su hijo dejó la biocápsula de las cenizas. A esa primera urna, le fueron siguiendo más y se fue creando una especie fondo común de donaciones (dinero que dejaban los difuntos para su funeral) con el que la comunidad haitiana fue comprando habitáculos anexos donde meter más cápsulas.
+Aunque los enterramientos están prohibidos en la arcología y solo se permite la incineración, las familias haitianas tienden a crear espacios comunes donde dejan las cápsulas contenedoras de cenizas. Decoran estas zonas siguiendo las tradiciones con **velas, guirnaldas y flores y dejan ofrendas** en ellas a los ancestros. Pero las nuevas generaciones traen también sus **capsulas personalizadas impresas en 3D** (forma de gato, de micrófono, de pikachumon, etc.), **tiras LED, mini reproductores de música, imágenes holográficas**, etc. Estos cementerios improvisados son muy importantes para les vecines y suelen ser vigilados por gente de la comunidad.   
 
 \saltocolumna
 
-Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas no descendientes de haitianos han empezado a dejar las cenizas de sus muertes. Cada una de ellas decoradas en la tradición de los muertos _almacenados_ allí. Se empiezan a ver zonas parecidas a santuarios sinto, 
+Con los años uno de estas zonas comunales ha tomado más importancia que el resto y se le conoce como el cementerio haitiano. Todo empezó cuando una anciana dejo en su testamento que sus cenizas quedarán donde murió su esposa años antes en un accidente de trabajo. En esa zona, aprovechando un hueco para unos extintores (hace años robados), su hijo dejó la biocápsula de las cenizas. A esa primera urna, le fueron siguiendo más y se fue creando una especie fondo común de donaciones (dinero que dejaban los difuntos para su funeral) con el que la comunidad haitiana fue comprando habitáculos anexos donde meter más cápsulas.
 
-Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio y tiene a un equipo haciendo pruebas de ADN a los restos para identificar y posteriormente sellar las cápsulas de cenizas.
+Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas no descendientes de haitianos han empezado a dejar las cenizas de sus muertes. Cada una de ellas decoradas en la tradición de los muertos _almacenados_ allí. Se empiezan a ver zonas parecidas a santuarios _sinto_ y minicapillas a dioses hindúes.
 
-Este cementerio es el sitio más importante en el que se celebra el fét gede, el Día de los muertos en Haití. En Noviembre el lugar se convierte una extraña fiesta que rinde culto a los espíritus de los muertos.
+Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio y tiene a un **equipo de robots comadrejas tomando pruebas de ADN a los restos** para identificarlos y luego etiquetarlos y localizarlos con chips GPS adheridos a las cápsulas de cenizas.
 
-> A pesar de todas las ideas conspiranóicas que corren sobren la identificación de las cenizas, en este caso las acciones de la directora J0hn no tienen ningún tipo de plan oculto. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.  
+Este cementerio es el sitio más importante en el que se celebra el _fét gede_, **el Día de los muertos en Haití**. En Noviembre el lugar se convierte una extraña fiesta que rinde culto a los espíritus de los muertos.
+
+\saltopagina
+
+> A pesar de todas las ideas conspiranóicas que corren sobren la identificación de las cenizas, en este caso **las acciones de la directora J0hn no tienen ningún tipo de plan oculto**. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.  
+
+\saltocolumna
 
 \saltopagina
 
@@ -2395,7 +2399,7 @@ Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado pa
 
 ### Café Corta
 
-Café Corta es quizas el café más chic de la arcología.
+Café Corta es quizás el café más chic de la arcología.
 
 xxx
 
@@ -2463,7 +2467,7 @@ La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a 
 
 [![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
-Cuando no está despotricando de la directora J0hn puede estar haciendo cualquier cosa, desde dar una receta de plumcake o leer poesía, hasta explicar física cuántica o estar una hora haciendo ruidos de pedos o hablando solo con la "i".
+Cuando no está despotricando de la directora J0hn puede estar haciendo cualquier cosa, desde dar una receta de _plumcake_ o leer poesía, hasta explicar física cuántica o estar una hora haciendo ruidos de pedos o hablando solo con la "i".
 
 \saltopagina
 
@@ -2491,9 +2495,11 @@ Zeyaur Khan construyo hace ya unos años esta especie de invernadero en lo profu
 
 xxx
 
+Es importante destacar que el invernadero está debajo de una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámetro que da directamente al cielo. Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
+
 \saltopagina
 
-Es importante destacar que el invenadero esta sobre una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámtro que da directamente al cielo. Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. xxx
+> La primera vez que tu banda reciba auténtica luz del día dales un beni. A veces las cosas sencillas son las más importantes.
 
 xxx
 
@@ -2517,7 +2523,7 @@ xxx
 
 xxx
 
-Las zonas están conectadas como hemos explicado antes, pero siempre es posible hacer una buena tirada de Pasillear que permita acceder de uan a otras saltando los pasos intermedios. 
+Las zonas están conectadas como hemos explicado antes, pero siempre es posible hacer una buena tirada de Pasillear que permita acceder de unas a otras saltando los pasos intermedios. 
 
 \saltocolumna
 
@@ -2563,7 +2569,7 @@ xxx
 
 xxx
 
-Con la copia de seguridad de R1c4rd, sabiendo que Alfonse es un fork de R1c4rd y los conocimiento de instaladore de la bruja Harriette pueden intentar resucitar a la antigua directora de Nottingham.
+Con la copia de seguridad de R1c4rd, sabiendo que Alfonse es un fork de R1c4rd y los conocimientos de instaladore de la bruja Harriette pueden intentar resucitar a la antigua directora de Nottingham.
 
 xxx
 
@@ -2902,8 +2908,11 @@ xxx
 
 > **Sugerencia de interpretación:** xxx
 
+\saltopagina
 
-## Zeyaur Khan, biologo loco &#35;
+\sincolumna
+
+## Zeyaur Khan, biólogo loco &#35;
 
 \concolumna
 
@@ -2917,7 +2926,6 @@ xxx
 * **Equipo:** xxx
 
 > **Sugerencia de interpretación:** xxx
-
 
 ***
 
@@ -2948,7 +2956,7 @@ Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que
 Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
 
 ### Participar en el proyecto
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://linktr.ee/gwannon) y hablamos.
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
 ### Lenguaje inclusivo
 
@@ -2984,7 +2992,7 @@ xxx
 * **blus:** xxx
 * **boskis:** habitantes del bosque.
 * **curris:** xxx
-* **fork:** copia de un software a partir de la cual se empieza a desarrollar nuevo software normalmente con capacidades difernetes del original.
+* **fork:** copia de un software a partir de la cual se empieza a desarrollar nuevo software normalmente con capacidades diferentes del original.
 * **glitch de la mañana:** amanecer
 * **glitch de la noche:** anochecer
 * **notis:** ciudadanes que viven en la arcología Nottingham.
@@ -3002,8 +3010,9 @@ xxx
 Agradecimientos a todas estas personas que me han dado su opinión y han contestado mis preguntas en diferentes redes.
 
 * [Asaltadoras del Rol](https://bsky.app/profile/cuchi.bsky.social)
-* [Ramón Corominas](https://mastorol.es/@tinitun@mstdn.social)
 * [José Sku](https://bsky.app/profile/sku-jose.bsky.social)
+* [Ramón Corominas](https://mastorol.es/@tinitun@mstdn.social)
+* [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
 
 \saltocolumna
 
@@ -3072,7 +3081,7 @@ Este libro contiene:
 
 1. Una ambientación que mezcla el Ciberpunk con las historias de Robin Hood. Con descripciones de personas, eventos y lugares a partir de las cuales crear tus propios relatos salvajes.
 2. Reglas para crear personajes, montones localizaciones, equipo único, un sistema sencillo de ciberimplantes, enemigos de todo tipo y personajes importantes de la arcología de Nottingham.
-3. X aventuras largas en formato Plot Points para disfrutar plenamente de esta ambientación más X aventuras cortas de 1 o 2 sesiones.
+3. 1 aventura larga en formato Plot Points para disfrutar plenamente de esta ambientación más varias aventuras cortas de 1 o 2 sesiones.
 
 Para jugar esta ambientación solo necesitas el Manual Básico de Savage Worlds Edición Aventura.
 
