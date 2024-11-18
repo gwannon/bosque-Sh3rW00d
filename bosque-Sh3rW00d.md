@@ -2603,13 +2603,13 @@ xxx
 
 ### Nowhere fast
 
-> La cantante e influencer Helen Aim ha sido secuestrada en pleno directo y los sheriffs no consiguen dar con ella. Su rastro se pierde en el bosque, así que alguien deberá buscarla, encontrarla y rescatarla.
+> La cantante e influencer Helen Aim ha sido secuestrada en pleno directo por unos pandilleros y los sheriffs no consiguen dar con ella. Su rastro se pierde en la zona Baja, así que alguien deberá buscarla, encontrarla y rescatarla.
 
 xxx
 
 ### Noche de póker
 
-> xxx suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que xxx se ha enterado y se va a autoinvitar.  
+> El fraile Tuck suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que Lady Mariam se ha enterado y se va a autoinvitar.  
 
 xxx
 
