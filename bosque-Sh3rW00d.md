@@ -266,6 +266,8 @@ El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y
 
 **Semilla de aventura:** Un pequeño equipo de hockey de pasillo ha dado el campanazo este año, pueden hasta ganar la liga. Pero necesitan guardaespaldas que les protejan, ya que hay gente que quiere impedir que lleguen a la final.
 
+\saltocolumna
+
 [![Lovers By Mishkatron](./assests/images/lovers_by_mishkatron_ddjnyhp-pre.jpg "Lovers By Mishkatron")](https://www.deviantart.com/mishkatron/art/Lovers-819090781 "Lovers By Mishkatron")
 
 ### Sexo y género
@@ -276,7 +278,6 @@ xxx
 
 xxx
 
-\saltocolumna
 
 \saltopagina
 
