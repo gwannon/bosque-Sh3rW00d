@@ -2105,7 +2105,7 @@ xxx
 
 ### El cementerio haitiano
 
-Aunque los enterramientos están prohibidos en la arcología y solo se permite la incineración, las familias haitianas tienden a crear espacios comunes donde dejan las cápsulas contenedoras de cenizas. Decoran estas zonas siguiendo las tradiciones con velas, guirnaldas y flores y dejan ofrendas en ellas a los ancestros. Estos cementeríos improvisados son muy importantes para les vecines y suelen ser vigilados por gente de comunidad.   
+Aunque los enterramientos están prohibidos en la arcología y solo se permite la incineración, las familias haitianas tienden a crear espacios comunes donde dejan las cápsulas contenedoras de cenizas. Decoran estas zonas siguiendo las tradiciones con velas, guirnaldas y flores y dejan ofrendas en ellas a los ancestros. Pero las nuevas generaciones traen también sus tiras LED, mini reproductores de música, imágenes holográficas, etc. Estos cementeríos improvisados son muy importantes para les vecines y suelen ser vigilados por gente de comunidad.   
 
 Con los años uno de estas zonas comunales ha tomado más importancia que el resto y se le conoce como el cementerio haitiano. xxx
 
