@@ -1,8 +1,5 @@
 :root {
-  --glitched-duration: 0.9s;
-  --glitched-long-duration: 3s;
   --yellow-color: #f9f002;
-  --yellow-color-opacity: #f9f00242;
   --orange-color: #ff9800;
   --border-color: #8ae66e;
   --red-color: #ff003c;
@@ -224,32 +221,6 @@ section:nth-of-type(2) {
 
 /* titles */
 
-h1 {
-  font-family: 'VT323', monospace, arial;
-  font-size: 3em;
-  line-height: 120%;
-  margin: 0;
-  text-align: center;
-  color: var(--black-color);
-  /*text-shadow: 0 0 5px var(--black-color);*/
-  height: 60vh;
-  display: flex;
-  flex-direction: column;
-  align-content: stretch;
-  align-items: stretch;
-  flex-wrap: wrap;
-  justify-content: center;
-  background: var(--yellow-color) center center no-repeat;
-  background-size: cover;
-  margin-bottom: var(--padding);
-}
-
-section:nth-child(odd) h1 {
-  background-color: var(--black-color);
-  color: var(--yellow-color);
-  /*text-shadow: 0 0 5px var(--yellow-color);*/
-}
-
 h2,
 h3,
 h4 {
@@ -293,95 +264,8 @@ h4:before {
   clip-path: polygon(0px 0px, 85px 0px, 90px 5px, 100% 5px, 100% 6px, 85px 6px, 80px 10px, 0px 10px);
 }
 
-h2.glitched {
-  animation-name: h1glitched;
-  animation-duration: calc(var(--glitched-duration) * 1.7);
-  animation-iteration-count: infinite;
-  animation-direction: reverse;
-  animation-timing-function: linear;
-}
-
-h3.glitched {
-  animation-name: h1glitched;
-  animation-duration: calc(var(--glitched-duration) * 1.1);
-  animation-iteration-count: infinite;
-  animation-direction: reverse;
-  animation-timing-function: ease-out;
-}
-
-h4.glitched {
-  animation-name: h1glitched;
-  animation-duration: calc(var(--glitched-duration) * 2.1);
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
-}
-
-@keyframes h1glitched {
-  0% {
-    transform: skew(-20deg);
-    left: -4px;
-  }
-  10% {
-    transform: skew(-20deg);
-    left: -4px;
-  }
-  11% {
-    transform: skew(0deg);
-    left: 2px;
-  }
-  50% {
-    transform: skew(0deg);
-  }
-  51% {
-    transform: skew(10deg);
-  }
-  59% {
-    transform: skew(10deg);
-  }
-  60% {
-    transform: skew(0deg);
-  }
-  100% {
-    transform: skew(0deg);
-  }
-}
-
 h2:before {
   clip-path: polygon(0px 5px, 35px 5px, 40px 0px, 85px 0px, 90px 5px, 100% 5px, 100% 6px, 85px 6px, 80px 10px, 20px 10px, 15px 6px, 0px 6px);
-}
-
-h2.glitched:before {
-  animation-name: h2beforeglitched;
-  animation-duration: calc(var(--glitched-duration) * 2);
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-}
-
-@keyframes h2beforeglitched {
-  0% {
-    transform: scaleY(1);
-  }
-  10% {
-    transform: scaleY(1);
-  }
-  11% {
-    transform: scaleY(-1);
-  }
-  50% {
-    transform: scaleY(-1);
-  }
-  51% {
-    transform: scaleY(1);
-  }
-  59% {
-    transform: scaleY(1);
-  }
-  60% {
-    transform: scaleY(1);
-  }
-  100% {
-    transform: scaleY(1);
-  }
 }
 
 h3:before {
@@ -394,34 +278,9 @@ h4:before {
 
 h2:after,
 h3:after,
-h4:after,
-p:not(.saltocolumna):not(*:has(img)):after {
+h4:after/*,
+p:not(.saltocolumna):not(*:has(img)):after*/ {
   content: "_";
-  animation-name: hxafter;
-  animation-duration: var(--glitched-duration);
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-}
-
-h3:after,
-h4:after {
-  animation-direction: reverse;
-  animation-duration: calc(var(--glitched-duration) / 2);
-}
-
-@keyframes hxafter {
-  0% {
-    opacity: 0;
-  }
-  50% {
-    opacity: 0;
-  }
-  51% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 1;
-  }
 }
 
 section:nth-child(odd) h2,
@@ -517,6 +376,10 @@ section:nth-child(odd) blockquote > p:before  {
   color: var(--yellow-color);
 }
 
+blockquote {
+  margin: 0;
+}
+
 blockquote > p {
   border: none;
   padding: 40px 15px 30px;
@@ -585,71 +448,38 @@ p.seed {
 
 }
 
-table {
-  margin: 15px auto;
-  border: 3px dashed var(--yellow-color);
-}
-
-section:nth-child(even) table {
-  border-color: var(--black-color);
-}
-
-section > div:has(table) {
-  overflow-x: auto;
-  padding-bottom: 0px;
-}
-
-table thead tr th {
-  padding: 10px;
-  font-size: 1.1em;
-  font-weight: 400;
-  font-family: 'VT323', monospace, arial;
-}
-
-table thead tr:first-child th {
-  font-size: 1.1em;
-  color: var(--neon-color);
-}
-
-table tbody tr > * {
-  padding: 5px;
-}
-
-table tbody tr th[rowspan] {
-  background-color: var(--purple-color);
-}
-
-table thead {
-  background-color: var(--purple-color);
-}
-
-table tbody tr>* {
-  transition: all 0.6s;
-}
-
-table tbody tr th[colspan] {
-  background-color: var(--purple-color);
-}
-
-table tbody tr:nth-child(odd) {
-  background-color: var(--yellow-color);
-}
-
-table tbody tr:nth-child(odd) *:is(th,td) {
-  color: var(--black-color);
-}
-
-section:nth-child(even) table tbody tr:nth-child(odd) {
-  background-color: var(--black-color);
-}
-
-section:nth-child(even) table tbody tr:nth-child(odd) *:is(th,td) {
-  color: var(--yellow-color);
-}
-
 section:last-of-type {
   max-height: calc(100vh - 1px);
   min-height: calc(100vh - 1px);
+}
+
+/* Portadas de capítulos */
+
+h1 {
+  font-family: 'VT323', monospace, arial;
+  font-size: 3em;
+  line-height: 120%;
+  margin: 0;
+  text-align: center;
+  color: var(--black-color);
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+  align-items: stretch;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: var(--yellow-color) center center no-repeat;
+  background-size: cover;
+  margin-bottom: var(--padding);
+}
+section:nth-child(odd) h1 {
+  background-color: var(--black-color);
+  color: var(--yellow-color);
+}
+
+h1 > strong {
+  opacity: 0;
 }
 
 section:first-of-type {
@@ -657,12 +487,11 @@ section:first-of-type {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
-
   align-items: center;
-    flex-direction: column;
-    align-content: center;
-    box-sizing: border-box;
-    justify-content: flex-end;
+  flex-direction: column;
+  align-content: center;
+  box-sizing: border-box;
+  justify-content: flex-end;
 }
 
 section:nth-of-type(4) h1 {
@@ -670,7 +499,6 @@ section:nth-of-type(4) h1 {
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
-  text-shadow: none;
 }
 
 section:nth-of-type(5) h1 {
@@ -701,7 +529,6 @@ section:nth-of-type(8) h1 {
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
-  text-shadow: none;
 }
 
 section:nth-of-type(9) h1 {
@@ -748,219 +575,6 @@ section:last-of-type {
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: 80% auto;
-}
-
-/* Botón */
-
-a.download {
-  --text: "R-25";
-  --background-color: var(--red-color);
-  display: block;
-  border: none;
-  border-radius: 0%;
-  font-size: 1.5rem;
-  line-height: 1.5rem;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  font-weight: 600;
-  padding: 35px 75px;
-  margin: 10px 20px 10px 0px;
-  position: relative;
-  color: #fff;
-  border-right: 3px solid var(--border-color);
-  clip-path: polygon(
-    -15px 0%,
-    calc(100% + 15px) 0%,
-    calc(100% + 15px) 100%,
-    20px 100%,
-    -15px calc(100% - 35px)
-  );
-  cursor: pointer;
-  background-color: var(--background-color);
-  outline: none;
-  display: inline-block;
-  text-decoration: none;
-}
-
-a.download:hover {
-  animation-name: buttonhover;
-  animation-duration: var(--glitched-duration);
-  animation-iteration-count: infinite;
-  animation-timing-function: linear; 
-}
-
-a.download:after {
-  content: var(--text);
-  display: block;
-  position: absolute;
-  bottom: 0px;
-  right: 25px;
-  padding: 2px 2px 0px 2px;
-  font-size: 0.6rem;
-  line-height: 0.6rem;
-  color: var(--black-color);
-  background-color: var(--yellow-color);
-  border-left: 2px solid var(--border-color);
-}
-
-a.download:hover:after {
-  animation-name: buttonhoverafter;
-  animation-duration: var(--glitched-duration);
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-}
-
-a.download:before {
-  --outside: 4px;
-  content: "";
-  position: absolute;
-  display: none;
-  background-color: var(--background-color);
-  width: calc(100% + (var(--outside) * 2));
-  height: 12px;
-  top: 0px;
-  left: calc(0px - 1px - var(--outside));
-  border-left: 2px solid var(--border-color);
-  border-right: 2px solid var(--border-color);
-}
-
-a.download:hover:before {
-  display: block;
-  animation-name: buttonhoverbefore;
-  animation-duration: var(--glitched-duration);
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-}
-
-blockquote {
-  clear: both;
-  margin: 0;
-}
-
-@keyframes buttonhover {
-  0% {
-    transform: skew(0deg);
-  }
-  60% {
-    transform: skew(0deg);
-  }
-  61% {
-    transform: skew(10deg);
-  }
-  70% {
-    transform: skew(10deg);
-  }
-  71% {
-    transform: skew(0deg);
-  }
-  100% {
-    transform: skew(0deg);
-  }
-}
-
-@keyframes buttonhoverbefore {
-  0% {
-    display: none;
-    top: 0px;
-  }
-  10% {
-    display: none;
-    top: 0px;
-  }
-  11% {
-    display: block;
-    top: 10px;
-    left: calc(0px - 0px - var(--outside));
-  }
-  29% {
-    top: 10px;
-  }
-  30% {
-    display: none;
-    top: 0px;
-  }
-  50% {
-    display: none;
-    top: 0px;
-  }
-  51% {
-    display: block;
-    top: 55px;
-    filter: blur(1px);
-    height: 22px;
-  }
-  90% {
-    display: block;
-    top: 55px;
-    height: 22px;
-  }
-  91% {
-    filter: blur(0px);
-    display: none;
-    top: 0px;
-    height: 12px;
-  }
-  100% {
-    display: none;
-    top: 0px;
-  }
-}
-
-@keyframes buttonhoverafter {
-  0% {
-    right: 45px;
-  }
-
-  10% {
-    right: 45px;
-  }
-  11% {
-    right: 35px;
-  }
-  20% {
-    transform: skew(0deg);
-  }
-  21% {
-    transform: skew(-10deg);
-  }
-  40% {
-    transform: skew(-10deg);
-  }
-  41% {
-    transform: skew(0deg);
-  }
-  49% {
-    right: 35px;
-  }
-  50% {
-    right: 55px;
-  }
-
-  60% {
-    right: 55px;
-  }
-  61% {
-    right: 35px;
-  }
-  70% {
-    transform: skew(0deg);
-  }
-  71% {
-    transform: skew(10deg);
-  }
-  80% {
-    transform: skew(10deg);
-  }
-  81% {
-    transform: skew(0deg);
-  }
-  100% {
-    right: 35px;
-  }
-}
-
-h1 > strong {
-  opacity: 0;
 }
 
 /* Paginación */
@@ -1035,6 +649,8 @@ section h1 + .saltopagina:after {
   margin-right: 5px;
 }
 
+/* Media Query */
+
 @media print {
   .columns {
     columns: 2;
@@ -1060,10 +676,6 @@ section h1 + .saltopagina:after {
 
   table {
     width: 100%;
-  }
-
-  .nopdf {
-    display: none !important;
   }
 
   .saltopagina {
@@ -1110,7 +722,31 @@ section h1 + .saltopagina:after {
   body > section:nth-of-type(3) {
     padding-top: var(--padding) ;
   }
+
+  .likeH1 span,
+  .likeH2 span {
+    display: block;
+  }
+
+  section:nth-of-type(12) h1 {
+    justify-content: flex-end;
+    background-position: top center;
+  }
+  section:nth-of-type(12) h1 strong {
+    margin-bottom: 100px;
+  }
+
+  section:nth-of-type(9) h1 strong {
+    padding-bottom: 300px;
+  }
+
+  .nopdf {
+    display: none !important;
+  }
 }
+
+/* ------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------ */
 
 @media screen {
   body > section:nth-of-type(3) {
@@ -1133,25 +769,62 @@ section h1 + .saltopagina:after {
   }
 }
 
-@media print {
-  .likeH1 span,
-  .likeH2 span {
-    display: block;
-  }
+/* Table */
 
-  section:nth-of-type(12) h1 {
-    justify-content: flex-end;
-    background-position: top center;
-  }
-  section:nth-of-type(12) h1 strong {
-    margin-bottom: 100px;
-  }
-
-  section:nth-of-type(9) h1 strong {
-    padding-bottom: 300px;
-  }
+table {
+  margin: 15px auto;
+  border: 3px dashed var(--yellow-color);
 }
 
+section:nth-child(even) table {
+  border-color: var(--black-color);
+}
+
+section > div:has(table) {
+  overflow-x: auto;
+  padding-bottom: 0px;
+}
+
+table thead tr:first-child th {
+  font-size: 1.1em;
+  color: var(--neon-color);
+}
+
+table thead {
+  background-color: var(--purple-color);
+}
+
+table thead tr th {
+  padding: 10px;
+  font-size: 1.1em;
+  font-weight: 400;
+  font-family: 'VT323', monospace, arial;
+}
+
+table tbody tr > * {
+  transition: all 0.6s;
+  padding: 5px;
+}
+
+table tbody tr th[colspan] {
+  background-color: var(--purple-color);
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: var(--yellow-color);
+}
+
+table tbody tr:nth-child(odd) *:is(th,td) {
+  color: var(--black-color);
+}
+
+section:nth-child(even) table tbody tr:nth-child(odd) {
+  background-color: var(--black-color);
+}
+
+section:nth-child(even) table tbody tr:nth-child(odd) *:is(th,td) {
+  color: var(--yellow-color);
+}
 
 /* Scrollbar */
 ::-webkit-scrollbar {
@@ -1170,7 +843,7 @@ section h1 + .saltopagina:after {
   background-color: var(--purple-color);
   border-bottom: 2px solid var(--border-color);
   border-right: 2px solid var(--border-color);
-  transition: background var(--glitched-duration);
+  transition: background 0.3s;
 }
 ::-webkit-scrollbar-thumb:hover {
   background-color: var(--orange-color);
@@ -1180,4 +853,64 @@ section h1 + .saltopagina:after {
 }
 ::-webkit-resizer {
   display: none;
+}
+
+/* Botón descarga */
+
+a.download {
+  --text: "R-25";
+  --background-color: var(--red-color);
+  display: block;
+  border: none;
+  border-radius: 0%;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 35px 75px;
+  margin: 10px 20px 10px 0px;
+  position: relative;
+  color: #fff;
+  border-right: 3px solid var(--border-color);
+  clip-path: polygon(
+    -15px 0%,
+    calc(100% + 15px) 0%,
+    calc(100% + 15px) 100%,
+    20px 100%,
+    -15px calc(100% - 35px)
+  );
+  cursor: pointer;
+  background-color: var(--background-color);
+  outline: none;
+  display: inline-block;
+  text-decoration: none;
+}
+
+a.download:after {
+  content: var(--text);
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  right: 25px;
+  padding: 2px 2px 0px 2px;
+  font-size: 0.6rem;
+  line-height: 0.6rem;
+  color: var(--black-color);
+  background-color: var(--yellow-color);
+  border-left: 2px solid var(--border-color);
+}
+
+a.download:before {
+  --outside: 4px;
+  content: "";
+  position: absolute;
+  display: none;
+  background-color: var(--background-color);
+  width: calc(100% + (var(--outside) * 2));
+  height: 12px;
+  top: 0px;
+  left: calc(0px - 1px - var(--outside));
+  border-left: 2px solid var(--border-color);
+  border-right: 2px solid var(--border-color);
 }
