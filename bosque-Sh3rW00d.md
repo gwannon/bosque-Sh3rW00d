@@ -224,6 +224,11 @@ xxx
 
 Todos los años, en el día en que se puso la primera piedra del complejo, se organiza un festival con concurso de disparo con tirachinas con un suculento premio. xxx
 
+#### Fét Gede
+La comunidad haitiana en Nottingham no es especialmente importante pero una de sus tradiciones, el Fét Gede, ha calado muy profundamente en la cultura del complejo. El Fét Ged es el Día de los muertos para los practicantes de la religión vudú. A primeros de noviembre los creyentes salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los _cementerios_ y algunos supuestamente son poseídos por los _gede_, los espíritus de los ancestros muertos.
+
+xxx
+
 ### Deporte
 
 El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecnologías, hablamos de bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hierba. También son famosos los concursos de baile acrobáticos y las competiciones de tiro con tirachinas. 
@@ -1905,6 +1910,21 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alcurnia, Rique
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
+\saltopagina
+
+### Pandillerro
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+\saltocolumna
+
 ***
 
 # I)iЯe(tori0 de Nottingham **Directorio de Nottingham**
@@ -1953,13 +1973,13 @@ También es un buen lugar donde buscar materiales y productos peligrosos e ilega
 
 [![Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir](./assests/images/32454817667_059d6f26aa_c.jpg "Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir")](https://www.flickr.com/photos/jsjgeology/32454817667 "Vertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir")
 
-Este gigantesco agujero sin fondo en la base del complejo es la primera estructura Nottingham. Este pozo sin fondo lo excavó la compañía en las tierras de Nottingham y lo lleno de miles y miles de toneladas de nanitos. Les instaladores usaron esos nanitos para construir los cimientos y luego la estructura del complejo. Según crecía el complejo, el pozo se iba secando hasta quedar vacío. 
+Este gigantesco agujero sin fondo en la base del complejo es la primera estructura de Nottingham. Este pozo lo excavó la compañía en las tierras de Nottingham y lo lleno de miles y miles de toneladas de nanitos. Les instaladores usaron esos nanitos para construir los cimientos y luego la estructura del complejo. Según crecía el complejo, el pozo se iba secando hasta quedar vacío. 
 
-Se dice que todavía quedan nanitos en su fondo esperando órdenes de trabajo de sus dueños, les instaladores. Sin embargo nadie ha intentado bajar e investigar lo que haya en el fondo, de hecho se considera un lugar maldito que todo el mundo trata de evitar.
+Se dice que todavía quedan nanitos en su fondo esperando órdenes de trabajo de sus dueños, les instaladores. Sin embargo, nadie ha intentado bajar e investigar lo que haya en el fondo, de hecho se considera un lugar maldito que todo el mundo trata de evitar.
 
 El pozo mide unos 20m de diámetro y se desconoce su profundidad, pero todo lo que se lanza dentro desaparece. No sería de extrañar que alguien se deshiciera de cadáveres y/o productos peligrosos en su oscuridad.
 
-**Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. Estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que casi 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo con los restos que se lanzan desde arriba puede ser muy peligroso. 
+**Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. Estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo con los restos que se lanzan desde arriba puede ser muy peligroso. Siéntete libre de sacar, zombies tecnificados, aberraciones mutantes o hasta horrores cósmicos. El pozo es la entrada a tus aventuras de todo tipo de seres.
 
 ### Campo de tiro de Gus
 
@@ -2082,6 +2102,18 @@ xxx
 ### Taller de e-bikes de Noc
 
 xxx
+
+### El cementerio haitiano
+
+Aunque los enterramientos están prohibidos en la arcología y solo se permite la incineración, las familias haitianas tienden a crear espacios comunes donde dejan las cápsulas contenedoras de cenizas. Decoran estas zonas siguiendo las tradiciones con velas, guirnaldas y flores y dejan ofrendas en ellas a los ancestros. Estos cementeríos improvisados son muy importantes para les vecines y suelen ser vigilados por gente de comunidad.   
+
+Con los años uno de estas zonas comunales ha tomado más importancia que el resto y se le conoce como el cementerio haitiano. xxx
+
+xxx
+
+Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas no descendientes de haitianos han empezado a dejar las cenizas de sus muertes. Cada una de ellas decoradas en la tradición de los muertos _almacenados_ allí. xxx
+
+Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio y tiene a un equipo haciendo pruebas de ADN a los restos para identificar y psoteriormente sellar las cápsulas de cenizas.
 
 \saltocolumna
 
@@ -2358,6 +2390,16 @@ Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado pa
 
 \saltopagina
 
+### Café Corta
+
+Café Corta es quizas el café más chic de la arcología.
+
+xxx
+
+> La verdad de la historia de Café Corta es que robo la receta original a un biólogo llamado Zeyaur Khan y consiguió arruinarle durante el pleito por los derechos de la fórmula del café. Antes de dar con sus huesos en la cárcel, Zeyaur Khan huyo al bosque donde montó un invernadero en el que sigue estudiando las algas y como mejorar su producción, su sabor y sus beneficios alimentarios. 
+
+\saltopagina
+
 \sincolumna
 
 ## El bosque
@@ -2437,6 +2479,18 @@ Alfonse acepta preguntas en directo de todo tipo y las respuestas suelen ser bas
 Corren rumores sobre quien es Alfonse. Desde que son varias personas que se turnan para hacer el programa hasta que es une instaladore que se quedó en el complejo. La realidad es que **Alfonse es una IA al nivel de las directoras**, exactamente un _fork_ muy joven de la directora R1c4rd.
 
 Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma base que el original, pero a partir de la copia se desarrolla independientemente y tiene su propia programación. Alfonse podría ser una **pieza fundamental en la caída de J0hn y el regreso de R1c4rd**.
+
+### Greenhouse
+
+Zeyaur Khan construyo hace ya unos años esta especie de invernadero en lo profundo del bosque.
+
+xxx
+
+Es importante destacar que el invenadero esta sobre una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámtro que da directamente al cielo. Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. xxx
+
+xxx
+
+
 
 \saltopagina
 
@@ -2841,6 +2895,23 @@ xxx
 
 > **Sugerencia de interpretación:** xxx
 
+
+## Zeyaur Khan, biologo loco &#35;
+
+\concolumna
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Equipo:** xxx
+
+> **Sugerencia de interpretación:** xxx
+
+
 ***
 
 # 3|Ͻíl0go **Epílogo**
@@ -2906,6 +2977,7 @@ xxx
 * **blus:** xxx
 * **boskis:** habitantes del bosque.
 * **curris:** xxx
+* **fork:** copia de un software a partir de la cual se empieza a desarrollar nuevo software normalmente con capacidades difernetes del original.
 * **glitch de la mañana:** amanecer
 * **glitch de la noche:** anochecer
 * **notis:** ciudadanes que viven en la arcología Nottingham.
