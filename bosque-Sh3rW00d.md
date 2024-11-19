@@ -2398,12 +2398,37 @@ Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado pa
 \saltopagina
 
 ### Café Corta
+Café Corta es quizás el café más chic de la arcología. Todos los _blus_ de más alto rango vienen a relajarse al Corta tras sus estresantes jornadas laborales, tomando una taza de café expreso.
 
-Café Corta es quizás el café más chic de la arcología.
+Este elegante local con unas 10 mesas bajas y con 2 sillones por mesa está lleno las 24 horas del día de gente adinerada como _blus_ e _influencers_ capaces de pagar 200$ por una taza de café expreso.
+
+> Corta es un lugar excelente para hacer negocios (y para tomar a incautos _blus_) tras una buena taza de su excelente café. Puedes conseguir un +2 a las tiradas de Persuadir en temas de negocios y tratos si consigues que te dejen entrar (hay estrictas reglas de etiqueta) y puedes pagar sus precios.
 
 xxx
 
-> La verdad de la historia de Café Corta es que robo la receta original a un biólogo llamado Zeyaur Khan y consiguió arruinarle durante el pleito por los derechos de la fórmula del café. Antes de dar con sus huesos en la cárcel, Zeyaur Khan huyo al bosque donde montó un invernadero en el que sigue estudiando las algas y como mejorar su producción, su sabor y sus beneficios alimentarios. 
+> La verdad de la historia de Café Corta es que robo la receta original a un biólogo llamado Zeyaur Khan y consiguió arruinarle durante el pleito por los derechos de la fórmula del café. Antes de dar con sus huesos en la cárcel, Zeyaur Khan huyo al bosque donde montó un invernadero en el que sigue estudiando las algas y como mejorar su producción, su sabor y sus beneficios alimentarios.
+
+#### Baris
+
+Las mesas, los robots camareros y cafetera central del Corta está controlada por una IA polivalente llamada Baris (de barista) cuyas principales funciones son hacer infinitas clases de café, servir las mesas y dar charla a los clientes. Realmente es charla aderezada con una buena ración de coba y peloteo.
+
+Baris tiene un montón de conocimientos generales y es bastante agradable y carismática y la gente que va sola termina hablando con ella de cualquier cosa.
+
+Está programada para conocer a sus clientes y poder seguirles el _rollo_ en sucesivas visitas como si fuera una especie de amiga. Lo que no previeron sus creadores es que esto le permitiría interpretar e investigar las conversaciones que tiene con los clientes y extrapolar y deducir cosas a partir de ellas.
+
+Ahora mismo es capaz de deducir que va a hacer un cliente con un par de visitas y está desarrollando la capacidad de juntar conversaciones de varios clientes y sacar conclusiones generales. En poco tiempo podría, por ejemplo, hacer predicciones macroeconómicas a partir de charlas intrascendentes con _blus_, si no fuera porque hacer el mejor café del complejo le quita mucho poder de procesamiento.
+
+Si alguien pudiera librarla de la tarea de hacer café durante unas horas, podría procesar mucha de la información que tiene almacenada y descubrir cosas muy interesantes.
+
+* **Atributos:** Astucia d8, Espíritu d8
+* **Habilidades:** Conocimientos generales d12+4, Humanidades d6, Investigar d8, Notar d6, Persuadir d8
+* **Desventajas:** xxx
+* **Ventajas:** Carismática
+* **Capacidades especiales:**
+  * **Inteligencia artificial:** Es una IA y por tanto no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales.
+* **Equipo:** Una cafetera expreso con capacidad para 16 tazas al mismo tiempo y chorro de vapor, una moledora de algas cafeteras.
+
+> **Sugerencia de interpretación:** xxx
 
 \saltocolumna
 
@@ -2903,7 +2928,7 @@ xxx
 * **Ventajas:** xxx
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y por tanto no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
-  * **Instancias:** xxx
+  * **Instancias:** Alfonse puede crear instanaciías suyas siguiendo las reglas de instancías.
 * **Equipo:** xxx
 
 > **Sugerencia de interpretación:** xxx
