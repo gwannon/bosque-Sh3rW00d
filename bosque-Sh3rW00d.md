@@ -1579,7 +1579,7 @@ xxx
 
 #### Las instancias
 
-Las grandes IA directoras pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea especifica.
+Las grandes IA directoras  y algunas polivalentes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea especifica.
 
 Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
 
@@ -2398,13 +2398,14 @@ Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado pa
 \saltopagina
 
 ### Café Corta
+
 Café Corta es quizás el café más chic de la arcología. Todos los _blus_ de más alto rango vienen a relajarse al Corta tras sus estresantes jornadas laborales, tomando una taza de café expreso.
 
 Este elegante local con unas 10 mesas bajas y con 2 sillones por mesa está lleno las 24 horas del día de gente adinerada como _blus_ e _influencers_ capaces de pagar 200$ por una taza de café expreso.
 
 > Corta es un lugar excelente para hacer negocios (y para tomar a incautos _blus_) tras una buena taza de su excelente café. Puedes conseguir un +2 a las tiradas de Persuadir en temas de negocios y tratos si consigues que te dejen entrar (hay estrictas reglas de etiqueta) y puedes pagar sus precios.
 
-xxx
+Hace unos años Café Corta fue denunciado por robo de propiedad intelectual del método de producción de café. Café Corta consiguió ganar este largo litigio y ahora mismo ostenta los derechos totales de cualquier procedimiento que haga que las algas produzcan cafeína. Esto les asegura que serán los únicos productores de café natural a gran escala en Nottingham. Pero siempre puedes ponerte tu planta de café en tu casa con un sistema hidropónico y disfrutarlo tranquilamente en tu habitáculo vivienda.  
 
 > La verdad de la historia de Café Corta es que robo la receta original a un biólogo llamado Zeyaur Khan y consiguió arruinarle durante el pleito por los derechos de la fórmula del café. Antes de dar con sus huesos en la cárcel, Zeyaur Khan huyo al bosque donde montó un invernadero en el que sigue estudiando las algas y como mejorar su producción, su sabor y sus beneficios alimentarios.
 
@@ -2429,8 +2430,6 @@ Si alguien pudiera librarla de la tarea de hacer café durante unas horas, podr�
 * **Equipo:** Una cafetera expreso con capacidad para 16 tazas al mismo tiempo y chorro de vapor, una moledora de algas cafeteras.
 
 > **Sugerencia de interpretación:** xxx
-
-\saltocolumna
 
 \saltopagina
 
@@ -2928,7 +2927,7 @@ xxx
 * **Ventajas:** xxx
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y por tanto no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
-  * **Instancias:** Alfonse puede crear instanaciías suyas siguiendo las reglas de instancías.
+  * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
 * **Equipo:** xxx
 
 > **Sugerencia de interpretación:** xxx
