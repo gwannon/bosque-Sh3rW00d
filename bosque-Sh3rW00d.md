@@ -646,7 +646,7 @@ Ahora malvives de favores y por la nostalgia de tus seguidores más fieles y a v
 
 ### Nacide libre
 
-Estás a otro lado de la ley y de la sociedad desde tu nacimiento. Naciste en el bosque y por tanto careces de tu HUB de conexión.
+Estás a otro lado de la ley y de la sociedad desde tu nacimiento. Naciste en el bosque y, por tanto, careces de tu HUB de conexión.
 
 Eso supone que no puedes moverte normalmente por la arcología como cualquier _noti_ y tienes que buscarte la vida para moverte por ella para conseguir recursos.
 
@@ -2204,7 +2204,7 @@ El estadio cumple la función de circo en la famosa locución latina "Pan y circ
 
 Como ya hemos dicho, no hay ni gradas ni asientos, sino miles de cámaras que retransmiten los eventos deportivos a su propietario/socio. De forma que lo ves en tu dispositivo de realidad aumentada como si estuvieras allí. El sistema simula a tus compañeres de grada y puedes hablar con elles o cantar los himnos de tu equipo, incluso abrazarte a elles y celebrar las victorias y llorar las derrotas.
 
-Claramente hay cámaras en mejores puestos que otros y por tanto son más caras y normalmente están destinadas a _blus_ e _influencers_.
+Claramente hay cámaras en mejores puestos que otros y, por tanto, son más caras y normalmente están destinadas a _blus_ e _influencers_.
 
 Puedes comprar entradas para eventos específicos a la compañía o pagar un abono de temporada. También puedes alquilar de forma alegal la cámara a una persona con un abono de temporada.
 
@@ -2431,13 +2431,13 @@ Si alguien pudiera librarla de la tarea de hacer café durante unas horas, podr�
 
 * **Atributos:** Astucia d8, Espíritu d8
 * **Habilidades:** Conocimientos generales d12+4, Humanidades d6, Investigar d8, Notar d6, Persuadir d8
-* **Desventajas:** xxx
+* **Desventajas:** Obligaciones (mayor, trabaja 24 horas al día en Café Corta)
 * **Ventajas:** Carismática
 * **Capacidades especiales:**
-  * **Inteligencia artificial:** Es una IA y por tanto no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales.
+  * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales.
 * **Equipo:** Una cafetera expreso con capacidad para 16 tazas al mismo tiempo y chorro de vapor, una moledora de algas cafeteras.
 
-> **Sugerencia de interpretación:** Eres ese amable camarere que sale en todas las películas que escucha tus problemas mientras te pone una tras otra tazas de excelente café y al final resume tu problema y te da la solución con una historía familiar seguramente inventada. Habla muy meloso y con muchos diminutivos y nunca interrumpas a tu interlocutore. 
+> **Sugerencia de interpretación:** Eres ese amable camarere que sale en todas las películas que escucha tus problemas mientras te pone una tras otra tazas de excelente café y al final resume tu problema y te da la solución con una historia familiar seguramente inventada. Habla muy meloso y con muchos diminutivos y nunca interrumpas a tu interlocutore. 
 
 \saltocolumna
 
@@ -2936,7 +2936,7 @@ xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Capacidades especiales:**
-  * **Inteligencia artificial:** Es una IA y por tanto no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
+  * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
 * **Equipo:** xxx
 
@@ -2950,7 +2950,7 @@ xxx
 
 \concolumna
 
-Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y por tanto poder producir café en el Trent. La gente ya no necesitaba.
+Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. La gente ya no necesitaba.
 
 xxx
 
