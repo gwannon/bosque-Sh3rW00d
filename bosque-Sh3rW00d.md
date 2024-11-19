@@ -2405,7 +2405,11 @@ Este elegante local con unas 10 mesas bajas y con 2 sillones por mesa está llen
 
 > Corta es un lugar excelente para hacer negocios (y para tomar a incautos _blus_) tras una buena taza de su excelente café. Puedes conseguir un +2 a las tiradas de Persuadir en temas de negocios y tratos si consigues que te dejen entrar (hay estrictas reglas de etiqueta) y puedes pagar sus precios.
 
-Hace unos años Café Corta fue denunciado por robo de propiedad intelectual del método de producción de café. Café Corta consiguió ganar este largo litigio y ahora mismo ostenta los derechos totales de cualquier procedimiento que haga que las algas produzcan cafeína. Esto les asegura que serán los únicos productores de café natural a gran escala en Nottingham. Pero siempre puedes ponerte tu planta de café en tu casa con un sistema hidropónico y disfrutarlo tranquilamente en tu habitáculo vivienda.  
+Hace unos años Café Corta fue denunciado por robo de propiedad intelectual del método de producción de café. Café Corta consiguió ganar este largo litigio y ahora mismo ostenta los derechos totales de cualquier procedimiento que haga que las algas produzcan cafeína. Esto les asegura que serán los únicos productores de café natural a gran escala en Nottingham.
+
+Y si no puedes permitirte el café de Corta, siempre puedes ponerte tu planta de café en tu casa con un sistema hidropónico y disfrutarlo tranquilamente en tu habitáculo vivienda.  
+
+\saltocolumna
 
 > La verdad de la historia de Café Corta es que robo la receta original a un biólogo llamado Zeyaur Khan y consiguió arruinarle durante el pleito por los derechos de la fórmula del café. Antes de dar con sus huesos en la cárcel, Zeyaur Khan huyo al bosque donde montó un invernadero en el que sigue estudiando las algas y como mejorar su producción, su sabor y sus beneficios alimentarios.
 
@@ -2417,7 +2421,11 @@ Baris tiene un montón de conocimientos generales y es bastante agradable y cari
 
 Está programada para conocer a sus clientes y poder seguirles el _rollo_ en sucesivas visitas como si fuera una especie de amiga. Lo que no previeron sus creadores es que esto le permitiría interpretar e investigar las conversaciones que tiene con los clientes y extrapolar y deducir cosas a partir de ellas.
 
-Ahora mismo es capaz de deducir que va a hacer un cliente con un par de visitas y está desarrollando la capacidad de juntar conversaciones de varios clientes y sacar conclusiones generales. En poco tiempo podría, por ejemplo, hacer predicciones macroeconómicas a partir de charlas intrascendentes con _blus_, si no fuera porque hacer el mejor café del complejo le quita mucho poder de procesamiento.
+Ahora mismo es capaz de deducir que va a hacer un cliente con un par de visitas y está desarrollando la capacidad de juntar conversaciones de varios clientes y sacar conclusiones generales.
+
+\saltopagina
+
+En poco tiempo podría, por ejemplo, hacer predicciones macroeconómicas a partir de charlas intrascendentes con _blus_, si no fuera porque hacer el mejor café del complejo le quita mucho poder de procesamiento.
 
 Si alguien pudiera librarla de la tarea de hacer café durante unas horas, podría procesar mucha de la información que tiene almacenada y descubrir cosas muy interesantes.
 
@@ -2429,7 +2437,9 @@ Si alguien pudiera librarla de la tarea de hacer café durante unas horas, podr�
   * **Inteligencia artificial:** Es una IA y por tanto no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales.
 * **Equipo:** Una cafetera expreso con capacidad para 16 tazas al mismo tiempo y chorro de vapor, una moledora de algas cafeteras.
 
-> **Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** Eres ese amable camarere que sale en todas las películas que escucha tus problemas mientras te pone una tras otra tazas de excelente café y al final resume tu problema y te da la solución con una historía familiar seguramente inventada. Habla muy meloso y con muchos diminutivos y nunca interrumpas a tu interlocutore. 
+
+\saltocolumna
 
 \saltopagina
 
