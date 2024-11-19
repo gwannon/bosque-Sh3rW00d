@@ -1775,8 +1775,8 @@ xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Capacidades especiales:**
-    * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-    * **Impávido:** Es inmune al miedo e Intimidar.
+  * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+  * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** xxx
 
 ### Limpiador
@@ -2419,27 +2419,32 @@ Las mesas, los robots camareros y cafetera central del Corta está controlada po
 
 Baris tiene un montón de conocimientos generales y es bastante agradable y carismática y la gente que va sola termina hablando con ella de cualquier cosa.
 
-Está programada para conocer a sus clientes y poder seguirles el _rollo_ en sucesivas visitas como si fuera una especie de amiga. Lo que no previeron sus creadores es que esto le permitiría interpretar e investigar las conversaciones que tiene con los clientes y extrapolar y deducir cosas a partir de ellas.
+El **avatar básico** en el café tanto en los LCD de las mesas como en realidad aumentada es **una joven barista con delantal**. Pero según conoce al cliente adapta su avatar a sus preferencias. de hecho, está programada para conocer a sus clientes y poder seguirles el _rollo_ en sucesivas visitas como si fuera una especie de amiga.
 
-Ahora mismo es capaz de deducir que va a hacer un cliente con un par de visitas y está desarrollando la capacidad de juntar conversaciones de varios clientes y sacar conclusiones generales.
+Lo que no previeron sus creadores es que esto le permitiría interpretar e investigar las conversaciones que tiene con los clientes y extrapolar y deducir cosas a partir de ellas.
 
 \saltopagina
 
-En poco tiempo podría, por ejemplo, hacer predicciones macroeconómicas a partir de charlas intrascendentes con _blus_, si no fuera porque hacer el mejor café del complejo le quita mucho poder de procesamiento.
+[![Yellow coffee By gigiEDT](./assests/images/yellow_coffee__by_gigiedt_de7ghzd-fullview.jpg "Yellow coffee By gigiEDT")](https://www.deviantart.com/gigiedt/art/Yellow-coffee-859053577 "Yellow coffee By gigiEDT")
 
-Si alguien pudiera librarla de la tarea de hacer café durante unas horas, podría procesar mucha de la información que tiene almacenada y descubrir cosas muy interesantes.
+Ahora mismo **es capaz de deducir que va a hacer un cliente con un par de visitas** y está desarrollando la capacidad de juntar conversaciones de varios clientes y sacar conclusiones generales.
+
+En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a partir de charlas intrascendentes con _blus_**, si no fuera porque hacer el mejor café del complejo le quita mucho poder de procesamiento.
 
 * **Atributos:** Astucia d8, Espíritu d8
 * **Habilidades:** Conocimientos generales d12+4, Humanidades d6, Investigar d8, Notar d6, Persuadir d8
 * **Desventajas:** Obligaciones (mayor, trabaja 24 horas al día en Café Corta)
 * **Ventajas:** Carismática
+
+\saltocolumna
+
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales.
 * **Equipo:** Una cafetera expreso con capacidad para 16 tazas al mismo tiempo y chorro de vapor, una moledora de algas cafeteras.
 
-> **Sugerencia de interpretación:** Eres ese amable camarere que sale en todas las películas que escucha tus problemas mientras te pone una tras otra tazas de excelente café y al final resume tu problema y te da la solución con una historia familiar seguramente inventada. Habla muy meloso y con muchos diminutivos y nunca interrumpas a tu interlocutore. 
+> **Sugerencia de interpretación:** Eres ese amable camarere que sale en todas las películas que escucha tus problemas mientras te pone una tras otra taza de excelente café y al final resume tu problema y te da la solución con una historia familiar seguramente inventada. Habla muy meloso y con muchos diminutivos y nunca interrumpas a tu interlocutore. 
 
-\saltocolumna
+**Semilla de aventura:** Si alguien pudiera librar a Baris de la tarea de hacer café durante unos días, podría procesar mucha de la información que tiene almacenada y descubrir cosas muy interesantes. Quizás investigar el tema del robo de propiedad intelectual puede obligar a que el Café Corta cierre unos días.
 
 \saltopagina
 
@@ -2515,8 +2520,6 @@ Alfonse acepta preguntas en directo de todo tipo y las respuestas suelen ser bas
 
 > Puedes usar a Alfonse como una especie de oráculo para cuando tu banda se pierda y no sepa como seguir, pero recuérdales que este debería ser su último recurso. Si tu banda está cerca de un wifi (algo a tu elección como DJ) pueden conectarse e intentar entrar en contacto con Alfonse y preguntarle algo. El que vaya a preguntar deberá **gastar todos sus benis, mínimo 1, para conseguir entrar en antena y poder preguntar**. Cómo DJ podrás responderles a su pregunta y darles una pista para continuar su aventura.
 
-\saltocolumna
-
 > Si consiguen las **claves de encriptación de los wifis, tu banda podría emitir un mensaje por todo la arcología**. El mensaje que puede ser vídeo, audio, software, incluso un virus informático podría llegar a un 30% de la población del complejo, que escucha la RLN.
 
 Corren rumores sobre quien es Alfonse. Desde que son varias personas que se turnan para hacer el programa hasta que es une instaladore que se quedó en el complejo. La realidad es que **Alfonse es una IA al nivel de las directoras**, exactamente un _fork_ muy joven de la directora R1c4rd.
@@ -2525,17 +2528,21 @@ Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma
 
 ### Greenhouse
 
-Zeyaur Khan construyo hace ya unos años esta especie de invernadero en lo profundo del bosque.
+Zeyaur Khan construyo hace ya unos años esta especie de invernadero en lo profundo del bosque, tras problemas legales en el complejo de Nottingham. Había encontrado la forma de hacer que un par de variedad de algas crearan cafeína como parte de sus defensas químicas.
 
-xxx
-
-Es importante destacar que el invernadero está debajo de una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámetro que da directamente al cielo. Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
+Corta Café empezó comprándole café a un buen precio, pero decidió que robarle el proceso de hacer café era más rentable. Cuando Zeyaur denunció el robo de propiedad intelectual, pero perdió el caso. Para evitarse problemas huyo al bosque y montó su laboratorio en forma de invernadero.
 
 \saltopagina
 
+Todo lo que Zeyaur produce en el invernadero lo vende a los _boskis_ y con ello sobrevive y consigue equipo y materiales. Todos los viernes, abandona el invernadero y va al Gran Roble a vender sus verduras hiperproteínicas, sus infusiones estimulantes y su famosas algas cafeteras.
+
+Es importante destacar que el invernadero está debajo de una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámetro que da directamente al cielo. Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
+
 > La primera vez que tu banda reciba auténtica luz del día dales un beni. A veces las cosas sencillas son las más importantes.
 
-xxx
+Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimiento científicos y de ordenadores.
+
+> Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200$ a la semana** como sueldo.
 
 \saltocolumna
 
