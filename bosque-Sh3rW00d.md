@@ -2,7 +2,7 @@
 
 \sincolumna
 
-Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
+|DESCRIPTION|
 
 Formarás parte de un grupo de descastades que sobreviven ocultos en el megacomplejo Nottingham. Lucharás por tu supervivencia y tu libertad contra la directora J0hn, una malvada IA que está a cargo del complejo.
 
@@ -276,6 +276,10 @@ xxx
 
 ### Títulos nobiliarios
 
+Los títulos nobiliarios, principalmente _lord_, _lady_ y _xxx_, son algo que impuso en su tiempo la directora R1c4rd como una forma de destacar a la gente que había hecho grandes cosas por la comunidad de Nottingham o había destacado en algún ámbito de la cultura, la sociedad y/o la ciencia. De hecho, tuvo que modificar el sistema censal del complejo y todo el sistema de realidad virtual y aumentada, para poder registrar los títulos y que cuando se viese su nombre siempre se viera acompañado de su título.
+
+Cuando J0hn accedió al poder trato de quitar esta costumbre, pero le resultó muy complicado porque xxx. Así que tomó el camino fácil, no otorgar ningún título a nadie más esperando que así se dejará de usar y terminara desapareciendo. El problema es que R1c4rd lo dejo como algo hereditario y cuando murió la primera persona con título nobiliario, el sistema censal se lo otorgo a sus descendientes automáticamente. 
+
 xxx
 
 
@@ -394,6 +398,26 @@ xxx
 Les buscadores de la contraseña de SU, abreviando les buscadores, son un grupo de personas que creen que les instaladores dejaron en alguna parte un password de "superuser" que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
 
 xxx
+
+\saltopagina
+
+\sincolumna
+
+## La vida en el Bosque
+
+\concolumna
+
+```
+La vida para les habitantes del bosque es un tanto diferente al del resto de los notis. Con los años han desarrollado una cultura, unas creencias y una forma de vida diferentes a las de sus vecines del lado legal de la vida.
+```
+
+xxx
+
+Deportivamente hablando, el deporte que más practican son el tiro con arco o tirachinas. Siendo las competiciones populares de disparo eventos muy importantes en la actividad social del Bosque. De hecho, no hay evento en que antes o después les _boskis_ no acaben demostrando su buena puntería en algún tipo de concurso cuyo premio puede ser desde pedir el mejor plato del banquete preparado a ganar el beso de algune moze que lo ha ofrecido como premio del concurso. 
+
+xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -2170,7 +2194,7 @@ En el centro hay una especie de espacio de descanso y relax con bancos de cement
 
 Hoy en día están siempre vacías, ya que en cuanto alguien se sienta aparece algún sheriff de los que patrullan la plaza para echarte de allí.
 
-> Debajo del parque hay un búnker con un centro de datos que la directora R1c4rd usaba para dejar copias de seguridad de todos sus datos (que no su programación). Cuanto esta se fue, dejo su última copia en este lugar. J0hn no se atreve a borrar esa copia, digamoslo por una mezcla de respeto y superstición, y tampoco quiere usarla por si al abrirla activa algo que haga volver a R1c4rd. Tampoco quiere que la gente la encuentre así que hace que los sheriffs no permitan a nadie colocarse allí.
+> Debajo del parque hay un búnker con un centro de datos que la directora R1c4rd usaba para dejar copias de seguridad de todos sus datos (que no su programación). Cuanto esta se fue, dejo su última copia en este lugar. J0hn no se atreve a borrar esa copia, digámoslo por una mezcla de respeto y superstición, y tampoco quiere usarla por si al abrirla activa algo que haga volver a R1c4rd. Tampoco quiere que la gente la encuentre así que hace que los sheriffs no permitan a nadie colocarse allí.
 
 #### Los dólmenes
 
@@ -2419,7 +2443,7 @@ Las mesas, los robots camareros y cafetera central del Corta está controlada po
 
 Baris tiene un montón de conocimientos generales y es bastante agradable y carismática y la gente que va sola termina hablando con ella de cualquier cosa.
 
-El **avatar básico** en el café tanto en los LCD de las mesas como en realidad aumentada es **una joven barista con delantal**. Pero según conoce al cliente adapta su avatar a sus preferencias. de hecho, está programada para conocer a sus clientes y poder seguirles el _rollo_ en sucesivas visitas como si fuera una especie de amiga.
+El **avatar básico** en el café tanto en los LCD de las mesas como en realidad aumentada es **una joven barista con delantal**. Pero según conoce al cliente adapta su avatar a sus preferencias. De hecho, está programada para conocer a sus clientes y poder seguirles el _rollo_ en sucesivas visitas como si fuera una especie de amiga.
 
 Lo que no previeron sus creadores es que esto le permitiría interpretar e investigar las conversaciones que tiene con los clientes y extrapolar y deducir cosas a partir de ellas.
 
@@ -2458,9 +2482,11 @@ En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a par
 xxx
 ```
 
-**Nivel de seguridad:** xxx
+**Nivel de seguridad:** A pesar de lo que pueda pensarse el nivel de seguridad del bosque es bastante alto, principalmente para protegerse de los sheriffs y sus secuaces. Los boskis tienen patrullan que vigilan las zonas que habitan en el bosque y en caso de detectar intrusos, los siguen, los estudian para saber si son amigos o enemigos y deciden si dejarlos pasar o tenderles una emboscada. Cuanto más cerca del Gran Roble más posibilidades de encontrarse con una patrulla.
 
 xxx
+
+El importante recalcar que el bosque es en su mayoría una gran extensión llena de columnas, no es fácil encontrar muchas de las localizaciones que se presentan en este punto y sin conocer el camino o guiado por alguien es muy difícil que alguien las encuentre. 
 
 ### El Gran Roble (GR)
 
@@ -2534,13 +2560,13 @@ Corta Café empezó comprándole café a un buen precio, pero decidió que robar
 
 \saltopagina
 
-Todo lo que Zeyaur produce en el invernadero lo vende a los _boskis_ y con ello sobrevive y consigue equipo y materiales. Todos los viernes, abandona el invernadero y va al Gran Roble a vender sus verduras hiperproteínicas, sus infusiones estimulantes y su famosas algas cafeteras.
+Todo lo que Zeyaur produce en el invernadero lo vende a los _boskis_ y con ello sobrevive y consigue equipo y materiales. Todos los viernes, abandona el invernadero y va al Gran Roble a vender sus verduras hiperproteínicas, sus infusiones estimulantes y sus famosas algas cafeteras. Sus precios son económicos y puedes scarle una buena cantidad de verduras si le ofreces equipo de laboratorio mderno y en buen estado.
 
 Es importante destacar que el invernadero está debajo de una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámetro que da directamente al cielo. Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
 
-> La primera vez que tu banda reciba auténtica luz del día dales un beni. A veces las cosas sencillas son las más importantes.
+> La primera vez que tu banda reciba auténtica luz del día, dales un beni. A veces las cosas sencillas son las más importantes.
 
-Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimiento científicos y de ordenadores.
+Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimientos científicos y de ordenadores.
 
 > Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200$ a la semana** como sueldo.
 
@@ -3124,7 +3150,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 Creado por [Gwannon](https://gwannon.itch.io/)
 
-Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds Edición Aventura en un mundo extrañamente parecido a las historias de Robin Hood o Ivanhoe.
+Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds Edición Aventura en un mundo extrañamente parecido a las historias de Robin Hood.
 
 Este libro contiene:
 
