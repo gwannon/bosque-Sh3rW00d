@@ -66,6 +66,7 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * Taller de e-bikes de Noc
   * El Gran Roble (GR)
 
+* Terminada parte de "Títulos nobiliarios"
 * Terminada localización "Café Corta"
 * Terminada localización "Greenhouse"
 
@@ -151,8 +152,6 @@ https://www.deviantart.com/mishkatron/art/Slaughteress-2019-784620826
 
 https://www.deviantart.com/geokorf/art/Dasha-Pop-Girl-682564793
 
-https://www.deviantart.com/geokorf/art/Best-buy-193206307
-
 https://www.deviantart.com/simoneferriero/art/Gaming-Room-755474000
 
 https://www.deviantart.com/simoneferriero/art/Unicorn-850319777
@@ -166,7 +165,5 @@ https://www.deviantart.com/simoneferriero/art/Sleepy-Time-800832062
 https://www.deviantart.com/graffmx/art/For-Jess-347211172
 
 https://www.deviantart.com/gigiedt/art/Marnie-Bass-Guitar-956776087
-
-https://www.deviantart.com/gigiedt/art/Guitable-856195073
 
 https://www.deviantart.com/gigiedt/art/Basstable-854838940

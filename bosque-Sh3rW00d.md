@@ -76,6 +76,8 @@ xxx
 
 Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers adictos a la directora J0hn que marcan la vida de los _notis_. Ellos establecen las modas, lo que es _cool_ y lo que no, lo que se debe hacer y lo que no y, al final, lo que está bien y lo que está mal.
 
+[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073v "Guitable By gigiEDT")
+
 Además, señalan a los disidentes y los excluyen socialmente, de forma que sus acciones y proclamas contra el sistema son muchas veces rechazadas, desacreditadas y olvidadas.
 
 También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
@@ -85,8 +87,6 @@ xxx
 ### Curris (Plebe)
 
 xxx
-
-\saltocolumna
 
 ### Boskis (Fuera de la ley)
 
@@ -278,9 +278,11 @@ Cuando J0hn accedió al poder trato de quitar esta costumbre, pero le resultó m
 
 Así que tomó el camino fácil, no otorgar ningún título a nadie más, esperando que así se dejara de usar y terminara desapareciendo. El problema es que R1c4rd lo dejo como algo hereditario y cuando murió la primera persona con título nobiliario, un proceso del sistema censal le **otorgo el título a su primogenite automáticamente**.
 
-Como curiosidad, los sistemas de puertas automáticas fueron modificados por la directora R1c4rd para decir tu título al entrar y salir. Esto, a lo largo de los años, ha generalizado el uso de los títulos nobiliarios entre los habitantes de la arcología.
+> A nivel de juego, la forma de tener título nobiliario sería escogiendo la ventaja Alcurnia. Pero recuerda que puedes perderlo si te conviertes es une forajide. 
 
 \saltopagina
+
+Como curiosidad, los sistemas de puertas automáticas fueron modificados por la directora R1c4rd para decir tu título al entrar y salir. Esto, a lo largo de los años, ha generalizado el uso de los títulos nobiliarios entre los habitantes de la arcología.
 
 **Semilla de aventura:** Al revisar tu identificación personal, para tu sorpresa, el sistema te ha otorgado un título nobiliario. ¿Es un error del sistema o puede que seas el hije de alguien importante? 
 
@@ -935,7 +937,13 @@ El tirachinas se considera una arma distancia pequeña con lo que no tiene penal
 
 ##### Rebotes
 
-xxx
+El tirachinas permite disparar haciendo rebotes contra el techo y las paredes para alcanzar a gente que esta en cobertura. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño.
+
+Ejemplo: si disparas a una persona detrás un coche (cobertura media -4) puedes hacer un rebote y la el bono de cobertura pasa de -4 a -3 y el daño obtiene un -1. Si hicieras dos rebotes el bono de cobertura pasa de -4 a -2 y el daño obtiene un -2.
+
+Si tu objetive está completamente cubierto aun puedes dispararle. Puedes hacer el cálculo de rebotes sobre un -10, pero es necesario que veas al objetivo de alguna forma, por ejemplo, hackeando las cámaras de seguridad y lanzando la señal a alguna pantalla cercana. De esa forma podrás ver su posición y calcular los rebotes.
+
+\saltopagina
 
 ##### Proyectiles para tirachinas
 
@@ -943,11 +951,8 @@ Una de las ventajas de los tirachinas es que **su munición puede ser cualquier 
 
 * **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 al daño.
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
-* **Incendiarias:** Son bolas rellenas de material inflamable. Al impactar solo el daño de la FUE, pero añaden 1d6 de daño de fuego. xxx
-
-\saltopagina
-
-* **Rellenas de pintura:** Son bolas rellenas de una sustancia espesa parecida a pintura negar (o de otros colores) que cuesta mucho desprender. Se usan para marcar objetivos, normalmente con colores chillones, o para cegar sensores de vigilancia, tapando las lentes con esta brea pegajosa. Al impactar solo hacen el daño de la FUE.
+* **Incendiarias:** Son bolas rellenas de material inflamable. Al impactar solo el daño de la FUE, pero añaden 1d6 de daño de fuego y con un 6 en un d6 prenden fuego tus ropas.
+* **Rellenas de pintura:** Son bolas rellenas de una sustancia espesa parecida a pintura negra (o de otros colores) que cuesta mucho desprender. Se usan para marcar objetivos, normalmente con colores chillones, o para cegar sensores de vigilancia, tapando las lentes con esta brea pegajosa. Al impactar solo hacen el daño de la FUE.
 
 #### Aire comprimido
 
@@ -961,8 +966,6 @@ xxx
 
 xxx
 
-
-
 #### Cóctel molotov
 
 Este clásico finlandés no pierde fuerza por mucho que avancen los siglos y la tecnología. Su bajo precio y su gran eficacia no tienen competencia y siempre habrá combustible, tela y recipientes que se rompen al golpear superficies duras.
@@ -970,8 +973,6 @@ Este clásico finlandés no pierde fuerza por mucho que avancen los siglos y la 
 Se pueden preparar, si tienes los componentes, 10 cócteles por horas con una tirada de Reparar exitosa.
 
 Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se ha tirado un cóctel molotov, se recibe 1d10 de daño y con un 5 o 6 en un d6 prenden fuego tus ropas.
-
-\saltocolumna
 
 Hay **tirachinas especiales para el lanzamiento de cócteles que duplican su alcance**, pero en este caso **se usaría Disparar** en vez de Atletismo
 
@@ -982,7 +983,6 @@ xxx
 ### Transporte y comunicación
 
 xxx
-
 
 #### Monturas: Roller skates, skateboards y e-bikes
 
@@ -998,7 +998,7 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 
 |ARMA|DAÑO|DISTANCIA|PESO|COSTE|CDF|FUE MIN.|PA|NOTAS|
 |---|---|---|---|---|---|---|---|
-|Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos|
+|Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos, rebote|
 |Arco compuesto|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
 |Cerbatana de aire comprimido|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
 |Pistola de clavos|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
@@ -1973,6 +1973,8 @@ La arcología se divide en 4 zonas, xxx
 
 ## Zona baja
 
+[![Best buy By GeoKorf](./assests/images/best_buy_by_geokorf_d3712xv-fullview.jpg "Best buy By GeoKorf")](https://www.deviantart.com/geokorf/art/Best-buy-193206307 "Best buy By GeoKorf")
+
 \concolumna
 
 ```
@@ -1983,13 +1985,15 @@ xxx
 
 xxx
 
+\saltocolumna
+
 ### El río Trent
 
 El río Trent es como se conoce una inmensa algafactoría donde se produce la gran mayoría de comida de la arcología. Es una de las industrias más importantes de la arcología y es muy importante para la compañía no solo porque su buen funcionamiento supone el buen funcionamiento del complejo, sino porque también da tremendos beneficios a la empresa.
 
-Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis_ lo más parecido a un río o un mar que hayan visto en su vida. Es tan grande que han tenido que aprovechar habitáculos alrededor del Trent para expandir las piscinas de crecimiento de algas de forma que les peatones pueden pasear entre sus piscinas mientras se mueven por la zona.
+\saltopagina
 
-\saltocolumna
+Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis_ lo más parecido a un río o un mar que hayan visto en su vida. Es tan grande que han tenido que aprovechar habitáculos alrededor del Trent para expandir las piscinas de crecimiento de algas de forma que les peatones pueden pasear entre sus piscinas mientras se mueven por la zona.
 
 > La mayoría de la comida del complejo sale del Trent, con lo que si algo le pasa a la algafactoria puede suponer una gran hambruna sobre todo entre los _curris_.
 
@@ -1999,9 +2003,18 @@ Robert Guthrie es un buhonero/empeñista que se conoce por tener tratos con deli
 
 Aunque tiene una tienda fija ,esta abre y cierra cuando le da la gana. Además puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
 
-\saltopagina
 
 También es un buen lugar donde buscar materiales y productos peligrosos e ilegales. En su almacén (o en su mochila si está fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
+
+\saltocolumna
+
+> Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriete), Guthrie puede llevárselo y traértelo arreglado en unos días.  
+
+### Taller de e-bikes de Noc
+
+xxx
+
+\saltopagina
 
 ### El pozo
 
@@ -2013,11 +2026,13 @@ Se dice que todavía quedan nanitos en su fondo esperando órdenes de trabajo de
 
 El pozo mide unos 20m de diámetro y se desconoce su profundidad, pero todo lo que se lanza dentro desaparece. No sería de extrañar que alguien se deshiciera de cadáveres y/o productos peligrosos en su oscuridad.
 
+\saltocolumna
+
 **Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. Estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo con los restos que se lanzan desde arriba puede ser muy peligroso. Siéntete libre de sacar, zombies tecnificados, aberraciones mutantes o hasta horrores cósmicos. El pozo es la entrada a tus aventuras de todo tipo de seres.
 
 ### Campo de tiro de Gus
 
-En este taller desocupado puedes encontrar todo tipo de dianas y obstáculos y variopintes personajes muy centrados intentando tiros y rebotes imposibles 
+En este taller desocupado puedes encontrar todo tipo de dianas y obstáculos y variopintes personajes muy centrados intentando tiros y rebotes imposibles. 
 
 Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas (y algunos el arco) es casi una filosofía de vida y como si de monjes shaolin se tratará entrenan día y noche para hacer los más increíbles tiros. El tiro con tiragomas es, además, para muches de elles una forma de meditación e iluminación.
 
@@ -2130,10 +2145,6 @@ Pedro se está enriqueciendo a gran velocidad y ha empezado a formar un pequeño
 > Las **bolas de pachinko pueden ser usadas como abrojos**. Tirando un puñado de bolas al suelo, conviertes una casilla en terreno difícil y es imposible correr por esa casilla. Si se tira un cubo lleno de bolas (de los que usan les jugadores para recoger sus premios gordos), se pueden cubrir hasta 5 casillas. También pueden usarse como proyectiles de tirachinas sin ningún tipo de penalización a Disparar o al daño.
 
 ### El correccional
-
-xxx
-
-### Taller de e-bikes de Noc
 
 xxx
 
