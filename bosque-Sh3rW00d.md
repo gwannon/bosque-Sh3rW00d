@@ -268,20 +268,29 @@ El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y
 
 \saltocolumna
 
+### Títulos nobiliarios
+
+Los títulos nobiliarios, principalmente **_lord_, _lady_ y _liege_**, son algo que impuso en su tiempo la directora R1c4rd como una forma de destacar a la gente que había hecho grandes cosas por la comunidad de Nottingham o había destacado en algún ámbito de la cultura, la sociedad y/o la ciencia.
+
+R1c4rd tuvo que modificar elementos del sistema de Nottingham. Entre muchas cosas, el sistema censal del complejo y todo el sistema de realidad virtual y aumentada fue reprogramado para poder registrar los títulos y que cuando se viese su nombre siempre se viera acompañado de su título.
+
+Cuando J0hn accedió al poder trato de quitar esta costumbre, pero le resultó muy complicado erradicarlo del sistema del complejo porque R1c4rd lo hay metido a fuego en el código de funcionamiento del sistema.
+
+Así que tomó el camino fácil, no otorgar ningún título a nadie más, esperando que así se dejara de usar y terminara desapareciendo. El problema es que R1c4rd lo dejo como algo hereditario y cuando murió la primera persona con título nobiliario, un proceso del sistema censal le **otorgo el título a su primogenite automáticamente**.
+
+Como curiosidad, los sistemas de puertas automáticas fueron modificados por la directora R1c4rd para decir tu título al entrar y salir. Esto, a lo largo de los años, ha generalizado el uso de los títulos nobiliarios entre los habitantes de la arcología.
+
+\saltopagina
+
+**Semilla de aventura:** Al revisar tu identificación personal, para tu sorpresa, el sistema te ha otorgado un título nobiliario. ¿Es un error del sistema o puede que seas el hije de alguien importante? 
+
 [![Lovers By Mishkatron](./assests/images/lovers_by_mishkatron_ddjnyhp-pre.jpg "Lovers By Mishkatron")](https://www.deviantart.com/mishkatron/art/Lovers-819090781 "Lovers By Mishkatron")
 
 ### Sexo y género
 
 xxx
 
-### Títulos nobiliarios
-
-Los títulos nobiliarios, principalmente _lord_, _lady_ y _xxx_, son algo que impuso en su tiempo la directora R1c4rd como una forma de destacar a la gente que había hecho grandes cosas por la comunidad de Nottingham o había destacado en algún ámbito de la cultura, la sociedad y/o la ciencia. De hecho, tuvo que modificar el sistema censal del complejo y todo el sistema de realidad virtual y aumentada, para poder registrar los títulos y que cuando se viese su nombre siempre se viera acompañado de su título.
-
-Cuando J0hn accedió al poder trato de quitar esta costumbre, pero le resultó muy complicado porque xxx. Así que tomó el camino fácil, no otorgar ningún título a nadie más esperando que así se dejará de usar y terminara desapareciendo. El problema es que R1c4rd lo dejo como algo hereditario y cuando murió la primera persona con título nobiliario, el sistema censal se lo otorgo a sus descendientes automáticamente. 
-
-xxx
-
+\saltocolumna
 
 \saltopagina
 
