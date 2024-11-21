@@ -2001,8 +2001,7 @@ Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis
 
 Robert Guthrie es un buhonero/empeñista que se conoce por tener tratos con delincuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
 
-Aunque tiene una tienda fija ,esta abre y cierra cuando le da la gana. Además puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
-
+Aunque tiene una tienda fija, esta abre y cierra cuando le da la gana. Además puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
 
 También es un buen lugar donde buscar materiales y productos peligrosos e ilegales. En su almacén (o en su mochila si está fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
 
@@ -2574,13 +2573,13 @@ Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma
 
 ### Greenhouse
 
-Zeyaur Khan construyo hace ya unos años esta especie de invernadero en lo profundo del bosque, tras problemas legales en el complejo de Nottingham. Había encontrado la forma de hacer que un par de variedad de algas crearan cafeína como parte de sus defensas químicas.
+Zeyaur Khan construyó hace ya unos años esta especie de invernadero en lo profundo del bosque, tras problemas legales en el complejo de Nottingham. Había encontrado la forma de hacer que un par de variedad de algas crearan cafeína como parte de sus defensas químicas.
 
-Corta Café empezó comprándole café a un buen precio, pero decidió que robarle el proceso de hacer café era más rentable. Cuando Zeyaur denunció el robo de propiedad intelectual, pero perdió el caso. Para evitarse problemas huyo al bosque y montó su laboratorio en forma de invernadero.
+Corta Café empezó comprándole café a un buen precio, pero decidió que robarle el proceso de hacer café era más rentable. Zeyaur denunció el robo de propiedad intelectual, pero perdió el caso. Para evitarse problemas huyo al bosque y montó su laboratorio en forma de invernadero.
 
 \saltopagina
 
-Todo lo que Zeyaur produce en el invernadero lo vende a los _boskis_ y con ello sobrevive y consigue equipo y materiales. Todos los viernes, abandona el invernadero y va al Gran Roble a vender sus verduras hiperproteínicas, sus infusiones estimulantes y sus famosas algas cafeteras. Sus precios son económicos y puedes scarle una buena cantidad de verduras si le ofreces equipo de laboratorio mderno y en buen estado.
+Todo lo que Zeyaur produce en el invernadero lo vende a los _boskis_ y con ello sobrevive y consigue equipo y materiales. Todos los viernes, abandona el invernadero y va al Gran Roble a vender sus verduras hiperproteínicas, sus infusiones estimulantes y sus famosas algas cafeteras. Sus precios son económicos y puedes sacarle una buena cantidad de verduras si le ofreces equipo de laboratorio moderno y en buen estado.
 
 Es importante destacar que el invernadero está debajo de una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámetro que da directamente al cielo. Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
 
