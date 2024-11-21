@@ -2092,7 +2092,7 @@ El mercadillo nocturno, también conocido como mercadillo de Halloween, se celeb
 
 \saltopagina
 
-Si ves algo que necesitas y tienes algo de lo quieres deshacerte, llamas a la puerta y negocias un trato.
+Si ves algo que necesitas y quieres deshacerte de algo, llamas a la puerta y negocias un trato.
 
 Son muy raras las transacciones en dinero, todo el mundo prefiere que la compañía no meta mano en estas actividades de subsistencia. Son muy pocos los que venden productos ilegales y normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
 
@@ -2697,22 +2697,6 @@ xxx
 > El fraile Tuck suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que Lady Marian se ha enterado y se va a autoinvitar.  
 
 xxx
-
-\saltopagina
-
-\sincolumna
-
-## Semillas de aventuras
-
-\concolumna
-
-```
-xxx
-```
-
-xxx
-
-\saltocolumna
 
 ***
 
