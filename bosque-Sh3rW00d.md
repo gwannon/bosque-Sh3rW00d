@@ -308,7 +308,7 @@ La compañía tiene el control de la justicia y del sistema penal de Nottingham,
 
 La compañía tuvo que establecer una serie de leyes que regirían el funcionamiento de Nottingham cuando adquirió la concesión de construcción y explotación de esta arcología. En general las leyes son bastante normales y parecidas a las actuales, pero con cierta tendencia liberal de proteger al capital y la propiedad privada.
 
-Pero claro, este es un juego de gente fuera de la ley, así que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y John la sustituyo, esto cambio radicalmente.
+Pero claro, este es un juego de gente fuera de la ley, así que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y John la sustituyo, esto cambió radicalmente.
 
 Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay es un escudo social que te pague una ayuda si te quedas sin trabajo o estás enfermo y no puedes trabaja, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabaras en prisión.
 
@@ -1070,7 +1070,7 @@ Gastar avances en más tiempo u otras modificaciones hace que resten 4 puntos a 
 
 **Requisitos:** Novate
 
-**Jerga:** Ve a pagar el recibo de la luz, Muchos kilovatios/hora, Clap Clap Clap (3 palmadas), Funde los plomos 
+**Jerga:** Ve a pagar el recibo de la luz, Muchos kilovatios/hora, Clap, Clap, Clap (3 palmadas), Funde los plomos 
 
 Mediante una mezcla de movimientos captados por los sensores de la iluminación y clics en los mandos de la luz, hacen que la iluminación actúe de las siguientes formas. Debes recordar que no hay fuentes naturales de la luz así que las estancias se quedan completamente a oscuras si se apaga la luz (a falta de otras formas de luz como leds de dispositivos o linternas). No se puede conseguir oscuridad total porque hay luces independientes de emergencia.
 
@@ -1704,7 +1704,6 @@ xxx
 
 xxx
 
-
 ### Hologramas
 
 xxx
@@ -2317,7 +2316,7 @@ La premisa es que en un lugar como Nottingham donde el espacio vacío es un desp
 
 El Bolrum es donde debes ir, si eres alguien en Nottingham. **Es el mayor espacio de ocio del complejo** y el segundo espacio de mayor tamaño después de la Plaza Mayor.
 
-Lo interesante es que no hay nada, absolutamente nada, en sus 60x60x4m. Sus paredes de un blanco inmaculado se funden mediante un efecto óptico con los también inmaculadamente blancos techos y suelo, de forma que no sabes dónde empieza o acaba la sala.
+Lo interesante es que no hay nada, absolutamente nada, en sus 60x60x4 m. Sus paredes de un blanco inmaculado se funden mediante un efecto óptico con los también inmaculadamente blancos techos y suelo, de forma que no sabes dónde empieza o acaba la sala.
 
 A esto se le une que no entra ni sale de esta gran sala ni sonido ni señales electromagnéticas y cuando cierran su puerta está desaparece completamente. Tampoco hay ningún tipo de cámara que registre que pasa dentro. Además, el aire es ionizado de forma que se eliminan todos los olores.
 
@@ -2410,7 +2409,7 @@ Solo a un grupo muy exclusivo de clientes fijes se les ofrece salas especiales c
 
 La otra parte es el SPA que son una gran cantidad de habitáculos donde el personal da los tratamientos. Hablamos de saunas, salas de bañeras calientes y frías, salas con chorros de agua a diferentes potencias, cabinas de masajes, etc.
 
-> Los precios de las habitaciones rondan entre los 200 $ y los 10.000 $ por una noche e incluyen una comida.
+> Los precios de las habitaciones rondan entre los 200 $ y los 10.000 $ por una noche e incluyen una comida.
 
 Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el lugar donde dar tu gran golpe. Aquí pasan buenas temporadas la gente importante con sus séquitos y sus objetos de valor. Y lo último que les preocupa es que les vayan a robar.
 
@@ -2458,7 +2457,7 @@ Y si no puedes permitirte el café de Corta, siempre puedes ponerte tu planta de
 
 #### Baris
 
-Las mesas, los robots camareros y cafetera central del Corta está controlada por una IA polivalente llamada Baris (de barista) cuyas principales funciones son hacer infinitas clases de café, servir las mesas y dar charla a los clientes. Realmente es charla aderezada con una buena ración de coba y peloteo.
+Las mesas, los robots camareros y cafetera central del Café Corta está controlada por una IA polivalente llamada Baris (de barista) cuyas principales funciones son hacer infinitas clases de café, servir las mesas y dar charla a los clientes. Realmente es charla aderezada con una buena ración de coba y peloteo.
 
 Baris tiene un montón de conocimientos generales y es bastante agradable y carismática y la gente que va sola termina hablando con ella de cualquier cosa.
 
@@ -2695,7 +2694,7 @@ xxx
 
 ### Noche de póker
 
-> El fraile Tuck suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que Lady Mariam se ha enterado y se va a autoinvitar.  
+> El fraile Tuck suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que Lady Marian se ha enterado y se va a autoinvitar.  
 
 xxx
 
