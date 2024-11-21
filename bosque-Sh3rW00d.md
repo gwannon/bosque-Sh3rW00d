@@ -225,7 +225,7 @@ xxx
 Todos los años, en el día en que se puso la primera piedra del complejo, se organiza un festival con concurso de disparo con tirachinas con un suculento premio. xxx
 
 #### Fét Gede
-La comunidad haitiana en Nottingham no es especialmente importante pero una de sus tradiciones, el Fét Gede, ha calado muy profundamente en la cultura del complejo. El Fét Ged es el Día de los muertos para los practicantes de la religión vudú. A primeros de noviembre los creyentes salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los _cementerios_ y algunos supuestamente son poseídos por los _gede_, los espíritus de los ancestros muertos.
+La comunidad haitiana en Nottingham no es especialmente importante, pero una de sus tradiciones, el Fét Gede, ha calado muy profundamente en la cultura del complejo. El Fét Gede es el Día de los muertos para los practicantes de la religión vudú. A primeros de noviembre los creyentes salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los _cementerios_ y algunos supuestamente son poseídos por los _gede_, los espíritus de los ancestros muertos.
 
 xxx
 
@@ -278,7 +278,7 @@ Cuando J0hn accedió al poder trato de quitar esta costumbre, pero le resultó m
 
 Así que tomó el camino fácil, no otorgar ningún título a nadie más, esperando que así se dejara de usar y terminara desapareciendo. El problema es que R1c4rd lo dejo como algo hereditario y cuando murió la primera persona con título nobiliario, un proceso del sistema censal le **otorgo el título a su primogenite automáticamente**.
 
-> A nivel de juego, la forma de tener título nobiliario sería escogiendo la ventaja Alcurnia. Pero recuerda que puedes perderlo si te conviertes es une forajide. 
+> En partida la forma de tener título nobiliario sería escogiendo la ventaja Alcurnia. Pero recuerda que puedes perderlo si te conviertes es une forajide. 
 
 \saltopagina
 
@@ -308,11 +308,11 @@ La compañía tiene el control de la justicia y del sistema penal de Nottingham,
 
 La compañía tuvo que establecer una serie de leyes que regirían el funcionamiento de Nottingham cuando adquirió la concesión de construcción y explotación de esta arcología. En general las leyes son bastante normales y parecidas a las actuales, pero con cierta tendencia liberal de proteger al capital y la propiedad privada.
 
-Pero claro, este es un juego de gente fuera de la ley, asi que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y John la sustituyo, esto cambio radicalmente.
+Pero claro, este es un juego de gente fuera de la ley, así que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y John la sustituyo, esto cambio radicalmente.
 
-Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay es un escudo social que te pague una ayuda si te quedas sin trabajo o estas enfermo y no puedes trabaja, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabaras en prisión.
+Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay es un escudo social que te pague una ayuda si te quedas sin trabajo o estás enfermo y no puedes trabaja, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabaras en prisión.
 
-Ademas, el sistema penal es francamente punitivista. Si eres encontrado culpable, pagaras tu deuda con la sociedad con trabajo forzado. La reinserción no está dentro de los objetivos del sistema penal.
+Además, el sistema penal es francamente punitivista. Si eres encontrado culpable, pagaras tu deuda con la sociedad con trabajo forzado. La reinserción no está dentro de los objetivos del sistema penal.
 
 ### Fuera de la ley
 
@@ -320,7 +320,7 @@ Una gran cantidad de les notis que comenten delitos relacionados deudas e impago
 
 En vez de eso, la gente desahuciada o que no puede pagar sus deudas con la compañía cogen sus cosas y parten al bosque donde suelen acabar integrándose en comunidades de _boskis_.
 
-De hecho, les primeres _boskis_ fueron una mezcla de personas que no encajaban o estaban en contra del sistema que trataba de imponer la directora J0hn y las clases más bajas que no podían pagar rentas, impuestos e iban acabar en la indigencia y más tarde en la calle.
+De hecho, les primeres _boskis_ fueron una mezcla de personas que no encajaban o estaban en contra del sistema que trataba de imponer la directora J0hn y las clases más bajas que no podían pagar rentas, impuestos e iban a acabar en la indigencia y más tarde en la calle.
 
 ### Los juicios
 
@@ -356,7 +356,7 @@ La sentencia de muerte se ejecuta por la horca en un cadalso construido ex profe
 
 Los trabajos forzados pueden ser muy variados desde trabajo manual de mantenimiento en cuadrillas vigiladas, trabajo en una cadena de montaje o incluso trabajos más intelectuales como programación delante de un ordenador.
 
-No se explota a los reclusos con jornadas interminables y duros trabajos, pero como lo más bajo de la sociedad no tienen ningún tipo de privilegio y sus instalaciones, sus alimentación y sus cuidados son lo más barato posible. 
+No se explota a los reclusos con jornadas interminables y duros trabajos, pero como lo más bajo de la sociedad no tienen ningún tipo de privilegio y sus instalaciones, su alimentación y sus cuidados son lo más barato posible. 
 
 \saltopagina
 
@@ -937,17 +937,17 @@ El tirachinas se considera una arma distancia pequeña con lo que no tiene penal
 
 ##### Rebotes
 
-El tirachinas permite disparar haciendo rebotes contra el techo y las paredes para alcanzar a gente que esta en cobertura. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño.
+El tirachinas permite disparar haciendo rebotes contra el techo y las paredes para alcanzar a gente que está en cobertura. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño.
 
 Ejemplo: si disparas a una persona detrás un coche (cobertura media -4) puedes hacer un rebote y la el bono de cobertura pasa de -4 a -3 y el daño obtiene un -1. Si hicieras dos rebotes el bono de cobertura pasa de -4 a -2 y el daño obtiene un -2.
 
-Si tu objetive está completamente cubierto aun puedes dispararle. Puedes hacer el cálculo de rebotes sobre un -10, pero es necesario que veas al objetivo de alguna forma, por ejemplo, hackeando las cámaras de seguridad y lanzando la señal a alguna pantalla cercana. De esa forma podrás ver su posición y calcular los rebotes.
+Si tu objetive está completamente cubierto, aún puedes dispararle. Puedes hacer el cálculo de rebotes sobre un -10, pero es necesario que veas al objetivo de alguna forma, por ejemplo, hackeando las cámaras de seguridad y lanzando la señal a alguna pantalla cercana. De esa forma podrás ver su posición y calcular los rebotes.
 
 \saltopagina
 
 ##### Proyectiles para tirachinas
 
-Una de las ventajas de los tirachinas es que **su munición puede ser cualquier cosa**, pelotas de goma, rodamientos de acero, canicas de cristal, etc. Eso también quire decir que se pueden hacer **todo tipo de municiones especiales con diferentes funciones**. 
+Una de las ventajas de los tirachinas es que **su munición puede ser cualquier cosa**, pelotas de goma, rodamientos de acero, canicas de cristal, etc. Eso también quiere decir que se pueden hacer **todo tipo de municiones especiales con diferentes funciones**. 
 
 * **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 al daño.
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
@@ -1612,7 +1612,7 @@ xxx
 
 #### Las instancias
 
-Las grandes IA directoras  y algunas polivalentes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea especifica.
+Las grandes IA directoras y algunas polivalentes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea especifica.
 
 Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
 
@@ -1692,7 +1692,7 @@ En Bosque Sh3rW00d hay otras tecnologías no tan relacionadas con la cibernia qu
 
 xxx
 
-### Clonación y ingeniería genética
+### Clonación e ingeniería genética
 
 xxx
 
@@ -1878,7 +1878,7 @@ En algunos casos te encontrarás algunas opciones de personalización muy simple
 
 ### Artesane
 
-Estamos hablando desde electricistes o albañiles hasta profesiones muy especializadas como impresores 3d o técniques de climatización. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
+Estamos hablando desde electricistes o albañiles hasta profesiones muy especializadas como impresores 3D o técniques de climatización. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Latrocinio d4, Notar d4, Ordenadores d6, Pelear d4, Reparar d8
@@ -1900,7 +1900,7 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 
 ### Cientifique
 
-Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde físiques, químiques, bióloggues, etc. Siempre con batas blancas en impolutos laboratorios llenos material de investigación. 
+Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde físiques, químiques, bióloggues, etc. Siempre con batas blancas en impolutos laboratorios llenos de equipo de investigación. 
 
 \saltopagina
 
@@ -1946,7 +1946,7 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 
 \saltopagina
 
-### Pandillerro
+### Pandillere
 
 xxx
 
@@ -2007,7 +2007,7 @@ También es un buen lugar donde buscar materiales y productos peligrosos e ilega
 
 \saltocolumna
 
-> Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriete), Guthrie puede llevárselo y traértelo arreglado en unos días.  
+> Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriette), Guthrie puede llevárselo y traértelo arreglado en unos días.  
 
 ### Taller de e-bikes de Noc
 
@@ -2023,11 +2023,11 @@ Este gigantesco agujero sin fondo en la base del complejo es la primera estructu
 
 Se dice que todavía quedan nanitos en su fondo esperando órdenes de trabajo de sus dueños, les instaladores. Sin embargo, nadie ha intentado bajar e investigar lo que haya en el fondo, de hecho se considera un lugar maldito que todo el mundo trata de evitar.
 
-El pozo mide unos 20m de diámetro y se desconoce su profundidad, pero todo lo que se lanza dentro desaparece. No sería de extrañar que alguien se deshiciera de cadáveres y/o productos peligrosos en su oscuridad.
+El pozo mide unos 20 m de diámetro y se desconoce su profundidad, pero todo lo que se lanza dentro desaparece. No sería de extrañar que alguien se deshiciera de cadáveres y/o productos peligrosos en su oscuridad.
 
 \saltocolumna
 
-**Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. Estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo con los restos que se lanzan desde arriba puede ser muy peligroso. Siéntete libre de sacar, zombies tecnificados, aberraciones mutantes o hasta horrores cósmicos. El pozo es la entrada a tus aventuras de todo tipo de seres.
+**Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. Estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo con los restos que se lanzan desde arriba puede ser muy peligroso. Siéntete libre de sacar, zombis tecnificados, aberraciones mutantes o hasta horrores cósmicos. El pozo es la entrada a tus aventuras de todo tipo de seres.
 
 ### Campo de tiro de Gus
 
@@ -2107,7 +2107,7 @@ Como en casi todos estos eventos de carácter social han empezado a venir _influ
 
 > Durante las noches de mercadillo se puede tirar Pasillear para encontrar cualquier tipo de producto a un 40/50% de su precio real. Como DJ puedes añadir negativos a la tirada para encontrar artículos más difíciles de localizar o escasos.
 
-**Semilla de aventura:** Une estúpide influencer ha montado un concurso en el mercadillo. Ganará aquella persona que consiga, intercambiando cosas en el mercadillo, el objeto más valioso y raro. Tienen que grabar todas las transacciones y entregárselas al influencer. El premio son 10.000$ y esto ha hecho que la Zona Baja esté llena de gente participando y armando jaleo. Quizás una banda de tunantes podría escarmentar al influencer. Lo que nadie sabe es que todos los videos irán a manos de la directora J0hn que quiere escanear los interiores de las casas de la gente de la Zona Baja. Usando esas grabaciones, podría detectar pisos francos de rebeldes, simpatizantes y otros delincuentes.
+**Semilla de aventura:** Une estúpide influencer ha montado un concurso en el mercadillo. Ganará aquella persona que consiga, intercambiando cosas en el mercadillo, el objeto más valioso y raro. Tienen que grabar todas las transacciones y entregárselas al influencer. El premio son 10.000 $ y esto ha hecho que la Zona Baja esté llena de gente participando y armando jaleo. Quizás una banda de tunantes podría escarmentar al influencer. Lo que nadie sabe es que todos los videos irán a manos de la directora J0hn que quiere escanear los interiores de las casas de la gente de la Zona Baja. Usando esas grabaciones, podría detectar pisos francos de rebeldes, simpatizantes y otros delincuentes.
 
 ### Salón de juegos y pachinko "La olla de oro"
 
@@ -2119,15 +2119,15 @@ Las tragaperras y las máquinas de gachaballs pronto se convirtieron en una inte
 
 Rápidamente, Pedro Gonzalves, el hijo de Marina, al heredar el local, empezó a comprar habitáculos de alrededor para meter más máquinas. Con el tiempo quitó los gachaballs y empezó a meter máquinas de pachinko. 
 
-Hoy en día es un laberinto de unas 20 salas interconectadas entre si con unas 120 máquinas con gente jugando las 24 horas.
+Hoy en día es un laberinto de unas 20 salas interconectadas entre sí con unas 120 máquinas con gente jugando las 24 horas.
 
-> Es tal el ruido que hay en el local que todas las tiradas de **Notar que impliquen el oído tienen un -** La iluminación está atenuada y hay muchas luces brillantes así que **Disparar se ve afectado con un -2** a la tirada por malas condiciones de visibilidad.
+> Es tal el ruido que hay en el local que todas las tiradas de **Notar que impliquen el oído tienen un -2**. La iluminación está atenuada y hay muchas luces brillantes así que **Disparar se ve afectado con un -2** a la tirada por malas condiciones de visibilidad.
 
-El logo del local es una olla de cocción lenta dorada. Pedro quería la típica olla llena de monedas al final del arco iris pero la IA generativa fue muy literal al crear la imagen y dibujó una olla de cocción lenta hecha de oro. El equivoco hizo gracia a Marina que tenía una olla parecida y obligó a Pedro a quedarse con el logo.
+El logo del local es una olla de cocción lenta dorada. Pedro quería la típica olla llena de monedas al final del arco iris, pero la IA generativa fue muy literal al crear la imagen y dibujó una olla de cocción lenta hecha de oro. El equívoco hizo gracia a Marina que tenía una olla parecida y obligó a Pedro a quedarse con el logo.
 
-Pedro tiene una cuadrilla de anuncios humanos que se mueven por el complejo anunciando la sala de juegos con vistosos carteles con pantallas LEDs mostrando las mejores opciones de apuestas. 
+Pedro tiene una cuadrilla de anuncios humanos que se mueven por el complejo anunciando la sala de juegos con vistosos carteles con pantallas LCD mostrando las mejores opciones de apuestas. 
 
-El juego es legal en Nottingham, pero está muy controlado, o debería estarlo. La mayoría de las maquinas de la Olla de Oro están trucadas y la directora J0hn y lo sabe, pero lo permite porque saca réditos de la actividad.
+El juego es legal en Nottingham, pero está muy controlado, o debería estarlo. La mayoría de las máquinas de la Olla de Oro están trucadas y la directora J0hn y lo sabe, pero lo permite porque saca réditos de la actividad.
 
 [![Olla de cocción lenta](./assests/images/crockpot.jpg "Olla de cocción lenta")](https://es.wikipedia.org/wiki/Olla_de_cocci%C3%B3n_lenta#/media/Archivo:Crock_pot_of_chili.jpg "Olla de cocción lenta")
 
@@ -2159,11 +2159,11 @@ Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas 
 
 Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio y tiene a un **equipo de robots comadrejas tomando pruebas de ADN a los restos** para identificarlos y luego etiquetarlos y localizarlos con chips GPS adheridos a las cápsulas de cenizas.
 
-Este cementerio es el sitio más importante en el que se celebra el _fét gede_, **el Día de los muertos en Haití**. En Noviembre el lugar se convierte una extraña fiesta que rinde culto a los espíritus de los muertos.
+Este cementerio es el sitio más importante en el que se celebra el _fét gede_, **el Día de los muertos en Haití**. En noviembre el lugar se convierte una extraña fiesta que rinde culto a los espíritus de los muertos.
 
 \saltopagina
 
-> A pesar de todas las ideas conspiranóicas que corren sobren la identificación de las cenizas, en este caso **las acciones de la directora J0hn no tienen ningún tipo de plan oculto**. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.  
+> A pesar de todas las ideas conspiranoicas que corren sobren la identificación de las cenizas, en este caso **las acciones de la directora J0hn no tienen ningún tipo de plan oculto**. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.  
 
 \saltocolumna
 
@@ -2275,7 +2275,7 @@ La directora J0hn además del zoo, mandó construir un huerto urbano de 20x20m, 
 
 Pero el huerto no solo sirve para limpiar la imagen de la directora, también sirve como laboratorio final de diferentes departamentos científicos de la compañía. De hecho, no es llevado por personal normal de mantenimiento del complejo, sino por botánicos especializados en hidropónica.
 
-> Por unos 200$ (como soborno) puedes conseguir que alguien del personal del huerto te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de DJ). También puedes por 100 $ conseguir frutas u hortalizas por raras que sean y estén o no de temporada.
+> Por unos 200 $ (como soborno) puedes conseguir que alguien del personal del huerto te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de DJ). También puedes por 100 $ conseguir frutas u hortalizas por raras que sean y estén o no de temporada.
 
 **Semilla de aventura:** La última persona que gano las verduras del huerto ha estado unos días comportándose muy raro, con fallos de memoria y ahora presenta ronchas y prurito por todo el cuerpo. Quizás habría que investigar el huerto y ver que trama la directora.
 
@@ -2323,11 +2323,11 @@ A esto se le une que no entra ni sale de esta gran sala ni sonido ni señales el
 
 Su suelo inteligente se mueve ligeramente cuando caminas, de forma que te hace ir en círculos y por más que andes no llegas nunca a encontrarte con la pared.
 
-**Se alquila por horas con un máximo de 4 personas por 1.000$ la hora.** Además, ofrece extras como catering, DJ profesional, etc. 
+**Se alquila por horas con un máximo de 4 personas por 1.000 $ la hora.** Además, ofrece extras como catering, DJ profesional, etc. 
 
 Cuenta también con un modo oscuridad que elimina toda luz, consiguiendo una privación sensorial total.
 
-La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor. Al pagar se abre la puerta y puedes entrar. No se reserva con lo que hay que hacer cola fuera y cuando se acaba el tiempo, se abre la puerta para que salgas. Si permaneces dentro generas una deuda de 50$ el minuto hasta que desalojas el lugar.
+La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor. Al pagar se abre la puerta y puedes entrar. No se reserva con lo que hay que hacer cola fuera y cuando se acaba el tiempo, se abre la puerta para que salgas. Si permaneces dentro generas una deuda de 50 $ el minuto hasta que desalojas el lugar.
 
 \saltopagina
 
@@ -2380,7 +2380,7 @@ Les visitantes van pasando por el pasillo y viendo los ambientes. Pueden entrar 
 
 Las animatrónicas son muy realistas (pelaje, garras, colmillos, respiran, etc.), pero una tirada de **Ciencias podría detectar que tienen ciertos rasgos un poco exagerados** como un excesivo tamaño y brillo de los dientes o posturas más agresivas, como si siempre fueran a saltarte encima.
 
-Cómo muchas cosas que la directora J0hn organiza en Nottingham tiene una cara oculta. La directora usa estos robots en un estudio psicológico y sociológico. Está aprendiendo a crear robots lo más reales posible, tratando de superar el "valle inquietante" y a la vez estudiar como hacerlos más terribles e intimidantes.
+Cómo muchas cosas que la directora J0hn organiza en Nottingham tiene una cara oculta. La directora usa estos robots en un estudio psicológico y sociológico. Está aprendiendo a crear robots increíblemente reales, tratando de superar el "valle inquietante" y a la vez estudiar como hacerlos más terribles e intimidantes.
 
 Todo el zoo está lleno de sensores médicos, que miden muchos indicadores biológicos como temperatura corporal, sudoración, pulso, etc. Programan diferentes rutinas en los animales y **estudian cuáles provocan más miedo en los visitantes**.
 
@@ -2388,7 +2388,7 @@ Todo este estudio plantea **implementarlo en sus sheriffs robóticos** para usar
 
 Nunca se han registrado ataques o fugas, pero según se van implementando nuevas rutinas los fallos aumentan y puede que en un futuro próximo ocurran.
 
-> Si lo deseas, tus animales animatrónicos *pueden tener la capacidad de provocar miedo** siguiendo las reglas del manual básico.
+> Si lo deseas, tus animales animatrónicos **pueden tener la capacidad de provocar miedo** siguiendo las reglas del manual básico.
 
 \saltopagina
 
@@ -2444,7 +2444,7 @@ Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado pa
 
 Café Corta es quizás el café más chic de la arcología. Todos los _blus_ de más alto rango vienen a relajarse al Corta tras sus estresantes jornadas laborales, tomando una taza de café expreso.
 
-Este elegante local con unas 10 mesas bajas y con 2 sillones por mesa está lleno las 24 horas del día de gente adinerada como _blus_ e _influencers_ capaces de pagar 200$ por una taza de café expreso.
+Este elegante local con unas 10 mesas bajas y con 2 sillones por mesa está lleno las 24 horas del día de gente adinerada como _blus_ e _influencers_ capaces de pagar 200 $ por una taza de café expreso.
 
 > Corta es un lugar excelente para hacer negocios (y para tomar a incautos _blus_) tras una buena taza de su excelente café. Puedes conseguir un +2 a las tiradas de Persuadir en temas de negocios y tratos si consigues que te dejen entrar (hay estrictas reglas de etiqueta) y puedes pagar sus precios.
 
@@ -2483,7 +2483,7 @@ En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a par
 
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales.
-* **Equipo:** Una cafetera expreso con capacidad para 16 tazas al mismo tiempo y chorro de vapor, una moledora de algas cafeteras.
+* **Equipo:** Una cafetera express con capacidad para 16 tazas al mismo tiempo y chorro de vapor, una moledora de algas cafeteras.
 
 > **Sugerencia de interpretación:** Eres ese amable camarere que sale en todas las películas que escucha tus problemas mientras te pone una tras otra taza de excelente café y al final resume tu problema y te da la solución con una historia familiar seguramente inventada. Habla muy meloso y con muchos diminutivos y nunca interrumpas a tu interlocutore. 
 
@@ -2587,7 +2587,7 @@ Es importante destacar que el invernadero está debajo de una especie de chimene
 
 Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimientos científicos y de ordenadores.
 
-> Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200$ a la semana** como sueldo.
+> Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200 $ a la semana** como sueldo.
 
 \saltocolumna
 
@@ -3006,7 +3006,7 @@ Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las
 
 xxx
 
-> Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con mucho efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
+> Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
 
 \saltocolumna
 

@@ -4,3 +4,4 @@
 {"rule":"PREP_VERB","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}
 {"rule":"VOSEO","sentence":"^\\QNovate\\E$"}
 {"rule":"VOSEO","sentence":"^\\QNovate\\E$"}
+{"rule":"AGREEMENT_DET_ADJ","sentence":"^\\QTodos los blus de más alto rango vienen a relajarse al Corta tras sus estresantes jornadas laborales, tomando una taza de café expreso.\\E$"}
