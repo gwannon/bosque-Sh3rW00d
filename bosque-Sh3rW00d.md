@@ -1585,7 +1585,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 \concolumna
 
 ```
-xxx
+Las IA son algo muy normal en Nottingham. De hecho, la IA J0hn controla muchísimos aspectos de la vida de os _notis_.
 ```
 
 xxx
@@ -1594,27 +1594,47 @@ En general podemos decir que existen tres tipos de IA, las dedicadas, las dedica
 
 ### IA dedicadas
 
+Las IA dedicadas son IA que solo tiene una función, todo su poder de procesamiento se divide en una sola tarea. Puede tener un gran poder de proceso de solo hacer una tarea. Por ejemplo, la IA de los ascensores y escaleras mecánicas de una zona controla muchos elementos muy importantes, pero solo controla ese elementos, con lo que no se ha desarrollado otras partes de su inteligencia. Por dejarlo claro, solo sabe de administrar los turboascensores, no le preguntes de nada más. 
+
+Una IA dedicada médica podría buscar posible canceres en las radiografías de les pacientes. Solo daría resultados de detectado o no cancer. 
+
 xxx
 
 ### IA dedicadas avanzadas
 
+Las IA dedicadas avanzadas son IA más avanzadas que las anteriores, pero  siguen trabajando sobre un solo elemento. Una IA dedicada avanzada podría no solo gestionar los ascensores, sino también prever posibles aglomeraciones por información que recibe como eventos deportivos y buscar soluciones.
+
+Siguiendo con IA médica anterior, una IA dedicada avanzada médica podría diagnosticar muchos tipos de enfermedades y también dar tratamientos más adecuado.
+
 xxx
 
+\saltopagina
+
 ### IA polivalentes
+
+Son las IA que pueden manejar dos o más actividades y normalmente una de esas actividades es relacionarse con humanos. En el ejemplo del médico podríamos hablar de una IA capaz de hacer diagnósticos de todo tipo de enfermedades físicas y mentales, dr un tratamiento y además poder por ejemplo, dar buenas y malas noticias a les pacientes o llevar una sesión de terapia psicológica.
+
+xxx
+
+### Las directoras
+
+Las directoras podemos considerarlas autenticas IA, son IA polivalentes que controlan muchos elementos (urbanismo, política, contabilidad, marketing, etc.) y pueden relacionarse cara a cara con humanos. Pero a diferencia de las polivalentes han sido alimentadas petabytes de información más o menos interesante para llevar a cabo sus tareas.
+
+Digamos que las directoras son IA polivalentes con conocimientos y experiencia de la que aprenden. su reseteamos a una directora y la dejamos sin recuerdos y conocimientos volvemos a tener una IA polivalente.
 
 xxx
 
 \saltocolumna
 
-### Las directoras
+#### Las instancias
+
+Las grandes IA directoras y algunas polivalentes que empiezan a tener conocimientos y eperiencias importantes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea especifica.
+
+Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
 
 xxx
 
-#### Las instancias
-
-Las grandes IA directoras y algunas polivalentes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea especifica.
-
-Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
+### Creación de IA
 
 xxx
 
@@ -2524,11 +2544,11 @@ El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos,
 
 Solo cuando tiene que enseñar sus conocimientos a otras personas se muestra dejando unos videotutoriales enseñando lo que le has pedido. Aunque la persona que sale en el vídeo está generada por ordenador, la voz siempre es la misma. Siempre amenaza con todo tipo de desgracias a los que revelen sus secretos a terceros.
 
+\saltopagina
+
 **La bruja Harriette es la última de les instalador que quedan en el complejo.** Solo era una aprendiz cuando les instaladores se fueron de Nottingham y la dejaron al cuidado de todo lo que no pudieron llevarse. 
 
 Es por eso que se estableció en la zona actual que era la zona en la que trabajaban cuando tuvieron que irse. El problema es que solo era una neófita y había muchos secretos de les instaladores que desconocía y sigue desconociendo. Con los años los problemas de mantenimiento superaron sus conocimientos y los nanitos empezaron a trabajar por su cuenta creando lo que conocemos como Bosque Sh3rW00d.
-
-\saltopagina
 
 Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superiores al de resto habitantes de Nottingham**. Además dispone todavía de una masa importante de nanitos que aceptan su programación.
 
@@ -2540,21 +2560,19 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 > Basado en una idea de [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
 
-\saltocolumna
-
 ### RLN (Radio libre de Nottingham)
 
 La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un podcast que de una radio tradicional.
 
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
 
-[![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
-
 Cuando no está despotricando de la directora J0hn puede estar haciendo cualquier cosa, desde dar una receta de _plumcake_ o leer poesía, hasta explicar física cuántica o estar una hora haciendo ruidos de pedos o hablando solo con la "i".
+
+Hay gente que guarda en sus dispositivos 18 horas seguidas de lectura de fanfics, algunos subidos de tono, de la famosa saga literaria "La arquera pajarera".
 
 \saltopagina
 
-Hay gente que guarda en sus dispositivos 18 horas seguidas de lectura de fanfics, algunos subidos de tono, de la famosa saga literaria "La arquera pajarera".
+[![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
 Hay por todo el complejo **wifis piratas que repiten la señal de la RLN** para que los programas puedan ser descargados o escuchados en directo en todo el complejo. La directora J0hn suele hacer batidas para acabar con esos wifis, de hecho tiene robots comadrejas especializadas en destruir estos aparatos.
 
@@ -2570,25 +2588,25 @@ Corren rumores sobre quien es Alfonse. Desde que son varias personas que se turn
 
 Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma base que el original, pero a partir de la copia se desarrolla independientemente y tiene su propia programación. Alfonse podría ser una **pieza fundamental en la caída de J0hn y el regreso de R1c4rd**.
 
+\saltopagina
+
 ### Greenhouse
 
 Zeyaur Khan construyó hace ya unos años esta especie de invernadero en lo profundo del bosque, tras problemas legales en el complejo de Nottingham. Había encontrado la forma de hacer que un par de variedad de algas crearan cafeína como parte de sus defensas químicas.
 
 Corta Café empezó comprándole café a un buen precio, pero decidió que robarle el proceso de hacer café era más rentable. Zeyaur denunció el robo de propiedad intelectual, pero perdió el caso. Para evitarse problemas huyo al bosque y montó su laboratorio en forma de invernadero.
 
-\saltopagina
-
 Todo lo que Zeyaur produce en el invernadero lo vende a los _boskis_ y con ello sobrevive y consigue equipo y materiales. Todos los viernes, abandona el invernadero y va al Gran Roble a vender sus verduras hiperproteínicas, sus infusiones estimulantes y sus famosas algas cafeteras. Sus precios son económicos y puedes sacarle una buena cantidad de verduras si le ofreces equipo de laboratorio moderno y en buen estado.
 
 Es importante destacar que el invernadero está debajo de una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámetro que da directamente al cielo. Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
+
+\saltocolumna
 
 > La primera vez que tu banda reciba auténtica luz del día, dales un beni. A veces las cosas sencillas son las más importantes.
 
 Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimientos científicos y de ordenadores.
 
 > Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200 $ a la semana** como sueldo.
-
-\saltocolumna
 
 \saltopagina
 
@@ -2657,6 +2675,8 @@ xxx
 Con la copia de seguridad de R1c4rd, sabiendo que Alfonse es un fork de R1c4rd y los conocimientos de instaladore de la bruja Harriette pueden intentar resucitar a la antigua directora de Nottingham.
 
 xxx
+
+\saltocolumna
 
 \saltopagina
 
@@ -3064,8 +3084,8 @@ Aquí tienes un listado de términos especiales usados en esta ambientación.
 
 \concolumna
 
-* **blus:** xxx
-* **boskis:** habitantes del bosque.
+* **blus:** altes ejecutives de la compañía y de otras empresas menores que controlan con sus decisiones las vidas de la mayoría de les curris.
+* **boskis:** habitantes del bosque que están fuera de la ley.
 * **cuchi:** un tipo de sushi.
 * **curris:** la clase trabajadora de Nottingham.
 * **fork:** copia de un software a partir de la cual se empieza a desarrollar nuevo software normalmente con capacidades diferentes del original.
