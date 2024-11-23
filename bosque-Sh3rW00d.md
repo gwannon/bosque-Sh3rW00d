@@ -2011,11 +2011,13 @@ Es la parte más antigua de la arcología y también la mas abandonada y con má
 
 \saltocolumna
 
-**Nivel de seguridad:** En la zona baja más que nivel de seguridad debemos hablar de nivel de represión institucional. Y en ese caso podemos decir que es excesivamente alta. Eso supone que hay patrullas de sheriffs las 24 horas, haciendo controles aleatorios, detenciones arbitrarias y dando palizas sin razón.
-
-xxx
+**Nivel de seguridad:** En la zona baja más que nivel de seguridad debemos hablar de nivel de represión institucional. Y en ese caso podemos decir que es excesivamente alta. Eso supone que hay patrullas de sheriffs las 24 horas, haciendo controles aleatorios, detenciones arbitrarias y dando palizas sin razón. Sea como sea si hace algo indebido puedes acabar en el calabozo o algo peor.
 
 \saltopagina
+
+Basura, humedad, desconchones, grietas, iluminación pobres y parpadeante y aguas residuales son el día a día de la zona baja. Si a eso se le suma masificación, delincuencia y miseria, tienes la zona baja de Nottingham. Las calles de la zona baja están controladas por pandillas y bandas criminales y sobrevivir en ellas sin servir a ninguno de esos grupos es una autentica proeza.
+
+Lo que has de tener en cuenta en la zona baja es que nadie quiere estar allí, todos quieren escapar a otras zonas o quizás algunos al bosque.
 
 ### El río Trent
 
@@ -2029,8 +2031,6 @@ Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis
 
 Robert Guthrie es un buhonero/empeñista que se conoce por **tener tratos con delincuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas**. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
 
-\saltocolumna
-
 Aunque tiene una tienda fija, esta abre y cierra cuando le da la gana. Además puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
 
 También es un buen **lugar donde buscar materiales y productos peligrosos e ilegales**. En su almacén (o en su mochila si está fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
@@ -2038,11 +2038,13 @@ También es un buen **lugar donde buscar materiales y productos peligrosos e ile
 
 > Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriette), Guthrie puede llevárselo y traértelo arreglado en unos días.
 
+\saltopagina
+
 ### Taller de e-bikes de Noc
 
-xxx
+Noc lleva años reparando las bicicletas eléctricas desde que era un joven xxx
 
-\saltopagina
+xxx
 
 ### El pozo
 
