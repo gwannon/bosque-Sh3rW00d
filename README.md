@@ -47,7 +47,7 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * Mensajería
   * Otras tecnologías
 
-### 0.4 En desarrollo
+### 0.4.1 En desarrollo
 
 * La arcología de Nottingham
   * El mundo actual
@@ -65,6 +65,8 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * El correccional
   * Taller de e-bikes de Noc
   * El Gran Roble (GR)
+
+### 0.4 23/11/2024
 
 * Terminada parte de "Títulos nobiliarios"
 * Terminada localización "Café Corta"
@@ -159,3 +161,7 @@ https://www.deviantart.com/simoneferriero/art/Sleepy-Time-800832062
 https://www.deviantart.com/graffmx/art/For-Jess-347211172
 
 https://www.deviantart.com/gigiedt/art/Basstable-854838940
+
+---
+
+https://www.deviantart.com/batjorge/art/Never-ending-Builds-968998449
