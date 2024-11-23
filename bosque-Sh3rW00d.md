@@ -937,11 +937,11 @@ El tirachinas se considera una arma distancia pequeña con lo que no tiene penal
 
 ##### Rebotes
 
-El tirachinas permite disparar haciendo rebotes contra el techo y las paredes para alcanzar a gente que está en cobertura. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño.
+**El tirachinas permite disparar haciendo rebotes** contra el techo y las paredes **para alcanzar a gente que está en cobertura**. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. **Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño**.
 
-Ejemplo: si disparas a una persona detrás un coche (cobertura media -4) puedes hacer un rebote y la el bono de cobertura pasa de -4 a -3 y el daño obtiene un -1. Si hicieras dos rebotes el bono de cobertura pasa de -4 a -2 y el daño obtiene un -2.
+Ejemplo: si disparas a una persona detrás un coche (cobertura media -4), puedes hacer un rebote y el bono de cobertura pasa de -4 a -3 y el daño obtiene un -1. Si hicieras dos rebotes, el bono de cobertura pasa de -4 a -2 y el daño obtiene un -2.
 
-Si tu objetive está completamente cubierto, aún puedes dispararle. Puedes hacer el cálculo de rebotes sobre un -10, pero es necesario que veas al objetivo de alguna forma, por ejemplo, hackeando las cámaras de seguridad y lanzando la señal a alguna pantalla cercana. De esa forma podrás ver su posición y calcular los rebotes.
+Si tu **objetive está completamente cubierto**, aún puedes dispararle. para calcular la dificultad debes considerar que **tiene cobertura -10**, pero **es necesario que veas al objetivo de alguna forma**, por ejemplo, hackeando las cámaras de seguridad y lanzando la señal a alguna pantalla cercana. De esa forma podrás ver su posición y calcular los rebotes.
 
 \saltopagina
 
@@ -2272,21 +2272,24 @@ Puedes comprar entradas para eventos específicos a la compañía o pagar un abo
 
 > La IA que controla todo el sistema de cámara ha desarrollado con los años ciertos gustos deportivos y tiende a tratar mejor a sus compañeros hinchas que al resto. Si vas con los colores de su equipo, al interactuar con ella recibes un +2 a todas las tiradas en las que interactúes con ella.
 
+
 ### Escuela de danza de Lady Myrna
 
-Lady Myrna es una de las mejores bailarinas de Nottingham y ha bailado para las clases más altas del complejo. En la cima de carrera decidió montar una escuela donde enseñar su arte a las personas que lo aman tanto como ella.
+Lady Myrna es una de las mejores bailarinas de Nottingham y ha bailado para las clases más altas del complejo y de todo el mundo. En la cima de su carrera decidió montar una escuela donde enseñar su arte a las personas que lo aman tanto como ella.
 
-Su escuela, a pesar de lo que podría creerse, está en un gimnasio de la Zona Media que es también su casa. La realidad es que, aunque cobra bien por sus clases, no puede permitirse un local en la Zona Alta con lo que gana como profesora.
+**Lady Myrna es una de las pocas personas que ha salido del complejo** y puede hablarte del mundo fuera del complejo, aunque hay muchas cosas que se inventa. También miente mucho sobre como su familia consiguió su título nobiliario.
 
-En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que sus alumnes usan en sus prácticas. Ha montado un equipo de escenografía (sonido y luces) de gran calidad para las clases.
+Su escuela, a pesar de lo que podría creerse, está en un **gimnasio de la Zona Media, que es también su casa**. La realidad es que, aunque cobra bien por sus clases, no puede permitirse un local en la Zona Alta con lo que gana como profesora.
 
 \saltopagina
 
+En la sala de baile tiene todo tipo de ropajes de sus tiempos como bailarina que sus alumnes usan en sus prácticas. Si rebuscas entre sus prendas, puedes encontrar desde clásicos trajes de ballet con tutú a vestidos de tuberías de plásticos o de látex y parches reflectantes. Si tienes confianza con ella puede que te deje llevarte alguno de sus trajes. También ha montado un equipo de escenografía (sonido y luces) de gran calidad para las clases.
+
 Myrna es muy selectiva, por no decir elitista, sobre a quien enseña todo su arte. Normalmente, no acepta a cualquiera, solo enseña su arte a quien ella cree que lo merece y que tenga según ella "verdadero talento".
 
-A pesar de los avances de la robótica, no ha sido capaz de igualar el arte de las personas que han dedicado su vida a la danza. Es por ello que hay padres y madres con el deseo y el dinero de pagar los precios de Lady Myrna para que sus hijes aprendan danza clásica. 
+A pesar de los avances, la robótica no ha sido capaz de igualar la maestría de las personas que han dedicado su vida a la danza. Es por ello que hay padres y madres con el deseo y el dinero de pagar los precios de Lady Myrna para que sus hijes aprendan danza clásica. 
 
-> **Clases de danza:** Por unos 2500 dólares y dos semanas de entrenamiento intensivo, mejorará tu valor de Interpretación en un nivel de dado cuando bailes. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avances. Para que te acepte en su escuela deberás demostrar que o tienes mucho dinero o eres muy famose o un mínimo de d6 en Interpretación.
+> **Clases de danza:** Por unos **2500 dólares y dos semanas de entrenamiento intensivo**, mejorará tu valor de Interpretación en un nivel de dado cuando bailes. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avances. Para que te acepte en su escuela deberás demostrar que o tienes mucho dinero o eres muy famose o un mínimo de d6 en Interpretación.
 
 ### El huerto urbano
 
@@ -2302,9 +2305,9 @@ Pero el huerto no solo sirve para limpiar la imagen de la directora, también si
 
 En un anexo de la Plaza Mayor tiene Hassan Badreddin su pastelería, la mejor pastelería del complejo. Los Badreddin llevan haciendo las mismas recetas familiares para preparar sus dulces y pasteles desde la creación de Nottingham. Pese a su fama y a la cola que hay todos los días frente a su puerta y que llega hasta la plaza mayor son muy asequibles y hasta les más pobres pueden disfrutar de sus muffins.
 
-Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une blus con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
-
 \saltopagina
+
+Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une blus con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
 
 > Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente la reacción del agasajado sea un nivel menos hostil. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
 
@@ -2317,8 +2320,6 @@ Antiguamente, este acceso estaba cubierto por una sustancia gomosa creada por le
 Esta historia corrió como la pólvora y LEDland se convirtió en un pozo de los deseos. La gente va allí con miniLEDs, busca un espacio libre donde clavar su lucecita y pide un deseo. Si se enciende se cumplirá y si falla (cosas que ocurre muy pocas veces) no se hará realidad.
 
 Corre otra historia, en la que Anette murió en accidente de trabajo a los pocos días de empezar en su nuevo puesto. Hay gente que cree que los deseos de LEDland son peligrosos y pueden volverse contra ti.
-
-\saltocolumna
 
 > Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso y memoria estudiando a la gente que pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en lo sobrenatural y la magia, lo cual es raro para su mente analítica y científica. Si lo de su extraña afición se llegara a conocer, un estafador hábil podría montar un buen golpe contra la directora J0hn usando ese conocimiento.
 

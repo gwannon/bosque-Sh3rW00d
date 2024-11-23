@@ -167,3 +167,5 @@ https://www.deviantart.com/graffmx/art/For-Jess-347211172
 https://www.deviantart.com/gigiedt/art/Marnie-Bass-Guitar-956776087
 
 https://www.deviantart.com/gigiedt/art/Basstable-854838940
+
+https://www.deviantart.com/liea/art/Studio-2042-453321074
