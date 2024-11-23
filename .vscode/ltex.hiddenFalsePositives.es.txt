@@ -7,3 +7,13 @@
 {"rule":"AGREEMENT_DET_ADJ","sentence":"^\\QTodos los blus de más alto rango vienen a relajarse al Corta tras sus estresantes jornadas laborales, tomando una taza de café expreso.\\E$"}
 {"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QPortada PDF por macrovector_official en Freepik\nSilueta arquere encapuchade por Majal Jubanic\nContraportada PDF por Harryarts en Freepik\nPortada 4rc0l061a de Nottingham por starline en Freepik\nPortada Historia Futuristic Circuit Texture By madragonn Creative Commons Attribution 3.0 License\nPortada Cibernia por pvproductions en Freepik\nPortada Directorio por starline en Freepik\nPortada Bestiario por malikadesign en Freepik\nPortada Personas por Freepik en Freepik\nPortada Aventuras por macrovector_official en Freepik\\E$"}
 {"rule":"TU_TILDE","sentence":"^\\QSi tu objetive está completamente cubierto, aún puedes dispararle.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QLos pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une blus con el que vas a firmar un contrato.\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\Q5 Las cámaras de vídeo fallan y le arbitre no puede intervenir el resto del partido.\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QLe arbitre anula la ronda y nadie gana puntos.\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\Q2 El partido es suspendido por le arbitre.\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\Q6 Le arbitre amonesta a une jugadore al azar del equipo con menos puntos y no le quita ojo.\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\Q7/8/9 Sin efecto\nJ Le arbitre amonesta a une jugadore al azar del equipo con más puntos y no le quita ojo.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\Q7/8/9 Sin efecto\nJ Le arbitre amonesta a une jugadore al azar del equipo con más puntos y no le quita ojo.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\Q6 Le arbitre amonesta a une jugadore al azar del equipo con menos puntos y no le quita ojo.\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QSi se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción (Notar e Investigar), ya que estarás más preocupado en que no te vigilen y espíen las IA que en vigilar o buscar a tus objetivos.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEn caso de empate, se jugarán rondas extras a muerte súbita.\\E$"}

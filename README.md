@@ -124,8 +124,6 @@ https://www.deviantart.com/sokoistrying/art/Ethan-860101986
 
 https://www.deviantart.com/cyberaeon/art/Sage-705811083
 
-https://www.deviantart.com/fernand0fc/art/Implacable-770378489
-
 https://www.deviantart.com/fernand0fc/art/Wasteland-explorer-784789759
 
 https://www.deviantart.com/fernand0fc/art/A-guy-with-a-heated-powerglove-689920233
@@ -136,8 +134,6 @@ https://www.deviantart.com/anthrokim/art/Sapoong-character-artbook-Mouse-8751118
 
 https://www.deviantart.com/meg-james/art/Always-onto-the-next-thing-877215494
 
-https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535
-
 https://www.deviantart.com/meg-james/art/Head-for-the-hills-611429081
 
 https://www.deviantart.com/zandoarts/art/The-Crystal-Choreographer-739964865
@@ -147,8 +143,6 @@ https://www.deviantart.com/netunokinoart/gallery
 https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505
 
 https://www.deviantart.com/mishkatron/art/Hyperpop-977410817
-
-https://www.deviantart.com/mishkatron/art/Slaughteress-2019-784620826
 
 https://www.deviantart.com/geokorf/art/Dasha-Pop-Girl-682564793
 
@@ -164,8 +158,4 @@ https://www.deviantart.com/simoneferriero/art/Sleepy-Time-800832062
 
 https://www.deviantart.com/graffmx/art/For-Jess-347211172
 
-https://www.deviantart.com/gigiedt/art/Marnie-Bass-Guitar-956776087
-
 https://www.deviantart.com/gigiedt/art/Basstable-854838940
-
-https://www.deviantart.com/liea/art/Studio-2042-453321074

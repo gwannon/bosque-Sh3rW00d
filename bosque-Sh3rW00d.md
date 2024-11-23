@@ -186,6 +186,10 @@ Por desgracia, puede tocarte un simulacro de incendios en cualquier parte y acab
 
 xxx
 
+\saltopagina
+
+[![Marnie Bass Guitar By gigiEDT](./assests/images/marnie_bass_guitar_by_gigiedt_dftn15j-414w-2x.jpg "SMarnie Bass Guitar By gigiEDT")](https://www.deviantart.com/gigiedt/art/Marnie-Bass-Guitar-956776087 "Marnie Bass Guitar By gigiEDT")
+
 ### Ocio y entretenimiento
 
 xxx
@@ -194,7 +198,15 @@ xxx
 
 La base de la gastronomía se basa en las algas producidas y procesadas en la algafactoria del Trent. A partir de estas algas se crean todo tipo de productos alimenticios como formas y sabores muy variados.
 
+\saltocolumna
+
 \saltopagina
+
+\sincolumna
+
+[![Studio 2042 By liea](./assests/images/studio_2042_by_liea_d7hw8s2-pre.jpg "Studio 2042 By liea")](https://www.deviantart.com/liea/art/Studio-2042-453321074 "Studio 2042 By liea")
+
+\concolumna
 
 El precio de estos productos de alga es relativamente bajo y accesible a todos los bolsillos. En teoría tienen todo lo necesario para una dieta saludable, pero hay estudios que dicen lo contrario.
 
@@ -203,6 +215,8 @@ Mientras que la gente mayor prefiere la comida con forma y sabor a carnes y verd
 En respuesta a todo esto, bastantes grupos alternativos han empezado a dar gran importancia a los cultivos hidropónicos para cultivar tu propia comida en casa y se ha hecho muy popular, tener varias plantas de frutas y hortalizas. Todos estos productos frescos se han convertido en parte de la economía de trueque y las semillas se han convertido en objetos muy valiosos.
 
 Cómo ya hemos dicho otras veces, en el bosque es todo al revés, los productos frescos hidropónicos son la base de la alimentación al no tener un acceso directo a las algas. De hecho los sheriffs vigilan muy mucho los almacenes y las fábricas de productos y suministros hidropónicos porque saben que los _boskis_ suelen atacarlos.
+
+\saltopagina
 
 Los restaurantes en la zona baja y media en su mayoría son como _ramen shops_, una barra sobre la que comen 3 o 4 personas y detrás de la barra un cocinero y su cocina. Los restaurantes de la zona alta son ya mucho más grandes y lujosos, aunque siguen teniendo pocas mesas y tratan de trabajar mucho con productos hidropónicos comprados a los _notis_.
 
@@ -220,8 +234,6 @@ xxx
 
 xxx
 
-\saltopagina
-
 Todos los años, en el día en que se puso la primera piedra del complejo, se organiza un festival con concurso de disparo con tirachinas con un suculento premio. xxx
 
 #### Fét Gede
@@ -232,6 +244,8 @@ xxx
 ### Deporte
 
 El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecnologías, hablamos de bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hierba. También son famosos los concursos de baile acrobáticos y las competiciones de tiro con tirachinas. 
+
+\saltopagina
 
 #### Hockey de pasillo
 
@@ -251,8 +265,6 @@ Debido al poco espacio del campo, los partidos son arbitrados desde fuera usando
 
 El juego es más de habilidad para moverse entre espacios pequeños, de saber mover la bola y aprovechar los rebotes que de fuerza física, ya que no hay espacio para golpear a tu contrincante con el stick o para coger carrerilla.
 
-\saltopagina
-
 Reglamento general:
 
 * Solo se puede tocar la pelota con el stick.
@@ -264,9 +276,9 @@ Hay gran cantidad de equipos amateurs en la arcología, pero solos 12 profesiona
 
 El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y la sombra de los amaños siempre ha sobrevolado el hockey de pasillo profesional.
 
-**Semilla de aventura:** Un pequeño equipo de hockey de pasillo ha dado el campanazo este año, pueden hasta ganar la liga. Pero necesitan guardaespaldas que les protejan, ya que hay gente que quiere impedir que lleguen a la final.
+\saltopagina
 
-\saltocolumna
+**Semilla de aventura:** Un pequeño equipo de hockey de pasillo ha dado el campanazo este año, pueden hasta ganar la liga. Pero necesitan guardaespaldas que les protejan, ya que hay gente que quiere impedir que lleguen a la final.
 
 ### Títulos nobiliarios
 
@@ -280,8 +292,6 @@ Así que tomó el camino fácil, no otorgar ningún título a nadie más, espera
 
 > En partida la forma de tener título nobiliario sería escogiendo la ventaja Alcurnia. Pero recuerda que puedes perderlo si te conviertes es une forajide. 
 
-\saltopagina
-
 Como curiosidad, los sistemas de puertas automáticas fueron modificados por la directora R1c4rd para decir tu título al entrar y salir. Esto, a lo largo de los años, ha generalizado el uso de los títulos nobiliarios entre los habitantes de la arcología.
 
 **Semilla de aventura:** Al revisar tu identificación personal, para tu sorpresa, el sistema te ha otorgado un título nobiliario. ¿Es un error del sistema o puede que seas el hije de alguien importante? 
@@ -291,8 +301,6 @@ Como curiosidad, los sistemas de puertas automáticas fueron modificados por la 
 ### Sexo y género
 
 xxx
-
-\saltocolumna
 
 \saltopagina
 
@@ -577,7 +585,7 @@ Como ya hemos dicho, no hay animales, **Vinculo Animal y Señor de las bestias t
 
 ### Idiomas
 
-El inglés es el idioma predominante en Nottingham, asi que es no hay problemas de comunicación entre personas y máquinas. Puede encontrarse libros u objetos con textos en otros idiomas, pero no debería ser difícil conseguir traducciones más o menos buenas.
+El inglés es el idioma predominante en Nottingham, así que es no hay problemas de comunicación entre personas y máquinas. Puede encontrarse libros u objetos con textos en otros idiomas, pero no debería ser difícil conseguir traducciones más o menos buenas.
 
 > Empiezas con la habilidad **Idioma Inglés a nivel de tu Astucia y un d4 en Idioma Leet**.
 
@@ -941,7 +949,7 @@ El tirachinas se considera una arma distancia pequeña con lo que no tiene penal
 
 Ejemplo: si disparas a una persona detrás un coche (cobertura media -4), puedes hacer un rebote y el bono de cobertura pasa de -4 a -3 y el daño obtiene un -1. Si hicieras dos rebotes, el bono de cobertura pasa de -4 a -2 y el daño obtiene un -2.
 
-Si tu **objetive está completamente cubierto**, aún puedes dispararle. para calcular la dificultad debes considerar que **tiene cobertura -10**, pero **es necesario que veas al objetivo de alguna forma**, por ejemplo, hackeando las cámaras de seguridad y lanzando la señal a alguna pantalla cercana. De esa forma podrás ver su posición y calcular los rebotes.
+Si tu **objetive está completamente cubierto**, aún puedes dispararle. Para calcular la dificultad debes considerar que **tiene cobertura -10**, pero **es necesario que veas al objetivo de alguna forma**, por ejemplo, hackeando las cámaras de seguridad y lanzando la señal a alguna pantalla cercana. De esa forma podrás ver su posición y calcular los rebotes.
 
 \saltopagina
 
@@ -1120,7 +1128,7 @@ Cada espacio del complejo tiene un generador de realidad aumentada que otorga a 
 
 * **Presencia cercana de otro instaladore,** lo cual no es útil porque se fueron todes.
 
-* **Genera datos aleatorios de tí** de forma que según los dispositivos de realidad aumentada eres otra persona. El resto de usuarios no verán tus datos reales. Los sistemas de seguridad no funcionan con los de realidad aumentada y siguen reconociéndote.
+* **Genera datos aleatorios de ti** de forma que según los dispositivos de realidad aumentada eres otra persona. El resto de usuarios no verán tus datos reales. Los sistemas de seguridad no funcionan con los de realidad aumentada y siguen reconociéndote.
 * El _modo instalador_ **agrega a una capa extra de información** que les instaladores usaban para su trabajo, principalmente un inventario de los objetos de la zona estableciendo cuanto llevaban allí y cuando se realizó el último mantenimiento. Puede usarse, por ejemplo, para saber si una alcantarilla lleva mucho tiempo sin abrirse o cuanto lleva una pared llena de grafitis sin limpiarse. Como DJ, puedes añadir datos extras a las descripciones, al activar este modo. Esos datos puedan ser usados como pistas por tu banda.
 
 ### Controlar puertas
@@ -1362,7 +1370,7 @@ Si alguien tiene una pifia en disparar hiere a su objetivo (tirada de daño real
 
 ***
 
-# c1I3ern1a **Cibernia**
+# C1I3ern1a **Cibernia**
 
 \sincolumna
 
@@ -1594,17 +1602,17 @@ En general podemos decir que existen tres tipos de IA, las dedicadas, las dedica
 
 ### IA dedicadas
 
-Las IA dedicadas son IA que solo tiene una función, todo su poder de procesamiento se divide en una sola tarea. Puede tener un gran poder de proceso de solo hacer una tarea. Por ejemplo, la IA de los ascensores y escaleras mecánicas de una zona controla muchos elementos muy importantes, pero solo controla ese elementos, con lo que no se ha desarrollado otras partes de su inteligencia. Por dejarlo claro, solo sabe de administrar los turboascensores, no le preguntes de nada más. 
+Las IA dedicadas son IA que solo tiene una función, todo su poder de procesamiento se divide en una sola tarea. Puede tener un gran poder de proceso de solo hacer una tarea. Por ejemplo, la IA de los ascensores y escaleras mecánicas de una zona controla muchos elementos muy importantes, pero solo controla ese elemento, con lo que no se ha desarrollado otras partes de su inteligencia. Por dejarlo claro, solo sabe de administrar los turboascensores, no le preguntes de nada más. 
 
-Una IA dedicada médica podría buscar posible canceres en las radiografías de les pacientes. Solo daría resultados de detectado o no cancer. 
+Una IA dedicada médica podría buscar posibles cánceres en las radiografías de les pacientes. Solo daría resultados de detectado o no cáncer. 
 
 xxx
 
 ### IA dedicadas avanzadas
 
-Las IA dedicadas avanzadas son IA más avanzadas que las anteriores, pero  siguen trabajando sobre un solo elemento. Una IA dedicada avanzada podría no solo gestionar los ascensores, sino también prever posibles aglomeraciones por información que recibe como eventos deportivos y buscar soluciones.
+Las IA dedicadas avanzadas son IA más avanzadas que las anteriores, pero siguen trabajando sobre un solo elemento. Una IA dedicada avanzada podría no solo gestionar los ascensores, sino también prever posibles aglomeraciones por información que recibe como eventos deportivos y buscar soluciones.
 
-Siguiendo con IA médica anterior, una IA dedicada avanzada médica podría diagnosticar muchos tipos de enfermedades y también dar tratamientos más adecuado.
+Siguiendo con IA médica anterior, una IA dedicada avanzada médica podría diagnosticar muchos tipos de enfermedades y también dar tratamientos más adecuados.
 
 xxx
 
@@ -1612,15 +1620,15 @@ xxx
 
 ### IA polivalentes
 
-Son las IA que pueden manejar dos o más actividades y normalmente una de esas actividades es relacionarse con humanos. En el ejemplo del médico podríamos hablar de una IA capaz de hacer diagnósticos de todo tipo de enfermedades físicas y mentales, dr un tratamiento y además poder por ejemplo, dar buenas y malas noticias a les pacientes o llevar una sesión de terapia psicológica.
+Son las IA que pueden manejar dos o más actividades y normalmente una de esas actividades es relacionarse con humanos. En el ejemplo del médico podríamos hablar de una IA capaz de hacer diagnósticos de todo tipo de enfermedades físicas y mentales, dar un tratamiento y además poder por ejemplo, dar buenas y malas noticias a les pacientes o llevar una sesión de terapia psicológica.
 
 xxx
 
 ### Las directoras
 
-Las directoras podemos considerarlas autenticas IA, son IA polivalentes que controlan muchos elementos (urbanismo, política, contabilidad, marketing, etc.) y pueden relacionarse cara a cara con humanos. Pero a diferencia de las polivalentes han sido alimentadas petabytes de información más o menos interesante para llevar a cabo sus tareas.
+Las directoras podemos considerarlas auténticas IA, son IA polivalentes que controlan muchos elementos (urbanismo, política, contabilidad, marketing, etc.) y pueden relacionarse cara a cara con humanos. Pero a diferencia de las polivalentes han sido alimentadas petabytes de información más o menos interesante para llevar a cabo sus tareas.
 
-Digamos que las directoras son IA polivalentes con conocimientos y experiencia de la que aprenden. su reseteamos a una directora y la dejamos sin recuerdos y conocimientos volvemos a tener una IA polivalente.
+Digamos que las directoras son IA polivalentes con conocimientos y experiencia de la que aprenden. Si reseteamos a una directora y la dejamos sin recuerdos y conocimientos volvemos a tener una IA polivalente.
 
 xxx
 
@@ -1628,7 +1636,7 @@ xxx
 
 #### Las instancias
 
-Las grandes IA directoras y algunas polivalentes que empiezan a tener conocimientos y eperiencias importantes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea especifica.
+Las grandes IA directoras y algunas polivalentes que empiezan a tener conocimientos y experiencias importantes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea especifica.
 
 Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
 
@@ -1658,7 +1666,7 @@ Un hecho importante a tener en cuenta es que los nanitos no entienden a los sere
 
 Por decirlo de forma sencilla, cuando construyen una casa, la casa no se queja, ni está todo el rato moviéndose y cambiando de tamaño y forma y si lo hace es dentro de un entorno controlable. 
 
-Así pues el uso de nanitos en entidades biológicas está reservado a la experimentación en laboratorios y todavía no habido grandes avances en esta tecnología. Salvo cosas muy puntuales como reparación de huesos o estimular de ciertas glándulas. En ambos casos los nanorobots solo tienen una única tarea y es muy simple, con lo que no les genera gran problema.   
+Así pues el uso de nanitos en entidades biológicas está reservado a la experimentación en laboratorios y todavía no habido grandes avances en esta tecnología. Salvo cosas muy puntuales como reparación de huesos o estimular de ciertas glándulas. En ambos casos los nanorobots solo tienen una única tarea y es muy simple, con lo que no les genera gran problema.
 
 \saltocolumna
 
@@ -1740,7 +1748,6 @@ xxx
 
 ## Secuaces
 
-
 [![Slaughteress 2019 By Mishkatron](./assests/images/slaughteress_2019_by_mishkatron_dcz55ay-pre.jpg "Slaughteress 2019 By Mishkatron")](https://www.deviantart.com/mishkatron/art/Slaughteress-2019-784620826 "Slaughteress 2019 By Mishkatron")
 
 \concolumna
@@ -1812,7 +1819,7 @@ xxx
 \concolumna
 
 ```
-Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y lanzarte.  
+Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y lanzarte.
 ```
 
 xxx
@@ -1919,7 +1926,7 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 
 ### Cientifique
 
-Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde físiques, químiques, bióloggues, etc. Siempre con batas blancas en impolutos laboratorios llenos de equipo de investigación. 
+Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde físiques, químiques, biólogues, etc. Siempre con batas blancas en impolutos laboratorios llenos de equipo de investigación. 
 
 \saltopagina
 
@@ -1964,6 +1971,8 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
 \saltopagina
+
+[![Implacable By Fernand0FC](./assests/images/implacable_by_fernand0fc_dcqnvuh-pre.jpg "Implacable By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Implacable-770378489 "Implacable By Fernand0FC")
 
 ### Pandillere
 
@@ -2016,7 +2025,7 @@ Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis
 
 > La mayoría de la comida del complejo sale del Trent, con lo que si algo le pasa a la algafactoria puede suponer una gran hambruna sobre todo entre los _curris_.
 
-### The premises
+### The premise
 
 Robert Guthrie es un buhonero/empeñista que se conoce por tener tratos con delincuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
 
@@ -2026,7 +2035,7 @@ También es un buen lugar donde buscar materiales y productos peligrosos e ilega
 
 \saltocolumna
 
-> Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriette), Guthrie puede llevárselo y traértelo arreglado en unos días.  
+> Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriette), Guthrie puede llevárselo y traértelo arreglado en unos días.
 
 ### Taller de e-bikes de Noc
 
@@ -2168,7 +2177,7 @@ xxx
 
 ### El cementerio haitiano
 
-Aunque los enterramientos están prohibidos en la arcología y solo se permite la incineración, las familias haitianas tienden a crear espacios comunes donde dejan las cápsulas contenedoras de cenizas. Decoran estas zonas siguiendo las tradiciones con **velas, guirnaldas y flores y dejan ofrendas** en ellas a los ancestros. Pero las nuevas generaciones traen también sus **capsulas personalizadas impresas en 3D** (forma de gato, de micrófono, de pikachumon, etc.), **tiras LED, mini reproductores de música, imágenes holográficas**, etc. Estos cementerios improvisados son muy importantes para les vecines y suelen ser vigilados por gente de la comunidad.   
+Aunque los enterramientos están prohibidos en la arcología y solo se permite la incineración, las familias haitianas tienden a crear espacios comunes donde dejan las cápsulas contenedoras de cenizas. Decoran estas zonas siguiendo las tradiciones con **velas, guirnaldas y flores y dejan ofrendas** en ellas a los ancestros. Pero las nuevas generaciones traen también sus **cápsulas personalizadas impresas en 3D** (forma de gato, de micrófono, de pikachumon, etc.), **tiras LED, mini reproductores de música, imágenes holográficas**, etc. Estos cementerios improvisados son muy importantes para les vecines y suelen ser vigilados por gente de la comunidad.
 
 \saltocolumna
 
@@ -2182,7 +2191,7 @@ Este cementerio es el sitio más importante en el que se celebra el _fét gede_,
 
 \saltopagina
 
-> A pesar de todas las ideas conspiranoicas que corren sobren la identificación de las cenizas, en este caso **las acciones de la directora J0hn no tienen ningún tipo de plan oculto**. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.  
+> A pesar de todas las ideas conspiranoicas que corren sobren la identificación de las cenizas, en este caso **las acciones de la directora J0hn no tienen ningún tipo de plan oculto**. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.
 
 \saltocolumna
 
@@ -2206,7 +2215,7 @@ xxx
 
 ### Plaza Mayor
 
-[![Mike Grauer 1980s shopping mall. water fountain. p By Mackingster](./assests/images/mike_grauer_1980s_shopping_mall__water_fountain__p_by_mackingster_dfaiiu3-fullview.jpg "Mike Grauer 1980s shopping mall. water fountain. p By Mackingster")](https://www.deviantart.com/mackingster/art/Mike-Grauer-1980s-shopping-mall-water-fountain-p-924653019 "Mike Grauer 1980s shopping mall. water fountain. p By Mackingster")
+[![Mike Grauer 1980s shopping mall, water fountain, p By Mackingster](./assests/images/mike_grauer_1980s_shopping_mall__water_fountain__p_by_mackingster_dfaiiu3-fullview.jpg "Mike Grauer 1980s shopping mall, water fountain, p By Mackingster")](https://www.deviantart.com/mackingster/art/Mike-Grauer-1980s-shopping-mall-water-fountain-p-924653019 "Mike Grauer 1980s shopping mall, water fountain, p By Mackingster")
 
 \concolumna
 
@@ -2307,7 +2316,7 @@ En un anexo de la Plaza Mayor tiene Hassan Badreddin su pastelería, la mejor pa
 
 \saltopagina
 
-Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une blus con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
+Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une _blus_ con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
 
 > Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente la reacción del agasajado sea un nivel menos hostil. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
 
@@ -2418,7 +2427,7 @@ El balneario de Bath es el centro de ocio y entretenimiento más importante de t
 
 Empezó siendo un pequeño balneario donde los ricos e influyentes de Nottingham "tomaban las aguas" y recibían sesiones de rehabilitación. Con los años ha ido creciendo hasta convertirse en casi un resort vacacional.
 
-Hay varios ambientes que simulan desde un onsen japonés o una terma romana o, incluso con proyecciones de video, una paradisíaca playa de arena fina. Les trajadores de esas zonas visten adecuados a la ambientación y los tratamientos también van en función de la ambientación. Digamos que el rigor histórico no ha sido importante a la hora de diseñar espacios, útiles, uniformes y demás.
+Hay varios ambientes que simulan desde un onsen japonés o una terma romana o, incluso con proyecciones de video, una paradisíaca playa de arena fina. Les trabajadores de esas zonas visten adecuados a la ambientación y los tratamientos también van en función de la ambientación. Digamos que el rigor histórico no ha sido importante a la hora de diseñar espacios, útiles, uniformes y demás.
 
 El spa está formado por dos zonas, la de hotel con cientos de habitaciones más o menos lujosas. La comida es siempre servida en la habitación, ya que no disponen de un gran comedor. De hecho, lo normal es que los huéspedes hagan vida en sus habitaciones y solo salgan a los tratamientos, momento en que se limpian sus habitaciones.
 
@@ -2470,7 +2479,7 @@ Este elegante local con unas 10 mesas bajas y con 2 sillones por mesa está llen
 
 Hace unos años Café Corta fue denunciado por robo de propiedad intelectual del método de producción de café. Café Corta consiguió ganar este largo litigio y ahora mismo ostenta los derechos totales de cualquier procedimiento que haga que las algas produzcan cafeína. Esto les asegura que serán los únicos productores de café natural a gran escala en Nottingham.
 
-Y si no puedes permitirte el café de Corta, siempre puedes ponerte tu planta de café en tu casa con un sistema hidropónico y disfrutarlo tranquilamente en tu habitáculo vivienda.  
+Y si no puedes permitirte el café de Corta, siempre puedes ponerte tu planta de café en tu casa con un sistema hidropónico y disfrutarlo tranquilamente en tu habitáculo vivienda.
 
 \saltocolumna
 
@@ -2525,7 +2534,7 @@ xxx
 
 xxx
 
-El importante recalcar que el bosque es en su mayoría una gran extensión llena de columnas, no es fácil encontrar muchas de las localizaciones que se presentan en este punto y sin conocer el camino o guiado por alguien es muy difícil que alguien las encuentre. 
+Es importante recalcar que el bosque es en su mayoría una gran extensión llena de columnas, no es fácil encontrar muchas de las localizaciones que se presentan en este punto y sin conocer el camino o guiado por alguien es muy difícil que alguien las encuentre. 
 
 ### El Gran Roble (GR)
 
@@ -2729,7 +2738,7 @@ En este capítulo vamos a ver todos les personajes principales que pueblan la ar
 
 Recuerda que tode PJ con este símbolo &#35; en su nombre son considerades comodines, con todo lo que ello conlleva.
 
-Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura, no la mia.
+Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura, no la mía.
 
 ## Lady Marian, lideresa del bosque &#35;
 
@@ -3006,6 +3015,8 @@ xxx
 
 \concolumna
 
+[![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.png "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
+
 Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. La gente ya no necesitaba.
 
 xxx
@@ -3093,7 +3104,7 @@ Aquí tienes un listado de términos especiales usados en esta ambientación.
 * **glitch de la mañana:** amanecer
 * **glitch de la noche:** anochecer
 * **notis:** ciudadanes que viven en la arcología Nottingham.
-* **superusuario:** también llamado _root_, se refiere en un sistema informático al usuarie más poderose con capacidades especiales.
+* **superusuario:** también llamado _root_, se refiere en un sistema informático a le usuarie más poderose con capacidades especiales.
 
 \saltocolumna
 
