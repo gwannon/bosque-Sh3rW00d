@@ -2214,7 +2214,7 @@ La zona media es la zona industrial y comercial del complejo. Aquí están las f
 
 \saltocolumna
 
-**Nivel de seguridad:** xxx
+**Nivel de seguridad:** el nivel de seguridad de esta zona es la más baja de toda la arcología, principalmente porque es no son los bajos fondos que hay que controlar, ni la zona alta que debe ser protegida. Además la propia idiosincrasia no quiere que haya mucha policía, la gente viene a gastar y a divertirse y gasta menos si está vigilada.
 
 xxx
 
@@ -2402,7 +2402,7 @@ El pescado está hecho a base de algas, como toda la comida en la arcología, pe
 La zona alta es de acceso exclusivo de los clases altas, les _blus_ y _les influencers_. Los _curris- solo entran aquí para trabajar en las casas de les riques.
 ```
 
-**Nivel de seguridad:** xxx
+**Nivel de seguridad:** La zona alta tiene la seguridad más alta y también la menos detectable. Hay sistemas de seguridad en todas las calles, escaleras, habitáculos, etc. Es casi imposible moverse sin ser detectado e identificado y en caso de ser peligrose, detenido y encarcelado. Los sheriffs aquí solo se ven cuando van a actuar, mientras que en otras zonas patrullan de forma disuasorio.
 
 xxx
 
@@ -2424,13 +2424,13 @@ Cómo muchas cosas que la directora J0hn organiza en Nottingham tiene una cara o
 
 Todo el zoo está lleno de sensores médicos, que miden muchos indicadores biológicos como temperatura corporal, sudoración, pulso, etc. Programan diferentes rutinas en los animales y **estudian cuáles provocan más miedo en los visitantes**.
 
+\saltopagina
+
 Todo este estudio plantea **implementarlo en sus sheriffs robóticos** para usarlo en funciones como interrogatorio o control de masas.
 
 Nunca se han registrado ataques o fugas, pero según se van implementando nuevas rutinas los fallos aumentan y puede que en un futuro próximo ocurran.
 
 > Si lo deseas, tus animales animatrónicos **pueden tener la capacidad de provocar miedo** siguiendo las reglas del manual básico.
-
-\saltopagina
 
 ### El balneario de Bath
 
@@ -2446,8 +2446,6 @@ Se pueden reservar habitáculos para reuniones donde hacer actividades comercial
 
 Solo a un grupo muy exclusivo de clientes fijes se les ofrece salas especiales como mazmorras sexuales o salas para ceremonias religiosas.
 
-\saltocolumna
-
 La otra parte es el SPA que son una gran cantidad de habitáculos donde el personal da los tratamientos. Hablamos de saunas, salas de bañeras calientes y frías, salas con chorros de agua a diferentes potencias, cabinas de masajes, etc.
 
 > Los precios de las habitaciones rondan entre los 200 $ y los 10.000 $ por una noche e incluyen una comida.
@@ -2456,9 +2454,9 @@ Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el
 
 A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
 
-**Semilla de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les blus asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
-
 \saltopagina
+
+**Semilla de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les blus asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
 
 ### Feria de Nottingham
 
@@ -2476,9 +2474,9 @@ Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado pa
 
 > Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reírse en la cara de la directora J0hn y sus sheriffs.
 
-**Semilla de aventura:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famoso vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
-
 \saltopagina
+
+**Semilla de aventura:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famoso vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
 
 ### Café Corta
 
@@ -2492,8 +2490,6 @@ Hace unos años Café Corta fue denunciado por robo de propiedad intelectual del
 
 Y si no puedes permitirte el café de Corta, siempre puedes ponerte tu planta de café en tu casa con un sistema hidropónico y disfrutarlo tranquilamente en tu habitáculo vivienda.
 
-\saltocolumna
-
 > La verdad de la historia de Café Corta es que robo la receta original a un biólogo llamado Zeyaur Khan y consiguió arruinarle durante el pleito por los derechos de la fórmula del café. Antes de dar con sus huesos en la cárcel, Zeyaur Khan huyo al bosque donde montó un invernadero en el que sigue estudiando las algas y como mejorar su producción, su sabor y sus beneficios alimentarios.
 
 #### Baris
@@ -2502,11 +2498,11 @@ Las mesas, los robots camareros y cafetera central del Café Corta está control
 
 Baris tiene un montón de conocimientos generales y es bastante agradable y carismática y la gente que va sola termina hablando con ella de cualquier cosa.
 
+\saltopagina
+
 El **avatar básico** en el café tanto en los LCD de las mesas como en realidad aumentada es **una joven barista con delantal**. Pero según conoce al cliente adapta su avatar a sus preferencias. De hecho, está programada para conocer a sus clientes y poder seguirles el _rollo_ en sucesivas visitas como si fuera una especie de amiga.
 
 Lo que no previeron sus creadores es que esto le permitiría interpretar e investigar las conversaciones que tiene con los clientes y extrapolar y deducir cosas a partir de ellas.
-
-\saltopagina
 
 [![Yellow coffee By gigiEDT](./assests/images/yellow_coffee__by_gigiedt_de7ghzd-fullview.jpg "Yellow coffee By gigiEDT")](https://www.deviantart.com/gigiedt/art/Yellow-coffee-859053577 "Yellow coffee By gigiEDT")
 
@@ -2518,9 +2514,6 @@ En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a par
 * **Habilidades:** Conocimientos generales d12+4, Humanidades d6, Investigar d8, Notar d6, Persuadir d8
 * **Desventajas:** Obligaciones (mayor, trabaja 24 horas al día en Café Corta)
 * **Ventajas:** Carismática
-
-\saltocolumna
-
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales.
 * **Equipo:** Una cafetera express con capacidad para 16 tazas al mismo tiempo y chorro de vapor, una moledora de algas cafeteras.
