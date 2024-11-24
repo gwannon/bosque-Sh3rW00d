@@ -144,8 +144,6 @@ https://www.deviantart.com/zandoarts/art/The-Crystal-Choreographer-739964865
 
 https://www.deviantart.com/netunokinoart/gallery
 
-https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505
-
 https://www.deviantart.com/mishkatron/art/Hyperpop-977410817
 
 https://www.deviantart.com/geokorf/art/Dasha-Pop-Girl-682564793

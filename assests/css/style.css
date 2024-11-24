@@ -303,8 +303,13 @@ img:not(section:first-of-type img, section:nth-of-type(2) img) {
   margin: 0 calc(var(--padding) * 0.4);
   clip-path: polygon(0px 25px, 26px 0px, calc(60% - 25px) 0px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px)  calc(100% - 10px), calc(80% - 15px) calc(100% - 0px), 10px  calc(100% - 0px), 0% calc(100% - 10px));
   background-color: var(--black-color);
-  max-width: calc(100% - (var(--padding) * 0.8));
+  max-width: 100%;
   box-sizing: border-box;
+  margin: 0px 0px 0px 0px;
+}
+
+section > .columns:nth-child(even) > p img:not(section:first-of-type img, section:nth-of-type(2) img) {
+  clip-path: polygon(0% 25px, 40% 25px, calc(40% + 12px) 12px, 50% 12px, calc(50% + 12px) 0px, calc(100% - 25px) 0px, 100% 25px, 100% 100%, 70% 100%,  calc(70% - 10px) calc(100% - 10px), 30% calc(100% - 10px), calc(30% - 10px) 100%, 10px 100%, 0% calc(100% - 10px));
 }
 
 section:nth-of-type(odd) img:not(section:first-of-type img, section:nth-of-type(2) img) {
@@ -338,7 +343,7 @@ pre > code {
   border-left: 5px solid var(--black-color);
   border-bottom: 24px solid var(--black-color);
   padding: 5px;
-  clip-path: polygon(0px 25px, 26px 0px, calc(60% - 25px) 0px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px) calc(100% - 10px), calc(80% - 15px) 100%, 80px calc(100% - 0px), 65px calc(100% - 15px), 0% calc(100% - 15px));
+  clip-path: polygon(0px 25px, 20% 25px, calc(20% + 25px) 0px, calc(60% - 25px) 0px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px) calc(100% - 10px), calc(80% - 15px) 100%, calc(40% + 80px) calc(100% - 0px), calc(40% + 65px) calc(100% - 15px), 0% calc(100% - 15px));
   background-color: var(--yellow-color);
   font-size: 1.2rem;
   position: relative;
@@ -646,6 +651,13 @@ section h1 + .saltopagina:after {
   margin-right: 5px;
 }
 
+.columns > *:first-child:not(p.seed),
+.saltocolumna + *,
+.saltocolumna + blockquote > p {
+  margin-top: 0;
+  padding-top: 0;
+}
+
 /* Media Query */
 
 @media print {
@@ -658,12 +670,6 @@ section h1 + .saltopagina:after {
     height: 0px;
     padding: 0;
     margin: 0;
-  }
-  
-  .saltopagina + .columns > *:first-child:not(p.seed),
-  .saltocolumna + * {
-    margin-top: 0;
-    padding-top: 0;
   }
 
   @page {
@@ -746,6 +752,10 @@ section h1 + .saltopagina:after {
 /* ------------------------------------------------------------------------------ */
 
 @media screen {
+  .columns {
+    columns: 2;
+  }
+  
   body > section:nth-of-type(3) {
     padding: var(--padding) 0px;
     box-sizing: border-box;
