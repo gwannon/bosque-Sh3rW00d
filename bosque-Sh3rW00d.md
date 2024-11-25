@@ -92,6 +92,8 @@ xxx
 
 xxx
 
+Los boskis tienen un dicho que explica su forma de opensar _En el bosque tienes un nombre y es solo tuyo._
+
 \saltopagina
 
 \sincolumna
@@ -2209,20 +2211,20 @@ xxx
 \concolumna
 
 ```
-La zona media es la zona industrial y comercial del complejo. Aquí están las fabricas, los talleres y también las tiendas y los restaurantes. en ella viven las clases medias que buscan ascender a la zona alta y es el punto en que las personas de la zonas altas y bajas se juntan, pero no se mezclan.
+La zona media es la zona industrial y comercial del complejo. Aquí están las fabricas, los talleres y también las tiendas y los restaurantes. En ella viven las clases medias que buscan ascender a la zona alta y es el punto en que las personas de la zonas altas y bajas se juntan, pero no se mezclan.
 ```
-
-\saltocolumna
 
 **Nivel de seguridad:** el nivel de seguridad de esta zona es la más baja de toda la arcología, principalmente porque es no son los bajos fondos que hay que controlar, ni la zona alta que debe ser protegida. Además la propia idiosincrasia no quiere que haya mucha policía, la gente viene a gastar y a divertirse y gasta menos si está vigilada.
 
-xxx
+\saltocolumna
+
+La zona media es la zona económica del complejo. Cómo ya hemos dicho están las fabricas, los talleres, las tiendas y las tabernas y restaurantes. Si vienes aquí es para trabajar o para gastar dinero. Es por ello que muchos, esta zona es perfecta para una banda proscrites que empiezan den sus primeros golpes. La zona medía supone mucho dinero, mucha gente y menos vigilancia y seguridad de lo normal.
+
+También es el lugar de disfrutar de tus golpes bebiendo, comiendo, cantando y bailando mientras tu cara no salga en las pantallas LCD en un anuncio de se busca. Cuando eso ocurra la zona media se convertirá en un lugar peligroso para tu banda.
 
 \sincolumna
 
 ### Plaza Mayor
-
-[![Mike Grauer 1980s shopping mall, water fountain, p By Mackingster](./assests/images/mike_grauer_1980s_shopping_mall__water_fountain__p_by_mackingster_dfaiiu3-fullview.jpg "Mike Grauer 1980s shopping mall, water fountain, p By Mackingster")](https://www.deviantart.com/mackingster/art/Mike-Grauer-1980s-shopping-mall-water-fountain-p-924653019 "Mike Grauer 1980s shopping mall, water fountain, p By Mackingster")
 
 \concolumna
 
@@ -2230,19 +2232,25 @@ La Plaza Mayor es **la estancia abierta más grande de la arcología** aun así 
 
 Tiene una simulación de cielo que muestra un día soleado y totalmente despejado y una noche demasiado estrellada. No hay ni puesta ni salida de sol. Simplemente glitchea unos segundos y pasa de noche a día o viceversa. 
 
-\saltocolumna
 
 De hecho, les notis, tienen dos expresiones "glitch de la mañana" y "glitch de la noche" para hablar del alba o del ocaso.
 
 Hay _notis_, sobre todo de la parte baja del complejo donde los espacios son más pequeños, que sufren agorafobia y son incapaces de atravesarla.
-
-\saltopagina
 
 La Plaza Mayor es el km cero de la mayoría de las rutas de turbo ascensores que permiten llegar a todas las esquinas del complejo. Eso hace que tenga siempre un montón de tráfico de peatones.
 
 Alrededor de la plaza hay todo tipo de tiendas, puestos de comida, tabernas, etc. en general de nivel medio/alto. Suelen estar bastante abarrotadas, ya que siempre hay algún tipo de oferta o rebajas activas.
 
 Como siempre fuera de las tiendas hay portacarteles publicitando los productos de determinadas tiendas haciendo todo tipo de malabares, acrobacias, canciones, repartiendo muestras gratuitas, etc.
+
+\saltopagina
+
+\sincolumna
+
+[![Mike Grauer 1980s shopping mall, water fountain, p By Mackingster](./assests/images/mike_grauer_1980s_shopping_mall__water_fountain__p_by_mackingster_dfaiiu3-fullview.jpg "Mike Grauer 1980s shopping mall, water fountain, p By Mackingster")](https://www.deviantart.com/mackingster/art/Mike-Grauer-1980s-shopping-mall-water-fountain-p-924653019 "Mike Grauer 1980s shopping mall, water fountain, p By Mackingster")
+
+\concolumna
+
 
 #### El espacio de descanso
 
@@ -2262,9 +2270,11 @@ Los dólmenes hoy en día están totalmente vandalizados con grafitis, textos gr
 
 #### La gran pantalla
 
-En un uno de los laterales de la plaza hay una gran pantalla de unos 30x10m donde la directora J0hn hace sus apariciones y publica sus edictos. Esta pantalla es vandalizada continuamente con pintadas, pegatinas, globos de pintura. De hecho, hay varias bandas cuyo rito de entrada es estropear alguna manera esa gran pantalla.
+En un uno de los laterales de la plaza hay una gran pantalla de unos 30x10m donde la directora J0hn hace sus apariciones y publica sus edictos.
 
 \saltopagina
+
+Esta pantalla es vandalizada continuamente con pintadas, pegatinas, globos de pintura. De hecho, hay varias bandas cuyo rito de entrada es estropear alguna manera esa gran pantalla.
 
 La directora J0hn, cuando hace sus apariciones públicas en eta pantalla, lo hace como una especie de ser de energía de silueta femenina sobre un fondo negro con patrones geométricos luminosos.
 
@@ -2397,9 +2407,11 @@ El pescado está hecho a base de algas, como toda la comida en la arcología, pe
 La zona alta es de acceso exclusivo de los clases altas, les _blus_ y _les influencers_. Los _curris- solo entran aquí para trabajar en las casas de les riques.
 ```
 
-**Nivel de seguridad:** La zona alta tiene la seguridad más alta y también la menos detectable. Hay sistemas de seguridad en todas las calles, escaleras, habitáculos, etc. Es casi imposible moverse sin ser detectado e identificado y en caso de ser peligrose, detenido y encarcelado. Los sheriffs aquí solo se ven cuando van a actuar, mientras que en otras zonas patrullan de forma disuasorio.
+**Nivel de seguridad:** La zona alta tiene la seguridad más alta y también la menos detectable. Hay sistemas de seguridad en todas las calles, escaleras, habitáculos, etc. Es casi imposible moverse sin ser detectado e identificado y en caso de ser peligrose, detenido y encarcelado. Los sheriffs aquí solo se ven cuando van a actuar, mientras que en otras zonas patrullan de forma disuasoria.
 
-xxx
+La zona más exclusiva del complejo es claramente la más deseada, a la que aspiran llegar a todes, pero está vetada solo para aquelles que la directora J0hn decide que se lo merecen.
+
+Los pasillos están impolutos y huelen a limpio y el equipamiento está nuevo y no da fallos. Los habitáculos son más grandes que en resto de los complejos y todo da sensación de amplitud. Si has vivido en la zona baja esto es el cielo, es todo lo que soñabas de niñe.
 
 ### El zoo de la directora J0hn
 
@@ -2537,11 +2549,11 @@ El bosque es la parte del complejo que se dejo a medio construir debido a la mar
 
 **Nivel de seguridad:** A pesar de lo que pueda pensarse el nivel de seguridad del bosque es bastante alto, principalmente para protegerse de los sheriffs y sus secuaces. Los boskis tienen patrullan que vigilan las zonas que habitan en el bosque y en caso de detectar intrusos, los siguen, los estudian para saber si son amigos o enemigos y deciden si dejarlos pasar o tenderles una emboscada. Cuanto más cerca del Gran Roble más posibilidades de encontrarse con una patrulla.
 
-xxx
-
-Es importante recalcar que el bosque es en su mayoría una gran extensión llena de columnas, huecos para ascensores, suelos y techos sin rematar, etc. Esto hace que no sea fácil encontrar muchas de las localizaciones que se presentan en este punto. Sin conocer el camino o guiado por alguien es muy difícil que alguien las encuentre. 
+El bosque es un mundo aparte. Radicalmente opuesto al resto del complejo. Grandes espacios, poca gente y poca o ninguna tecnología. Todos tienes que hacerlo tu misme pero a la vez eres libre de hacerlo como quieras, no hay IA directoras que te diga si puedes o no hacer algo y cómo debes hacerlo. La vida en el bosque es dura, pero en cierto modo es satisfactoría.
 
 \saltopagina
+
+Es importante recalcar que el bosque es en su mayoría una gran extensión llena de columnas, huecos para ascensores, suelos y techos sin rematar, etc. Esto hace que no sea fácil encontrar muchas de las localizaciones que se presentan en este punto. Sin conocer el camino o guiado por alguien es muy difícil que alguien las encuentre. 
 
 ### El Gran Roble (GR)
 
@@ -2565,9 +2577,9 @@ Solo cuando tiene que enseñar sus conocimientos a otras personas se muestra dej
 
 Es por eso que se estableció en la zona actual que era la zona en la que trabajaban cuando tuvieron que irse. El problema es que solo era una neófita y había muchos secretos de les instaladores que desconocía y sigue desconociendo. Con los años los problemas de mantenimiento superaron sus conocimientos y los nanitos empezaron a trabajar por su cuenta creando lo que conocemos como Bosque Sh3rW00d.
 
-Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superiores al de resto habitantes de Nottingham**. Además dispone todavía de una masa importante de nanitos que aceptan su programación.
-
 \saltopagina
+
+Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superiores al de resto habitantes de Nottingham**. Además dispone todavía de una masa importante de nanitos que aceptan su programación.
 
 > Harriette está muy muy mayor y sabe que le quedan pocos años de vida es por ellos que busca alguien que reciba sus conocimientos y se quede cuidando de sus artilugios instaladores y sus nanitos. Cualquier persona con Electrónica d6 y Ordenadores d6 y que conozca algún hackeo de les instaladores podría ser la elegida.
 
@@ -2577,6 +2589,8 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 > Basado en una idea de [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
 
+\saltocolumna
+
 ### RLN (Radio libre de Nottingham)
 
 La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un podcast que de una radio tradicional.
@@ -2585,23 +2599,21 @@ La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a 
 
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
 
+\saltopagina
+
 Cuando no está despotricando de la directora J0hn puede estar haciendo cualquier cosa, desde dar una receta de _plumcake_ o leer poesía, hasta explicar física cuántica o estar una hora haciendo ruidos de pedos o hablando solo con la "i".
 
 Hay gente que guarda en sus dispositivos 18 horas seguidas de lectura de fanfics, algunos subidos de tono, de la famosa saga literaria "La arquera pajarera".
-
-\saltopagina
 
 Hay por todo el complejo **wifis piratas que repiten la señal de la RLN** para que los programas puedan ser descargados o escuchados en directo en todo el complejo. La directora J0hn suele hacer batidas para acabar con esos wifis, de hecho tiene robots comadrejas especializadas en destruir estos aparatos.
 
 Sin embargo, en pocos días aparecen nuevos para sustituir a los destruidos, ya que mucha gente tiene descargadas las instrucciones para montar los repetidores de señal a partir de piezas de desguace y software libre y por muy poco dinero.
 
+> Si consiguen las **claves de encriptación de los wifis, tu banda podría emitir un mensaje por todo la arcología**. El mensaje que puede ser vídeo, audio, software, incluso un virus informático podría llegar a un 30% de la población del complejo, que escucha la RLN.
+
 Alfonse acepta preguntas en directo de todo tipo y las respuestas suelen ser bastante acertadas y sensatas, lo que le he convertido es una especie de consejero o coach para mucha gente que le va con sus problemas en busca de consejo.
 
 > Puedes usar a Alfonse como una especie de oráculo para cuando tu banda se pierda y no sepa como seguir, pero recuérdales que este debería ser su último recurso. Si tu banda está cerca de un wifi (algo a tu elección como DJ) pueden conectarse e intentar entrar en contacto con Alfonse y preguntarle algo. El que vaya a preguntar deberá **gastar todos sus benis, mínimo 1, para conseguir entrar en antena y poder preguntar**. Cómo DJ podrás responderles a su pregunta y darles una pista para continuar su aventura.
-
-\saltocolumna
-
-> Si consiguen las **claves de encriptación de los wifis, tu banda podría emitir un mensaje por todo la arcología**. El mensaje que puede ser vídeo, audio, software, incluso un virus informático podría llegar a un 30% de la población del complejo, que escucha la RLN.
 
 Corren rumores sobre quien es Alfonse. Desde que son varias personas que se turnan para hacer el programa hasta que es une instaladore que se quedó en el complejo. La realidad es que **Alfonse es una IA al nivel de las directoras**, exactamente un _fork_ muy joven de la directora R1c4rd.
 
@@ -2613,6 +2625,8 @@ Zeyaur Khan construyó hace ya unos años esta especie de invernadero en lo prof
 
 \saltopagina
 
+[![Gardening by freepik](./assests/images/gardening.jpg "Gardening by freepik")](https://www.freepik.com/free-photo/gardening_3580401.htm "Digital Gardening by freepik")
+
 Corta Café empezó comprándole café a un buen precio, pero decidió que robarle el proceso de hacer café era más rentable. Zeyaur denunció el robo de propiedad intelectual, pero perdió el caso. Para evitarse problemas huyo al bosque y montó su laboratorio en forma de invernadero.
 
 Todo lo que Zeyaur produce en el invernadero lo vende a los _boskis_ y con ello sobrevive y consigue equipo y materiales. Todos los viernes, abandona el invernadero y va al Gran Roble a vender sus verduras hiperproteínicas, sus infusiones estimulantes y sus famosas algas cafeteras. Sus precios son económicos y puedes sacarle una buena cantidad de verduras si le ofreces equipo de laboratorio moderno y en buen estado.
@@ -2621,11 +2635,11 @@ Es importante destacar que el invernadero está debajo de una especie de chimene
 
 Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
 
+\saltocolumna
+
 > La primera vez que tu banda reciba auténtica luz del día, dales un beni. A veces las cosas sencillas son las más importantes.
 
 Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimientos científicos y de ordenadores.
-
-\saltocolumna
 
 > Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200 $ a la semana** como sueldo.
 
