@@ -92,7 +92,7 @@ xxx
 
 xxx
 
-Los boskis tienen un dicho que explica su forma de opensar _En el bosque tienes un nombre y es solo tuyo._
+Los boskis tienen un dicho que explica su forma de pensar _En el bosque tienes un nombre y es solo tuyo._
 
 \saltopagina
 
@@ -2031,6 +2031,8 @@ Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis
 
 > La mayoría de la comida del complejo sale del Trent, con lo que **si algo le pasa a la algafactoria puede suponer una gran hambruna** sobre todo entre los _curris_.
 
+\saltocolumna
+
 ### The premise
 
 Robert Guthrie es un buhonero/empeñista que se conoce por **tener tratos con delincuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas**. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
@@ -2042,11 +2044,11 @@ También es un buen **lugar donde buscar materiales y productos peligrosos e ile
 
 > Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriette), Guthrie puede llevárselo y traértelo arreglado en unos días.
 
-\saltopagina
-
 ### Taller de e-bikes de Noc
 
-Noc lleva años reparando las bicicletas eléctricas desde que era un joven xxx
+Noc lleva años reparando las bicicletas eléctricas desde que tiene recuerdo. Siempre ha estado rodeado de herramientas y ebikes. 
+
+\saltopagina
 
 xxx
 
@@ -2330,11 +2332,11 @@ Pero el huerto no solo sirve para limpiar la imagen de la directora, también si
 
 ### Pastelería Badreddin
 
-En un anexo de la Plaza Mayor tiene Hassan Badreddin su pastelería, la mejor pastelería del complejo. Los Badreddin llevan haciendo las mismas recetas familiares para preparar sus dulces y pasteles desde la creación de Nottingham. Pese a su fama y a la cola que hay todos los días frente a su puerta y que llega hasta la plaza mayor son muy asequibles y hasta les más pobres pueden disfrutar de sus muffins.
+En un anexo de la Plaza Mayor tiene Hassan Badreddin su pastelería, **la mejor pastelería del complejo.** Los Badreddin llevan haciendo las mismas recetas familiares para preparar sus dulces y pasteles desde la creación de Nottingham. Pese a su fama y a la cola que hay todos los días frente a su puerta y que llega hasta la Plaza Mayor son muy asequibles y hasta les más pobres pueden disfrutar de sus muffins.
 
-Los pasteles de Hassan puede ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une _blus_ con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
+Los pasteles de Hassan pueden ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une _blus_ con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
 
-> Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente la reacción del agasajado sea un nivel menos hostil. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
+> Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente **la reacción de le agasajade sea un nivel menos hostil**. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
 
 ### LEDland
 
@@ -2549,7 +2551,7 @@ El bosque es la parte del complejo que se dejo a medio construir debido a la mar
 
 **Nivel de seguridad:** A pesar de lo que pueda pensarse el nivel de seguridad del bosque es bastante alto, principalmente para protegerse de los sheriffs y sus secuaces. Los boskis tienen patrullan que vigilan las zonas que habitan en el bosque y en caso de detectar intrusos, los siguen, los estudian para saber si son amigos o enemigos y deciden si dejarlos pasar o tenderles una emboscada. Cuanto más cerca del Gran Roble más posibilidades de encontrarse con una patrulla.
 
-El bosque es un mundo aparte. Radicalmente opuesto al resto del complejo. Grandes espacios, poca gente y poca o ninguna tecnología. Todos tienes que hacerlo tu misme pero a la vez eres libre de hacerlo como quieras, no hay IA directoras que te diga si puedes o no hacer algo y cómo debes hacerlo. La vida en el bosque es dura, pero en cierto modo es satisfactoría.
+El bosque es un mundo aparte. Radicalmente opuesto al resto del complejo. Grandes espacios, poca gente y poca o ninguna tecnología. Todos tienes que hacerlo tu misme pero a la vez eres libre de hacerlo como quieras, no hay IA directoras que te diga si puedes o no hacer algo y cómo debes hacerlo. La vida en el bosque es dura, pero en cierto modo es satisfactoria.
 
 \saltopagina
 
@@ -3174,6 +3176,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada Bestiario por malikadesign](https://www.freepik.es/vector-gratis/cartel-futurista-retro-cyberpunk-ilustracion-vectorial_30526493.htm) en Freepik
 * [Portada Personas por Freepik](https://www.freepik.com/free-vector/abstract-green-pixel-rain-background_6082050.htm) en Freepik
 * [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
+* [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
 
 \saltocolumna
 
