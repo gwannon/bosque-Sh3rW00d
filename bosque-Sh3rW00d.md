@@ -2350,6 +2350,8 @@ Los pasteles de Hassan pueden ser un regalo perfecto para congraciarte con las m
 
 > Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente **la reacción de le agasajade sea un nivel menos hostil**. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
 
+Hassan y sus empleades deján los pasteles enfriar en el alfeizar de una de las ventanas del local, como han hecho sus antepasados desde hace siglos, no solo para atraer a la clientela con el buen olor, sino también para que la gente sin dinero y con hambre pueda "robarlos".
+
 ### LEDland
 
 LEDland es uno de los pasillos de acceso a la Plaza Mayor. Recibe el nombre de los miles de leds que cubren sus paredes y techos. Despide tanta luz que tienes que usar gafas con cristales tintados para pasar (-2 a Disparar y Notar si no llevas gafas de sol).
@@ -2825,6 +2827,8 @@ xxx
 
 \concolumna
 
+[![A guy with a heated powerglove By Fernand0FC](./assests/images/a_guy_with_a_heated_powerglove_by_fernand0fc_dberdux-414w-2x.jpg "A guy with a heated powerglove By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/A-guy-with-a-heated-powerglove-689920233 "A guy with a heated powerglove By Fernand0FC")
+
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -2969,6 +2973,8 @@ xxx
 ## Esther, tabernera del Albión &#35;
 
 \concolumna
+
+[![Dasha (Pop Girl) By GeoKorf](./assests/images/dasha__pop_girl__by_geokorf_dbadqd5-pre.jpg "Dasha (Pop Girl) By GeoKorf")](https://www.deviantart.com/geokorf/art/Dasha-Pop-Girl-682564793 "Dasha (Pop Girl) By GeoKorf")
 
 xxx
 
