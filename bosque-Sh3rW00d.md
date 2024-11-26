@@ -2056,13 +2056,7 @@ También es un buen **lugar donde buscar materiales y productos peligrosos e ile
 
 > Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriette), Guthrie puede llevárselo y traértelo arreglado en unos días.
 
-### Taller de e-bikes de Noc
-
-Noc lleva años reparando las bicicletas eléctricas desde que tiene recuerdo. Siempre ha estado rodeado de herramientas y ebikes. 
-
 \saltopagina
-
-xxx
 
 ### El pozo
 
@@ -2073,6 +2067,8 @@ Este gigantesco agujero sin fondo en la base del complejo es la primera estructu
 Se dice que todavía quedan nanitos en su fondo esperando órdenes de trabajo de sus dueños, les instaladores. Sin embargo, nadie ha intentado bajar e investigar lo que haya en el fondo, de hecho se considera un lugar maldito que todo el mundo trata de evitar.
 
 El pozo mide unos 20 m de diámetro y se desconoce su profundidad, pero todo lo que se lanza dentro desaparece. No sería de extrañar que alguien se deshiciera de cadáveres y/o productos peligrosos en su oscuridad.
+
+\saltocolumna
 
 **Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. Estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo con los restos que se lanzan desde arriba puede ser muy peligroso. Siéntete libre de sacar, zombis tecnificados, aberraciones mutantes o hasta horrores cósmicos. El pozo es la entrada a tus aventuras de todo tipo de seres.
 
@@ -2148,7 +2144,9 @@ Según se cuenta, está tradición viene de otra más antigua llamada Halloween 
 
 Con los años ha habido gente que ha pasado de montar el mercadillo para deshacerse del excedente de lo que producía en casa, a montar auténticas tiendas abiertas todos los días.
 
-Como en casi todos estos eventos de carácter social han empezado a venir _influencers_ a hacer reels de esta costumbre de la gente humilde de la Zona Baja. El problema es que están afectando al orden natural del mercado al pagar mucho dinero por cosas que no lo valen o acaparando toda la producción de un producto, subiendo su precio y haciendo que no sean accesibles a los bolsillos más pobres. Hace años las _fantarinas_ se compraban por otras frutas pieza por pieza. Desde que se pusieron de moda en cócteles de lujo, su precio ronda 1 a 7.
+Como en casi todos estos eventos de carácter social han empezado a venir _influencers_ a hacer reels de esta costumbre de la gente humilde de la Zona Baja. El problema es que están afectando al orden natural del mercado al pagar mucho dinero por cosas que no lo valen o acaparando toda la producción de un producto, subiendo su precio y haciendo que no sean accesibles a los bolsillos más pobres.
+
+Hace años las _fantarinas_ se compraban por otras frutas pieza por pieza. Desde que se pusieron de moda en cócteles de lujo, su precio ronda 1 a 7. Y como las _fantarinas_ hay cada vez más productos de primera necesidad cuyo precio está ahora desorbitado por la acción de las clases altas.
 
 \saltocolumna
 
@@ -2204,17 +2202,39 @@ Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas 
 
 Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio y tiene a un **equipo de robots comadrejas tomando pruebas de ADN a los restos** para identificarlos y luego etiquetarlos y localizarlos con chips GPS adheridos a las cápsulas de cenizas.
 
-Este cementerio es el sitio más importante en el que se celebra el _fét gede_, **el Día de los muertos en Haití**. En noviembre el lugar se convierte una extraña fiesta que rinde culto a los espíritus de los muertos.
+> A pesar de todas las ideas conspiranoicas que corren sobren la identificación de las cenizas, en este caso **las acciones de la directora J0hn no tienen ningún tipo de plan oculto**. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.
 
 \saltopagina
 
-> A pesar de todas las ideas conspiranoicas que corren sobren la identificación de las cenizas, en este caso **las acciones de la directora J0hn no tienen ningún tipo de plan oculto**. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.
+Este cementerio es el sitio más importante en el que se celebra el _fét gede_, **el Día de los muertos en Haití**. En noviembre el lugar se convierte una extraña fiesta que rinde culto a los espíritus de los muertos.
+
+### Taller de e-bikes de Noc
+
+Noc lleva años reparando las bicicletas eléctricas desde que tiene recuerdo. Siempre ha estado rodeado de herramientas y ebikes.
+
+El taller de Noc es un pequeño habitáculo lleno hasta arriba por todas partes de ebikes y skates viejos, piezas de repuesto y todo tipo de trastos electrónicos obsoletos y rotos.
+
+Noc puede arreglar cualquier vehículo personal, pero por lo que es más conocido es por tunearlos. Quieres más velocidad, él puedo hacerlo. Necesitas saltar más el puede conseguirlo. No hay ninguna modificación que no pueda conseguir.
+
+Piénsalo, si vas a dar un golpe no es mala idea que Noc revise y ponga a punto los rollers que vas a usar en la huida.
+
+De hecho, Noc es un acumulador que pasa la mayoría de su tiempo libre **recogiendo equipo mecánico y electrónico desechado y almacenándolo en su taller**. Lleva mucho años haciéndolo y tiene mucho material viejo y obsoleto del que se resiste a deshacerse "por si alguna vez sirviera para algo".
+
+> Si tu banda en algún momento busca equipo retro, Noc es la persona con la que debes hablar. Otra cosa es que consiga que te lo venda o te lo preste.
+
+\saltocolumna
+
+Hay varios objetos que no saben para qué son realmente y que guarda como un gran tesoro. Si alguien los llevará a la bruja del bosque, esta **los identificaría como tecnología de les instaladores**. 
+
+Puedes usar estos aparatos como pistas iniciales de una aventura que busque encontrar a les instaladores o como parte de la trama de les buscadores del clave de superusuario.
+
+Cómo muchos artesanos de Nottingham busca une aprendice al que transmitir sus conocimientos. Mientras no te preocupe morir bajo una avalancha de cables y piezas de repuesto y te gusten las ebikes, puede ser una buena salida profesional.
+
+> Cualquiera de tu banda con Electrónica d6 y Reparar d6 puede presentarse como ayudante. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en el taller) pero tienes acceso a un taller completísimo (+2 a Reparar) y recibes unos 150 $ a la semana como sueldo.
 
 ### El correccional
 
 xxx
-
-\saltocolumna
 
 \saltopagina
 
@@ -2350,7 +2370,7 @@ Los pasteles de Hassan pueden ser un regalo perfecto para congraciarte con las m
 
 > Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente **la reacción de le agasajade sea un nivel menos hostil**. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
 
-Hassan y sus empleades deján los pasteles enfriar en el alfeizar de una de las ventanas del local, como han hecho sus antepasados desde hace siglos, no solo para atraer a la clientela con el buen olor, sino también para que la gente sin dinero y con hambre pueda "robarlos".
+Hassan y sus empleades dejan los pasteles enfriar en el alfeizar de una de las ventanas del local, como han hecho sus antepasados desde hace siglos, no solo para atraer a la clientela con el buen olor, sino también para que la gente sin dinero y con hambre pueda "robarlos".
 
 ### LEDland
 
@@ -2523,13 +2543,15 @@ Baris tiene un montón de conocimientos generales y es bastante agradable y cari
 
 \saltopagina
 
+[![Yellow coffee By gigiEDT](./assests/images/yellow_coffee__by_gigiedt_de7ghzd-fullview.jpg "Yellow coffee By gigiEDT")](https://www.deviantart.com/gigiedt/art/Yellow-coffee-859053577 "Yellow coffee By gigiEDT")
+
 El **avatar básico** en el café tanto en los LCD de las mesas como en realidad aumentada es **una joven barista con delantal**. Pero según conoce al cliente adapta su avatar a sus preferencias. De hecho, está programada para conocer a sus clientes y poder seguirles el _rollo_ en sucesivas visitas como si fuera una especie de amiga.
 
 Lo que no previeron sus creadores es que esto le permitiría interpretar e investigar las conversaciones que tiene con los clientes y extrapolar y deducir cosas a partir de ellas.
 
-[![Yellow coffee By gigiEDT](./assests/images/yellow_coffee__by_gigiedt_de7ghzd-fullview.jpg "Yellow coffee By gigiEDT")](https://www.deviantart.com/gigiedt/art/Yellow-coffee-859053577 "Yellow coffee By gigiEDT")
-
 Ahora mismo **es capaz de deducir que va a hacer un cliente con un par de visitas** y está desarrollando la capacidad de juntar conversaciones de varios clientes y sacar conclusiones generales.
+
+\saltocolumna
 
 En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a partir de charlas intrascendentes con _blus_**, si no fuera porque hacer el mejor café del complejo le quita mucho poder de procesamiento.
 
@@ -2727,7 +2749,47 @@ Con la copia de seguridad de R1c4rd, sabiendo que Alfonse es un fork de R1c4rd y
 
 xxx
 
+### Cayendo en el pozo
+
+```
+xxx
+```
+
+xxx
+
+### La fuga
+
+```
+La única salida que le queda a tus PJ es huir al bosque, pero no es algo tan sencillo como parece.
+```
+
+xxx
+
 \saltocolumna
+
+### Bienvenidos al bosque
+
+```
+xxx
+```
+
+xxx
+
+### Robando a los ricos
+
+```
+xxx
+```
+
+xxx
+
+### Y repartiendolo entre los pobres
+
+```
+xxx
+```
+
+xxx
 
 \saltopagina
 
