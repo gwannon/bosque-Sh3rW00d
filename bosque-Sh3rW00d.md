@@ -386,6 +386,16 @@ xxx
 
 xxx
 
+### Mafias y crimen organizado
+
+xxx
+
+### Pandillas y sus territorios
+
+En los últimos años ha habido un auge de las pandillas para ocupar el agujero de poder que han supuesto la desaparición de las organizaciones mafiosas.
+
+xxx
+
 \saltocolumna
 
 \saltopagina
@@ -457,6 +467,8 @@ Una regla fundamental de esta ambientación es que es imposible salir al exterio
 ```
 
 xxx
+
+> La regla fundamental es que **las únicas personas que conocen el exterior sean PNJ**, como Lady Myrna, que entran y salen del complejo constantemente o que cuentan cosas de los tiempos en que vivían en otras arcologías.
 
 \saltocolumna
 
@@ -615,7 +627,7 @@ Si no has caído bajo el influjo de la compañía y sus tretas, seguramente haya
 
 > Elige un hackeo que tenga como requisito Novate de la lista de hackeos de les instaladores, si no has elegido ninguno de los ciberimplantes que te ofrece la compañía.
 
-Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las máquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las máquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
+Los grupos _underground_ de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las máquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las máquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
 
 \saltopagina
 
@@ -949,7 +961,7 @@ El tirachinas se considera una arma distancia pequeña con lo que no tiene penal
 
 ##### Rebotes
 
-**El tirachinas permite disparar haciendo rebotes** contra el techo y las paredes **para alcanzar a gente que está en cobertura**. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. **Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño**.
+**El tirachinas permite disparar haciendo rebotes** contra el techo y las paredes **para alcanzar a gente que está detras de cobertura**. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. **Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño**.
 
 Ejemplo: si disparas a una persona detrás un coche (cobertura media -4), puedes hacer un rebote y el bono de cobertura pasa de -4 a -3 y el daño obtiene un -1. Si hicieras dos rebotes, el bono de cobertura pasa de -4 a -2 y el daño obtiene un -2.
 
