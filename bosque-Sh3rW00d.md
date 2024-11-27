@@ -2431,6 +2431,37 @@ El pescado está hecho a base de algas, como toda la comida en la arcología, pe
 
 > Dupont no solo es un experto en preparar sushi, es un maestro en el afilado de cuchillos. Si consigues que afiles tus armas de filo, el afilado es tan fino que otorga un +1 al daño hasta que en una tirada de daño con esa arma saques un 1.
 
+
+### Cr4c|&lt; Café
+
+Todo el mundo sabe que el mejor café se sirve en Café Corta en la Zona Alta. Pues **Crack Café tiene el peor con mucha diferencia**. Pero es que en realidad la clientela de Cr4c|&lt; Café no está allí por su café. 
+
+Cr4c|&lt; Café es un **café de virus informáticos, troyanos y _glitchs_** que se viven en la red privada del café. La red está desconectada del exterior y solo se puede acceder conectando por cable. 
+
+Todos esos programas se mueven por la red y puedes interactuar con ellos mediante unos terminales que te dan con cada consumición. Desde las terminales y por línea de comando puedes interactuar con todos esos _bichitos_ binarios que les clientes consideran _cuquis_ y _achuchables_.
+
+Pueden lanzarles paquetes de datos para que los borren o hacerles moverse por todas la red persiguiendo un programa que no para de moverse de disco de almacenamiento en disco de almacenamiento.
+
+\saltopagina
+
+[![Command Line Jerkoff By Phracker](./assests/images/command_line_jerkoff_by_phracker_dc03mkf-pre.jpg "Command Line Jerkoff By Phracker")](https://www.deviantart.com/phracker/art/Command-Line-Jerkoff-725763327 "Command Line Jerkoff By Phracker")
+
+Es divertido ver como los _glitchs_ hacen fallar durante segundos las pantallas y luces del local según se mueven por la red y hay gente que puede pasarse horas chequeando las posiciones de memoria en la que está su troyano favorito para que esté cómodo.
+
+Desde fuera para los profanos, Cr4c|&lt; Café es un sitio pésimamente decorado con un café de algas pésimo y gente con pintas extrañas mirando pantallas y de vez en cuando riendose sin ninguna razón aparente.
+
+Como es de esperar, **la clientela es principalmente programadores y hackers que vienen aquí a desahogarse de sus estresantes trabajos**. Aunque parezca un sinsentido desestresarse de tu trabajo de programación programando, pero es una actividad totalmente improductiva donde se programa por el placer de programar.
+
+> Si necesitas une genie de la informática Cr4c|&lt; Café es el sitio donde buscarlo. Pad el camarero puede presentarte a alguno de los clientes y claro se lleva una buena propina por ello.
+
+\saltocolumna
+
+Como no podría ser de otra manera **todos los menús, los avisos y demás textos del café están en Leet** y la verdad que bastante rebuscado. De hecho, la gente nueva que entra por primera vez en el café termina pidiendo algo que no quería, simplemente porque no entienden el menú. La verdad es que en otros locales de hostelería, todo esto sería un problema, pero en el Cr4c|&lt; Café es algo muy normal.
+
+> Todo sheriffs (y otros robots de nivel parecido) deben hacer una tirada de Espíritu al entrar en el Cr4c|&lt; Café o se quedarán en estado de Conmoción hasta que sean sacados fuera. La saturación de mensajes en Leet es tan grande que su sistema puede llegar a bloquearse.
+
+> Basado en una idea de [Cogito ergo mecagoendios](https://mastodon.gal/@elrohir)
+
 \saltopagina
 
 \sincolumna
@@ -2569,29 +2600,7 @@ En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a par
 
 **Semilla de aventura:** Si alguien pudiera librar a Baris de la tarea de hacer café durante unos días, podría procesar mucha de la información que tiene almacenada y descubrir cosas muy interesantes. Quizás investigar el tema del robo de propiedad intelectual puede obligar a que el Café Corta cierre unos días.
 
-### Cr4c|&lt; Café
-
-Si Café Corta tiene el mejor café de Nottingham, Crack Café tiene el peor con mucha diferencia. Pero es que en realidad la clientela de Cr4c|&lt; Café
-
-.................
-
-un sitio donde la gente va a acariciar troyanos, exploits y otras pequeñas formas de IA que se mueven de manera independiente y que todo el mundo considera cuquis a pesar de que a veces intentan arañarte los puertos tcp
-
-Yo estaba pensando mas bién en gusanos y otros programas autónomos de naturaleza vírica que viajan por la red, con mucha menos inteligencia y complejidad, apenas capaces de moverse por instinto pero incapaces de dialogar en lenguaje. "Bichitos". Y el café un sitio a donde la gente va a interactuar porque les cogen cariño.
-
-Si, algo así como tratar a los virus como si fueran mascotas o animales de conducta instintiva, y tener un café para ir a interactuar con unos cuantos. A lo mejor llevar un módulo de datos desprotegido y lanzarlo al suelo para ver como los virus se abalanzan sobre el, como si fuera un puntero láser para los gatos.
-
-Aparte de ratas y cucas no hay nada más. Me han dado la idea de un café de programas y virus. Vas allí y llevas tu propio programa para que el virus se divierta infectándolo o que se para de moverse por sectores del disco duro para que lo persiga. Todo claro en linea de comando que es más hacker.
-
-.................
-
-xxx
-
-Como no podría ser de otra manera todos los menús, los avisos y demás textos del café están en Leet y la verdad que bastante rebuscado. De hecho la gente nueva que entra por primera vez en el café termina pidiendo algo que no quería, simplemente porque no entienden el menú. La verdad es que en otros locales de hostelería, todo esto sería un problema, pero en el Cr4c|&lt; Café es algo muy normal.
-
-> Todo sheriffs (y otros robots de nivel parecido) deben hacer una tirada de Espíritu al entrar en el Cr4c|&lt; Café o se quedarán en estado de Conmoción hasta que sea sacados fuera. La saturación de mensajes en Leet es tan grande que su sistema puede llegar a bloquearse.
-
-> Basado en una idea de [Cogito ergo mecagoendios](https://mastodon.gal/@elrohir)
+\saltocolumna
 
 \saltopagina
 

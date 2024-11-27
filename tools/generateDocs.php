@@ -111,6 +111,7 @@ function cleanLine($line) {
 }
 
 function bookMark($title, $level, $counter) {
+  $title = htmlspecialchars_decode($title);
   $metas = "BookmarkBegin\n";
   $metas .= "BookmarkTitle: {$title}\n";
   $metas .= "BookmarkLevel: {$level}\n";
