@@ -917,7 +917,7 @@ Esta desventaja deberías reservarla para boskis nacidos en el bosque, el resto 
 
 Si eres detenido, es fácil saber que no estas en el sistema, porque el sistema no tiene fallos. Si dice que no existes es que eres un _boski_ infiltrado en el complejo.
 
-Si en algún momento **te implantan un HUB de conexión se pierde esta ventaja**.
+Si en algún momento **te implantan un HUB de conexión, se pierde esta ventaja**.
 
 > No tienes **ninguna de las ventajas de tener HUB de conexión** al sistema, pero lo compensas no teniendo **ninguna de las desventajas**. A priori no existes para la directora J0hn y sus tentáculos cibernéticos. No hay registros, ni huellas, ni ningún dato sobre ti y **eres invisible para la gran mayoría cámaras y sensores de la arcología**.
 
@@ -961,7 +961,7 @@ El tirachinas se considera una arma distancia pequeña con lo que no tiene penal
 
 ##### Rebotes
 
-**El tirachinas permite disparar haciendo rebotes** contra el techo y las paredes **para alcanzar a gente que está detras de cobertura**. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. **Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño**.
+**El tirachinas permite disparar haciendo rebotes** contra el techo y las paredes **para alcanzar a gente que está detrás de cobertura**. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. **Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño**.
 
 Ejemplo: si disparas a una persona detrás un coche (cobertura media -4), puedes hacer un rebote y el bono de cobertura pasa de -4 a -3 y el daño obtiene un -1. Si hicieras dos rebotes, el bono de cobertura pasa de -4 a -2 y el daño obtiene un -2.
 
@@ -2448,7 +2448,7 @@ Pueden lanzarles paquetes de datos para que los borren o hacerles moverse por to
 
 Es divertido ver como los _glitchs_ hacen fallar durante segundos las pantallas y luces del local según se mueven por la red y hay gente que puede pasarse horas chequeando las posiciones de memoria en la que está su troyano favorito para que esté cómodo.
 
-Desde fuera para los profanos, Cr4c|&lt; Café es un sitio pésimamente decorado con un café de algas pésimo y gente con pintas extrañas mirando pantallas y de vez en cuando riendose sin ninguna razón aparente.
+Desde fuera para los profanos, Cr4c|&lt; Café es un sitio pésimamente decorado con un café de algas pésimo y gente con pintas extrañas mirando pantallas y de vez en cuando riéndose sin ninguna razón aparente.
 
 Como es de esperar, **la clientela es principalmente programadores y hackers que vienen aquí a desahogarse de sus estresantes trabajos**. Aunque parezca un sinsentido desestresarse de tu trabajo de programación programando, pero es una actividad totalmente improductiva donde se programa por el placer de programar.
 
@@ -2618,7 +2618,7 @@ El bosque es la parte del complejo que se dejo a medio construir debido a la mar
 
 **Nivel de seguridad:** A pesar de lo que pueda pensarse el nivel de seguridad del bosque es bastante alto, principalmente para protegerse de los sheriffs y sus secuaces. Los boskis tienen patrullan que vigilan las zonas que habitan en el bosque y en caso de detectar intrusos, los siguen, los estudian para saber si son amigos o enemigos y deciden si dejarlos pasar o tenderles una emboscada. Cuanto más cerca del Gran Roble más posibilidades de encontrarse con una patrulla.
 
-El bosque es un mundo aparte. Radicalmente opuesto al resto del complejo. Grandes espacios, poca gente y poca o ninguna tecnología. Todos tienes que hacerlo tu misme pero a la vez eres libre de hacerlo como quieras, no hay IA directoras que te diga si puedes o no hacer algo y cómo debes hacerlo. La vida en el bosque es dura, pero en cierto modo es satisfactoria.
+El bosque es un mundo aparte. Radicalmente opuesto al resto del complejo. Grandes espacios, poca gente y poca o ninguna tecnología. Todos tienes que hacerlo tu misme, pero a la vez eres libre de hacerlo como quieras, no hay IA directoras que te diga si puedes o no hacer algo y cómo debes hacerlo. La vida en el bosque es dura, pero en cierto modo es satisfactoria.
 
 \saltopagina
 
@@ -2627,6 +2627,10 @@ Es importante recalcar que el bosque es en su mayoría una gran extensión llena
 ### El Gran Roble (GR)
 
 El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les boskis. En el interior del bosque hace ya muchos años, después de la marcha de la directora R1c4rd, se establecieron les primeres proscrites huyendo de la tiranía de la directora J0hn. 
+
+xxx
+
+#### El mercado
 
 xxx
 
@@ -2814,7 +2818,7 @@ xxx
 
 xxx
 
-### Y repartiendolo entre los pobres
+### Y repartiéndolo entre los pobres
 
 ```
 xxx

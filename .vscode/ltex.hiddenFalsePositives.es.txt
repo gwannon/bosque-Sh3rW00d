@@ -17,3 +17,4 @@
 {"rule":"PREP_VERB","sentence":"^\\Q6 Le arbitre amonesta a une jugadore al azar del equipo con menos puntos y no le quita ojo.\\E$"}
 {"rule":"EL_TILDE","sentence":"^\\QSi se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción (Notar e Investigar), ya que estarás más preocupado en que no te vigilen y espíen las IA que en vigilar o buscar a tus objetivos.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEn caso de empate, se jugarán rondas extras a muerte súbita.\\E$"}
+{"rule":"VOSEO","sentence":"^\\QNovate, no puede tenerse Nacide Libre\\E$"}
