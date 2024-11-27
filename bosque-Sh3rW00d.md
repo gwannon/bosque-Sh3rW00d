@@ -2452,13 +2452,13 @@ Desde fuera para los profanos, Cr4c|&lt; Café es un sitio pésimamente decorado
 
 Como es de esperar, **la clientela es principalmente programadores y hackers que vienen aquí a desahogarse de sus estresantes trabajos**. Aunque parezca un sinsentido desestresarse de tu trabajo de programación programando, pero es una actividad totalmente improductiva donde se programa por el placer de programar.
 
-> Si necesitas une genie de la informática Cr4c|&lt; Café es el sitio donde buscarlo. Pad el camarero puede presentarte a alguno de los clientes y claro se lleva una buena propina por ello.
+> Si necesitas une **genie de la informática Cr4c|&lt; Café es el sitio donde buscarlo**. Pad el camarero puede presentarte a alguno de los clientes y claro se lleva una buena propina por ello.
 
 \saltocolumna
 
 Como no podría ser de otra manera **todos los menús, los avisos y demás textos del café están en Leet** y la verdad que bastante rebuscado. De hecho, la gente nueva que entra por primera vez en el café termina pidiendo algo que no quería, simplemente porque no entienden el menú. La verdad es que en otros locales de hostelería, todo esto sería un problema, pero en el Cr4c|&lt; Café es algo muy normal.
 
-> Todo sheriffs (y otros robots de nivel parecido) deben hacer una tirada de Espíritu al entrar en el Cr4c|&lt; Café o se quedarán en estado de Conmoción hasta que sean sacados fuera. La saturación de mensajes en Leet es tan grande que su sistema puede llegar a bloquearse.
+> Todo sheriffs (y otros robots de nivel parecido) deben hacer una **tirada de Espíritu al entrar** en el Cr4c|&lt; Café o se quedarán en **estado de Conmoción** hasta que sean sacados fuera. La saturación de mensajes en Leet es tan grande que su sistema puede llegar a bloquearse.
 
 > Basado en una idea de [Cogito ergo mecagoendios](https://mastodon.gal/@elrohir)
 
