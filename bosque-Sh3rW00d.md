@@ -2571,6 +2571,18 @@ En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a par
 
 \saltocolumna
 
+
+### Crack Café
+
+----- un sitio donde la gente va a acariciar troyanos, exploits y otras pequeñas formas de IA que se mueven de manera independiente y que todo el mundo considera cuquis a pesar de que a veces intentan arañarte los puertos tcp ------
+----- Yo estaba pensando mas bién en gusanos y otros programas autónomos de naturaleza vírica que viajan por la red, con mucha menos inteligencia y complejidad, apenas capaces de moverse por instinto pero incapaces de dialogar en lenguaje. "Bichitos". Y el café un sitio a donde la gente va a interactuar porque les cogen cariño. ------
+----- Si, algo así como tratar a los virus como si fueran mascotas o animales de conducta instintiva, y tener un café para ir a interactuar con unos cuantos. A lo mejor llevar un módulo de datos desprotegido y lanzarlo al suelo para ver como los virus se abalanzan sobre el, como si fuera un puntero láser para los gatos. -----
+----- Aparte de ratas y cucas no hay nada más. Me han dado la idea de un café de programas y virus. Vas allí y llevas tu propio programa para que el virus se divierta infectándolo o que se para de moverse por sectores del disco duro para que lo persiga. Todo claro en linea de comando que es más hacker. ------
+
+xxx
+
+> Basado en una idea de [Cogito ergo mecagoendios](https://mastodon.gal/@elrohir)
+
 \saltopagina
 
 \sincolumna
