@@ -930,10 +930,12 @@ Si en algún momento **te implantan un HUB de conexión, se pierde esta ventaja*
 \concolumna
 
 ```
-xxx
+Tu banda de proscrites necesitará ropa, armas, herramientas y poder darse algún capricho alguna vez. Aquí encontrarás cosas para darle color a tus aventuras para cuando a tu banda le pesen los créditos en los bolsillos.
 ```
 
-xxx
+Los precios del equipo están en $ siguiendo las tablas de equipo de SWAE, pero la moneda oficial es el Crédito. No existe físicamente el crédito, sino que tus créditos están asociados a tu HUB de conexión y pagas telemáticamente con él.
+
+Las personas sin HUB como los _boskis_ de segunda generación no pueden pagar con créditos normales. En estos casos podrán hacer uso de sus alijos y hacer un trueque con ellos. No debes olvidar que el equipo ilegal tampoco suele poder pagarse con créditos, así que también deberás hacer trueques para pagarlo.
 
 ### Equipo normal
 
@@ -1055,10 +1057,10 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 ### Listado de vehículos
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
-|--------|------|----|--|------|-----|
-|Roller skates|-4|+2|32 km/h|4|1|
-|Skateboard|-3|+1|30 km/h|4|1|
-|E-bike|-1|+1|35 km/h|5|1+1|
+|--------|------|----|--|------|-----|-----|
+|Roller skates|-4|+2|32 km/h|4|1|xxx|
+|Skateboard|-3|+1|30 km/h|4|1|xxx|
+|E-bike|-1|+1|35 km/h|5|1+1|xxx|
 
 \concolumna
 
@@ -2448,13 +2450,17 @@ Pueden lanzarles paquetes de datos para que los borren o hacerles moverse por to
 
 Es divertido ver como los _glitchs_ hacen fallar durante segundos las pantallas y luces del local según se mueven por la red y hay gente que puede pasarse horas chequeando las posiciones de memoria en la que está su troyano favorito para que esté cómodo.
 
+La idea del café se le ocurrió a Pad, su dueño, hace años cuando todo el equipo de la cafetería Pad’s Café fue infectado por un malware. Ofreció un bono vitalicio de café a quien le librará del malware. Enseguida se le llenó el local de hackers y expertes en ciberseguridad buscando café gratis.
+
+En unos días el virus estaba desactivado y todo el sistema limpio, pero la nueva cliente seguía viniendo y jugando con el malware, probando scripts y trayendo su propio código. Y así, con el tiempo, cambio de nombre a Cr4c|&lt; Café y se convirtió en el extraño local que es hoy.
+
 Desde fuera para los profanos, Cr4c|&lt; Café es un sitio pésimamente decorado con un café de algas pésimo y gente con pintas extrañas mirando pantallas y de vez en cuando riéndose sin ninguna razón aparente.
+
+\saltocolumna
 
 Como es de esperar, **la clientela es principalmente programadores y hackers que vienen aquí a desahogarse de sus estresantes trabajos**. Aunque parezca un sinsentido desestresarse de tu trabajo de programación programando, pero es una actividad totalmente improductiva donde se programa por el placer de programar.
 
-> Si necesitas une **genie de la informática Cr4c|&lt; Café es el sitio donde buscarlo**. Pad el camarero puede presentarte a alguno de los clientes y claro se lleva una buena propina por ello.
-
-\saltocolumna
+> Si necesitas une **genie de la informática Cr4c|&lt; Café es el sitio donde buscarlo**. Padpuede presentarte a alguno de los clientes y claro se lleva una buena propina por ello.
 
 Como no podría ser de otra manera **todos los menús, los avisos y demás textos del café están en Leet** y la verdad que bastante rebuscado. De hecho, la gente nueva que entra por primera vez en el café termina pidiendo algo que no quería, simplemente porque no entienden el menú. La verdad es que en otros locales de hostelería, todo esto sería un problema, pero en el Cr4c|&lt; Café es algo muy normal.
 
