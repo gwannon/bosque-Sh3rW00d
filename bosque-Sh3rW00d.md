@@ -2252,22 +2252,15 @@ La zona media es la zona industrial y comercial del complejo. Aquí están las f
 
 **Nivel de seguridad:** el nivel de seguridad de esta zona es la más baja de toda la arcología, principalmente porque es no son los bajos fondos que hay que controlar, ni la zona alta que debe ser protegida. Además la propia idiosincrasia no quiere que haya mucha policía, la gente viene a gastar y a divertirse y gasta menos si está vigilada.
 
-\saltocolumna
-
 La zona media es la zona económica del complejo. Cómo ya hemos dicho están las fabricas, los talleres, las tiendas y las tabernas y restaurantes. Si vienes aquí es para trabajar o para gastar dinero. Es por ello que muchos, esta zona es perfecta para una banda proscrites que empiezan den sus primeros golpes. La zona medía supone mucho dinero, mucha gente y menos vigilancia y seguridad de lo normal.
 
 También es el lugar de disfrutar de tus golpes bebiendo, comiendo, cantando y bailando mientras tu cara no salga en las pantallas LCD en un anuncio de se busca. Cuando eso ocurra la zona media se convertirá en un lugar peligroso para tu banda.
 
-\sincolumna
-
 ### Plaza Mayor
-
-\concolumna
 
 La Plaza Mayor es **la estancia abierta más grande de la arcología** aun así no será mayor que un **campo de fútbol** actual. Es el centro de la vida en la arcología de Nottingham y en general todos los eventos importantes toman lugar aquí.
 
 Tiene una simulación de cielo que muestra un día soleado y totalmente despejado y una noche demasiado estrellada. No hay ni puesta ni salida de sol. Simplemente glitchea unos segundos y pasa de noche a día o viceversa. 
-
 
 De hecho, les notis, tienen dos expresiones "glitch de la mañana" y "glitch de la noche" para hablar del alba o del ocaso.
 
