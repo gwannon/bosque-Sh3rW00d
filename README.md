@@ -51,7 +51,6 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 
 * La arcología de Nottingham
   * El mundo actual
-  * Orden social
   * Comercio e industria
   * Vida diaria
   * Bajos fondos y crimen organizado
@@ -65,6 +64,7 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * El correccional
   * El Gran Roble (GR)
 
+* Terminando sección "Orden social"
 * Terminada localización "Cr4c|< Café"
 
 ### 0.4.1 27/11/2024
@@ -155,6 +155,8 @@ https://www.deviantart.com/meg-james/art/Head-for-the-hills-611429081
 https://www.deviantart.com/zandoarts/art/The-Crystal-Choreographer-739964865
 
 https://www.deviantart.com/netunokinoart/gallery
+
+https://www.deviantart.com/blazbaros/gallery
 
 https://www.deviantart.com/mishkatron/art/Hyperpop-977410817
 

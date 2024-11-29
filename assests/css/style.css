@@ -35,6 +35,14 @@
   src: url(../fonts/VT323-Regular.ttf) format('truetype');
 }
 
+@font-face {
+  font-family: 'Medieval Pixel';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/assests/fonts/medieval-pixel.otf) format('opentype');
+}
+
 *, html {
   scroll-behavior: smooth !important;
 }
@@ -233,6 +241,20 @@ h2 {
   font-size: 1.7rem;
   line-height: 1.9rem;
   font-weight: 300;
+}
+
+h2 + .columns > p:first-of-type:first-letter {
+  font-family: 'Medieval Pixel', cursive;
+  font-size: 5.7em;
+  display: block;
+  float: left;
+  margin: 0px 0px 0px 0px;
+  padding: 11px 5px 0px;
+  color: var(--black-color);
+}
+
+section:nth-of-type(odd) h2 + .columns > p:first-of-type:first-letter {
+  color: var(--yellow-color);
 }
 
 h3 {
