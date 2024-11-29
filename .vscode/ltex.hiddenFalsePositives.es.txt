@@ -18,3 +18,4 @@
 {"rule":"EL_TILDE","sentence":"^\\QSi se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción (Notar e Investigar), ya que estarás más preocupado en que no te vigilen y espíen las IA que en vigilar o buscar a tus objetivos.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEn caso de empate, se jugarán rondas extras a muerte súbita.\\E$"}
 {"rule":"VOSEO","sentence":"^\\QNovate, no puede tenerse Nacide Libre\\E$"}
+{"rule":"NUMBERS_IN_WORDS","sentence":"^\\QLucharás por tu supervivencia y tu libertad contra la directora J0hn, una malvada IA que está a cargo del complejo.\\E$"}

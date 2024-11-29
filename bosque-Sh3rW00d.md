@@ -92,7 +92,7 @@ xxx
 
 xxx
 
-Los boskis tienen un dicho que explica su forma de pensar _En el bosque tienes un nombre y es solo tuyo._
+Los boskis tienen un dicho que explica su forma de pensar _En el bosque tienes tu propio nombre pero no es solo tuyo._
 
 \saltopagina
 
@@ -110,13 +110,13 @@ xxx
 
 ### Formas de pago
 
-No existe moneda física, todo son transacciones electrónicas a través del sistema monetario de la empresa. Así que se ha impuesto el trueque tanto de productos como de servicios cuando se quieren hacer actividades por debajo del radar del la Directora J0hn.
+No existe moneda física, todo son transacciones electrónicas a través del sistema monetario de la empresa. Así que se ha impuesto el trueque tanto de productos como de servicios cuando se quieren hacer actividades por debajo del radar de la Directora J0hn.
 
 #### Trueque
 
 El hecho de que la directora R1c4rd controle toda la economía de Nottingham ha hecho que florezca una economía sumergida y circular basada en el trueque de productos y el intercambio de trabajo.
 
-Los truques van desde cosas muy simples y del día a día como "tú arreglas el grifo de mi cubículo, yo te doy dos botes de mi salsa barbacoa casera" a trueques más complejos que incluso incluyen pagarés en papel (para no quedar registrados electrónicamente). Es curioso porque esos pagarés se han convertido en una especie de papel moneda que no se cobran sino que se intercambian una y otra vez y varían de valor según las circunstancias y lo que ofrezca el pagaré.
+Los truques van desde cosas muy simples y del día a día como "tú arreglas el grifo de mi cubículo, yo te doy dos botes de mi salsa barbacoa casera" a trueques más complejos que incluso incluyen pagarés en papel (para no quedar registrados electrónicamente). Es curioso porque esos pagarés se han convertido en una especie de papel moneda que no se cobran, sino que se intercambian una y otra vez y varían de valor según las circunstancias y lo que ofrezca el pagaré.
 
 ### Granjas y piscifactorías
 
@@ -322,9 +322,9 @@ La compañía tuvo que establecer una serie de leyes que regirían el funcionami
 
 Pero claro, este es un juego de gente fuera de la ley, así que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y John la sustituyo, esto cambió radicalmente.
 
-Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay es un escudo social que te pague una ayuda si te quedas sin trabajo o estás enfermo y no puedes trabaja, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabaras en prisión.
+Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay es un escudo social que te pague una ayuda si te quedas sin trabajo o estás enfermo y no puedes trabajar, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabarás en prisión.
 
-Además, el sistema penal es francamente punitivista. Si eres encontrado culpable, pagaras tu deuda con la sociedad con trabajo forzado. La reinserción no está dentro de los objetivos del sistema penal.
+Además, el sistema penal es francamente punitivista. Si eres encontrado culpable, pagarás tu deuda con la sociedad con trabajo forzado. La reinserción no está dentro de los objetivos del sistema penal.
 
 ### Fuera de la ley
 
@@ -475,7 +475,6 @@ xxx
 ***
 
 # |-|15t0r14 **Historia**
-
 
 \sincolumna
 
@@ -1215,7 +1214,6 @@ xxx
 * xxx
 * xxx
 
-
 ### Dominar ascensor
 
 **Requisitos:** Veterane, Controlar ascensor
@@ -1273,7 +1271,6 @@ xxx
 **Requisitos:** Legendario
 
 **Jerga:** xxx
-
 
 ![](./assests/images/codigo-konami.png)
 
@@ -2015,7 +2012,7 @@ La arcología de Nottingham están llenas de lugares interesantes donde tu banda
 
 La mayoría de las veces serán lugares normales donde ambientar tus aventuras, pero algunas veces son sitios increíbles llenos de tesoros y recompensas, y también trampas mortales de las que solo les más avispades y valientes pueden escapar.
 
-La arcología se divide en 4 zonas, la zona baja, la zona medía, la zona alta y el bosque. el bosque rodea la otras 3 zonas y son la parte del complejo que se dejo a medio construir debido a la marcha de les instaladores.
+La arcología se divide en 4 zonas, la zona baja, la zona medía, la zona alta y el bosque. El bosque rodea laa otras 3 zonas y son la parte del complejo que se dejó a medio construir debido a la marcha de les instaladores.
 
 ## Zona baja
 
@@ -2033,7 +2030,7 @@ Es la parte más antigua de la arcología y también la mas abandonada y con má
 
 \saltopagina
 
-Basura, humedad, desconchones, grietas, iluminación pobres y parpadeante y aguas residuales son el día a día de la zona baja. Si a eso se le suma masificación, delincuencia y miseria, tienes la zona baja de Nottingham. Las calles de la zona baja están controladas por pandillas y bandas criminales y sobrevivir en ellas sin servir a ninguno de esos grupos es una autentica proeza.
+Basura, humedad, desconchones, grietas, iluminación pobres y parpadeante y aguas residuales son el día a día de la zona baja. Si a eso se le suma masificación, delincuencia y miseria, tienes la zona baja de Nottingham. Las calles de la zona baja están controladas por pandillas y bandas criminales y sobrevivir en ellas sin servir a ninguno de esos grupos es una auténtica proeza.
 
 Lo que has de tener en cuenta en la zona baja es que nadie quiere estar allí, todos quieren escapar a otras zonas o quizás algunos al bosque.
 
@@ -2054,7 +2051,6 @@ Robert Guthrie es un buhonero/empeñista que se conoce por **tener tratos con de
 Aunque tiene una tienda fija, esta abre y cierra cuando le da la gana. Además puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
 
 También es un buen **lugar donde buscar materiales y productos peligrosos e ilegales**. En su almacén (o en su mochila si está fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
-
 
 > Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriette), Guthrie puede llevárselo y traértelo arreglado en unos días.
 
@@ -2126,7 +2122,7 @@ Durante una semana está en ese sitio y de vez en cuando algún niñe se pone a 
 
 \saltocolumna
 
-Esta rayuela es conocida por les pillueles de la calle como la rayuela fantasma y corren todo tipo de leyendas. Sin embargo ninguna acierta con la realidad, **la rayuela la crea y la destruye un grupo de nanitos.** Lo lleva haciendo así desde la desaparición de les instaladores. Su última tarea era crear una rayuela en un parque infantil y no le dieron la orden de parar, con lo que lleva siglo y medio creando rayuelas con motivos infantiles y borrándolas al no recibir el "ok" de sus amos. Con el tiempo su programación les ha dicho que se movieran por todo el complejo, que igual no conseguían el visto bueno porque se habían equivocado de lugar.
+Esta rayuela es conocida por les pillueles de la calle como la rayuela fantasma y corren todo tipo de leyendas. Sin embargo, ninguna acierta con la realidad, **la rayuela la crea y la destruye un grupo de nanitos.** Lo lleva haciendo así desde la desaparición de les instaladores. Su última tarea era crear una rayuela en un parque infantil y no le dieron la orden de parar, con lo que lleva siglo y medio creando rayuelas con motivos infantiles y borrándolas al no recibir el "ok" de sus amos. Con el tiempo su programación les ha dicho que se movieran por todo el complejo, que igual no conseguían el visto bueno porque se habían equivocado de lugar.
 
 La zona de trabajo de este grupo de nanitos es la Zona Baja, pero han empezado a aparecer en la Zona Media y a empezar a llamar la atención. Como son cosas de niñes a nadie le preocupan, por ahora.
 
@@ -2220,7 +2216,7 @@ Noc puede arreglar cualquier vehículo personal, pero por lo que es más conocid
 
 Piénsalo, si vas a dar un golpe no es mala idea que Noc revise y ponga a punto los rollers que vas a usar en la huida.
 
-De hecho, Noc es un acumulador que pasa la mayoría de su tiempo libre **recogiendo equipo mecánico y electrónico desechado y almacenándolo en su taller**. Lleva mucho años haciéndolo y tiene mucho material viejo y obsoleto del que se resiste a deshacerse "por si alguna vez sirviera para algo".
+De hecho, Noc es un acumulador que pasa la mayoría de su tiempo libre **recogiendo equipo mecánico y electrónico desechado y almacenándolo en su taller**. Lleva muchos años haciéndolo y tiene mucho material viejo y obsoleto del que se resiste a deshacerse "por si alguna vez sirviera para algo".
 
 > Si tu banda en algún momento busca equipo retro, Noc es la persona con la que debes hablar. Otra cosa es que consiga que te lo venda o te lo preste.
 
@@ -2250,9 +2246,9 @@ xxx
 La zona media es la zona industrial y comercial del complejo. Aquí están las fabricas, los talleres y también las tiendas y los restaurantes. En ella viven las clases medias que buscan ascender a la zona alta y es el punto en que las personas de la zonas altas y bajas se juntan, pero no se mezclan.
 ```
 
-**Nivel de seguridad:** el nivel de seguridad de esta zona es la más baja de toda la arcología, principalmente porque es no son los bajos fondos que hay que controlar, ni la zona alta que debe ser protegida. Además la propia idiosincrasia no quiere que haya mucha policía, la gente viene a gastar y a divertirse y gasta menos si está vigilada.
+**Nivel de seguridad:** el nivel de seguridad de esta zona es la más baja de toda la arcología, principalmente porque es no son los bajos fondos que hay que controlar, ni la zona alta que debe ser protegida. Además, la propia idiosincrasia no quiere que haya mucha policía, la gente viene a gastar y a divertirse y gasta menos si está vigilada.
 
-La zona media es la zona económica del complejo. Cómo ya hemos dicho están las fabricas, los talleres, las tiendas y las tabernas y restaurantes. Si vienes aquí es para trabajar o para gastar dinero. Es por ello que muchos, esta zona es perfecta para una banda proscrites que empiezan den sus primeros golpes. La zona medía supone mucho dinero, mucha gente y menos vigilancia y seguridad de lo normal.
+La zona media es la zona económica del complejo. Cómo ya hemos dicho están las fábricas, los talleres, las tiendas y las tabernas y restaurantes. Si vienes aquí es para trabajar o para gastar dinero. Es por ello que muchos, esta zona es perfecta para una banda proscrites que empiezan den sus primeros golpes. La zona medía supone mucho dinero, mucha gente y menos vigilancia y seguridad de lo normal.
 
 También es el lugar de disfrutar de tus golpes bebiendo, comiendo, cantando y bailando mientras tu cara no salga en las pantallas LCD en un anuncio de se busca. Cuando eso ocurra la zona media se convertirá en un lugar peligroso para tu banda.
 
@@ -2280,7 +2276,6 @@ Como siempre fuera de las tiendas hay portacarteles publicitando los productos d
 
 \concolumna
 
-
 #### El espacio de descanso
 
 En el centro hay una especie de espacio de descanso y relax con bancos de cementos y unos canales de agua y de fuentes que discurren entre los bancos. En tiempos de la directora R1c4rd podías encontrar grupos de gente haciendo un pícnic o parejas haciendo manitas.
@@ -2305,7 +2300,7 @@ En un uno de los laterales de la plaza hay una gran pantalla de unos 30x10m dond
 
 Esta pantalla es vandalizada continuamente con pintadas, pegatinas, globos de pintura. De hecho, hay varias bandas cuyo rito de entrada es estropear alguna manera esa gran pantalla.
 
-La directora J0hn, cuando hace sus apariciones públicas en eta pantalla, lo hace como una especie de ser de energía de silueta femenina sobre un fondo negro con patrones geométricos luminosos.
+La directora J0hn, cuando hace sus apariciones públicas en esta pantalla, lo hace como una especie de ser de energía de silueta femenina sobre un fondo negro con patrones geométricos luminosos.
 
 Esto contrapone con la directora R1c4rd que solía salir como una mujer mayor, elegante y profesional en el vestir y normalmente en algún tipo de despacho corporativo.
 
@@ -2426,7 +2421,6 @@ El pescado está hecho a base de algas, como toda la comida en la arcología, pe
 
 > Dupont no solo es un experto en preparar sushi, es un maestro en el afilado de cuchillos. Si consigues que afiles tus armas de filo, el afilado es tan fino que otorga un +1 al daño hasta que en una tirada de daño con esa arma saques un 1.
 
-
 ### Cr4c|&lt; Café
 
 Todo el mundo sabe que el mejor café se sirve en Café Corta en la Zona Alta. Pues **Crack Café tiene el peor con mucha diferencia**. Pero es que en realidad la clientela de Cr4c|&lt; Café no está allí por su café. 
@@ -2533,17 +2527,17 @@ A priori todo el spa está aislado de la arcología y solo se puede entrar por l
 
 ### Feria de Nottingham
 
-Cada mes, el último jueves, la directora J0hn organiza una feria medieval en las calles comerciales de la Zona Alta. Un grupo de influencers y blus, eligen a una obra de caridad y todo lo que se recaude es donado a esa causa. El problema está en que normalmente el dinero es gastado de la forma más inútil posible y nunca ayuda a los desfavorecidos.
+Cada mes, el último jueves, la directora J0hn organiza una feria medieval en las calles comerciales de la Zona Alta. Un grupo de influencers y blus, eligen a una obra de caridad y todo lo que se recaude es donado a esa causa. El problema está en que normalmente el dinero es gastado de la forma más inútil posible y nunca ayuda a les desfavorecides.
 
-La feria tiene todos los clásicos, duelos caballeros a espada, juglares y bardos ambulantes, marionetas, mucha comida a la brasa, gente que echa las cartas del tarot, etc. Hay gran cantidad de tenderetes con diferentes juegos de habilidad, desde el guaca-mole, hasta lanzar los aros o sacar la espada de la piedra.
+La feria tiene todos los clásicos, duelos de caballeros a espada, juglares y bardos ambulantes, marionetas, mucha comida a la brasa, gente que echa las cartas del tarot, etc. Hay gran cantidad de tenderetes con diferentes juegos de habilidad, desde el guaca-mole, hasta lanzar los aros o sacar la espada de la piedra.
 
-El acto central de la feria es una subasta de objetos que los mecenas de la feria donan a la causa de ese mes y que normalmente vuelven a recuperar pujando le propietarie por su propio producto. Una vez ganada la puja, el objeto queda en consigna a la espera de que le ganadore pague por él el precio de su puja ganadora.
+El acto central de la feria es una subasta de objetos que les mecenas de la feria donan a la causa de ese mes y que normalmente vuelven a recuperar pujando le propietarie por su propio producto. Una vez ganada la puja, el objeto queda en consigna a la espera de que le ganadore pague por él el precio de su puja ganadora.
 
-Lo que se recauda en los diferentes puestos de la feria, en la subasta y en el baile se dedica a una causa benéfica y normalmente se gasta de la peor parte posible, llegando a veces al ridículo máximo. Esto se debe a que les organizadores están tan separados de la realidad de las clases de bajas de Nottingham que no entienden muchos los problemas sociales sobre los que han recaudado dinero. Todavía se recuerda a cuando gastaron todo el dinero de una feria en comprar cascos de seguridad para ayudar a las víctimas del derrumbamiento de una sección de la Zona Baja de la arcología.
+Lo que se recauda en los diferentes puestos de la feria, en la subasta y en el baile se dedica a una causa benéfica y normalmente se gasta de la peor parte posible, llegando a veces al ridículo máximo. Esto se debe a que les organizadores están tan separados de la realidad de las clases de bajas de Nottingham que no entienden muchos los problemas sociales sobre los que han recaudado dinero. Todavía se recuerda cuando gastaron todo el dinero de una feria en comprar cascos de seguridad para ayudar a las víctimas del derrumbamiento de una sección de la Zona Baja de la arcología.
 
 La gente rica que asiste suele ir disfrazada, el problema es que el rigor histórico no es lo suyo y podemos ver mosqueteros, faraones de Egipto, trogloditas, etc. La mayoría de las veces, la elección del disfraz es un tema estético, pero claro, nadie se queja de las inexactitudes históricas. 
 
-Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado para los mecenas. Es en este baile donde lucen sus mejores joyas, ropas y aparatos tecnológicos, mientras hacen los bailes de moda esa temporada.
+Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado para les mecenas. Es en este baile donde lucen sus mejores joyas, ropas y aparatos tecnológicos, mientras hacen los bailes de moda esa temporada.
 
 > Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reírse en la cara de la directora J0hn y sus sheriffs.
 
@@ -2847,7 +2841,7 @@ xxx
 
 ### Videobombing
 
->La directora J0hn ha pedido a un grupo de influencers que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
+> La directora J0hn ha pedido a un grupo de influencers que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
 
 xxx
 
@@ -3215,7 +3209,6 @@ Las lenguas evolucionan y en 200 años en el futuro porque no iba a haberse impu
 \saltopagina
 
 Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el lenguaje inclusivo. Espero que os escueza cada "e" y no paséis de la primera página. Sinceramente, no os quiero ni en mi juego ni en mi mesa. 
-
 
 ### ¿Por qué Savage Worlds?
 
