@@ -14,10 +14,10 @@ foreach ($tags as $tag => $value) {
   $html = str_replace("|".$tag."|", $value, $html); 
 }
 $html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
-$html = str_replace("<p>\saltopagina</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
-$html = str_replace("<p>\saltocolumna</p>", "<p class=\"saltocolumna\"></p>", $html);
-$html = str_replace("<p>\sincolumna</p>", "</div>", $html);
-$html = str_replace("<p>\concolumna</p>", "<div class='columns'>", $html);
+$html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
+$html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
+$html = str_replace("<p>\sinc</p>", "</div>", $html);
+$html = str_replace("<p>\conc</p>", "<div class='columns'>", $html);
 $html = str_replace("</h1>", "</h1>\n<div class=\"saltopagina\"></div><div class='columns'>", $html); 
 $html = str_replace("<div class='columns'>\n</div>", "", $html); 
 $html = str_replace("<table>", "<div><table>", $html); 

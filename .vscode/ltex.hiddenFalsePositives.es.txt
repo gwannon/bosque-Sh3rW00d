@@ -1,7 +1,5 @@
 {"rule":"SABIA","sentence":"^\\QLas 3 sabIAs son 3 IA de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por la defensa, otra por la acusación y una tercera al azar entre todas las IA de Nottingham.\\E$"}
 {"rule":"SABIA","sentence":"^\\QEl resto de crímenes son juzgadas por \"las 3 sabIAs\".\\E$"}
-{"rule":"HAZ_HAS","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}
-{"rule":"PREP_VERB","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}
 {"rule":"VOSEO","sentence":"^\\QNovate\\E$"}
 {"rule":"VOSEO","sentence":"^\\QNovate\\E$"}
 {"rule":"AGREEMENT_DET_ADJ","sentence":"^\\QTodos los blus de más alto rango vienen a relajarse al Corta tras sus estresantes jornadas laborales, tomando una taza de café expreso.\\E$"}
@@ -18,4 +16,4 @@
 {"rule":"EL_TILDE","sentence":"^\\QSi se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción (Notar e Investigar), ya que estarás más preocupado en que no te vigilen y espíen las IA que en vigilar o buscar a tus objetivos.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEn caso de empate, se jugarán rondas extras a muerte súbita.\\E$"}
 {"rule":"VOSEO","sentence":"^\\QNovate, no puede tenerse Nacide Libre\\E$"}
-{"rule":"NUMBERS_IN_WORDS","sentence":"^\\QLucharás por tu supervivencia y tu libertad contra la directora J0hn, una malvada IA que está a cargo del complejo.\\E$"}
+{"rule":"HAZ_HAS","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}
