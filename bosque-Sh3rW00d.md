@@ -172,10 +172,10 @@ Es normal ver soportes publicitarios humanos o robots portando carteles digitale
 \conc
 
 ```
-xxx
+La vida diaria del complejo no dista mucho de lo que pudieras pensar de una ambientación ciberpunk, pero hay ciertas diferencias.
 ```
 
-xxx
+Bosque Sh3rW00d es una mezcla de ciberpunk con las historias mediavales de Robin Hood todo dentro de una grán arcología. Esto hace que el día a día en el complejo Nottingham sea un poco diferente al ciberpunk clásico.
 
 ### Vida de interior y clima
 
