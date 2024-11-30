@@ -247,24 +247,49 @@ xxx
 
 ### Fiestas, celebraciones y otros eventos
 
-xxx
+El complejo de Nottingham es un lugar feo y alienante para sus habitantes la mayoría de los días, pero hay unos pocos días al año en que estoy no es así. 
 
-Todos los años, en el día en que se puso la primera piedra del complejo, se organiza un festival con concurso de disparo con tirachinas con un suculento premio. xxx
+#### El día de la primera piedra
 
-#### Fét Gede
-La comunidad haitiana en Nottingham no es especialmente importante, pero una de sus tradiciones, el Fét Gede, ha calado muy profundamente en la cultura del complejo. El Fét Gede es el Día de los muertos para los practicantes de la religión vudú. A primeros de noviembre los creyentes salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los _cementerios_ y algunos supuestamente son poseídos por los _gede_, los espíritus de los ancestros muertos.
+Todos los años, en el día en que se puso la primera piedra del complejo
 
-xxx
+Hay diferentes festejos en la Plaza Mayor que empiezan con un discurso de la directora J0hn. Hay música, bailes y comida hasta bien entrada la noche.
+
+De hecho hay tradición de besarte con tu pareja cuando se va a producir el Glitch de la noche.
+
+Los locales de comida de todo el complejo ponen puestos de comida para disfrute de los paladares de les _notis_. Curiosamente mientras que los locales más humildes suelen poner precios populares para sus clientes, los de alta gama suelen cobrar más de lo normal.
 
 \sp
+
+> La realidad de este festival es tapar el auténtico festival de la primera piedra que celebran los _boskis_ en conmemoración de la creación del primer asentamiento _boski_ en el Gran Roble. El ruido que montaban era tal que se colaba por todo el complejo amplificado por los conductos y tubos que hay por todas partes.
+
+El punto fuerte del festival es un concurso de disparo con tirachinas con un suculento premio 5000 $ y el título de Cazadore. Les participantes compiten entre sí hasta un encuentro final entre les supervivientes de las rondas anteriores. La directora J0hn siempre presenta une participante que va con los colores de la compañía y que normalmente suele ganar, pero no siempre.
+
+Pero la actividad preferida de les niñes del complejo es la de atrapar el robot comadreja. Se celebra cerca de los dólmenes donde se cerca una zona para que la comadreja no se escape. Se la envuelve en papel de burbuja y se le unta en grasa. Les niñes deben atraparlo y aquelle niñe que lo retenga 5 segundos gana. El ganador recibe el título de _Cazadore junior_ hasta el próximo año.
+
+> El juego está trucado y cuando lo atrapa une hije de _blus_ o _influencers_, desconectan el robot para que sea fácil ganar. Hace años que no gana ningune niñe _curri_.
+
+#### Fét Gede
+
+La comunidad haitiana en Nottingham no es especialmente importante, pero una de sus tradiciones, el Fét Gede, ha calado muy profundamente en la cultura del complejo. El Fét Gede es el Día de los muertos para los practicantes de la religión vudú. A primeros de noviembre los creyentes salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos supuestamente son poseídos por los gede, los espíritus de los ancestros muertos.
+
+Está fiesta calo poco a poco entre los _curris_ que la esperan con ansia todo el año. Sin embargo las clases altas la encuentran deleznable y no participan de ella y si lo hacen es disfrazades.
+
+Es una época de excesos que la directora J0hn trato en su momento de abolir, pero estudios de mercado le dijeron que en realidad daba dinero a la compañía y reducía los delitos relacionados con protestas callejeras, huelgas y manifestaciones, etc.
+
 
 ### Deporte
 
 El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecnologías, hablamos de bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hierba. También son famosos los concursos de baile acrobáticos y las competiciones de tiro con tirachinas. 
 
+
 #### Hockey de pasillo
 
-El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hierba adaptado a 3 jugadores al interior del complejo. Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos.
+El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hierba adaptado a 3 jugadores al interior del complejo.
+
+\sp
+
+Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos.
 
 Gana el equipo que más goles meta o el que consigue marcar en 3 rondas seguidas sin que su oponente le marque (llamado en el argot deportivo "baño").
 
@@ -429,9 +454,9 @@ xxx
 
 La tecnología de les instaladores se basa principalmente en los nanobots. Miles de microrobots conectados que construyen los diseños de les instaladores. No solo construyen nuevos pisos de la arcología, sino que también reparan, restauran y mantienen los pisos viejos.
 
-xxx
-
 \sc
+
+xxx
 
 ### Los nanitos después de la marcha de les instaladores
 
@@ -2488,7 +2513,7 @@ La zona alta es de acceso exclusivo de los clases altas, les _blus_ y _les influ
 
 **Nivel de seguridad:** La zona alta tiene la seguridad más alta y también la menos detectable. Hay sistemas de seguridad en todas las calles, escaleras, habitáculos, etc. Es casi imposible moverse sin ser detectado e identificado y en caso de ser peligrose, detenido y encarcelado. Los sheriffs aquí solo se ven cuando van a actuar, mientras que en otras zonas patrullan de forma disuasoria.
 
-La zona más exclusiva del complejo es claramente la más deseada, a la que aspiran llegar a todes, pero está vetada solo para aquelles que la directora J0hn decide que se lo merecen.
+La zona más exclusiva es claramente la más deseada, a la que aspiran llegar a todes, pero está vetada solo para aquelles que la directora J0hn decide que se lo merecen.
 
 Los pasillos están impolutos y huelen a limpio y el equipamiento está nuevo y no da fallos. Los habitáculos son más grandes que en resto de los complejos y todo da sensación de amplitud. Si has vivido en la zona baja esto es el cielo, es todo lo que soñabas de niñe.
 
@@ -3308,9 +3333,11 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada Bestiario por malikadesign](https://www.freepik.es/vector-gratis/cartel-futurista-retro-cyberpunk-ilustracion-vectorial_30526493.htm) en Freepik
 * [Portada Personas por Freepik](https://www.freepik.com/free-vector/abstract-green-pixel-rain-background_6082050.htm) en Freepik
 * [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
-* [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
 
 \sc
+
+* [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
+
 
 \sp
 
