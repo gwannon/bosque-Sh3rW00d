@@ -516,6 +516,8 @@ xxx
 Una regla fundamental de esta ambientación es que es imposible salir al exterior de la arcología. El exterior es algo de lo que se habla, pero que la gente no ha visto nunca.
 ```
 
+El mundo exterior es algo de lo que todes hablan, pero muy pocos conocen. Les _notis_ pueden tener noticias y ver imágenes del mundo exterior y saber lo que pasa en otras arcologías, pero como en tiempos medievales, otra cosa es salir de tu condado y visitar otros lugares. Les _notis_ nunca salen de la arcología, esa opción es tan tremendamente cara que solo les más riques y famoses puede permitirselo. 
+
 xxx
 
 > La regla fundamental es que **las únicas personas que conocen el exterior sean PNJ**, como Lady Myrna, que entran y salen del complejo constantemente o que cuentan cosas de los tiempos en que vivían en otras arcologías.
