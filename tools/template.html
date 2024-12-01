@@ -17,7 +17,6 @@
       <div>
         <h1 class="noindex">|TITLE|</h1 >
         <h2 class="noindex">|SHORTDESCRIPTION|</h2>
-
       </div>
       <img style="position: absolute; top: 45px; right: 0px; width:150px;height:100px; background-color: transparent;" src="./assests/images/pinnaclelogo.png" alt="Logo Pinnacle">
       <div class="saltopagina"></div>
@@ -25,6 +24,8 @@
     <section>
       <p><b>Fecha estimada de publicación:</b> |LANZAMIENTO|</p>
       <p><b>Versión:</b> |VERSION|</p>
+      <p><b>Páginas:</b> <span></span></p>
+      <p><b>Palabras:</b> <span></span></p>
       <div class="saltopagina"></div>
       <p class="nopdf"><a href="/pdf/" class="download">VERSIÓN EN PDF</a></p>
       <h2 class="noindex">Licencia de uso</h2>
@@ -53,9 +54,11 @@
     cont = cont.replace(/<[^>]*>/g," ");
     cont = cont.replace(/\s+/g, ' ');
     cont = cont.trim();
-    var n = cont.split(" ").length
-    console.log(n+" words");
+    var n = cont.split(" ").length;
+    let words = document.querySelector('section:nth-of-type(2) p:nth-of-type(4) span');
+    words.innerHTML = n+" palabras";
     //PageCount
-    console.log((document.querySelectorAll('.saltopagina').length + 1)+" pages");
+    let pages = document.querySelector('section:nth-of-type(2) p:nth-of-type(3) span');
+    pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 1)+" páginas";
   </script>
 </html>

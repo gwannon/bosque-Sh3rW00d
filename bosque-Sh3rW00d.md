@@ -340,7 +340,19 @@ Como curiosidad, los sistemas de puertas automáticas fueron modificados por la 
 
 ### Sexo y género
 
-xxx
+Dentro del complejo de Nottingham son aceptadas todo tipo de opciones sexuales y de genero y nadie es discriminado por ello. 
+
+\sp
+
+**Intentar cambiar esto es ir en contra del espíritu de la ambientación.**
+
+Para la directora J0hn, como némesis principal de tu banda de procrites, todo estos temas de genero y sexualidad no son relevantes, digamos que solo se interesa por los habitantes como unidades productivas y fiscales y por tanto las casillas de preferencias sexuales y género son más una curiosidad más que algo que usar para discriminar. 
+
+La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las culpas y encuazar el odio de los _notis_ y no necesita ninguna otra minoría para sus planes de control de la arcología.
+
+> Las vidas sentimentales y sexuales de la mayoría de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así, cualquier persona de tu mesa podrá romancear con cualquier PNJ que encuentres aquí. Algunes PNJ han sido definidos abiertamiente no binaries y queer para que estos colectivos esten representados. Por favor, respeta esta decisión. 
+
+\sc
 
 \sp
 
@@ -415,12 +427,16 @@ No se explota a los reclusos con jornadas interminables y duros trabajos, pero c
 \conc
 
 ```
-xxx
+Como toda comunidad humana, hay individues indeseables que se de dican al crimen en todos sus aspectos.
 ```
 
 [![Pandillero By Fernand0FC](./assests/images/pandillero_by_fernand0fc_dcaqebx-414w-2x.jpg "HeadShots By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Pandillero-743621901 "Pandillero By Fernand0FC")
 
-xxx
+La tasa de criminalidad es bastante baja para la tremenda densidad de población del complejo de Nottingham, aun así es un problema que la directora J0hn y sus sheriffs buscan atajar de forma expeditiva.
+
+En los bajos fondos que coinciden con la Zona Baja del complejo hay varios grupos de criminales, mafia y pandillas, que controlan los 4 clásicos del delito, atracos y robos, drogas, juego y prostitución.
+
+Los robos y atracos son también realizados por _boskis_, pero estos tratan de centrarlos en conseguir materiales y equipo que no pueden conseguir de normal. Los criminsales del complejo buscan objetos de valor de los que sacar beneficios y tratan siempre de achacar estos delitos a los _boskis_ para no ser perseguidos por ellos. 
 
 ### Mafias y crimen organizado
 
@@ -431,8 +447,6 @@ xxx
 En los últimos años ha habido un auge de las pandillas para ocupar el agujero de poder que han supuesto la desaparición de las organizaciones mafiosas.
 
 xxx
-
-\sc
 
 \sp
 
