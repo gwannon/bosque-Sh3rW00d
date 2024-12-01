@@ -2272,9 +2272,35 @@ Cómo muchos artesanos de Nottingham busca une aprendice al que transmitir sus c
 
 > Cualquiera de tu banda con Electrónica d6 y Reparar d6 puede presentarse como ayudante. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en el taller) pero tienes acceso a un taller completísimo (+2 a Reparar) y recibes unos 150 $ a la semana como sueldo.
 
-### El correccional
+## El correccional
 
-xxx
+El correccional de Nottingham es una **mezcla de institución penitenciaria y fabrica** donde los presos pagan sus deudas con la sociedad trabajando.
+
+El correccional consta de **4 plantas** que fueron aisladas del exterior de forma que no hay salidas al exterior más que la entrada peatonal y la carga y descarga.
+
+Sus conductos de aireación, desagüe y demás son independientes y en circuito cerrado para evitar las fugas.
+
+\sp
+
+Dos plantas de celdas, para 400 presos (2 preses por celdas), media de esparcimiento, la otra media de comedor y pequeño hospital y la última planta es un taller industrial donde trabajan  8 horas diarias cumpliendo sus penas.
+
+Todo el correccional está recubierto de gruesas parederes blindadas con sensores que detectan vibraciones y agujeros y robots comadrejas programados para revisar lo que los sensores detectan.
+
+No se conocen fugas exitosas, aunque intentos ha habido varios. La idea principal de les preses es que sin ayuda exterior es imposible salir del correccional y más escapar del complejo.
+
+La seguridad es excesiva con 1 sheriff por cada 10 preses, que cumplen con el reglamento a rajatabla y sin miramiento. Las sediciones y las revueltas son rápida y drásticamente reprimidas.
+
+A esto se le une sistemas de seguridad, videovigilancia, sensores de calor y movimiento y apertura y cierre de todas las puertas controlada por la IA alcaide.
+
+La vida es simple y rutinaria, **8 horas de trabajo, 8 horas de sueño y 8 horas para comer, estudiar, jugar, etc.** Así todos los días, excepto el día de la primera piedra en que no se trabaja, se da una comida especial donada por los locales de la zona y se retransmite el discurso de la directora J0hn y  el concurso de tiro.
+
+Las visitas son telemáticas, pero aún así restringidas y el contrabando es casi imposible. Pero les preses siempre consiguen hacer algo de alcohol o armas muy sencillas.
+
+\sc
+
+La fabrica funciona 24 horas en turnos de 8 horas y la IA alcaide suele evitar que los miembros de bandas u otras organizaciones sindicales estén juntos lo mínimo posible con rotaciones de los turnos de trabajo.
+
+> El rumor que corre entre les preses es que **los sheriffs más violentos son enviados al correccional** y es totalmente cierto. Si un sheriff resulta muy violento para el trabajo de calle, sele envía al correccional o al bosque,donde sus actos no son vistos por los notis.
 
 \sp
 
