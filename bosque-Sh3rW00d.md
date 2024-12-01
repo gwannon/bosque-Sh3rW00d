@@ -2272,7 +2272,7 @@ Cómo muchos artesanos de Nottingham busca une aprendice al que transmitir sus c
 
 > Cualquiera de tu banda con Electrónica d6 y Reparar d6 puede presentarse como ayudante. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en el taller) pero tienes acceso a un taller completísimo (+2 a Reparar) y recibes unos 150 $ a la semana como sueldo.
 
-## El correccional
+### El correccional
 
 El correccional de Nottingham es una **mezcla de institución penitenciaria y fabrica** donde los presos pagan sus deudas con la sociedad trabajando.
 
@@ -2282,9 +2282,9 @@ Sus conductos de aireación, desagüe y demás son independientes y en circuito 
 
 \sp
 
-Dos plantas de celdas, para 400 presos (2 preses por celdas), media de esparcimiento, la otra media de comedor y pequeño hospital y la última planta es un taller industrial donde trabajan  8 horas diarias cumpliendo sus penas.
+Dos plantas de celdas, para 400 presos (2 preses por celdas), media de esparcimiento, la otra media de comedor y pequeño hospital y la última planta es un taller industrial donde trabajan 8 horas diarias cumpliendo sus penas.
 
-Todo el correccional está recubierto de gruesas parederes blindadas con sensores que detectan vibraciones y agujeros y robots comadrejas programados para revisar lo que los sensores detectan.
+Todo el correccional está recubierto de gruesas paredes blindadas con sensores que detectan vibraciones y agujeros y robots comadrejas programados para revisar lo que los sensores detectan.
 
 No se conocen fugas exitosas, aunque intentos ha habido varios. La idea principal de les preses es que sin ayuda exterior es imposible salir del correccional y más escapar del complejo.
 
@@ -2292,15 +2292,15 @@ La seguridad es excesiva con 1 sheriff por cada 10 preses, que cumplen con el re
 
 A esto se le une sistemas de seguridad, videovigilancia, sensores de calor y movimiento y apertura y cierre de todas las puertas controlada por la IA alcaide.
 
-La vida es simple y rutinaria, **8 horas de trabajo, 8 horas de sueño y 8 horas para comer, estudiar, jugar, etc.** Así todos los días, excepto el día de la primera piedra en que no se trabaja, se da una comida especial donada por los locales de la zona y se retransmite el discurso de la directora J0hn y  el concurso de tiro.
+La vida es simple y rutinaria, **8 horas de trabajo, 8 horas de sueño y 8 horas para comer, estudiar, jugar, etc.** Así todos los días, excepto el día de la primera piedra en que no se trabaja, se da una comida especial donada por los locales de la zona y se retransmite el discurso de la directora J0hn y el concurso de tiro.
 
-Las visitas son telemáticas, pero aún así restringidas y el contrabando es casi imposible. Pero les preses siempre consiguen hacer algo de alcohol o armas muy sencillas.
+Las visitas son telemáticas, pero aun así restringidas y el contrabando es casi imposible. Pero les preses siempre consiguen hacer algo de alcohol o armas muy sencillas.
 
 \sc
 
-La fabrica funciona 24 horas en turnos de 8 horas y la IA alcaide suele evitar que los miembros de bandas u otras organizaciones sindicales estén juntos lo mínimo posible con rotaciones de los turnos de trabajo.
+La fábrica funciona 24 horas en turnos de 8 horas y la IA alcaide suele evitar que los miembros de bandas u otras organizaciones sindicales estén juntos lo mínimo posible con rotaciones de los turnos de trabajo.
 
-> El rumor que corre entre les preses es que **los sheriffs más violentos son enviados al correccional** y es totalmente cierto. Si un sheriff resulta muy violento para el trabajo de calle, sele envía al correccional o al bosque,donde sus actos no son vistos por los notis.
+> El rumor que corre entre les preses es que **los sheriffs más violentos son enviados al correccional** y es totalmente cierto. Si un sheriff resulta muy violento para el trabajo de calle, sele envía al correccional o al bosque, donde sus actos no son vistos por los notis.
 
 \sp
 
@@ -2697,7 +2697,15 @@ xxx
 
 #### El mercado
 
-xxx
+Cada semana se monta un gran mercado en la que se trocan todo tipo de productos que los _boskis_ cultivan o producen en el bosque. 
+
+La mayoría de les _boskis_ están aquí por culpa de deudas en el complejo, así que la gente trata de volver a cometer los mismos errores que le trajeron aquí así que no tratan de sacar beneficio con sus productos solo conseguir algo justo y necesario por sus productos.
+
+En el mercado se puede encontrar muchos productos hidropónicos, aparatos electrónicos revisados y reparados, artesanía como tejidos, etc.
+
+En un lado apartado del mercado se hacen donaciones de excedentes y un par de personas preparan paquetes gratis para les _boskis_ que estén pasando problemas.
+
+> Si alguna persona intenta hacer tratos injustos o aprovechados en el mercado y es detectado, tendrá un -2 en todas las tiradas de Persuadir con otres habitantes del bosque. Si alguien con recursos se lleva uno de los paquetes gratis, también recibirá el mismo tratamiento o peor.
 
 ### El refugio de la bruja
 
@@ -2707,15 +2715,17 @@ Hay colgando de diferentes partes de la choza carillones de viento hechos de mat
 
 Todes en el bosque saben que **Harriette la bruja** es la persona con la que hablar cuando tienes que **reparar algún objeto electrónico, reprogramar un robot, hackear algún aparato u obtener _oscuros_ conocimientos informáticos**.  
 
-El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos, comida, bebida, vídeos recreativos, etc.) y lo que quieres que haga y el equipo necesario y vuelves en un par de días. Si la ofrenda no está, es que acepta tu trato y ha realizado la tarea. Donde dejaste la ofrenda tendrás el código del programa que le pediste, la unidad de almacenamiento con los datos hackeados, etc. Si no ha tocado nada es que lo ha rechazado y puedes mejorar tu ofrenda o recogerlo todo y volver por donde has venido.
+El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos, comida, bebida, vídeos recreativos, etc.) y lo que quieres que haga y el equipo necesario y vuelves en un par de días. Si la ofrenda no está, es que acepta tu trato y ha realizado la tarea. Donde dejaste la ofrenda tendrás el código del programa que le pediste, la unidad de almacenamiento con los datos hackeados, etc. 
+
+\sp
+
+Si no ha tocado nada es que lo ha rechazado y puedes mejorar tu ofrenda o recogerlo todo y volver por donde has venido.
 
 Solo cuando tiene que enseñar sus conocimientos a otras personas se muestra dejando unos videotutoriales enseñando lo que le has pedido. Aunque la persona que sale en el vídeo está generada por ordenador, la voz siempre es la misma. Siempre amenaza con todo tipo de desgracias a los que revelen sus secretos a terceros.
 
 **La bruja Harriette es la última de les instalador que quedan en el complejo.** Solo era una aprendiz cuando les instaladores se fueron de Nottingham y la dejaron al cuidado de todo lo que no pudieron llevarse. 
 
 Es por eso que se estableció en la zona actual que era la zona en la que trabajaban cuando tuvieron que irse. El problema es que solo era una neófita y había muchos secretos de les instaladores que desconocía y sigue desconociendo. Con los años los problemas de mantenimiento superaron sus conocimientos y los nanitos empezaron a trabajar por su cuenta creando lo que conocemos como Bosque Sh3rW00d.
-
-\sp
 
 Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superiores al de resto habitantes de Nottingham**. Además dispone todavía de una masa importante de nanitos que aceptan su programación.
 
@@ -2727,17 +2737,15 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 > Basado en una idea de [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
 
-\sc
-
 ### RLN (Radio libre de Nottingham)
 
 La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un podcast que de una radio tradicional.
 
-[![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
-
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
 
 \sp
+
+[![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
 Cuando no está despotricando de la directora J0hn puede estar haciendo cualquier cosa, desde dar una receta de _plumcake_ o leer poesía, hasta explicar física cuántica o estar una hora haciendo ruidos de pedos o hablando solo con la "i".
 
@@ -2753,6 +2761,8 @@ Alfonse acepta preguntas en directo de todo tipo y las respuestas suelen ser bas
 
 > Puedes usar a Alfonse como una especie de oráculo para cuando tu banda se pierda y no sepa como seguir, pero recuérdales que este debería ser su último recurso. Si tu banda está cerca de un wifi (algo a tu elección como DJ) pueden conectarse e intentar entrar en contacto con Alfonse y preguntarle algo. El que vaya a preguntar deberá **gastar todos sus benis, mínimo 1, para conseguir entrar en antena y poder preguntar**. Cómo DJ podrás responderles a su pregunta y darles una pista para continuar su aventura.
 
+\sp
+
 Corren rumores sobre quien es Alfonse. Desde que son varias personas que se turnan para hacer el programa hasta que es une instaladore que se quedó en el complejo. La realidad es que **Alfonse es una IA al nivel de las directoras**, exactamente un _fork_ muy joven de la directora R1c4rd.
 
 Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma base que el original, pero a partir de la copia se desarrolla independientemente y tiene su propia programación. Alfonse podría ser una **pieza fundamental en la caída de J0hn y el regreso de R1c4rd**.
@@ -2760,8 +2770,6 @@ Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma
 ### Greenhouse
 
 Zeyaur Khan construyó hace ya unos años esta especie de invernadero en lo profundo del bosque, tras problemas legales en el complejo de Nottingham. Había encontrado la forma de hacer que un par de variedad de algas crearan cafeína como parte de sus defensas químicas.
-
-\sp
 
 [![Gardening by freepik](./assests/images/gardening.jpg "Gardening by freepik")](https://www.freepik.com/free-photo/gardening_3580401.htm "Digital Gardening by freepik")
 
@@ -2773,13 +2781,15 @@ Es importante destacar que el invernadero está debajo de una especie de chimene
 
 Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
 
-\sc
-
 > La primera vez que tu banda reciba auténtica luz del día, dales un beni. A veces las cosas sencillas son las más importantes.
 
 Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimientos científicos y de ordenadores.
 
+\sp
+
 > Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200 $ a la semana** como sueldo.
+
+\sc
 
 \sp
 
