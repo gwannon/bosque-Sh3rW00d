@@ -340,7 +340,9 @@ Como curiosidad, los sistemas de puertas automáticas fueron modificados por la 
 
 ### Sexo y género
 
-Dentro del complejo de Nottingham son aceptadas todo tipo de opciones sexuales y de genero y nadie es discriminado por ello. 
+Dentro del complejo de Nottingham son aceptadas todo tipo de opciones sexuales y de género. El colectivo LGTBIQ+ no es discriminado por su orientación sexual ni su definición de sexo. 
+
+Las operaciones de cambio sexo son tan comunes y normales como muchas operaciones de instalación de ciberimplantes. De hecho, se mira con reticencia a les individues sobreimplantades, mientras que se **acepta con total normalidad a las personas transexuales*.
 
 \sp
 
@@ -350,7 +352,7 @@ Para la directora J0hn, como némesis principal de tu banda de proscrites, todos
 
 La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las culpas y encauzar el odio de los _notis_ y no necesita ninguna otra minoría para sus planes de control de la arcología.
 
-> Las vidas sentimentales y sexuales de la mayoría de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así, cualquier persona de tu mesa podrá romancear con cualquier PNJ que encuentres aquí. Algunes PNJ han sido definidos abiertamiente no binaries y queer para que estos colectivos esten representados. Por favor, respeta esta decisión. 
+> Las vidas sentimentales y sexuales de la mayoría de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así, cualquier persona de tu mesa podrá romancear con cualquier PNJ que encuentres aquí. Algunes PNJ han sido definidos abiertamiente no binaries y queer para que estos colectivos estén representados. Por favor, respeta esta decisión. 
 
 \sc
 
@@ -436,7 +438,7 @@ La tasa de criminalidad es bastante baja para la tremenda densidad de población
 
 En los bajos fondos que coinciden con la Zona Baja del complejo hay varios grupos de criminales, mafia y pandillas, que controlan los 4 clásicos del delito, atracos y robos, drogas, juego y prostitución.
 
-Los robos y atracos son también realizados por _boskis_, pero estos tratan de centrarlos en conseguir materiales y equipo que no pueden conseguir de normal. Los criminsales del complejo buscan objetos de valor de los que sacar beneficios y tratan siempre de achacar estos delitos a los _boskis_ para no ser perseguidos por ellos. 
+Los robos y atracos son también realizados por _boskis_, pero estos tratan de centrarlos en conseguir materiales y equipo que no pueden conseguir de normal. Los criminales del complejo buscan objetos de valor de los que sacar beneficios y tratan siempre de achacar estos delitos a los _boskis_ para no ser perseguidos por ellos. 
 
 ### Mafias y crimen organizado
 
@@ -796,7 +798,7 @@ Te debes a tu juramento hipocrático, que está por encima de cualquier otra cos
 
 Dentro de este arquetipo se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.
 
-Tu medio siempre será _underground_, fuera de los canales oficiales que están pagados por la directora J0hn. Escribes en su blog, hablas en un podcast o lanzas a la red todo tipo de videos.
+Tu medio siempre será _underground_, fuera de los canales oficiales que están pagados por la directora J0hn. Escribes en su blog, hablas en un pódcast o lanzas a la red todo tipo de videos.
 
 Sabes que el escándalo y el morbo vende y es la única manera de que tu contenido se viralice. Por eso siempre rodeas a tus denuncias de una capa de periodismo amarillo.
 
