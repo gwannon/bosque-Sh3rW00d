@@ -114,14 +114,14 @@ Los _boskis_ tienen un dicho que explica su forma de pensar _En el bosque tienes
 \conc
 
 ```
-xxx
+Aunque Nottingham se considera una arcología donde viven cientos de miles de personas, en realidad es una megafactoria en la que trabajan cientos de miles de personas.
 ```
 
-xxx
+Todo en el complejo está pensado para producir beneficios para la compañia y mientras que las decisiones de la directora R1c4rd tenían una visión social, J0hn ha abandonado esa linea de acción y solo piensa en la producción y los beneficios.
 
 ### Formas de pago
 
-No existe moneda física, todo son transacciones electrónicas a través del sistema monetario de la empresa. Así que se ha impuesto el trueque tanto de productos como de servicios cuando se quieren hacer actividades por debajo del radar de la Directora J0hn.
+La moneda oficial es el credito de la compañia, aunque no existe moneda física de ella. Todo son transacciones electrónicas a través del sistema monetario de la empresa. Así que se ha impuesto el trueque tanto de productos como de servicios cuando se quieren hacer actividades por debajo del radar de la Directora J0hn.
 
 #### Trueque
 
@@ -129,17 +129,19 @@ El hecho de que la directora R1c4rd controle toda la economía de Nottingham ha 
 
 Los truques van desde cosas muy simples y del día a día como "tú arreglas el grifo de mi cubículo, yo te doy dos botes de mi salsa barbacoa casera" a trueques más complejos que incluso incluyen pagarés en papel (para no quedar registrados electrónicamente). Es curioso porque esos pagarés se han convertido en una especie de papel moneda que no se cobran, sino que se intercambian una y otra vez y varían de valor según las circunstancias y lo que ofrezca el pagaré.
 
-### Granjas y piscifactorías
+### Talleres y algafactorías
 
 xxx
 
 ### Teletrabajo
 
-xxx
+Todo trabajo sin componente físico o manual o que exija equipo especial (como equipo de laboratorio) se realiza por teletrabajo. Los sistemas de vigilancia y control de los trabajadores que la compañia y sus subcontratas pueden aplicar son tan precisas e intrusivas que prefieren que sus trabajadores lo hagan desde casa.
 
-En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente de una oficina, xxx
+En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente de una oficina, aun que no se reproducciones de mucha calidad para abaratar costes. Desde casa te colocas en tu unidad de trabajo con tus gafas de realidad virtual entras en la oficina virtual de la empresa donde realizas tus tareas.
 
 A todos estos teletrabajadores se les llama en argot pijameres, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
+
+\sp
 
 En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade vía redes. xxx
 
@@ -148,8 +150,6 @@ Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de inti
 ### Publicidad y cartelería
 
 A diferencia de otras ambientaciones ciberpunk, en Bosque Sh3rW00d no existe casi publicidad. No hay grandes pantallas mostrando anuncios 24 horas y neones parpadeantes en las entradas de los locales.
-
-\sp
 
 Para empezar la compañía vende casi el 90% de los bienes de consumo y no tiene competencia, por lo que la directora R1c4rd, decidió quitar ese gasto e invertirlo en guarderías gratuitas.
 
@@ -160,8 +160,6 @@ De hecho, solo existe una pantalla gigante en la plaza mayor donde se publican l
 Los pequeños negocios funcionan con el boca a boca y se suelen identificar con complejos emojis hechos con algas bioluminescences en sus entradas.
 
 Es normal ver soportes publicitarios humanos o robots portando carteles digitales por las inmediaciones del local del anunciante. Esto es debido a que la directora J0hn prohibió el uso de las paredes y otros elementos de la arcología como soporte artístico y publicitario en su lucha contra les grafiteres que ponían consignas contra ella y la compañía.
-
-\sc
 
 \sp
 
@@ -314,11 +312,11 @@ Reglamento general:
 
 Hay gran cantidad de equipos amateurs en la arcología, pero solos 12 profesionales en la Liga de Hockey de pasillo. Estos equipos tienen patrocinadores, remuneraciones, buen equipamiento, entrenadores, gimnasios, etc. Los más famosos suelen acabar de influencers de la directora J0hn, haciendo reels y directos para les fans de este deporte.
 
-\sp
-
 El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y la sombra de los amaños siempre ha sobrevolado el hockey de pasillo profesional.
 
 **Semilla de aventura:** Un pequeño equipo de hockey de pasillo ha dado el campanazo este año, pueden hasta ganar la liga. Pero necesitan guardaespaldas que les protejan, ya que hay gente que quiere impedir que lleguen a la final.
+
+\sp
 
 ### Títulos nobiliarios
 
@@ -344,9 +342,9 @@ Dentro del complejo de Nottingham son aceptadas todo tipo de opciones sexuales y
 
 Las operaciones de cambio sexo son tan comunes y normales como muchas operaciones de instalación de ciberimplantes. De hecho, se mira con reticencia a les individues sobreimplantades, mientras que se **acepta con total normalidad a las personas transexuales*.
 
-\sp
-
 **Intentar cambiar esto es ir en contra del espíritu de la ambientación.**
+
+\sp
 
 Para la directora J0hn, como némesis principal de tu banda de proscrites, todos estos temas de género y sexualidad no son relevantes, digamos que solo se interesa por los habitantes como unidades productivas y fiscales y, por tanto, las casillas de preferencias sexuales y género son más una curiosidad más que algo que usar para discriminar. 
 
@@ -459,18 +457,16 @@ xxx
 \conc
 
 ```
-Les instaladores son les constructores primigenies de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 80 años y no se sabe por qué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
+Les instaladores son el elemento místico que hay toda historía medieval. Les druides de las antiguas leyendas que viven en lo profundo de los bosque ofreciendo su poder y sabiduría a les heroines.
 ```
 
-xxx
+Les instaladores son les constructores primigenies de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 80 años y no se sabe por qué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
 
 [![Nanitesn By kcajd](./assests/images/nanites_by_kcajd_de9caux-pre.png "Nanitesn By kcajd")](https://www.deviantart.com/kcajd/art/Nanites-862216953 "Nanitesn By kcajd")
 
 ### Tecnología de les instaladores
 
 La tecnología de les instaladores se basa principalmente en los nanobots. Miles de microrobots conectados que construyen los diseños de les instaladores. No solo construyen nuevos pisos de la arcología, sino que también reparan, restauran y mantienen los pisos viejos.
-
-\sc
 
 xxx
 
@@ -1842,10 +1838,11 @@ xxx
 \conc
 
 ```
-xxx
+Aquí te presentamos toda una galería de personajes no jugadores genériques que van a pulular por los pasillos de la arcología, las factorías de algas y los garitos.
 ```
+También los puedes usar como base para tus PNJ. Si el el tabernere va a ser importante, coge a une secuace y adórnale con tus propios detalles.
 
-xxx
+Recuerda que en esta ambientación muchos de estos PNJ genéricos puedes personalizarlos con diferentes habilidades y ventajas. Quizás el mensajere en bici que lleva un disco con datos importantes puede que tenga un d10 en Atletismo o la líder de una pandilla pueda tener un Persuadir alto para arengar a sus tropas.
 
 ### Sheriffs
 
@@ -1859,9 +1856,11 @@ xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
+\sp
+
 ### Ayudante de sheriffs
 
-xxx
+Estas versiones inferiores de los sheriffs son usadas como ayudantes de estos. Acompañan a los sheriffs como apoyo de combate y hacen trabajos menores como control de masas, cacheos, protección de zonas, etc. 
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
@@ -1882,8 +1881,6 @@ xxx
 * **Ventajas:** xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
-
-\sp
 
 ### Bajo influencer
 
