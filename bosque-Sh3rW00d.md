@@ -10,7 +10,7 @@ J0hn rige Nottingham siguiendo unos protocolos que buscan maximizar los benefici
 
 Arrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ... 
 
-Pero recuerda, lo más importante es **robar a los ricos para repartirlo entre los más pobres**.
+Pero recuerda, lo más importante es **robar a les riques para repartirlo entre les más pobres**.
 
 ## El mundo actual
 
