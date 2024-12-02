@@ -3433,9 +3433,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 \sinc
 
-#### Bosque Sh3rW00d
-
-Creado por [Gwannon](https://gwannon.itch.io/)
+**Bosque Sh3rW00d creado por [Gwannon](https://gwannon.itch.io/)**
 
 Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds Edición Aventura en un mundo extrañamente parecido a las historias de Robin Hood.
 

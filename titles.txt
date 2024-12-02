@@ -1,0 +1,262 @@
+# 4rc0l061a de Nottingham **La arcología de Nottingham**
+## El mundo actual
+### Nottingham
+### El bosque de Sh3rW00d
+### Las directoras
+#### Directora J0hn y sus sheriffs
+#### Directora R1c4rd
+## Orden social
+### Blus (Nobleza)
+### Influencers (Iglesia)
+### Curris (Campesinado)
+### Boskis (Fuera de la ley)
+## Comercio e industria
+### Formas de pago
+#### Trueque
+### Granjas y piscifactorías
+### Teletrabajo
+### Publicidad y cartelería
+## Vida diaria
+### Vida de interior y clima
+#### Sin cielo y sin horizonte
+#### Incendios
+### Cultura y contracultura
+### Ocio y entretenimiento
+### Gastronomía
+### Religiones y sectas
+### Fiestas, celebraciones y otros eventos
+#### El día de la primera piedra
+#### Fét Gede
+### Deporte
+#### Hockey de pasillo
+### Títulos nobiliarios
+### Sexo y género
+## Leyes y justicia
+### Fuera de la ley
+### Los juicios
+### Penas
+#### Trabajos forzados
+## Bajos fondos y crimen organizado
+### Mafias y crimen organizado
+### Pandillas y sus territorios
+## Les instaladores
+### Tecnología de les instaladores
+### Los nanitos después de la marcha de les instaladores
+### La búsqueda de la contraseña de SU
+## La vida en el Bosque
+## El mundo exterior
+# |-|15t0r14 **Historia**
+## La creación de Nottingham
+## El éxodo de les instaladores
+## La dirección de R1c4rd
+## La dirección de J0hn
+### La segunda migración
+## El bosque de Sh3rW00d
+# Я36|45 **Reglas**
+## Creación de personajes
+### Hijes de la tecnología
+### La ciencia mató la magia
+### Espacios cerrados
+### Idiomas
+### Secretos
+### Ciberimplantes
+### Hackeos de les instaladores
+## Arquetipos
+### Biker
+### Buscadore
+### Erudite
+### Grafitere
+### Influencer en desgracia
+### Nacide libre
+### Paramedic
+### Periodiste
+### Sindicade
+## Nuevas habilidades
+### Pasillear (Astucia)
+### Idiomas
+#### Leet
+## Nuevas ventajas
+### Alijos
+### Identidad glitcheada
+### Necesarie para la compañía
+### Sindicade
+## Nuevas desventajas
+### Ciberalergia (mayor)
+### Ciberparanoia (mayor/menor)
+### Fobia social (mayor/menor)
+### Imán de lo extraño (menor)
+### Nacide libre (mayor)
+## Equipo
+### Equipo normal
+### Armas
+#### Arcos
+#### Slingshot (Tirachinas)
+##### Rebotes
+##### Proyectiles para tirachinas
+#### Aire comprimido
+##### Cerbatanas
+##### Pistolas de clavos
+#### Cóctel molotov
+### Protecciones
+### Transporte y comunicación
+#### Monturas: Roller skates, skateboards y e-bikes
+### Listado de armamento
+### Listado de protecciones
+### Listado de vehículos
+## Hackeos de les instaladores
+### Controlar iluminación
+### Controlar pantallas
+### Llamar ascensor
+### Controlar realidad aumentada
+### Controlar puertas
+### Controlar ascensor
+### Dominar iluminación
+### Controlar climatización
+### Controlar vigilancia
+### Dominar ascensor
+### Dominar climatización
+### Dominar puertas
+### Dominar vigilancia
+### Código Konami
+### Listado de hackeos
+## Otros sistemas
+### Cómo jugar al hockey de pasillo
+### Concursos de puntería
+# C1I3ern1a **Cibernia**
+## HUB de conexión
+## Ciberimplantes
+### Reglas específicas para cada tipo de implantes
+#### CI que mejoran atributos
+#### CI que mejoran habilidades
+#### CI que otorgan ventajas
+#### CI que otorgan rasgos de bestia
+### Quitarse implantes
+### CI camuflables
+### Reparación
+### Implantes legales e ilegales
+### Listas de CI que mejoran atributos
+### Listas de CI que mejoran habilidades
+### Listas de CI que permiten ventajas
+### Listas de CI que otorgan rasgos de bestia
+## IA
+### IA dedicadas
+### IA dedicadas avanzadas
+### IA polivalentes
+### Las directoras
+#### Las instancias
+### Creación de IA
+## Nanotecnología
+### Nanotecnología y seres vivos
+## Realidad aumentada y virtual
+## Mensajería
+## Otras tecnologías
+### Clonación e ingeniería genética
+### Transhumanidad
+### Tecnología láser
+### Hologramas
+# I3es71ari0 **Bestiario**
+## Secuaces
+### Sheriffs
+### Ayudante de sheriffs
+### Alto influencer
+### Bajo influencer
+## Robots
+### Animal animatrónico
+### Limpiador
+### Cargador
+### Comadrejas
+## Gentes de Nottingham
+### Artesane
+### Artiste
+### Cientifique
+### Delincuente de los bajos fondos
+### Funcionarie
+### Mercadere
+### Pandillere
+# I)iЯe(tori0 de Nottingham **Directorio de Nottingham**
+## Zona baja
+### El río Trent
+### The premise
+### El pozo
+### Campo de tiro de Gus
+### La Taberna de Albión
+### El gumbo eterno
+### La rayuela fantasma
+### Mercadillo nocturno
+### Salón de juegos y pachinko "La olla de oro"
+[![Olla de cocción lenta](./assests/images/crockpot.jpg "Olla de cocción lenta")](https://es.wikipedia.org/wiki/Olla_de_cocci%C3%B3n_lenta#/media/Archivo:Crock_pot_of_chili.jpg "Olla de cocción lenta")
+### El cementerio haitiano
+### Taller de e-bikes de Noc
+### El correccional
+## Zona media
+### Plaza Mayor
+#### El espacio de descanso
+#### Los dólmenes
+#### La gran pantalla
+### El terreno
+### Escuela de danza de Lady Myrna
+### El huerto urbano
+### Pastelería Badreddin
+### LEDland
+### Bolrum
+### ᶜUᶜHI BAR
+### Cr4c|&lt; Café
+## Zona alta
+### El zoo de la directora J0hn
+### El balneario de Bath
+### Feria de Nottingham
+### Café Corta
+#### Baris
+## El bosque
+### El Gran Roble (GR)
+#### El mercado
+### El refugio de la bruja
+### RLN (Radio libre de Nottingham)
+### Greenhouse
+## Transporte público
+### Moverse entre zonas
+## Creación de espacios para tus aventuras
+### Espacios pregenerados
+# 4ven7uR4s **Aventuras**
+## Aventuras en Bosque Sh3rW00d
+### Resumen
+### Cayendo en el pozo
+### La fuga
+### Bienvenidos al bosque
+### Robando a los ricos
+### Y repartiéndolo entre los pobres
+## Otros relatos salvajes
+### Todos los jueves
+### Videobombing
+### Nowhere fast
+### Noche de póker
+# |Ͻers0nas **Personas**
+Recuerda que tode PJ con este símbolo &#35; en su nombre son considerades comodines, con todo lo que ello conlleva.
+## Lady Marian, lideresa del bosque &#35;
+## Fraile Tuck &#35;
+## Little John &#35;
+## Scarlet, famose grafitere &#35;
+## Guy de Gisbourne &#35;
+## Much, hije del molinero &#35;
+## Helen Aim, cantante e influencer &#35;
+## Mamá Claire, reina del gumbo &#35;
+## Gus, filosofo y guerrero &#35;
+## Esther, tabernera del Albión &#35;
+## Robert Guthrie, buhonero ambulante &#35;
+## Harriette, tecnobruja del bosque &#35;
+## Alfonse, locutor antisistema &#35;
+## Zeyaur Khan, biólogo loco &#35;
+# 3|Ͻíl0go **Epílogo**
+## Notas del autor
+### Define los velos y herramientas de seguridad
+### Relaciones sexo-afectivas
+### Participar en el proyecto
+### Lenguaje inclusivo
+### ¿Por qué Savage Worlds?
+### Suplementos que puedes usar
+## Glosario de términos
+## Agradecimientos
+## Atribuciones
+### Fuentes
+### Imágenes
+## Otros proyectos que te pueden interesar
