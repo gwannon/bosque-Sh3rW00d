@@ -66,7 +66,7 @@ xxx
 Las gentes que viven en Nottingham son conocidas como _notis_ (un gentilicio abreviado usado por las clases bajas). El complejo de Nottingham se rige por un sistema neofeudal, una versión ciberpunk del sistema feudal del siglo XII.
 ```
 
- La sociedad de la arcología de Nottingham **esta dividida en 3 clases sociales estancas**; Blus, que vendrían a ser la Nobleza del viejo sistema, Influencers, como Iglesia, y Curris, como el campesinado. Por encima de todos elles, está la compañia que rige los destino de todes, el presunto de Dios, y la IA directora que rige el complejo por designio de la compañia como si de una reina se tratara.  
+ La sociedad de la arcología de Nottingham **esta dividida en 3 clases sociales estancas**; Blus, que vendrían a ser la Nobleza del viejo sistema, Influencers, como Iglesia, y Curris, como el campesinado. Por encima de todos elles, está la compañía que rige los destino de todes, el presunto de Dios, y la IA directora que rige el complejo por designio de la compañía como si de una reina se tratara.  
 
 ### Blus (Nobleza)
 
@@ -175,7 +175,7 @@ Es normal ver soportes publicitarios humanos o robots portando carteles digitale
 La vida diaria del complejo no dista mucho de lo que pudieras pensar de una ambientación ciberpunk, pero hay ciertas diferencias.
 ```
 
-Bosque Sh3rW00d es una mezcla de ciberpunk con las historias mediavales de Robin Hood todo dentro de una grán arcología. Esto hace que el día a día en el complejo Nottingham sea un poco diferente al ciberpunk clásico.
+Bosque Sh3rW00d es una mezcla de ciberpunk con las historias medievales de Robin Hood todo dentro de una gran arcología. Esto hace que el día a día en el complejo Nottingham sea un poco diferente al ciberpunk clásico.
 
 ### Vida de interior y clima
 
@@ -257,7 +257,7 @@ Hay diferentes festejos en la Plaza Mayor que empiezan con un discurso de la dir
 
 De hecho hay tradición de besarte con tu pareja cuando se va a producir el Glitch de la noche.
 
-Los locales de comida de todo el complejo ponen puestos de comida para disfrute de los paladares de les _notis_. Curiosamente mientras que los locales más humildes suelen poner precios populares para sus clientes, los de alta gama suelen cobrar más de lo normal.
+Los locales de comida de todo el complejo ponen puestos de comida para disfrute de los paladares de les _notis_. Curiosamente, mientras que los locales más humildes suelen poner precios populares para sus clientes, los de alta gama suelen cobrar más de lo normal.
 
 \sp
 
@@ -273,7 +273,7 @@ Pero la actividad preferida de les niñes del complejo es la de atrapar el robot
 
 La comunidad haitiana en Nottingham no es especialmente importante, pero una de sus tradiciones, el Fét Gede, ha calado muy profundamente en la cultura del complejo. El Fét Gede es el Día de los muertos para los practicantes de la religión vudú. A primeros de noviembre los creyentes salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos supuestamente son poseídos por los gede, los espíritus de los ancestros muertos.
 
-Está fiesta calo poco a poco entre los _curris_ que la esperan con ansia todo el año. Sin embargo las clases altas la encuentran deleznable y no participan de ella y si lo hacen es disfrazades.
+Esta fiesta caló poco a poco entre los _curris_ que la esperan con ansia todo el año. Sin embargo las clases altas la encuentran deleznable y no participan de ella y si lo hacen es disfrazades.
 
 Es una época de excesos que la directora J0hn trato en su momento de abolir, pero estudios de mercado le dijeron que en realidad daba dinero a la compañía y reducía los delitos relacionados con protestas callejeras, huelgas y manifestaciones, etc.
 
@@ -346,9 +346,9 @@ Dentro del complejo de Nottingham son aceptadas todo tipo de opciones sexuales y
 
 **Intentar cambiar esto es ir en contra del espíritu de la ambientación.**
 
-Para la directora J0hn, como némesis principal de tu banda de procrites, todo estos temas de genero y sexualidad no son relevantes, digamos que solo se interesa por los habitantes como unidades productivas y fiscales y por tanto las casillas de preferencias sexuales y género son más una curiosidad más que algo que usar para discriminar. 
+Para la directora J0hn, como némesis principal de tu banda de proscrites, todos estos temas de género y sexualidad no son relevantes, digamos que solo se interesa por los habitantes como unidades productivas y fiscales y, por tanto, las casillas de preferencias sexuales y género son más una curiosidad más que algo que usar para discriminar. 
 
-La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las culpas y encuazar el odio de los _notis_ y no necesita ninguna otra minoría para sus planes de control de la arcología.
+La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las culpas y encauzar el odio de los _notis_ y no necesita ninguna otra minoría para sus planes de control de la arcología.
 
 > Las vidas sentimentales y sexuales de la mayoría de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así, cualquier persona de tu mesa podrá romancear con cualquier PNJ que encuentres aquí. Algunes PNJ han sido definidos abiertamiente no binaries y queer para que estos colectivos esten representados. Por favor, respeta esta decisión. 
 
@@ -516,7 +516,7 @@ xxx
 Una regla fundamental de esta ambientación es que es imposible salir al exterior de la arcología. El exterior es algo de lo que se habla, pero que la gente no ha visto nunca.
 ```
 
-El mundo exterior es algo de lo que todes hablan, pero muy pocos conocen. Les _notis_ pueden tener noticias y ver imágenes del mundo exterior y saber lo que pasa en otras arcologías, pero como en tiempos medievales, otra cosa es salir de tu condado y visitar otros lugares. Les _notis_ nunca salen de la arcología, esa opción es tan tremendamente cara que solo les más riques y famoses puede permitirselo. 
+El mundo exterior es algo de lo que todes hablan, pero muy pocos conocen. Les _notis_ pueden tener noticias y ver imágenes del mundo exterior y saber lo que pasa en otras arcologías, pero como en tiempos medievales, otra cosa es salir de tu condado y visitar otros lugares. Les _notis_ nunca salen de la arcología, esa opción es tan tremendamente cara que solo les más riques y famoses puede permitírselo. 
 
 xxx
 
@@ -590,6 +590,20 @@ xxx
 
 xxx
 
+### La segunda migración
+
+Una de las primeras medidas tomadas por la directora J0hn fue decretar que toda la basura generada en el complejo era propiedad de la compañía y que ella misma se encargaría de su reciclaje. 
+
+El reciclaje era una actividad muy importante para las clases bajas. Suponía dos cosas en la vida del complejo, unos ingresos fijos para las clases más bajas que les permitían sobrevivir y que la gente de la Zona Baja entrara en la Zona Alta en busca de basura para reciclar de "mayor calidad". 
+
+Les _blus_ e _influencers_ sabiendo que J0hn estaba más inclinada a otorgarles sus exigencias empezaron a reclamarle que prohibiera la recogida de basura por parte de _gentuza_ de la Zona Baja y sus deseos fueron concedidos con esta polémica ley.
+
+Personas como Lady Marian, presionaron, sin éxito, a la directora J0hn para que aprobara un paquete de medidas de ayuda a los afectados por la nueva legislación sobre reciclaje.
+
+Como ya hemos dicho, esta nueva ley supuso que montones de familias se quedaron sin su forma de vida y dio lugar a la segunda migración de _notis_ al bosque de Sh3rW00d.
+
+xxx
+
 \sc
 
 \sp
@@ -642,7 +656,7 @@ Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, e
 
 ### Espacios cerrados
 
-Se recomienda **no ponerse ventajas de pistolero**, ya que el acceso a las armas de fuego es muy limitado. Además todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde es bastante fácil que entres en combate cuerpo a cuerpo con lo que tu arma de fuego es una desventaja.
+Se recomienda **no ponerse ventajas de pistolero**, ya que el acceso a las armas de fuego es muy limitado. Además, todas las aventuras, de normal, transcurren en espacios muy muy cerrados, donde es bastante fácil que entres en combate cuerpo a cuerpo con lo que tu arma de fuego es una desventaja.
 
 **Tampoco son útiles habilidades como Cabalgar**, ya que no hay animales que montar, ni Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica. **Supervivencia es sustituida por Pasillear**, su versión urbana para la arcología.
 
@@ -650,7 +664,7 @@ Se recomienda **no ponerse ventajas de pistolero**, ya que el acceso a las armas
 
 \sp
 
-Como ya hemos dicho, no hay animales, **Vinculo Animal y Señor de las bestias tampoco se pueden escoger**.
+Como ya hemos dicho, no hay animales, **Vínculo Animal y Señor de las bestias tampoco se pueden escoger**.
 
 ### Idiomas
 

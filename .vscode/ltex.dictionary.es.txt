@@ -1,5 +1,5 @@
 animatrónicas
-saltopagina
+sc
 ciberimplantes
 camuflable
 arcología
@@ -80,8 +80,8 @@ x
 Tuck
 Marian
 Scarlet
-concolumna
-sincolumna
+conc
+sinc
 Cibernia
 4rc0l061a
 c1I3ern1a
@@ -99,7 +99,7 @@ International
 Git
 empleades
 notis
-saltocolumna
+sc
 Sindicade
 mensajeres
 Pasillear
