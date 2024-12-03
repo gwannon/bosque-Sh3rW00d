@@ -66,12 +66,11 @@ xxx
 Las gentes que viven en Nottingham son conocidas como _notis_ (un gentilicio abreviado usado por las clases bajas). El complejo de Nottingham se rige por un sistema neofeudal, una versión ciberpunk del sistema feudal del siglo XII.
 ```
 
- La sociedad de la arcología de Nottingham **esta dividida en 3 clases sociales estancas**; Blus, que vendrían a ser la Nobleza del viejo sistema, Influencers, como Iglesia, y Curris, como el campesinado. Por encima de todos elles, está la compañía que rige los destino de todes, el presunto de Dios, y la IA directora que rige el complejo por designio de la compañía como si de una reina se tratara.  
+ La sociedad de la arcología de Nottingham **está dividida en 3 clases sociales estancas**; Blus, que vendrían a ser la Nobleza del viejo sistema, Influencers, como Iglesia, y Curris, como el campesinado. Por encima de todos elles, está la compañía que rige los destino de todes, el presunto de Dios, y la IA directora que rige el complejo por designio de la compañía como si de una reina se tratara.  
 
 ### Blus (Nobleza)
 
 xxx
-
 
 \sc
 
@@ -143,7 +142,7 @@ A todos estos teletrabajadores se les llama en argot pijameres, por la broma de 
 
 \sp
 
-En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilado vía redes. xxx
+En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes. xxx
 
 Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
@@ -275,11 +274,9 @@ Esta fiesta caló poco a poco entre los _curris_ que la esperan con ansia todo e
 
 Es una época de excesos que la directora J0hn trato en su momento de abolir, pero estudios de mercado le dijeron que en realidad daba dinero a la compañía y reducía los delitos relacionados con protestas callejeras, huelgas y manifestaciones, etc.
 
-
 ### Deporte
 
 El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecnologías, hablamos de bicicletas estáticas o cintas de correr con realidad virtual o el hockey de pasillo, una versión mini del hockey sobre hierba. También son famosos los concursos de baile acrobáticos y las competiciones de tiro con tirachinas. 
-
 
 #### Hockey de pasillo
 
@@ -350,7 +347,7 @@ Para la directora J0hn, como némesis principal de tu banda de proscrites, todos
 
 La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las culpas y encauzar el odio de los _notis_ y no necesita ninguna otra minoría para sus planes de control de la arcología.
 
-> Las vidas sentimentales y sexuales de la mayoría de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así, cualquier persona de tu mesa podrá romancear con cualquier PNJ que encuentres aquí. Algunes PNJ han sido definidos abiertamiente no binaries y queer para que estos colectivos estén representados. Por favor, respeta esta decisión. 
+> Las vidas sentimentales y sexuales de la mayoría de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así, cualquier persona de tu mesa podrá romancear con cualquier PNJ que encuentres aquí. Algunes PNJ han sido definidos abiertamente no binaries y queer para que estos colectivos estén representados. Por favor, respeta esta decisión. 
 
 \sc
 
@@ -444,7 +441,7 @@ xxx
 
 ### Pandillas y sus territorios
 
-En los últimos años ha habido un auge de las pandillas para ocupar el agujero de poder que han supuesto la desaparición de las organizaciones mafiosas.
+En los últimos años, ha habido un auge de las pandillas para ocupar el agujero de poder que han supuesto la desaparición de las organizaciones mafiosas.
 
 xxx
 
@@ -1564,7 +1561,7 @@ Los implantes pueden ser considerados legales o ilegales. Los legales puedes lle
 
 En muchas ambientaciones los implantes de Armadura serían ilegales, pero une policíe podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
 
-Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo post-apocalíptico realmente no importaría si son legales o no.
+Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo postapocalíptico realmente no importaría si son legales o no.
 
 \sinc
 
@@ -1654,7 +1651,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Armadura +1|2|Sí|Estructuras intradermales, esqueleto reforzado|
 |² Armas naturales (Colmillos)|2|No|Colmillos retráctiles.|
 |² Armas naturales (Cuernos)|2|No|Cuernos retráctiles, placas craneales metálicas.|
-|² Armas naturales (Garras)|2|No|Garras retráctiles, cuchillas inter-digitales.|
+|² Armas naturales (Garras)|2|No|Garras retráctiles, cuchillas interdigitales.|
 |Infravisión|2|Sí|Implantes oculares|
 |Regeneración (lenta)|1|Sí|Ciberplaquetas en la sangre|
 |Regeneración (rápida)|2|Sí|Nanitos en la corriente sanguínea|
@@ -1751,7 +1748,7 @@ Un hecho importante a tener en cuenta es que los nanitos no entienden a los sere
 
 Por decirlo de forma sencilla, cuando construyen una casa, la casa no se queja, ni está todo el rato moviéndose y cambiando de tamaño y forma y si lo hace es dentro de un entorno controlable. 
 
-Así pues el uso de nanitos en entidades biológicas está reservado a la experimentación en laboratorios y todavía no habido grandes avances en esta tecnología. Salvo cosas muy puntuales como reparación de huesos o estimular de ciertas glándulas. En ambos casos los nanorobots solo tienen una única tarea y es muy simple, con lo que no les genera gran problema.
+Así pues, el uso de nanitos en entidades biológicas está reservado a la experimentación en laboratorios y todavía no habido grandes avances en esta tecnología. Salvo cosas muy puntuales como reparación de huesos o estimular de ciertas glándulas. En ambos casos los nanorobots solo tienen una única tarea y es muy simple, con lo que no les genera gran problema.
 
 \sc
 
@@ -1840,9 +1837,9 @@ xxx
 ```
 Aquí te presentamos toda una galería de personajes no jugadores genériques que van a pulular por los pasillos de la arcología, las factorías de algas y los garitos.
 ```
-También los puedes usar como base para tus PNJ. Si el el tabernere va a ser importante, coge a une secuace y adórnale con tus propios detalles.
+También los puedes usar como base para tus PNJ. Si el tabernere va a ser importante, coge a une secuace y adórnale con tus propios detalles.
 
-Recuerda que en esta ambientación muchos de estos PNJ genéricos puedes personalizarlos con diferentes habilidades y ventajas. Quizás el mensajere en bici que lleva un disco con datos importantes puede que tenga un d10 en Atletismo o la líder de una pandilla pueda tener un Persuadir alto para arengar a sus tropas.
+Recuerda que en esta ambientación muchos de estos PNJ genériques puedes personalizarlos con diferentes habilidades y ventajas. Quizás le mensajere en bici que lleva un disco con datos importantes puede que tenga un d10 en Atletismo o la líder de una pandilla pueda tener un Persuadir alto para arengar a sus tropas.
 
 ### Sheriffs
 
@@ -2021,7 +2018,7 @@ Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde f�
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Elige 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
 * **Desventajas:** Elige 1 (Avergonzado, Despistado, Fobia, Patoso)
-* **Equipo:** Equipo científico adecuado a su especialidad y ordenador portátil o pad de datos
+* **Equipo:** Equipo científico adecuado a su especialidad, ordenador portátil o pad de datos
 
 ### Delincuente de los bajos fondos
 
@@ -2119,7 +2116,7 @@ Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis
 
 Robert Guthrie es un buhonero/empeñista que se conoce por **tener tratos con delincuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas**. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
 
-Aunque tiene una tienda fija, esta abre y cierra cuando le da la gana. Además puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
+Aunque tiene una tienda fija, esta abre y cierra cuando le da la gana. Además, puede aparecer comprando o vendiendo sus cosas en cualquier sitio del complejo a cualquier hora.
 
 También es un buen **lugar donde buscar materiales y productos peligrosos e ilegales**. En su almacén (o en su mochila si está fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
 
@@ -2407,15 +2404,15 @@ El resto del tiempo hay diferentes marquesinas deslizantes que muestran titulare
 
 ### El terreno
 
-El terreno es un estadio deportivo donde se celebran los más importantes eventos deportivos de Nottingham. Hablamos de las finales del campeonato de hockey de pasillo profesional y el concurso de tiro anual el Día de la Primera Piedra.
+El terreno es un estadio deportivo donde se celebran los más importantes eventos deportivos de Nottingham. Hablamos de las finales del campeonato de hockey de pasillo profesional u otros eventos deportivos de la misma talla. 
 
-Este espacio no es mucho más de una cancha de tenis con unos vestuarios y una sala para ruedas de prensa. No hay espacio para el público, que solo asiste de forma virtual.
+Este espacio no es mucho más de una cancha de tenis con unos vestuarios y una sala para ruedas de prensa. No hay espacio para el público, que solo asiste de forma virtual. De hecho, alguna vez se ha intentado mover el concurso de tiro del día de la primera piedra (que se celebra de normal en la Plaza Mayor) y no ha tenido ningún éxito, ya que el público quería estar presente y vibrar con la competición.
 
 El estadio cumple la función de circo en la famosa locución latina "Pan y circo". Entretiene a los _curris_ y evita que se subleven contra la compañía.
 
 Como ya hemos dicho, no hay ni gradas ni asientos, sino miles de cámaras que retransmiten los eventos deportivos a su propietario/socio. De forma que lo ves en tu dispositivo de realidad aumentada como si estuvieras allí. El sistema simula a tus compañeres de grada y puedes hablar con elles o cantar los himnos de tu equipo, incluso abrazarte a elles y celebrar las victorias y llorar las derrotas.
 
-Claramente hay cámaras en mejores puestos que otros y, por tanto, son más caras y normalmente están destinadas a _blus_ e _influencers_.
+Claramente, hay cámaras en mejores puestos que otros y, por tanto, son más caras y normalmente están destinadas a _blus_ e _influencers_.
 
 Puedes comprar entradas para eventos específicos a la compañía o pagar un abono de temporada. También puedes alquilar de forma alegal la cámara a una persona con un abono de temporada.
 
@@ -2441,7 +2438,7 @@ A pesar de los avances, la robótica no ha sido capaz de igualar la maestría de
 
 ### El huerto urbano
 
-La directora J0hn además del zoo, mandó construir un huerto urbano de 20x20m, donde hay plantadas hortalizas y frutas y algunas plantas exóticas. Una vez a la semana la producción es sorteada entre los habitantes del complejo.
+La directora J0hn, además del zoo, mandó construir un huerto urbano de 20x20m, donde hay plantadas hortalizas y frutas y algunas plantas exóticas. Una vez a la semana la producción es sorteada entre los habitantes del complejo.
 
 Pero el huerto no solo sirve para limpiar la imagen de la directora, también sirve como laboratorio final de diferentes departamentos científicos de la compañía. De hecho, no es llevado por personal normal de mantenimiento del complejo, sino por botánicos especializados en hidropónica.
 
@@ -2756,7 +2753,7 @@ Solo cuando tiene que enseñar sus conocimientos a otras personas se muestra dej
 
 Es por eso que se estableció en la zona actual que era la zona en la que trabajaban cuando tuvieron que irse. El problema es que solo era una neófita y había muchos secretos de les instaladores que desconocía y sigue desconociendo. Con los años los problemas de mantenimiento superaron sus conocimientos y los nanitos empezaron a trabajar por su cuenta creando lo que conocemos como Bosque Sh3rW00d.
 
-Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superiores al de resto habitantes de Nottingham**. Además dispone todavía de una masa importante de nanitos que aceptan su programación.
+Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superiores al de resto habitantes de Nottingham**. Además, dispone todavía de una masa importante de nanitos que aceptan su programación.
 
 > Harriette está muy muy mayor y sabe que le quedan pocos años de vida es por ellos que busca alguien que reciba sus conocimientos y se quede cuidando de sus artilugios instaladores y sus nanitos. Cualquier persona con Electrónica d6 y Ordenadores d6 y que conozca algún hackeo de les instaladores podría ser la elegida.
 
@@ -3402,7 +3399,6 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 \sc
 
 * [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
-
 
 \sp
 
