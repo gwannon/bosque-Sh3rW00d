@@ -2418,11 +2418,11 @@ Puedes comprar entradas para eventos específicos a la compañía o pagar un abo
 
 > La IA que controla todo el sistema de cámara ha desarrollado con los años ciertos gustos deportivos y tiende a tratar mejor a sus compañeros hinchas que al resto. Si vas con los colores de su equipo, al interactuar con ella recibes un +2 a todas las tiradas en las que interactúes con ella.
 
+\sp
+
 ### Escuela de danza de Lady Myrna
 
 Lady Myrna es una de las mejores bailarinas de Nottingham y ha bailado para las clases más altas del complejo y de todo el mundo. En la cima de su carrera decidió montar una escuela donde enseñar su arte a las personas que lo aman tanto como ella.
-
-\sp
 
 **Lady Myrna es una de las pocas personas que ha salido del complejo** y puede hablarte del mundo fuera del complejo, aunque hay muchas cosas que se inventa. También miente mucho sobre como su familia consiguió su título nobiliario.
 
@@ -2444,9 +2444,9 @@ Pero el huerto no solo sirve para limpiar la imagen de la directora, también si
 
 > Por unos 200 $ (como soborno) puedes conseguir que alguien del personal del huerto te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de DJ). También puedes por 100 $ conseguir frutas u hortalizas por raras que sean y estén o no de temporada.
 
-**Semilla de aventura:** La última persona que gano las verduras del huerto ha estado unos días comportándose muy raro, con fallos de memoria y ahora presenta ronchas y prurito por todo el cuerpo. Quizás habría que investigar el huerto y ver que trama la directora.
-
 \sp
+
+**Semilla de aventura:** La última persona que gano las verduras del huerto ha estado unos días comportándose muy raro, con fallos de memoria y ahora presenta ronchas y prurito por todo el cuerpo. Quizás habría que investigar el huerto y ver que trama la directora.
 
 ### Pastelería Badreddin
 
@@ -2468,17 +2468,13 @@ Esta historia corrió como la pólvora y LEDland se convirtió en un pozo de los
 
 Corre otra historia, en la que Anette murió en accidente de trabajo a los pocos días de empezar en su nuevo puesto. Hay gente que cree que los deseos de LEDland son peligrosos y pueden volverse contra ti.
 
-> Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso y memoria estudiando a la gente que pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en lo sobrenatural y la magia, lo cual es raro para su mente analítica y científica. Si lo de su extraña afición se llegara a conocer, un estafador hábil podría montar un buen golpe contra la directora J0hn usando ese conocimiento.
-
 \sp
 
-\sinc
+> Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso y memoria estudiando a la gente que pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en lo sobrenatural y la magia, lo cual es raro para su mente analítica y científica. Si lo de su extraña afición se llegara a conocer, un estafador hábil podría montar un buen golpe contra la directora J0hn usando ese conocimiento.
 
 ### Bolrum
 
 ![Bolrum](./assests/images/bolrum.jpg )
-
-\conc
 
 La premisa es que en un lugar como Nottingham donde el espacio vacío es un desperdicio, la soledad una utopía y el silencio algo imposible, Bolrum es el lujo absoluto.
 
@@ -2496,9 +2492,11 @@ Cuenta también con un modo oscuridad que elimina toda luz, consiguiendo una pri
 
 La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor. Al pagar se abre la puerta y puedes entrar. No se reserva con lo que hay que hacer cola fuera y cuando se acaba el tiempo, se abre la puerta para que salgas. Si permaneces dentro generas una deuda de 50 $ el minuto hasta que desalojas el lugar.
 
+**Semilla de aventura:** Al abrirse la puerta para entrar al Bolrum, se puede ver perfectamente un cadáver ensangrentado. Tiene la garganta cortada y no se ve ninguna hoja.
+
 \sp
 
-**Semilla de aventura:** Al abrirse la puerta para entrar al Bolrum, se puede ver perfectamente un cadáver ensangrentado. Tiene la garganta cortada y no se ve ninguna hoja.
+[![bento box (digital) By soren15](./assests/images/bento_box__digital__by_soren15_dd2woiz-pre.png "bento box (digital) By soren15")](https://www.deviantart.com/soren15/art/bento-box-digital-790944299 "bento box (digital) By soren15")
 
 ### ᶜUᶜHI BAR
 
@@ -2510,8 +2508,6 @@ El establecimiento está decorado como un izakaya japonés y siempre está lleno
 Es el lugar preferido para las celebraciones de todo tipo, deportivas, comerciales, exámenes aprobados, ascensos, etc. Las 5 mesas del local siempre están llenas de gente de toda condición celebrando, riendo, cantando y brindando con sake.
 
 Los platos son servidos por un antiquísimo robot camarero que se equivoca la mitad de las veces al entregar los platos, pero es parte del encanto del local y la gente se come lo que le pone. Al final todo está buenísimo y no te importa.
-
-\sc
 
 El pescado está hecho a base de algas, como toda la comida en la arcología, pero Dupont sabe marinarla de tal forma que pierde su sabor artificial y parece más natural.
 
@@ -2529,11 +2525,11 @@ Pueden lanzarles paquetes de datos para que los borren o hacerles moverse por to
 
 \sp
 
-[![Command Line Jerkoff By Phracker](./assests/images/command_line_jerkoff_by_phracker_dc03mkf-pre.jpg "Command Line Jerkoff By Phracker")](https://www.deviantart.com/phracker/art/Command-Line-Jerkoff-725763327 "Command Line Jerkoff By Phracker")
-
 Es divertido ver como los _glitchs_ hacen fallar durante segundos las pantallas y luces del local según se mueven por la red y hay gente que puede pasarse horas chequeando las posiciones de memoria en la que está su troyano favorito para que esté cómodo.
 
 La idea del café se le ocurrió a Pad, su dueño, hace años cuando todo el equipo de la cafetería Pad’s Café fue infectado por un malware. Ofreció un bono vitalicio de café a quien le librará del malware. Enseguida se le llenó el local de hackers y expertes en ciberseguridad buscando café gratis.
+
+[![Command Line Jerkoff By Phracker](./assests/images/command_line_jerkoff_by_phracker_dc03mkf-pre.jpg "Command Line Jerkoff By Phracker")](https://www.deviantart.com/phracker/art/Command-Line-Jerkoff-725763327 "Command Line Jerkoff By Phracker")
 
 En unos días el virus estaba desactivado y todo el sistema limpio, pero la nueva cliente seguía viniendo y jugando con el malware, probando scripts y trayendo su propio código. Y así, con el tiempo, cambio de nombre a Cr4c|&lt; Café y se convirtió en el extraño local que es hoy.
 
@@ -2941,11 +2937,49 @@ xxx
 
 xxx
 
+### Noche de póker
+
+> El fraile Tuck suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que Lady Marian se ha enterado y se va a autoinvitar.  
+
+Tuck ha montado una timba de póker en su cabaña en el GR. Hay una mesa con sillas, cartas nuevas, fichas, picoteo y cerveza casera. Tuck es bastante mala como jugadora, pero disfruta de la interacción humana, de la comida y de la bebida.
+
+Cuando estén a punto de repartir las primeras cartas aparecerá Lady Marian unos cuencos de gumbo y brandy de melocotón. Se disculpará por llegar tarde y actuará como si la hubieran invitado. Parece ser que ha caído en sus manos un videotutorial sobre técnicas modernas de Relaciones Laborales y está probando cosas. Puede que al principio les intimide un poco, pero el alcohol lubricará las asperezas y acabarán todes cantando, gritando, contando chistes y jugando al póker.
+
+Lady Marian meterá una nueva regla a la partida para darle aliciente a la partida, le jugadore que pierda todas sus fichas deberá contar una historia vergonzosa de su vida.
+
+#### Jugando a póker
+
+La noche de póker tendrá tantas rondas como participantes menos uno y en cada ronda un participante será eliminado hasta que solo haya une ganadore.
+
+Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. Usa la tabla para saber su mano.
+
+|Cartas|Mano|Bono|
+|------|----|----|
+|Dos cartas seguidas|Escalera|+0|
+|Dos cartas del mismo color (rojo o negro)|Color|+1|
+|Dos cartas con el mismo número|Póker|+2|
+|Dos cartas seguidas del mismo color (rojo o negro)|Escalera de color|+2|
+
+El resto de manos no tienen valor y dan un bono de -1. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba. Una vez por ronda, siguiendo el orden de reparto de cartas, podrán gastar un beni y pedir una carta boca arriba o bocabajo.
+
+En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perdedor de la ronda y no podrá volver a jugar porque ha perdido todas sus fichas. Una vez en toda la partida podrás retirarte de una ronda y no participar en la tirada de Apostar.
+
+\sp
+
+#### Historias vergonzosas
+
+Le jugadore perdedore de cada ronda de póker deberá contar una anécdota graciosa y vergonzante y como DJ deberías darles al final de la sesión a cada PJ algún beneficio muy específico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo le ganadore no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
+
+* **La historia de Lady Marian** es que xxx
+* **La historia de Tuck** es que uno de los primeros trabajos fue de mono en un reel de une _influencer_ y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
+
 ### Todos los jueves
 
 > Todos los jueves en el glitch de la noche aparece por una décima de segundo una imagen. Solo un viejo recolector de algas se ha da cuenta y todos los jueves va a Plaza Mayor a intentar averiguar qué es esa imagen. 
 
 xxx
+
+\sc
 
 ### Videobombing
 
@@ -2953,17 +2987,9 @@ xxx
 
 xxx
 
-\sc
-
 ### Nowhere fast
 
 > La cantante e influencer Helen Aim ha sido secuestrada en pleno directo por unos pandilleros y los sheriffs no consiguen dar con ella. Su rastro se pierde en la zona Baja, así que alguien deberá buscarla, encontrarla y rescatarla.
-
-xxx
-
-### Noche de póker
-
-> El fraile Tuck suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que Lady Marian se ha enterado y se va a autoinvitar.  
 
 xxx
 
