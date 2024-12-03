@@ -117,11 +117,11 @@ Los _boskis_ tienen un dicho que explica su forma de pensar _En el bosque tienes
 Aunque Nottingham se considera una arcología donde viven cientos de miles de personas, en realidad es una megafactoria en la que trabajan cientos de miles de personas.
 ```
 
-Todo en el complejo está pensado para producir beneficios para la compañia y mientras que las decisiones de la directora R1c4rd tenían una visión social, J0hn ha abandonado esa linea de acción y solo piensa en la producción y los beneficios.
+Todo en el complejo está pensado para producir beneficios para la compañía y mientras que las decisiones de la directora R1c4rd tenían una visión social, J0hn ha abandonado esa línea de acción y solo piensa en la producción y los beneficios.
 
 ### Formas de pago
 
-La moneda oficial es el credito de la compañia, aunque no existe moneda física de ella. Todo son transacciones electrónicas a través del sistema monetario de la empresa. Así que se ha impuesto el trueque tanto de productos como de servicios cuando se quieren hacer actividades por debajo del radar de la Directora J0hn.
+La moneda oficial es el crédito de la compañía, aunque no existe moneda física de ella. Todo son transacciones electrónicas a través del sistema monetario de la empresa. Así que se ha impuesto el trueque tanto de productos como de servicios cuando se quieren hacer actividades por debajo del radar de la Directora J0hn.
 
 #### Trueque
 
@@ -135,15 +135,15 @@ xxx
 
 ### Teletrabajo
 
-Todo trabajo sin componente físico o manual o que exija equipo especial (como equipo de laboratorio) se realiza por teletrabajo. Los sistemas de vigilancia y control de los trabajadores que la compañia y sus subcontratas pueden aplicar son tan precisas e intrusivas que prefieren que sus trabajadores lo hagan desde casa.
+Todo trabajo sin componente físico o manual o que exija equipo especial (como equipo de laboratorio) se realiza por teletrabajo. Los sistemas de vigilancia y control de los trabajadores que la compañía y sus subcontratas pueden aplicar son tan precisas e intrusivas que prefieren que sus trabajadores lo hagan desde casa.
 
-En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente de una oficina, aun que no se reproducciones de mucha calidad para abaratar costes. Desde casa te colocas en tu unidad de trabajo con tus gafas de realidad virtual entras en la oficina virtual de la empresa donde realizas tus tareas.
+En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente de una oficina, aunque no sean reproducciones virtuales de mucha calidad para abaratar costes. Desde casa te colocas en tu unidad de trabajo con tus gafas de realidad virtual entras en la oficina virtual de la empresa donde realizas tus tareas.
 
 A todos estos teletrabajadores se les llama en argot pijameres, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
 
 \sp
 
-En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade vía redes. xxx
+En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilado vía redes. xxx
 
 Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
@@ -271,7 +271,7 @@ Pero la actividad preferida de les niñes del complejo es la de atrapar el robot
 
 La comunidad haitiana en Nottingham no es especialmente importante, pero una de sus tradiciones, el Fét Gede, ha calado muy profundamente en la cultura del complejo. El Fét Gede es el Día de los muertos para los practicantes de la religión vudú. A primeros de noviembre los creyentes salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos supuestamente son poseídos por los gede, los espíritus de los ancestros muertos.
 
-Esta fiesta caló poco a poco entre los _curris_ que la esperan con ansia todo el año. Sin embargo las clases altas la encuentran deleznable y no participan de ella y si lo hacen es disfrazades.
+Esta fiesta caló poco a poco entre los _curris_ que la esperan con ansia todo el año. Sin embargo, las clases altas la encuentran deleznable y no participan de ella y si lo hacen es disfrazades.
 
 Es una época de excesos que la directora J0hn trato en su momento de abolir, pero estudios de mercado le dijeron que en realidad daba dinero a la compañía y reducía los delitos relacionados con protestas callejeras, huelgas y manifestaciones, etc.
 
