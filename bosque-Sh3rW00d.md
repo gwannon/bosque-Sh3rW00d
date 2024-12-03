@@ -580,7 +580,7 @@ xxx
 \conc
 
 ```
-xxx
+Y a la directoria R1c4rd le sucedió la directora J0hn y todo cambió.
 ```
 
 xxx
@@ -1009,7 +1009,7 @@ xxx
 
 Puedes usar armas normales de la época actual del manual básico de SWEA para que las porten tus PNJ cuando se enfrente a tu mesa. Si derrotan a su enemigo y este está armado podrán quedarse con las armas, pero deberán racionar las balas porque son extremadamente escasas. También deben saber que les autoridades de Nottingham pondrán directamente en la lista de más buscados a personas que porten armas de fuego.
 
-Culturalmente también tienes que tener en cuenta que el pueblo quiere a ladrones carismáticos que reparten su botín con les pobres, no a asesinos violentos armados hasta los dientes que van dejando un reguero de sangre por donde pasan.
+Culturalmente, tienes que tener en cuenta que el pueblo quiere a ladrones carismáticos que reparten su botín con les pobres, no a asesinos violentos armados hasta los dientes que van dejando un reguero de sangre por donde pasan.
 
 #### Arcos
 
@@ -2822,18 +2822,32 @@ Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su cienci
 \conc
 
 ```
-xxx
+Turboascensores, montacargas y escaleras mecánicas te permiten moverte por todo el complejo con rápidez, si sabes como hacerlo.
 ```
 
+La red de turboascensores, montacargas y escaleras mecánicas que recorren Nottingham es tan grande que se puede llegar a cualquier parte del complejo en media hora como mucho. Y este sistema funciona 24 horas al día 7 días a la semana y sin casi fallos o accidentes. Y todo esto es gracias a Al1enOR, la IA que controla todo esta compleja red.
+
+### Al1enOR
+
+Al1enOR es la IA más antigua que hay en la arcología, mucho más antigua que J0hn y R1c4rd. De hecho, su primera instancia controla el primer montacargas que les instaladores hicieron funcionar.
+
+Al1enOR no está al nivel de porcesamiento J0hn o R1c4rd, pero esta muy cerca y muy por encima cualquier IA polivalente. Cada nuevo sistema de ascensores, montacargas y escalera mécanica que se integraba en su red mejoraba su capacidad de procesamiento hasta convertirse casi en una IA directora.
+
+Al1enOR genera instancias suyas que lanza a cada red de transporte y cuando las paran por mantenimiento o fallo vuelven a su nucleo con toda la info recabada. Cuando el sistema vuelve a funcionar lanza una nueva instancia y así en un bucle infinito. 
+
+\sc
+
 xxx
+
+Mientras que la directora R1c4rd siempre respetó los consejos y sugerenciuas de Al1enOR tanto solicitados como no, J0hn trata de evitar como sea a Al1enOR. No se fía de ella para nada y considera que como mucha gente en Nottingham busca su caida y el regreso de R1c4rd.
+
+> Si consigues llamar su atención y que abandone su trabajo, podrás preguntarle sobre cualquier cosa de la historia del complejo y seguro que lo sabe.
 
 ### Moverse entre zonas
 
 xxx
 
 Las zonas están conectadas como hemos explicado antes, pero siempre es posible hacer una buena tirada de Pasillear que permita acceder de unas a otras saltando los pasos intermedios. 
-
-\sc
 
 \sp
 
