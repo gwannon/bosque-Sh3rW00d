@@ -2825,29 +2825,33 @@ Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su cienci
 Turboascensores, montacargas y escaleras mecánicas te permiten moverte por todo el complejo con rápidez, si sabes como hacerlo.
 ```
 
-La red de turboascensores, montacargas y escaleras mecánicas que recorren Nottingham es tan grande que se puede llegar a cualquier parte del complejo en media hora como mucho. Y este sistema funciona 24 horas al día 7 días a la semana y sin casi fallos o accidentes. Y todo esto es gracias a Al1enOR, la IA que controla todo esta compleja red.
+La red de turboascensores, montacargas y escaleras mecánicas que recorren Nottingham es tan grande que se puede llegar a cualquier parte del complejo en media hora como mucho. Y este sistema funciona 24 horas al día 7 días a la semana y sin casi fallos o accidentes. Y todo esto es gracias a Al1enOR, la IA que controla toda esta compleja red.
 
 ### Al1enOR
 
 Al1enOR es la IA más antigua que hay en la arcología, mucho más antigua que J0hn y R1c4rd. De hecho, su primera instancia controla el primer montacargas que les instaladores hicieron funcionar.
 
-Al1enOR no está al nivel de porcesamiento J0hn o R1c4rd, pero esta muy cerca y muy por encima cualquier IA polivalente. Cada nuevo sistema de ascensores, montacargas y escalera mécanica que se integraba en su red mejoraba su capacidad de procesamiento hasta convertirse casi en una IA directora.
+Al1enOR no está al nivel de procesamiento J0hn o R1c4rd, pero está muy cerca y muy por encima cualquier IA polivalente. Cada nuevo sistema de ascensores, montacargas y escalera mecánica que se integraba en su red mejoraba su capacidad de procesamiento hasta convertirse casi en una IA directora.
 
-Al1enOR genera instancias suyas que lanza a cada red de transporte y cuando las paran por mantenimiento o fallo vuelven a su nucleo con toda la info recabada. Cuando el sistema vuelve a funcionar lanza una nueva instancia y así en un bucle infinito. 
+Al1enOR genera instancias suyas que lanza a cada red de transporte y cuando las paran por mantenimiento o fallo vuelven a su núcleo con toda la info recabada. Cuando el sistema vuelve a funcionar lanza una nueva instancia y así en un bucle infinito. 
 
-\sc
+[![For Jess By GraffMX](./assests/images/for_jess_by_graffmx_d5qpxus-375w-2x.jpg "For Jess By GraffMX")](https://www.deviantart.com/graffmx/art/For-Jess-347211172 "For Jess By GraffMX")
 
 xxx
 
-Mientras que la directora R1c4rd siempre respetó los consejos y sugerenciuas de Al1enOR tanto solicitados como no, J0hn trata de evitar como sea a Al1enOR. No se fía de ella para nada y considera que como mucha gente en Nottingham busca su caida y el regreso de R1c4rd.
+Mientras que la directora R1c4rd siempre respetó los consejos y sugerencias de Al1enOR tanto solicitados como no, J0hn trata de evitar como sea a Al1enOR. No se fía de ella para nada y considera que como mucha gente en Nottingham busca su caída y el regreso de R1c4rd.
 
 > Si consigues llamar su atención y que abandone su trabajo, podrás preguntarle sobre cualquier cosa de la historia del complejo y seguro que lo sabe.
+
+\sp
 
 ### Moverse entre zonas
 
 xxx
 
 Las zonas están conectadas como hemos explicado antes, pero siempre es posible hacer una buena tirada de Pasillear que permita acceder de unas a otras saltando los pasos intermedios. 
+
+\sc
 
 \sp
 

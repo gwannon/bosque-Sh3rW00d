@@ -175,8 +175,6 @@ https://www.deviantart.com/simoneferriero/art/Looking-for-Clues-817273636
 
 https://www.deviantart.com/simoneferriero/art/Sleepy-Time-800832062
 
-https://www.deviantart.com/graffmx/art/For-Jess-347211172
-
 https://www.deviantart.com/gigiedt/art/Basstable-854838940
 
 ---
