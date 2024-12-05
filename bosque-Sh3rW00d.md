@@ -1430,6 +1430,8 @@ Al final de las 5 rondas gana el que más puntos tenga. También se puede ganar 
 |K|Les seguidores del equipo con menos puntos empiezan a apoyar a su equipo con golpes y cánticos a través de las paredes. El equipo gana un beni grupal.|
 |A|Une influencer empieza a retransmitir el partido. Les fans ven el partido enfervorecides. El equipo ganador acabará en una fiesta salvaje con sus fans. Puedes usar esto como semilla de aventura tipo "Colega, ¿dónde está mi coche?"|
 
+\conc
+
 \sp
 
 ### Concursos de puntería
@@ -2059,20 +2061,20 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 
 ### Pandillere
 
-xxx
+Estes criminales menores pueblan los callejones de la zona baja dando golpes menores o juntandonse para enfrentarse a bandas rivales o dar golpes más grandes. Solo el grupo puede hacerlos peligrosos para tus procrites.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Navaja (FUE+d4), stick de hockey atrezado (FUE+d4+1)
 
 \sc
 
 ***
 
-# I)iЯe(tori0 de Nottingham **Directorio de Nottingham**
+# IϽiЯeͼtori0 de Nottingham **Directorio de Nottingham**
 
 \sinc
 
@@ -3307,6 +3309,8 @@ xxx
 
 [![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
+Alfonse es una IA tremendamente interesante. Por un lado es el único locutor de la RLN y por otro es un fork de la directora R1c4rd, una especie de hije bastarde. xxx
+
 xxx
 
 \sc
@@ -3496,13 +3500,14 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 **[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)**
 
-***
 
 \sp
 
-\sinc
+&nbsp;
 
-**Bosque Sh3rW00d creado por [Gwannon](https://gwannon.itch.io/)**
+***
+
+**Bosque Sh3rW00d creado por [Gwannon](https://linktr.ee/gwannon)**
 
 Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds Edición Aventura en un mundo extrañamente parecido a las historias de Robin Hood.
 
@@ -3513,5 +3518,3 @@ Este libro contiene:
 3. 1 aventura larga en formato Plot Points para disfrutar plenamente de esta ambientación más varias aventuras cortas de 1 o 2 sesiones.
 
 Para jugar esta ambientación solo necesitas el Manual Básico de Savage Worlds Edición Aventura.
-
-\conc

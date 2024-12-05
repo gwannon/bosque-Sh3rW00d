@@ -244,7 +244,8 @@ h2 {
 }
 
 h2 + .columns > p:first-of-type:first-letter,
-h1 + .saltopagina + p:first-of-type:first-letter {
+h1 + .saltopagina + p:first-of-type:first-letter,
+h2 + .columns:has(p:first-of-type > a > img) > p:nth-of-type(2):first-letter {
   font-family: 'Medieval Pixel', cursive;
   font-size: 5.7em;
   display: block;
@@ -255,7 +256,8 @@ h1 + .saltopagina + p:first-of-type:first-letter {
 }
 
 section:nth-of-type(odd) h2 + .columns > p:first-of-type:first-letter,
-section:nth-of-type(odd)  h1 + .saltopagina + p:first-of-type:first-letter {
+section:nth-of-type(odd) h1 + .saltopagina + p:first-of-type:first-letter,
+section:nth-of-type(odd) h2 + .columns:has(p:first-of-type > a > img) > p:nth-of-type(2):first-letter {
   color: var(--yellow-color);
 }
 
@@ -475,8 +477,12 @@ p.seed {
 }
 
 section:last-of-type {
-  max-height: calc(100vh - 1px);
-  min-height: calc(100vh - 1px);
+  max-height: 100vh;
+  min-height: 100vh;
+}
+
+section:last-of-type > *:first-child {
+  padding-top: var(--padding);
 }
 
 /* Portadas de capítulos */
@@ -738,7 +744,7 @@ section h1 + .saltopagina:after {
   h1 {
     margin-left: -10px !important;
     margin-right: -10px !important;
-    height: calc(100vh - 1px);
+    height: 100vh;
     position: relative;
     z-index: 10;
   }
