@@ -769,7 +769,7 @@ Estás a otro lado de la ley y de la sociedad desde tu nacimiento. Naciste en el
 
 Eso supone que no puedes moverte normalmente por la arcología como cualquier _noti_ y tienes que buscarte la vida para moverte por ella para conseguir recursos.
 
-Por otro lado no existes para empresa y eso es un gran valor.
+Por otro lado, no existes para empresa y eso es un gran valor.
 
 * **Habilidades recomendadas:** Electrónica, Pasillear y Reparar
 * **Ventajas recomendadas:** Persona de recursos, Osade y Sentir el peligro
@@ -2204,13 +2204,13 @@ El mercadillo nocturno, también conocido como mercadillo de Halloween, se celeb
 
 Si ves algo que necesitas y quieres deshacerte de algo, llamas a la puerta y negocias un trato.
 
-Son muy raras las transacciones en dinero, todo el mundo prefiere que la compañía no meta mano en estas actividades de subsistencia. Son muy pocos los que venden productos ilegales y normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
+**Son muy raras las transacciones en dinero**, todo el mundo prefiere que la compañía no meta mano en estas actividades de subsistencia. Son muy pocos los que venden productos ilegales y normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
 
 Según se cuenta, está tradición viene de otra más antigua llamada Halloween (de ahí su nombre) donde les niñes iban de noche de puerta en puerta de sus vecines haciendo tratos para conseguir dulces.
 
 Con los años ha habido gente que ha pasado de montar el mercadillo para deshacerse del excedente de lo que producía en casa, a montar auténticas tiendas abiertas todos los días.
 
-Como en casi todos estos eventos de carácter social han empezado a venir _influencers_ a hacer reels de esta costumbre de la gente humilde de la Zona Baja. El problema es que están afectando al orden natural del mercado al pagar mucho dinero por cosas que no lo valen o acaparando toda la producción de un producto, subiendo su precio y haciendo que no sean accesibles a los bolsillos más pobres.
+Como en casi todos estos eventos de carácter social **han empezado a venir _influencers_** a hacer reels de esta costumbre de la gente humilde de la Zona Baja. El problema es que están afectando al orden natural del mercado al pagar mucho dinero por cosas que no lo valen o acaparando toda la producción de un producto, **subiendo su precio y haciendo que no sean accesibles a los bolsillos más pobres**.
 
 Hace años las _fantarinas_ se compraban por otras frutas pieza por pieza. Desde que se pusieron de moda en cócteles de lujo, su precio ronda 1 a 7. Y como las _fantarinas_ hay cada vez más productos de primera necesidad cuyo precio está ahora desorbitado por la acción de las clases altas.
 
@@ -2280,7 +2280,7 @@ Noc lleva años reparando las bicicletas eléctricas desde que tiene recuerdo. S
 
 El taller de Noc es un pequeño habitáculo lleno hasta arriba por todas partes de ebikes y skates viejos, piezas de repuesto y todo tipo de trastos electrónicos obsoletos y rotos.
 
-Noc puede arreglar cualquier vehículo personal, pero por lo que es más conocido es por tunearlos. Quieres más velocidad, él puedo hacerlo. Necesitas saltar más el puede conseguirlo. No hay ninguna modificación que no pueda conseguir.
+Noc puede arreglar cualquier vehículo personal, pero por lo que es más conocido es por tunearlos. Quieres más velocidad, él puede hacerlo. Necesitas saltar más él puede conseguirlo. No hay ninguna modificación que no pueda conseguir.
 
 Piénsalo, si vas a dar un golpe no es mala idea que Noc revise y ponga a punto los rollers que vas a usar en la huida.
 
@@ -2713,9 +2713,39 @@ Es importante recalcar que el bosque es en su mayoría una gran extensión llena
 
 ### El Gran Roble (GR)
 
-El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les _boskis_. En el interior del bosque hace ya muchos años, después de la marcha de la directora R1c4rd, se establecieron les primeres proscrites huyendo de la tiranía de la directora J0hn. 
+El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les _boskis_. En el interior del bosque hace ya muchos años, después de la marcha de la directora R1c4rd, se establecieron les primeres proscrites huyendo de la tiranía de la directora J0hn. Empezaron a construir alrededor de una gran columna de carga. Empezartón con chabolas usando la columna como base y fueron subiendo por ella, creando plataformas y casa colgantes. 
 
-xxx
+Con cada ola de gente que huia del complejo y de R1c4rd la comunidad iba creciendo. Les nueves proscrites traian sus trastos y sus conociumientos y habilidades y rápidamente el conjunto de chabolas y casa colgantes creció y se convirtió en una pequeña ciudad con cada vez mejores casas, calles e incluso zonas de esparcimientos.
+
+Las casas están creadas de plasticos reciclados y materiales que se encuentran en el bosque que les instaladores dejarón, pero nunca llegarón a usar. ademas todo es reciclado y muy productos se tiran. si se rompe algo, alguien te lo repara o lo recicla para crear otro objeto util.
+
+La población actual del GR es de unos 5000 _boskis_ y hay gente llegando todos los días. de hecho han empezado a crearse nuevas comunidades en zonas cercanas aprovechando otras columnas de carga. 
+
+En GR puede encontrar de todo lo básico para vivir decentemente, alimentación, servicios sanitarios y cuidados, educación e incluso ocio. R1c4rd se ha encargadado de hacer que gente de toda condición y educación haya tenido que huir al bosque.
+
+Se puede conseguir todo tipo de servicios y productos normales, nada de lujos. Puedes pagarlo mediante trueques, intercambiandolo por horas de trabajo o incluso puedes conseguirlo gratis con la promesa de ayudar en el futuro.
+
+#### Iluminación
+
+Mientras que todo es bosque esta siempre es penumbra gracias a la ilumaión básica que tiene todo el bosque y que R1c4rd no ha conseguido cortar, GR esta perfectamente ilumnado gracias a un focos colocados en la gran columna que iluminan toda la comunidad. estos focos se apagan de noche y se encienden de día.
+
+Les encargades de vigilar y mantener las luces son llamades farares y tienen la ventaja de poder vivir en unas estancias colgantes cerca de las potentes luces.
+
+#### El punto
+
+El punto es un zona libre en uno de los laterales de la columna principal donde se reune los _boskis_ para dialogar y tratar comunitarios. Es una zona pintada de verde en forma circular donde puede haber unas 200/250 poersonas sin apretujarse mucho.
+
+\sp
+
+Aqui se prsentan problemas todas las semanas despues del mercado y se vota a la persona que decidirá la solución al problema.
+
+El punto siempre esta limpio y cuidado ya que simboliza todo lo que les _boskis_ tienen aquí y no tenían en el complejo. de hecho, de normal esta vacio y solo se ocupa cuando se votan cosas.
+
+#### Los invernaderos
+
+En los terrenos alrededor del GR, se han ido montando invernaderos comunales de cultivos hidropónicos que son la mayor fuente de alimento de sus gentes. Si no tienes forma de ganarte la vida, se puede trabajar en los invernaderos y recibir parte de la producción para tu consumo. Parte de la producción se usa para pagar a gente que trabaja por el bien común como los fareres o les patrulleres y también se destina a repartirla entre gente mayor, niños y discapacitados para que puedan vivir con dignidad.
+
+Los invernadores son gestionados por una serie de personas votadas denmocraticamente que dedciden cuando y que plantar y cosechar. Normalmente solo se presentan al cargo antigues botániques que saben del tema. 
 
 #### El mercado
 
@@ -2737,9 +2767,9 @@ Hay colgando de diferentes partes de la choza carillones de viento hechos de mat
 
 Todes en el bosque saben que **Harriette la bruja** es la persona con la que hablar cuando tienes que **reparar algún objeto electrónico, reprogramar un robot, hackear algún aparato u obtener _oscuros_ conocimientos informáticos**.  
 
-El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos, comida, bebida, vídeos recreativos, etc.) y lo que quieres que haga y el equipo necesario y vuelves en un par de días. Si la ofrenda no está, es que acepta tu trato y ha realizado la tarea. Donde dejaste la ofrenda tendrás el código del programa que le pediste, la unidad de almacenamiento con los datos hackeados, etc. 
-
 \sp
+
+El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos, comida, bebida, vídeos recreativos, etc.) y lo que quieres que haga y el equipo necesario y vuelves en un par de días. Si la ofrenda no está, es que acepta tu trato y ha realizado la tarea. Donde dejaste la ofrenda tendrás el código del programa que le pediste, la unidad de almacenamiento con los datos hackeados, etc. 
 
 Si no ha tocado nada es que lo ha rechazado y puedes mejorar tu ofrenda o recogerlo todo y volver por donde has venido.
 
@@ -2759,13 +2789,13 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 > Basado en una idea de [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
 
+\sp
+
 ### RLN (Radio libre de Nottingham)
 
 La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un podcast que de una radio tradicional.
 
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
-
-\sp
 
 [![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
@@ -2781,9 +2811,9 @@ Sin embargo, en pocos días aparecen nuevos para sustituir a los destruidos, ya 
 
 Alfonse acepta preguntas en directo de todo tipo y las respuestas suelen ser bastante acertadas y sensatas, lo que le he convertido es una especie de consejero o coach para mucha gente que le va con sus problemas en busca de consejo.
 
-> Puedes usar a Alfonse como una especie de oráculo para cuando tu banda se pierda y no sepa como seguir, pero recuérdales que este debería ser su último recurso. Si tu banda está cerca de un wifi (algo a tu elección como DJ) pueden conectarse e intentar entrar en contacto con Alfonse y preguntarle algo. El que vaya a preguntar deberá **gastar todos sus benis, mínimo 1, para conseguir entrar en antena y poder preguntar**. Cómo DJ podrás responderles a su pregunta y darles una pista para continuar su aventura.
-
 \sp
+
+> Puedes usar a Alfonse como una especie de oráculo para cuando tu banda se pierda y no sepa como seguir, pero recuérdales que este debería ser su último recurso. Si tu banda está cerca de un wifi (algo a tu elección como DJ) pueden conectarse e intentar entrar en contacto con Alfonse y preguntarle algo. El que vaya a preguntar deberá **gastar todos sus benis, mínimo 1, para conseguir entrar en antena y poder preguntar**. Cómo DJ podrás responderles a su pregunta y darles una pista para continuar su aventura.
 
 Corren rumores sobre quien es Alfonse. Desde que son varias personas que se turnan para hacer el programa hasta que es une instaladore que se quedó en el complejo. La realidad es que **Alfonse es una IA al nivel de las directoras**, exactamente un _fork_ muy joven de la directora R1c4rd.
 
@@ -2803,11 +2833,11 @@ Es importante destacar que el invernadero está debajo de una especie de chimene
 
 Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
 
+\sp
+
 > La primera vez que tu banda reciba auténtica luz del día, dales un beni. A veces las cosas sencillas son las más importantes.
 
-Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimientos científicos y de ordenadores.
-
-\sp
+Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimientos científicos y sobre ordenadores.
 
 > Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200 $ a la semana** como sueldo.
 
@@ -3382,15 +3412,15 @@ Aquí tienes un listado de términos especiales usados en esta ambientación.
 
 \conc
 
-* **blus:** altes ejecutives de la compañía y de otras empresas menores que controlan con sus decisiones las vidas de la mayoría de les curris.
-* **boskis:** habitantes del bosque que están fuera de la ley.
-* **cuchi:** un tipo de sushi.
-* **curris:** la clase trabajadora de Nottingham.
-* **fork:** copia de un software a partir de la cual se empieza a desarrollar nuevo software normalmente con capacidades diferentes del original.
-* **glitch de la mañana:** amanecer
-* **glitch de la noche:** anochecer
-* **notis:** ciudadanes que viven en la arcología Nottingham.
-* **superusuario:** también llamado _root_, se refiere en un sistema informático a le usuarie más poderose con capacidades especiales.
+* **Blus:** altes ejecutives de la compañía y de otras empresas menores que controlan con sus decisiones las vidas de la mayoría de les curris.
+* **Boskis:** habitantes del bosque que están fuera de la ley.
+* **Cuchi:** un tipo de sushi.
+* **Curris:** la clase trabajadora de Nottingham.
+* **Fork:** copia de un software a partir de la cual se empieza a desarrollar nuevo software normalmente con capacidades diferentes del original.
+* **Glitch de la mañana:** amanecer
+* **Glitch de la noche:** anochecer
+* **Notis:** ciudadanes que viven en la arcología Nottingham.
+* **Superusuario:** también llamado _root_, se refiere en un sistema informático a le usuarie más poderose con capacidades especiales.
 
 \sc
 
