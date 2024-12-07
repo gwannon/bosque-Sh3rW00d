@@ -497,6 +497,14 @@ Deportivamente hablando, el deporte que más practican son el tiro con arco o ti
 
 xxx
 
+### Educación
+
+La educación en el bosque es bastante práctica y se aprenden cosas tremendamente prácticas y centrada en profesiones, desde programación a albañilería o trabajo en invernaderos hidropónicos.
+
+Tras unos estudios básicos de lectura, escritura, manejo de aparatos informáticos y nociones de historia y ciudadanía, se pasa a aprender habilidades útiles en el día a día como cultivar, reparar una casa o arreglar un dispositivo electrónico estropeado.
+
+Les profesores suelen ser profesionales que trabajan de ello. Imparten clases a les alumnos como parte de su contribución al bienestar social y suelen coger como aprendices a los que ven las capaces.
+
 \sc
 
 \sp
@@ -1495,7 +1503,7 @@ xxx
 Los ciberimplantes (CI) son elementos cibernéticos que sustituyen o mejoran partes del cuerpo. Pueden hacerte más fuerte, más rápido, más listo, ver en la oscuridad, respirar bajo el agua, etc.
 ```
 
-En estas reglas existen 4 tipos de CI.
+En estas reglas para implantes cibernéticos existen 4 tipos de CI en función del elemento de tu proscrite que te permiten mejorar.
 
 1. Los que mejoran atributos como Fuerza o Vigor.
 2. Los que mejoran habilidades como Notar o Pelear.
@@ -1542,6 +1550,10 @@ Las ventajas mejoradas como Esquiva y Esquiva Mejorada no se apilan de ninguna f
 Al gastar avances en estos CI puedes ponerte una serie de rasgos de bestia. Solo se pueden comprar ciertos rasgos de bestia (consultar la lista a continuación), no todos los rasgos están disponibles.
 
 Los rasgos de bestia acumulables como Armadura no son camuflables a partir de la primera acumulación. Es decir, ponerse armadura +1 puede ser camuflado, pero cuando te pones +2 o más las placas dermales son obvias y visibles a simple vista.
+
+### Instalar implantes
+
+xxx
 
 ### Quitarse implantes
 
