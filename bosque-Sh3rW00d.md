@@ -128,9 +128,19 @@ El hecho de que la directora R1c4rd controle toda la economía de Nottingham ha 
 
 Los truques van desde cosas muy simples y del día a día como "tú arreglas el grifo de mi cubículo, yo te doy dos botes de mi salsa barbacoa casera" a trueques más complejos que incluso incluyen pagarés en papel (para no quedar registrados electrónicamente). Es curioso porque esos pagarés se han convertido en una especie de papel moneda que no se cobran, sino que se intercambian una y otra vez y varían de valor según las circunstancias y lo que ofrezca el pagaré.
 
-### Talleres y algafactorías
+### Minifábricas y algafactorías
 
-xxx
+La industria se basa en dos elementos claves, minifñaricas y algafactorias. Existen en el complejo miles de minifábricas donde se transforma materia prima en piezas o piezas en piezas más complejas o finalmente productos completos. Estas minifabricas son talleres de 5/6 trabajadores propiedad de algune _curri_ con más dinero o de _blus_ que tienen negocios paralelos a su trabajo para la compañía.
+
+La compañía trae materia prima que va vendiendo a las minifábricas que a su vez venden a otras minifábricas y estas a otras hasta tener todo tipo de productos. En ese momento, la compañia vuelve a comprar los productos finales para exportarlos fuera de la arcologí,menos la parte que se consigue vender a los _notis_. 
+
+> La compañia controla el mercado controlando el precio de venta de las materias primas y el precio de compra del producto final. La directora J0hn, siguiendo las ordenes de la compañia, puede manejar el mercado a su gusto y repartir riqueza entre los _notis_ o hacer que caigan en la miseria. 
+
+\sp
+
+La otra base de la industria es la megafactoria del Trent (propiedad de la compañia), que convierte las algas en todo tipo de alimentos procesados para consumo de los _notis_ y para exportar. La factoría del Trent con toda su industria asociada genera la mitad de la riqueza del complejo.
+
+Dos tercios de la población de _curris_ trabaja en las algafactorias o en los talleres de las minifavbricas. El resto trabajan en hostelería y servicios, casi siempre al servicio de otros. Hay casos de _curris_ con su propio negocio, pero son les minimes y normalmente en graves problemas economicos. Eso supone que acaban currando para la conpañía, en la carcel o huyendo al bosque.
 
 ### Teletrabajo
 
@@ -140,9 +150,9 @@ En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente 
 
 A todos estos teletrabajadores se les llama en argot pijameres, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
 
-\sp
+En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
 
-En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes. xxx
+Pueden trabajar para algunas de las miles de minifabricas o directamente para la compañia o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
 
 Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
@@ -154,11 +164,15 @@ Para empezar la compañía vende casi el 90% de los bienes de consumo y no tiene
 
 Por otro lado, no hay grandes espacios abiertos con miles de personas de paso donde colocar esas macro pantallas publicitarias.
 
+\sp
+
 De hecho, solo existe una pantalla gigante en la plaza mayor donde se publican los edictos de la compañía y donde la directora J0hn hace sus apariciones públicas.
 
 Los pequeños negocios funcionan con el boca a boca y se suelen identificar con complejos emojis hechos con algas bioluminescences en sus entradas.
 
 Es normal ver soportes publicitarios humanos o robots portando carteles digitales por las inmediaciones del local del anunciante. Esto es debido a que la directora J0hn prohibió el uso de las paredes y otros elementos de la arcología como soporte artístico y publicitario en su lucha contra les grafiteres que ponían consignas contra ella y la compañía.
+
+\sc
 
 \sp
 
@@ -503,9 +517,9 @@ La educación en el bosque es bastante práctica y se aprenden cosas tremendamen
 
 Tras unos estudios básicos de lectura, escritura, manejo de aparatos informáticos y nociones de historia y ciudadanía, se pasa a aprender habilidades útiles en el día a día como cultivar, reparar una casa o arreglar un dispositivo electrónico estropeado.
 
-Les profesores suelen ser profesionales que trabajan de ello. Imparten clases a les alumnos como parte de su contribución al bienestar social y suelen coger como aprendices a los que ven las capaces.
-
 \sc
+
+Les profesores suelen ser profesionales que trabajan de ello. Imparten clases a les alumnos como parte de su contribución al bienestar social y suelen coger como aprendices a los que ven las capaces.
 
 \sp
 

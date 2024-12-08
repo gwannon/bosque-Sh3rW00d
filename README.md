@@ -8,8 +8,8 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 
 ## Comunicaciones
 
-* [29/11/2024](https://bsky.app/profile/gwannon.bsky.social/post/3lc3drrdlr224)
-* [17/11/2024](https://bsky.app/profile/gwannon.bsky.social/post/3lb6c2saa722y)
+* [29/11/2024](https://bsky.app/profile/gwannon.com/post/3lc3drrdlr224)
+* [17/11/2024](https://bsky.app/profile/gwannon.com/post/3lb6c2saa722y)
 * [03/11/2024](https://x.com/gwannon/status/1853177857385853120)
 * [28/10/2024](https://x.com/gwannon/status/1850939298516000832)
 * [24/10/2024](https://x.com/gwannon/status/1849562024122122618)
@@ -52,7 +52,6 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 * La arcología de Nottingham
   * El mundo actual
   * Orden social
-  * Comercio e industria
   * Vida diaria
   * Bajos fondos y crimen organizado
   * Les instaladores
@@ -62,6 +61,7 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * Equipo
   * Hackeos de les instaladores
 
+* Terminada sección "Comercio e industria"
 * Terminada localización "El Gran Roble (GR)"
 * Terminada sección "Sexo y género"
 
