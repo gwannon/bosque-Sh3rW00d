@@ -242,7 +242,7 @@ Cómo ya hemos dicho otras veces, en el bosque es todo al revés, los productos 
 
 \sp
 
-[![D'hinghara DinerBy Dana-Ulama](./assests/images/deswid5-6dbe3f18-e6ae-4e6c-868f-2a82ce167323.gif "D'hinghara DinerBy Dana-Ulama")](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505 "D'hinghara DinerBy Dana-Ulama")
+[![D'hinghara DinerBy Dana-Ulama](./assests/images/deswid5-6dbe3f18-e6ae-4e6c-868f-2a82ce167323.jpg "D'hinghara DinerBy Dana-Ulama")](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505 "D'hinghara DinerBy Dana-Ulama")
 
 Los restaurantes en la zona baja y media en su mayoría son como _ramen shops_, una barra sobre la que comen 3 o 4 personas y detrás de la barra un cocinero y su cocina. Los restaurantes de la zona alta son ya mucho más grandes y lujosos, aunque siguen teniendo pocas mesas y tratan de trabajar mucho con productos hidropónicos comprados a los _notis_.
 
@@ -3106,7 +3106,7 @@ xxx
 
 \conc
 
-[![Brilliant Green (Zelyonka) By GeoKorf](./assests/images/brilliant_green__zelyonka__by_geokorf_dbat283-pre.png "Brilliant Green (Zelyonka) By GeoKorf")](https://www.deviantart.com/geokorf/art/Brilliant-Green-Zelyonka-683280003 "Brilliant Green (Zelyonka) By GeoKorf")
+[![Brilliant Green (Zelyonka) By GeoKorf](./assests/images/brilliant_green__zelyonka__by_geokorf_dbat283-pre.jpg "Brilliant Green (Zelyonka) By GeoKorf")](https://www.deviantart.com/geokorf/art/Brilliant-Green-Zelyonka-683280003 "Brilliant Green (Zelyonka) By GeoKorf")
 
 xxx
 
