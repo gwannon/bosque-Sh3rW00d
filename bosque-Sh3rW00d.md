@@ -142,6 +142,12 @@ La otra base de la industria es la megafactoría del Trent (propiedad de la comp
 
 Dos tercios de la población de _curris_ trabaja en las algafactorías o en los talleres de las minifábricas. El resto trabajan en hostelería y servicios, casi siempre al servicio de otros. Hay casos de _curris_ con su propio negocio, pero son les minimes y normalmente en graves problemas economicos. Eso supone que acaban currando para la conpañía, en la cárcel o huyendo al bosque.
 
+\sinc
+
+[![Sleepy Time By simoneferriero](./assests/images/sleepy_time_by_simoneferriero_dd8slz2-pre.jpg "Sleepy Time By simoneferriero")](https://www.deviantart.com/simoneferriero/art/Sleepy-Time-800832062 "Sleepy Time By simoneferriero")
+
+\conc
+
 ### Teletrabajo
 
 Todo trabajo sin componente físico o manual o que exija equipo especial (como equipo de laboratorio) se realiza por teletrabajo. Los sistemas de vigilancia y control de los trabajadores que la compañía y sus subcontratas pueden aplicar son tan precisas e intrusivas que prefieren que sus trabajadores lo hagan desde casa.
@@ -149,6 +155,8 @@ Todo trabajo sin componente físico o manual o que exija equipo especial (como e
 En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente de una oficina, aunque no sean reproducciones virtuales de mucha calidad para abaratar costes. Desde casa te colocas en tu unidad de trabajo con tus gafas de realidad virtual entras en la oficina virtual de la empresa donde realizas tus tareas.
 
 A todos estos teletrabajadores se les llama en argot pijameres, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
+
+\sp
 
 En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
 
@@ -164,15 +172,13 @@ Para empezar la compañía vende casi el 90% de los bienes de consumo y no tiene
 
 Por otro lado, no hay grandes espacios abiertos con miles de personas de paso donde colocar esas macro pantallas publicitarias.
 
-\sp
+\sc
 
 De hecho, solo existe una pantalla gigante en la plaza mayor donde se publican los edictos de la compañía y donde la directora J0hn hace sus apariciones públicas.
 
 Los pequeños negocios funcionan con el boca a boca y se suelen identificar con complejos emojis hechos con algas bioluminescences en sus entradas.
 
 Es normal ver soportes publicitarios humanos o robots portando carteles digitales por las inmediaciones del local del anunciante. Esto es debido a que la directora J0hn prohibió el uso de las paredes y otros elementos de la arcología como soporte artístico y publicitario en su lucha contra les grafiteres que ponían consignas contra ella y la compañía.
-
-\sc
 
 \sp
 
@@ -3008,10 +3014,12 @@ xxx
 \conc
 
 ```
-xxx
+No todo va a ser robar a les riques y darselo a les probres mientras haces rabiar a la directora J0hn.
 ```
 
-xxx
+Todos los relatos salvajes que encontrarás en este capítulo son aventuras que puedes intercalar dentro de la campaña en el momento que desees. 
+
+Están pensadas como interludios divertidos en los que tu mesa podrá desarrollar el trasfondo de sus proscrites, hacer contactos, conseguir o devolver favores o simplemente conocer nuevas localizaciones del complejo y del bosque.
 
 ### Noche de póker
 
@@ -3036,26 +3044,28 @@ Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. 
 |Dos cartas con el mismo número|Póker|+2|
 |Dos cartas seguidas del mismo color (rojo o negro)|Escalera de color|+2|
 
-El resto de manos no tienen valor y dan un bono de -1. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba. Una vez por ronda, siguiendo el orden de reparto de cartas, podrán gastar un beni y pedir una carta boca arriba o bocabajo.
-
-En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perdedor de la ronda y no podrá volver a jugar porque ha perdido todas sus fichas. Una vez en toda la partida podrás retirarte de una ronda y no participar en la tirada de Apostar.
+El resto de manos no tienen valor y dan un bono de -1. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba.
 
 \sp
+
+Una vez por ronda, siguiendo el orden de reparto de cartas, podrán gastar un beni y pedir una carta boca arriba o bocabajo.
+
+En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perdedor de la ronda y no podrá volver a jugar porque ha perdido todas sus fichas. Una vez en toda la partida podrás retirarte de una ronda y no participar en la tirada de Apostar.
 
 #### Historias vergonzosas
 
 Le jugadore perdedore de cada ronda de póker deberá contar una anécdota graciosa y vergonzante y como DJ deberías darles al final de la sesión a cada PJ algún beneficio muy específico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo le ganadore no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
 
-* **La historia de Lady Marian** es que xxx
+* **La historia de Lady Marian** es que en su niñez estudio danza con Lady Myrna y le tenía tanto miedo que una vez se meó encima mientras la gritaba que era su peor estudiante. El problema vino cuando Lady Myrna se resbalo con su pis y se calló y se remozo en el charco de orina.  Fue su última clase de danza. 
 * **La historia de Tuck** es que uno de los primeros trabajos fue de mono en un reel de une _influencer_ y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
+
+\sc
 
 ### Todos los jueves
 
 > Todos los jueves en el glitch de la noche aparece por una décima de segundo una imagen. Solo un viejo recolector de algas se ha da cuenta y todos los jueves va a Plaza Mayor a intentar averiguar qué es esa imagen. 
 
 xxx
-
-\sc
 
 ### Videobombing
 
@@ -3339,9 +3349,9 @@ Alfonse es una IA tremendamente interesante. Por un lado, es el único locutor d
 
 xxx
 
-\sc
+Alfonse se encuentra distribuido entre un primer wifi que hay el bosque y los wifis piratas que hay por todo el complejo. Su capacidad de procesamiento crece o merma según aumentan los wifis piratas. De hecho, es más lista y anticapitalista según tiene más wifis piratas.
 
-> Alfonse se encuentra distribuido entre un primer wifi que hay el bosque y los wifis piratas que hay por todo el complejo. Su capacidad de procesamiento crece o merma según aumentan los wifis piratas. De hecho, es más lista y anticapitalista según tiene más wifis piratas. En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido, Alfonse pierde mucha capacidad de proceso y se nota en sus programas. De hecho, la lectura de fanfics marca sus momentos peores.    
+En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido, Alfonse pierde mucha capacidad de proceso y se nota en sus programas. De hecho, la lectura de fanfics marca sus momentos peores.    
 
 * **Atributos:** Astucia dX, Espíritu dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
@@ -3352,7 +3362,7 @@ xxx
   * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
 * **Equipo:** xxx
 
-> **Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry white, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo diras chaladuras y propondras planes muy locos.
 
 \sp
 
@@ -3371,7 +3381,6 @@ xxx
 \sc
 
 > Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
-
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
@@ -3526,7 +3535,6 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [![Mil y Un Ghūles](./assests/images/1001ghules.jpg "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")](https://1001ghules.gwannon.com/pdf/ "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")
 
 **[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)**
-
 
 \sp
 
