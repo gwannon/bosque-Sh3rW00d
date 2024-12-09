@@ -130,17 +130,17 @@ Los truques van desde cosas muy simples y del día a día como "tú arreglas el 
 
 ### Minifábricas y algafactorías
 
-La industria se basa en dos elementos claves, minifñaricas y algafactorias. Existen en el complejo miles de minifábricas donde se transforma materia prima en piezas o piezas en piezas más complejas o finalmente productos completos. Estas minifabricas son talleres de 5/6 trabajadores propiedad de algune _curri_ con más dinero o de _blus_ que tienen negocios paralelos a su trabajo para la compañía.
+La industria se basa en dos elementos claves, minifábricas y algafactorías. Existen en el complejo miles de minifábricas donde se transforma materia prima en piezas o piezas en piezas más complejas o finalmente productos completos. Estas minifábricas son talleres de 5/6 trabajadores propiedad de algune _curri_ con más dinero o de _blus_ que tienen negocios paralelos a su trabajo para la compañía.
 
-La compañía trae materia prima que va vendiendo a las minifábricas que a su vez venden a otras minifábricas y estas a otras hasta tener todo tipo de productos. En ese momento, la compañia vuelve a comprar los productos finales para exportarlos fuera de la arcologí,menos la parte que se consigue vender a los _notis_. 
+La compañía trae materia prima que va vendiendo a las minifábricas que a su vez venden a otras minifábricas y estas a otras hasta tener todo tipo de productos. En ese momento, la compañía vuelve a comprar los productos finales para exportarlos fuera de la arcología, menos la parte que se consigue vender a los propios _notis_. 
 
-> La compañia controla el mercado controlando el precio de venta de las materias primas y el precio de compra del producto final. La directora J0hn, siguiendo las ordenes de la compañia, puede manejar el mercado a su gusto y repartir riqueza entre los _notis_ o hacer que caigan en la miseria. 
+> La compañía controla el mercado controlando el precio de venta de las materias primas y el precio de compra del producto final. La directora J0hn, siguiendo las órdenes de la compañía, puede manejar el mercado a su gusto y repartir riqueza entre los _notis_ o hacer que caigan en la miseria. 
 
 \sp
 
-La otra base de la industria es la megafactoria del Trent (propiedad de la compañia), que convierte las algas en todo tipo de alimentos procesados para consumo de los _notis_ y para exportar. La factoría del Trent con toda su industria asociada genera la mitad de la riqueza del complejo.
+La otra base de la industria es la megafactoría del Trent (propiedad de la compañía), que convierte las algas en todo tipo de alimentos procesados para consumo de los _notis_ y para exportar. La factoría del Trent con toda su industria asociada genera la mitad de la riqueza del complejo.
 
-Dos tercios de la población de _curris_ trabaja en las algafactorias o en los talleres de las minifavbricas. El resto trabajan en hostelería y servicios, casi siempre al servicio de otros. Hay casos de _curris_ con su propio negocio, pero son les minimes y normalmente en graves problemas economicos. Eso supone que acaban currando para la conpañía, en la carcel o huyendo al bosque.
+Dos tercios de la población de _curris_ trabaja en las algafactorías o en los talleres de las minifábricas. El resto trabajan en hostelería y servicios, casi siempre al servicio de otros. Hay casos de _curris_ con su propio negocio, pero son les minimes y normalmente en graves problemas economicos. Eso supone que acaban currando para la conpañía, en la cárcel o huyendo al bosque.
 
 ### Teletrabajo
 
@@ -152,7 +152,7 @@ A todos estos teletrabajadores se les llama en argot pijameres, por la broma de 
 
 En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
 
-Pueden trabajar para algunas de las miles de minifabricas o directamente para la compañia o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
+Pueden trabajar para algunas de las miles de minifabricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
 
 Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
@@ -865,7 +865,7 @@ En la arcología de Nottingham se habla principalmente inglés, pero hay pequeñ
 
 #### Leet
 
-Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las máquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como "A" por "4" o "S" por "$", de forma que las IA y los constructos tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
+Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las máquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como “A” por “4” o “S” por “$”, de forma que las IA y los constructos tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
 
 ![Ejemplo de Leet |-|3110 \\\0R1|) Hello World](./assests/images/hello-world.jpg "Ejemplo de Leet |-|3110 \\\0R1|) Hello World")
 
@@ -2743,37 +2743,37 @@ Es importante recalcar que el bosque es en su mayoría una gran extensión llena
 
 El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les _boskis_. En el interior del bosque hace ya muchos años, después de la marcha de la directora R1c4rd, se establecieron les primeres proscrites huyendo de la tiranía de la directora J0hn. Empezaron a construir alrededor de una gran columna de carga. Empezartón con chabolas usando la columna como base y fueron subiendo por ella, creando plataformas y casa colgantes. 
 
-Con cada ola de gente que huia del complejo y de R1c4rd la comunidad iba creciendo. Les nueves proscrites traian sus trastos y sus conociumientos y habilidades y rápidamente el conjunto de chabolas y casa colgantes creció y se convirtió en una pequeña ciudad con cada vez mejores casas, calles e incluso zonas de esparcimientos.
+Con cada ola de gente que huía del complejo y de R1c4rd la comunidad iba creciendo. Les nueves proscrites traían sus trastos y sus conocimientos y habilidades y rápidamente el conjunto de chabolas y casa colgantes creció y se convirtió en una pequeña ciudad con cada vez mejores casas, calles e incluso zonas de esparcimientos.
 
-Las casas están creadas de plasticos reciclados y materiales que se encuentran en el bosque que les instaladores dejarón, pero nunca llegarón a usar. ademas todo es reciclado y muy productos se tiran. si se rompe algo, alguien te lo repara o lo recicla para crear otro objeto util.
+Las casas están creadas de plásticos reciclados y materiales que se encuentran en el bosque que les instaladores dejaron, pero nunca llegaron a usar. Además, todo es reciclado y muy pocos productos se tiran. Si se rompe algo, alguien te lo repara o lo recicla para crear otro objeto útil.
 
-La población actual del GR es de unos 5000 _boskis_ y hay gente llegando todos los días. de hecho han empezado a crearse nuevas comunidades en zonas cercanas aprovechando otras columnas de carga. 
+La población actual del GR es de unos 5000 _boskis_ y hay gente llegando todos los días. De hecho, han empezado a crearse nuevas comunidades en zonas cercanas aprovechando otras columnas de carga. 
 
-En GR puede encontrar de todo lo básico para vivir decentemente, alimentación, servicios sanitarios y cuidados, educación e incluso ocio. R1c4rd se ha encargadado de hacer que gente de toda condición y educación haya tenido que huir al bosque.
+En GR puede encontrar de todo lo básico para vivir decentemente, alimentación, servicios sanitarios y cuidados, educación e incluso ocio. R1c4rd se ha encargado de hacer que gente de toda condición y educación haya tenido que huir al bosque.
 
-Se puede conseguir todo tipo de servicios y productos normales, nada de lujos. Puedes pagarlo mediante trueques, intercambiandolo por horas de trabajo o incluso puedes conseguirlo gratis con la promesa de ayudar en el futuro.
+Se puede conseguir todo tipo de servicios y productos normales, nada de lujos. Puedes pagarlo mediante trueques, intercambiándolo por horas de trabajo o incluso puedes conseguirlo gratis con la promesa de ayudar en el futuro.
 
 #### Iluminación
 
-Mientras que todo es bosque esta siempre es penumbra gracias a la ilumaión básica que tiene todo el bosque y que R1c4rd no ha conseguido cortar, GR esta perfectamente ilumnado gracias a un focos colocados en la gran columna que iluminan toda la comunidad. estos focos se apagan de noche y se encienden de día.
+Mientras que todo es bosque esta siempre es penumbra gracias a la iluminación básica que tiene todo el bosque y que R1c4rd no ha conseguido cortar, GR está perfectamente iluminado gracias a unos focos colocados en la gran columna que iluminan toda la comunidad. Estos focos se apagan de noche y se encienden de día.
 
 Les encargades de vigilar y mantener las luces son llamades farares y tienen la ventaja de poder vivir en unas estancias colgantes cerca de las potentes luces.
 
 #### El punto
 
-El punto es un zona libre en uno de los laterales de la columna principal donde se reune los _boskis_ para dialogar y tratar comunitarios. Es una zona pintada de verde en forma circular donde puede haber unas 200/250 poersonas sin apretujarse mucho.
+El punto es un zona libre en uno de los laterales de la columna principal donde se reunen los _boskis_ para dialogar y tratar comunitarios. Es una zona pintada de verde en forma circular donde puede haber unas 200/250 personas sin apretujarse mucho.
 
 \sp
 
-Aqui se prsentan problemas todas las semanas despues del mercado y se vota a la persona que decidirá la solución al problema.
+Aquí se presentan problemas todas las semanas después del mercado y se vota a la persona que decidirá la solución al problema.
 
-El punto siempre esta limpio y cuidado ya que simboliza todo lo que les _boskis_ tienen aquí y no tenían en el complejo. de hecho, de normal esta vacio y solo se ocupa cuando se votan cosas.
+El punto siempre está limpio y cuidado, ya que simboliza todo lo que les _boskis_ tienen aquí y no tenían en el complejo. De hecho, de normal está vacío y solo se ocupa cuando se votan cosas.
 
 #### Los invernaderos
 
 En los terrenos alrededor del GR, se han ido montando invernaderos comunales de cultivos hidropónicos que son la mayor fuente de alimento de sus gentes. Si no tienes forma de ganarte la vida, se puede trabajar en los invernaderos y recibir parte de la producción para tu consumo. Parte de la producción se usa para pagar a gente que trabaja por el bien común como los fareres o les patrulleres y también se destina a repartirla entre gente mayor, niños y discapacitados para que puedan vivir con dignidad.
 
-Los invernadores son gestionados por una serie de personas votadas denmocraticamente que dedciden cuando y que plantar y cosechar. Normalmente solo se presentan al cargo antigues botániques que saben del tema. 
+Los invernadores son gestionados por una serie de personas votadas democráticamente que deciden cuando y que plantar y cosechar. Normalmente, solo se presentan al cargo antigues botániques que saben del tema. 
 
 #### El mercado
 
@@ -3335,7 +3335,7 @@ xxx
 
 [![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
-Alfonse es una IA tremendamente interesante. Por un lado es el único locutor de la RLN y por otro es un fork de la directora R1c4rd, una especie de hije bastarde. xxx
+Alfonse es una IA tremendamente interesante. Por un lado, es el único locutor de la RLN y por otro es un fork de la directora R1c4rd, una especie de hije bastarde. xxx
 
 xxx
 

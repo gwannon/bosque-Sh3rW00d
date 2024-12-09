@@ -17,3 +17,4 @@
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEn caso de empate, se jugarán rondas extras a muerte súbita.\\E$"}
 {"rule":"VOSEO","sentence":"^\\QNovate, no puede tenerse Nacide Libre\\E$"}
 {"rule":"HAZ_HAS","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEjemplo de Leet |-|3110 \\\\\\0R1|) Hello World\\E$"}
