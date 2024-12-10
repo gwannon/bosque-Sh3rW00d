@@ -140,7 +140,7 @@ La compañía trae materia prima que va vendiendo a las minifábricas que a su v
 
 La otra base de la industria es la megafactoría del Trent (propiedad de la compañía), que convierte las algas en todo tipo de alimentos procesados para consumo de los _notis_ y para exportar. La factoría del Trent con toda su industria asociada genera la mitad de la riqueza del complejo.
 
-Dos tercios de la población de _curris_ trabaja en las algafactorías o en los talleres de las minifábricas. El resto trabajan en hostelería y servicios, casi siempre al servicio de otros. Hay casos de _curris_ con su propio negocio, pero son les minimes y normalmente en graves problemas economicos. Eso supone que acaban currando para la conpañía, en la cárcel o huyendo al bosque.
+Dos tercios de la población de _curris_ trabaja en las algafactorías o en los talleres de las minifábricas. El resto trabajan en hostelería y servicios, casi siempre al servicio de otros. Hay casos de _curris_ con su propio negocio, pero son les minimes y normalmente en graves problemas económicos. Eso supone que acaban currando para la compañía, en la cárcel o huyendo al bosque.
 
 \sinc
 
@@ -160,7 +160,7 @@ A todos estos teletrabajadores se les llama en argot pijameres, por la broma de 
 
 En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
 
-Pueden trabajar para algunas de las miles de minifabricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
+Pueden trabajar para algunas de las miles de minifábricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
 
 Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
@@ -2093,7 +2093,7 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 
 ### Pandillere
 
-Estes criminales menores pueblan los callejones de la zona baja dando golpes menores o juntandonse para enfrentarse a bandas rivales o dar golpes más grandes. Solo el grupo puede hacerlos peligrosos para tus procrites.
+Estes criminales menores pueblan los callejones de la zona baja dando golpes menores o juntándonse para enfrentarse a bandas rivales o dar golpes más grandes. Solo el grupo puede hacerlos peligrosos para tus proscrites.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
@@ -3056,7 +3056,7 @@ En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perd
 
 Le jugadore perdedore de cada ronda de póker deberá contar una anécdota graciosa y vergonzante y como DJ deberías darles al final de la sesión a cada PJ algún beneficio muy específico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo le ganadore no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
 
-* **La historia de Lady Marian** es que en su niñez estudio danza con Lady Myrna y le tenía tanto miedo que una vez se meó encima mientras la gritaba que era su peor estudiante. El problema vino cuando Lady Myrna se resbalo con su pis y se calló y se remozo en el charco de orina.  Fue su última clase de danza. 
+* **La historia de Lady Marian** es que en su niñez estudio danza con Lady Myrna y le tenía tanto miedo que una vez se meó encima mientras la gritaba que era su peor estudiante. El problema vino cuando Lady Myrna se resbaló con su pis y se calló y se remozó en el charco de orina.  Fue su última clase de danza. 
 * **La historia de Tuck** es que uno de los primeros trabajos fue de mono en un reel de une _influencer_ y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
 
 \sc
@@ -3362,7 +3362,7 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
   * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
 * **Equipo:** xxx
 
-> **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry white, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo diras chaladuras y propondras planes muy locos.
+> **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry White, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo dirás chaladuras y propondras planes muy locos.
 
 \sp
 
