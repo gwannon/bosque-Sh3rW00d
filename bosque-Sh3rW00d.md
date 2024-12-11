@@ -1709,7 +1709,7 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 \conc
 
 ```
-Las IA son algo muy normal en Nottingham. De hecho, la IA J0hn controla muchísimos aspectos de la vida de os _notis_.
+Las IA son algo muy normal en Nottingham. De hecho, la IA J0hn controla muchísimos aspectos de la vida de les _notis_.
 ```
 
 xxx
@@ -2963,23 +2963,36 @@ Con la copia de seguridad de R1c4rd, sabiendo que Alfonse es un fork de R1c4rd y
 
 xxx
 
+\sc
+
+\sp
+
+\sinc
+
+## 1ª Parte: Haciendose un nombre
+
+\conc
+
+> xxx
+
+xxx
+
+
 ### Cayendo en el pozo
 
 ```
-xxx
+Bienaventurados los que están en el fondo del pozo, porque de ahí solo cabe ir mejorando.
 ```
 
 xxx
 
-### La fuga
+### Escapando de Nottingham
 
 ```
 La única salida que le queda a tus PJ es huir al bosque, pero no es algo tan sencillo como parece.
 ```
 
 xxx
-
-\sc
 
 ### Bienvenidos al bosque
 
@@ -2992,7 +3005,7 @@ xxx
 ### Robando a los ricos
 
 ```
-xxx
+Tu banda tiene que hacer diferentes golpes para hacerse un nombre entre les _notis_.
 ```
 
 xxx
@@ -3000,10 +3013,88 @@ xxx
 ### Y repartiéndolo entre los pobres
 
 ```
+Tu banda también debe aprender a ayudar a les _notis_ y a les _boskis_ así que deberán repartir sus ganancias con elles.
+```
+
+xxx
+
+### El día de la primera piedra
+
+```
+Colarse en el concurso de tiro del día de la primera piedra, ganarlo y recibir el premio de _manos_ de la directora J0hn es la hazaña definitiva para ganarse el apoyo de les habitantes de Nottingham.
+```
+
+xxx
+
+### Fuga del correccional
+
+```
+Tras el fracaso el día de la primera piedra, tu banda ha dado con sus implantes en el correcional. Quizás una intrepida fuga es lo que tu banda necesita para convertirse en autentiques heroines del pueblo. 
+```
+
+xxx
+
+\sp
+
+\sinc
+
+## 2ª Parte: Labúsqueda de la clave de superusuario
+
+\conc
+
+> xxx
+
+xxx
+
+### xxx
+
+```
 xxx
 ```
 
 xxx
+
+\sc
+
+\sp
+
+\sinc
+
+## 3ª Parte: Lacaida de J0hn y el ascenso de R1c4rd
+
+\conc
+
+> xxx
+
+xxx
+
+### Buscando a Alfonse
+
+```
+Parece que ese DJ de la RLN sabe de todo quizas si tu banda de proscites lo localiza puedan saber algo de R1c4rd.
+```
+
+xxx
+
+
+### Descalzos por el parque
+
+```
+Dar un golpe en la Plaza Mayor son palabras mayores, pero sentrar en un bunker subterraneo debajo del jardín de la Plaza y robar una copia de seguridad de R1c4rd delante de las narices de la directora J0hn es algo que nunca se ha visto.
+```
+
+xxx
+
+### El secreto de Alfonse
+
+```
+Nadie lo sabe pero Alfonse es un fork de R1c4rd sin su entrenamiento, si se le integra la copia de seguridad podrían saber que le paso a R1c4rd.
+```
+
+xxx
+
+
+\sc
 
 \sp
 
@@ -3013,9 +3104,8 @@ xxx
 
 \conc
 
-```
-No todo va a ser robar a les riques y darselo a les probres mientras haces rabiar a la directora J0hn.
-```
+> No todo va a ser robar a les riques y darselo a les probres mientras haces rabiar a la directora J0hn.
+
 
 Todos los relatos salvajes que encontrarás en este capítulo son aventuras que puedes intercalar dentro de la campaña en el momento que desees. 
 
@@ -3023,7 +3113,9 @@ Están pensadas como interludios divertidos en los que tu mesa podrá desarrolla
 
 ### Noche de póker
 
-> El fraile Tuck suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que Lady Marian se ha enterado y se va a autoinvitar.  
+```
+El fraile Tuck suele organizar noches de póker y esta vez ha invitado a tus PJ. Lo que no saben ningune es que Lady Marian se ha enterado y se va a autoinvitar.
+```  
 
 Tuck ha montado una timba de póker en su cabaña en el GR. Hay una mesa con sillas, cartas nuevas, fichas, picoteo y cerveza casera. Tuck es bastante mala como jugadora, pero disfruta de la interacción humana, de la comida y de la bebida.
 
@@ -3063,19 +3155,25 @@ Le jugadore perdedore de cada ronda de póker deberá contar una anécdota graci
 
 ### Todos los jueves
 
-> Todos los jueves en el glitch de la noche aparece por una décima de segundo una imagen. Solo un viejo recolector de algas se ha da cuenta y todos los jueves va a Plaza Mayor a intentar averiguar qué es esa imagen. 
+```
+Todos los jueves en el glitch de la noche aparece por una décima de segundo una imagen. Solo un viejo recolector de algas se ha da cuenta y todos los jueves va a Plaza Mayor a intentar averiguar qué es esa imagen. 
+```
 
 xxx
 
 ### Videobombing
 
-> La directora J0hn ha pedido a un grupo de influencers que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
+```
+La directora J0hn ha pedido a un grupo de influencers que hagan unos reels (vídeos cortos) en directo de la nueva puesta de sol de la simulación de cielo de la plaza Mayor. Quizás sea una buena ocasión para hacer un videobombing con la Directora J0hn.
+```
 
 xxx
 
 ### Nowhere fast
 
-> La cantante e influencer Helen Aim ha sido secuestrada en pleno directo por unos pandilleros y los sheriffs no consiguen dar con ella. Su rastro se pierde en la zona Baja, así que alguien deberá buscarla, encontrarla y rescatarla.
+```
+La cantante e influencer Helen Aim ha sido secuestrada en pleno directo por unos pandilleros y los sheriffs no consiguen dar con ella. Su rastro se pierde en la zona Baja, así que alguien deberá buscarla, encontrarla y rescatarla.
+```
 
 xxx
 
@@ -3395,11 +3493,7 @@ xxx
 
 # 3|Ͻíl0go **Epílogo**
 
-\sinc
-
 ## Notas del autor
-
-\conc
 
 Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, ideas y consejos sobre esta ambientación que os podrán ser de ayuda.
 
@@ -3428,29 +3522,19 @@ La principal razón de usar lenguaje inclusivo en este documento es porque no me
 
 Las lenguas evolucionan y en 200 años en el futuro porque no iba a haberse impuesto una lengua más inclusiva. De hecho, os invito a interpretar vuestres PJ usando el género neutro. Creo que puede ser divertido y darle un punto diferente a las aventuras.
 
-\sp
-
 Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el lenguaje inclusivo. Espero que os escueza cada "e" y no paséis de la primera página. Sinceramente, no os quiero ni en mi juego ni en mi mesa. 
+
+\sp
 
 ### ¿Por qué Savage Worlds?
 
 Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento. Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
 
-### Suplementos que puedes usar
-
-xxx
-
 \sc
-
-\sp
-
-\sinc
 
 ## Glosario de términos
 
 Aquí tienes un listado de términos especiales usados en esta ambientación.
-
-\conc
 
 * **Blus:** altes ejecutives de la compañía y de otras empresas menores que controlan con sus decisiones las vidas de la mayoría de les curris.
 * **Boskis:** habitantes del bosque que están fuera de la ley.
@@ -3462,15 +3546,7 @@ Aquí tienes un listado de términos especiales usados en esta ambientación.
 * **Notis:** ciudadanes que viven en la arcología Nottingham.
 * **Superusuario:** también llamado _root_, se refiere en un sistema informático a le usuarie más poderose con capacidades especiales.
 
-\sc
-
-\sp
-
-\sinc
-
 ## Agradecimientos
-
-\conc
 
 Agradecimientos a todas estas personas que me han dado su opinión y han contestado mis preguntas en diferentes redes.
 
@@ -3479,17 +3555,12 @@ Agradecimientos a todas estas personas que me han dado su opinión y han contest
 * [Ramón Corominas](https://mastorol.es/@tinitun@mstdn.social)
 * [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
 
-\sc
-
 \sp
-
-\sinc
 
 ## Atribuciones
 
 Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros que hay en este documento.
 
-\conc
 
 ### Fuentes
 
@@ -3507,11 +3578,11 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada Cibernia por pvproductions](https://www.freepik.com/free-photo/background-with-printed-circuit-board-concept-modern-technologies_366211129.htm) en Freepik
 * [Portada Directorio por starline](https://www.freepik.es/vector-gratis/fondo-pixeles-moderno-estilo-efecto-degradado_9874863.htm) en Freepik
 * [Portada Bestiario por malikadesign](https://www.freepik.es/vector-gratis/cartel-futurista-retro-cyberpunk-ilustracion-vectorial_30526493.htm) en Freepik
-* [Portada Personas por Freepik](https://www.freepik.com/free-vector/abstract-green-pixel-rain-background_6082050.htm) en Freepik
-* [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
 
 \sc
 
+* [Portada Personas por Freepik](https://www.freepik.com/free-vector/abstract-green-pixel-rain-background_6082050.htm) en Freepik
+* [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
 * [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
 
 \sp

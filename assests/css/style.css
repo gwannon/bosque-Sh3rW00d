@@ -786,6 +786,12 @@ section h1 + .saltopagina:after {
   /*.columns {
     columns: 2;
   }*/
+
+  body > section { max-width: 800px; }
+
+  section:first-of-type {
+    background-position: center -232px;
+  }
   
   body > section:nth-of-type(3) {
     padding: var(--padding) 0px;
