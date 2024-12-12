@@ -2093,14 +2093,14 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 
 ### Pandillere
 
-Estes criminales menores pueblan los callejones de la zona baja dando golpes menores o juntándonse para enfrentarse a bandas rivales o dar golpes más grandes. Solo el grupo puede hacerlos peligrosos para tus proscrites.
+Estes criminales menores pueblan los callejones de la zona baja dando golpes menores o juntándose para enfrentarse a bandas rivales o dar golpes más grandes. Solo el grupo puede hacerlos peligrosos para tus proscrites.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Equipo:** Navaja (FUE+d4), stick de hockey atrezado (FUE+d4+1)
+* **Equipo:** Navaja (FUE+d4), stick de hockey con clavos (FUE+d4+1)
 
 \sc
 
@@ -2747,7 +2747,7 @@ Es importante recalcar que el bosque es en su mayoría una gran extensión llena
 
 ### El Gran Roble (GR)
 
-El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les _boskis_. En el interior del bosque hace ya muchos años, después de la marcha de la directora R1c4rd, se establecieron les primeres proscrites huyendo de la tiranía de la directora J0hn. Empezaron a construir alrededor de una gran columna de carga. Empezartón con chabolas usando la columna como base y fueron subiendo por ella, creando plataformas y casa colgantes. 
+El Gran Roble (GR) es como se conoce a la zona del bosque, donde viven la mayoría de les _boskis_. En el interior del bosque hace ya muchos años, después de la marcha de la directora R1c4rd, se establecieron les primeres proscrites huyendo de la tiranía de la directora J0hn. Empezaron a construir alrededor de una gran columna de carga. Empezaron con chabolas usando la columna como base y fueron subiendo por ella, creando plataformas y casa colgantes. 
 
 Con cada ola de gente que huía del complejo y de R1c4rd la comunidad iba creciendo. Les nueves proscrites traían sus trastos y sus conocimientos y habilidades y rápidamente el conjunto de chabolas y casa colgantes creció y se convirtió en una pequeña ciudad con cada vez mejores casas, calles e incluso zonas de esparcimientos.
 
@@ -2767,7 +2767,7 @@ Les encargades de vigilar y mantener las luces son llamades farares y tienen la 
 
 #### El punto
 
-El punto es un zona libre en uno de los laterales de la columna principal donde se reunen los _boskis_ para dialogar y tratar comunitarios. Es una zona pintada de verde en forma circular donde puede haber unas 200/250 personas sin apretujarse mucho.
+El punto es un zona libre en uno de los laterales de la columna principal donde se reúnen los _boskis_ para dialogar y tratar comunitarios. Es una zona pintada de verde en forma circular donde puede haber unas 200/250 personas sin apretujarse mucho.
 
 \sp
 
@@ -2777,9 +2777,9 @@ El punto siempre está limpio y cuidado, ya que simboliza todo lo que les _boski
 
 #### Los invernaderos
 
-En los terrenos alrededor del GR, se han ido montando invernaderos comunales de cultivos hidropónicos que son la mayor fuente de alimento de sus gentes. Si no tienes forma de ganarte la vida, se puede trabajar en los invernaderos y recibir parte de la producción para tu consumo. Parte de la producción se usa para pagar a gente que trabaja por el bien común como los fareres o les patrulleres y también se destina a repartirla entre gente mayor, niños y discapacitados para que puedan vivir con dignidad.
+En los terrenos alrededor del GR, se han ido montando invernaderos comunales de cultivos hidropónicos que son la mayor fuente de alimento de sus gentes. Si no tienes forma de ganarte la vida, se puede trabajar en los invernaderos y recibir parte de la producción para tu consumo. Parte de la producción se usa para pagar a gente que trabaja por el bien común como les encargades de los faros o les vigilantes que patrullan el bosque y también se destina a repartirla entre gente mayor, niños y discapacitades para que puedan vivir con dignidad.
 
-Los invernadores son gestionados por una serie de personas votadas democráticamente que deciden cuando y que plantar y cosechar. Normalmente, solo se presentan al cargo antigues botániques que saben del tema. 
+Los invernadores son gestionados por una serie de personas votadas democráticamente que deciden cuándo y qué plantar y cosechar. Normalmente, solo se presentan al cargo antigues botániques que saben del tema. 
 
 #### El mercado
 
@@ -2827,7 +2827,7 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 ### RLN (Radio libre de Nottingham)
 
-La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un podcast que de una radio tradicional.
+La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un pódcast que de una radio tradicional.
 
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
 
@@ -3038,7 +3038,7 @@ xxx
 
 \sinc
 
-## 2ª Parte: Labúsqueda de la clave de superusuario
+## 2ª Parte: La búsqueda de la clave de superusuario
 
 \conc
 
@@ -3060,7 +3060,7 @@ xxx
 
 \sinc
 
-## 3ª Parte: Lacaida de J0hn y el ascenso de R1c4rd
+## 3ª Parte: La caida de J0hn y el ascenso de R1c4rd
 
 \conc
 
@@ -3104,7 +3104,7 @@ xxx
 
 \conc
 
-> No todo va a ser robar a les riques y darselo a les probres mientras haces rabiar a la directora J0hn.
+> No todo va a ser robar a les riques y dárselo a les pobres mientras haces rabiar a la directora J0hn.
 
 
 Todos los relatos salvajes que encontrarás en este capítulo son aventuras que puedes intercalar dentro de la campaña en el momento que desees. 
