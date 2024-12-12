@@ -1088,7 +1088,7 @@ Una de las ventajas de los tirachinas es que **su munición puede ser cualquier 
 
 #### Aire comprimido
 
-xxx
+La polvora supone muchos problemas en Nottingham, pero el aire comprimido no, así que los diferentes grupos que hay en el complejo lo usan bastante en sus disputas. El aire comprimido se usa de arma, principalmente, como cerbatanas de aire comprimido y como pistolas de clavos.
 
 ##### Cerbatanas
 
@@ -1118,17 +1118,17 @@ En general **conseguir más de 4 puntos de protección tendría que ser muy raro
 
 El equipamiento de hockey de pasillo (peto con hombreras, rodilleras, coderas, casco y brazales) puede usarse como protecciones en combate y son totalmente legales. 
 
+\sp
+
 ### Transporte y comunicación
 
-xxx
-
-\sp
+andar es la forma más normal para moverse por el complejo usando escaleras mecanicas, montacargas y turboascensores, pero si quieres moverte más puedes recurrir a patines en linea, skatesborads y bicicletas eléctricas. Aunque su uso exige una buena habilidad para saltar obstaculos, bajar y subir escaleras, deslizarse por rampas, etc. 
 
 #### Monturas: Roller skates, skateboards y e-bikes
 
 xxx
 
-Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, **se usa en su lugar Atletismo**.
+Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, en su lugar **se usa en su lugar Atletismo**.
 
 \sc
 
