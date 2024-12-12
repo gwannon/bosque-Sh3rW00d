@@ -511,6 +511,8 @@ xxx
 La vida para les habitantes del bosque es un tanto diferente al del resto de los notis. Con los años han desarrollado una cultura, unas creencias y una forma de vida diferentes a las de sus vecines del lado legal de la vida.
 ```
 
+Las dos palabras que mejor definen la vida en el bosque son libertad y bien común. Eres libre de hacer lo que quieras y trabajas por el bien común. casi todos les habitantes del bosque saben como es vivir en el complejo bajo el yugo de la directora J0hn y la compañía y saben que no quieren eso. xxx
+
 xxx
 
 Deportivamente hablando, el deporte que más practican son el tiro con arco o tirachinas. Siendo las competiciones populares de disparo eventos muy importantes en la actividad social del Bosque. De hecho, no hay evento en que antes o después les _boskis_ no acaben demostrando su buena puntería en algún tipo de concurso cuyo premio puede ser desde pedir el mejor plato del banquete preparado a ganar el beso de algune moze que lo ha ofrecido como premio del concurso. 
@@ -521,9 +523,9 @@ xxx
 
 La educación en el bosque es bastante práctica y se aprenden cosas tremendamente prácticas y centrada en profesiones, desde programación a albañilería o trabajo en invernaderos hidropónicos.
 
-Tras unos estudios básicos de lectura, escritura, manejo de aparatos informáticos y nociones de historia y ciudadanía, se pasa a aprender habilidades útiles en el día a día como cultivar, reparar una casa o arreglar un dispositivo electrónico estropeado.
-
 \sc
+
+Tras unos estudios básicos de lectura, escritura, manejo de aparatos informáticos y nociones de historia y ciudadanía, se pasa a aprender habilidades útiles en el día a día como cultivar, reparar una casa o arreglar un dispositivo electrónico estropeado.
 
 Les profesores suelen ser profesionales que trabajan de ello. Imparten clases a les alumnos como parte de su contribución al bienestar social y suelen coger como aprendices a los que ven las capaces.
 
@@ -576,8 +578,10 @@ xxx
 \conc
 
 ```
-xxx
+Y de repente les instaladores fueron desapareciendo y ese misterio perdura hasta nuestros días.
 ```
+
+La misteriosa desaparición de les instaladores supone el fín del crecimiento de la arcología. Pocas cosas nuevas se han construido desde entonces, solo se han hecho mantenimientos de lo que dejaron estas extrañas figuras casi mitológicas.
 
 xxx
 
@@ -592,8 +596,10 @@ xxx
 \conc
 
 ```
-xxx
+... cómo, a nuestro parecer, cualquiera tiempo pasado fue mejor. _Coplas a la muerte de su padre, de Jorge Manrique_
 ```
+
+La dirección de la directora R1c4rd es considerada por todos los contrarios a la directora J0hn como los _buenos viejos tiempos_. Todo era mejor, todo era nuevo, todo era más bonito o por lo menos así lo cuentan los más viejos del complejo.
 
 xxx
 
@@ -611,6 +617,8 @@ xxx
 Y a la directoria R1c4rd le sucedió la directora J0hn y todo cambió.
 ```
 
+La llegada de J0hn es considerado por muchos como lo peor que le ha sucedido a la arcología, mientras que los afines a la compañia lo consideran la epoca de mayor prosperidad desde que se puso la primera piedra al complejo. xxx
+
 xxx
 
 ### La segunda migración
@@ -627,8 +635,6 @@ Como ya hemos dicho, esta nueva ley supuso que montones de familias se quedaron 
 
 xxx
 
-\sc
-
 \sp
 
 \sinc
@@ -638,8 +644,10 @@ xxx
 \conc
 
 ```
-xxx
+Mientras que el complejo cae en un pozo de misería, el bosque está floreciendo y si se lo cuida y protege puede ser lo mejor que le haya pasado a Nottingham.
 ```
+
+Lo que empezo como un pequeño campamento de proscrites, se esta convirtiendo en una utopía donde priman la libertad y el bien común para todes les _boskis_. xxx
 
 xxx
 
@@ -2052,7 +2060,7 @@ Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde f�
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Elige 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
 * **Desventajas:** Elige 1 (Avergonzado, Despistado, Fobia, Patoso)
-* **Equipo:** Equipo científico adecuado a su especialidad, ordenador portátil o pad de datos
+* **Equipo:** Equipo científico adecuado a su especialidad, ordenador portátil o tableta de datos
 
 ### Delincuente de los bajos fondos
 
@@ -2969,7 +2977,7 @@ xxx
 
 \sinc
 
-## 1ª Parte: Haciendose un nombre
+## 1ª Parte: Haciéndose un nombre
 
 \conc
 
