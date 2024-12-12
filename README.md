@@ -47,7 +47,7 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
   * Mensajería
   * Otras tecnologías
 
-### 0.4.3 En desarrollo
+### 0.4.4 En desarrollo
 
 * La arcología de Nottingham
   * El mundo actual
@@ -60,6 +60,10 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 * Reglas
   * Equipo
   * Hackeos de les instaladores
+
+* Terminada parte de "Equipo normal", "Protecciones", "Tirachinas" y "Arcos" de la sección "Equipo"
+
+### 0.4.3 12/12/2024
 
 * Terminada sección "Comercio e industria"
 * Terminada localización "El Gran Roble (GR)"
@@ -78,7 +82,6 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 * Terminada descripción general de "Zona Alta"
 * Terminada descripción general de "El Bosque"
 * Terminada localización "Taller de e-bikes de Noc"
-
 
 ### 0.4 23/11/2024
 

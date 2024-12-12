@@ -1035,33 +1035,41 @@ Las personas sin HUB como los _boskis_ de segunda generación no pueden pagar co
 
 ### Equipo normal
 
-xxx
+Esta ambientación es ciberpunk y por tanto un poco futurista, pero con importantes toques medievales. Eso marca el equipo normal que puede tener tu banda. Tendrán smartphones, tabletas y ordenadores portatiles, pero comeran con cucharas, tenedores o palillos de plástico. Tendrán medpacks para cerrar sus heridas sangrantes en segundos, pero seguiran llevando sus botas a remendar a un zapatero.
+
+En principio pueden tener acceso a todo el equipo normal que hay en el libro básico al precio allí marcado, pero con pinta de futurista. Por ejemplo, si necesitan comunicarse durante un golpe tendrán unos auriculares minusculos que casi ni se detectan dentro de la oreja, en vez de unos walkie-talkies. 
 
 ### Armas
 
 Las armas de fuego no están permitidas en el complejo y, de hecho, su tenencia y/o construcción tienen las mayores penas de los delitos no violentos. En principio solo los sheriffs y sus ayudantes tienen acceso a este tipo de armas. 
 
-xxx
+Si cualquier sistema de seguridad del complejo de Nottingham detecta un disparo, saltan las alarmas y rapidamente los sheriffs cercanos se acercan a detener a le pistolere. En caso de no haber ninguno cerca los sistemas tratarán de seguir e identificar a les portadores de pistalas para identificarlos y detenerlos.
 
-Puedes usar armas normales de la época actual del manual básico de SWEA para que las porten tus PNJ cuando se enfrente a tu mesa. Si derrotan a su enemigo y este está armado podrán quedarse con las armas, pero deberán racionar las balas porque son extremadamente escasas. También deben saber que les autoridades de Nottingham pondrán directamente en la lista de más buscados a personas que porten armas de fuego.
+De hecho, disparar un arma puede ser una buena forma de crear distracciones, pero le tiradore tendrá graves problemas si quiere escapar de lo que se le va a echar encima.
+
+Puedes usar armas normales de la época actual del manual básico de SWEA para que las porten tus PNJ cuando se enfrente a tu banda. Si derrotan a su enemigo y este está armado podrán quedarse con las armas, pero deberán racionar las balas porque son extremadamente escasas. También deben saber que les autoridades de Nottingham pondrán directamente en la lista de más buscados a personas que porten armas de fuego.
+
+\sp
 
 Culturalmente, tienes que tener en cuenta que el pueblo quiere a ladrones carismáticos que reparten su botín con les pobres, no a asesinos violentos armados hasta los dientes que van dejando un reguero de sangre por donde pasan.
 
 #### Arcos
 
-xxx
+Los arcos de competición recurvos y de polea son la opción de armas a distancia más poderosas que se pueden portar sin tener a todos los sheriffs encima. Siguen siendo ilegales, pero no atraen tanto la atención. aun así no suelen ser muy eficaces ya que los espacios son pequeños y encima entras en combate cuerpo a cuerpo. Ademas las coverturas detras de oaredes y puertas son muy comunes y puedes parapetarte detras de un mueble y estar a salvo de arcos.
+
+Tampoco son faciles de esconder y de deshacerse de ellas lo que no los hace adecuadas en golpes y atracos.
 
 #### Slingshot (Tirachinas)
 
-xxx
+El tirachinas es el arma preferida por los pandilleros, la gente de la lucha callejera y los _boskis_. Son ligeros, versatiles y perfectos para los combates cercanos tan comunes en los espacios cerrados del complejo. Pero sobre todos muy baratos.
 
-El tirachinas se considera una arma distancia pequeña con lo que no tiene penalizadores al usarlo en cuerpo a cuerpo.
+Piensa que se puede construir con poco materiales y faciles de conseguir y la munición es baratisima. No deja rastro y es muy versatil. Puede lanzar desde rodamientos a cocteles molotov con mínimos cambios. Además, se considera una arma distancia pequeña con lo que no tiene penalizadores al usarlo en contra une enemigue en cuerpo a cuerpo.
+
+A todo esto se le suma su capacidad de disparar haciendo rebotes que permiten atacar a objetivos detras de paredes, a la vuelta de la esquina o parapetados detras de mesas y sofas.
 
 ##### Rebotes
 
 **El tirachinas permite disparar haciendo rebotes** contra el techo y las paredes **para alcanzar a gente que está detrás de cobertura**. Antes de disparar, puedes rebajar la cobertura de tu oponente. Cada -2 que quites de tu contrincante, supone un rebote. **Cada rebote es un -1 a tu tirada de Disparar y -1 a tu tirada de Daño**.
-
-\sp
 
 Ejemplo: si disparas a una persona detrás un coche (cobertura media -4), puedes hacer un rebote y el bono de cobertura pasa de -4 a -3 y el daño obtiene un -1. Si hicieras dos rebotes, el bono de cobertura pasa de -4 a -2 y el daño obtiene un -2.
 
@@ -1071,12 +1079,12 @@ Si tu **objetive está completamente cubierto**, aún puedes dispararle. Para ca
 
 Una de las ventajas de los tirachinas es que **su munición puede ser cualquier cosa**, pelotas de goma, rodamientos de acero, canicas de cristal, etc. Eso también quiere decir que se pueden hacer **todo tipo de municiones especiales con diferentes funciones**. 
 
+\sp
+
 * **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 al daño.
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
 * **Incendiarias:** Son bolas rellenas de material inflamable. Al impactar solo el daño de la FUE, pero añaden 1d6 de daño de fuego y con un 6 en un d6 prenden fuego tus ropas.
 * **Rellenas de pintura:** Son bolas rellenas de una sustancia espesa parecida a pintura negra (o de otros colores) que cuesta mucho desprender. Se usan para marcar objetivos, normalmente con colores chillones, o para cegar sensores de vigilancia, tapando las lentes con esta brea pegajosa. Al impactar solo hacen el daño de la FUE.
-
-\sc
 
 #### Aire comprimido
 
@@ -1102,7 +1110,13 @@ Hay **tirachinas especiales para el lanzamiento de cócteles que duplican su alc
 
 ### Protecciones
 
-xxx
+Las protecciones **son algo raro en Nottingham**, tenemos ropa de sintecuero que pueden dar algo de protección, pero el kevlar y otros tejidos ablativos son raros porque no se fabrican y la compañia no los importa.
+
+Si tu banda necesita protecciones podrán **encontrar como mucho Ropa/Cuero de Armaduras Contemporaneas**. Quizas tus PNJ que vayan tras la banda puede tener **Armaduras Ligeras del apartado Armaduras Futuristas**.
+
+En general **conseguir más de 4 puntos de protección tendría que ser muy raro y muy caro** también. En realidad es más facil conseguir ciberimplantes que otorguen armadura que armaduras propiamente dichas.
+
+El equipamiento de hockey de pasillo (peto con hombreras, rodilleras, coderas, casco y brazales) puede usarse como protecciones en combate y son totalmente legales. 
 
 ### Transporte y comunicación
 
@@ -1154,15 +1168,15 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 
 |PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
 |---|---|---|---|---|---|
-|Equipamiento de hockey de pasillo|xxx|xxx|xxx|xxx|xxx|
+|Equipamiento de hockey de pasillo|Peto, brazos y piernas|+2|d6|5|250|
 
 ### Listado de vehículos
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|-----|
-|Roller skates|-4|+2|32 km/h|4|1|xxx|
-|Skateboard|-3|+1|30 km/h|4|1|xxx|
-|E-bike|-1|+1|35 km/h|5|1+1|xxx|
+|Roller skates|-4|+2|32 km/h|4|1|
+|Skateboard|-3|+1|30 km/h|4|1|
+|E-bike|-1|+1|35 km/h|5|1+1|
 
 \conc
 

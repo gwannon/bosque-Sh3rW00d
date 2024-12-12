@@ -273,6 +273,13 @@ h4 {
   font-weight: 700;
 }
 
+h5 {
+  font-size: 1.3rem;
+  line-height: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+
 h2:before,
 h3:before,
 h4:before {
