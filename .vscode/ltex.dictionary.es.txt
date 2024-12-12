@@ -510,3 +510,5 @@ minimes
 discapacitades
 hipervigilade
 Joker
+conocides
+farares

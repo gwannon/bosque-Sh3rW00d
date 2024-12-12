@@ -790,7 +790,7 @@ section h1 + .saltopagina:after {
   body > section { max-width: 800px; }
 
   section:first-of-type {
-    background-position: center -232px;
+    background-position: center calc(100% - 232px);
   }
   
   body > section:nth-of-type(3) {

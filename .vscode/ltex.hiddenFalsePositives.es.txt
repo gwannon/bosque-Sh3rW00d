@@ -19,3 +19,4 @@
 {"rule":"HAZ_HAS","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEjemplo de Leet |-|3110 \\\\\\0R1|) Hello World\\E$"}
 {"rule":"SPACE_UNITIES","sentence":"^\\QMike Grauer 1980s shopping mall, water fountain, p By Mackingster\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}

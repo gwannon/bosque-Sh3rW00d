@@ -132,7 +132,7 @@ Los truques van desde cosas muy simples y del día a día como "tú arreglas el 
 
 La industria se basa en dos elementos claves, minifábricas y algafactorías. Existen en el complejo miles de minifábricas donde se transforma materia prima en piezas o piezas en piezas más complejas o finalmente productos completos. Estas minifábricas son talleres de 5/6 trabajadores propiedad de algune _curri_ con más dinero o de _blus_ que tienen negocios paralelos a su trabajo para la compañía.
 
-La compañía trae materia prima que va vendiendo a las minifábricas que a su vez venden a otras minifábricas y estas a otras hasta tener todo tipo de productos. En ese momento, la compañía vuelve a comprar los productos finales para exportarlos fuera de la arcología, menos la parte que se consigue vender a los propios _notis_. 
+La compañía trae materia prima que va vendiendo a las minifábricas que a su vez venden a otras minifábricas y estas otras a otras más hasta tener todo tipo de productos. En ese momento, la compañía vuelve a comprar los productos finales para exportarlos fuera de la arcología, menos la parte que se consigue vender a los propios _notis_. 
 
 > La compañía controla el mercado controlando el precio de venta de las materias primas y el precio de compra del producto final. La directora J0hn, siguiendo las órdenes de la compañía, puede manejar el mercado a su gusto y repartir riqueza entre los _notis_ o hacer que caigan en la miseria. 
 
@@ -160,7 +160,7 @@ A todos estos teletrabajadores se les llama en argot pijameres, por la broma de 
 
 En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
 
-Pueden trabajar para algunas de las miles de minifábricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
+Pueden trabajar para algunas de los miles de minifábricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
 
 Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
@@ -282,7 +282,7 @@ Los locales de comida de todo el complejo ponen puestos de comida para disfrute 
 
 El punto fuerte del festival es un concurso de disparo con tirachinas con un suculento premio 5000 $ y el título de Cazadore. Les participantes compiten entre sí hasta un encuentro final entre les supervivientes de las rondas anteriores. La directora J0hn siempre presenta une participante que va con los colores de la compañía y que normalmente suele ganar, pero no siempre.
 
-Pero la actividad preferida de les niñes del complejo es la de atrapar el robot comadreja. Se celebra cerca de los dólmenes donde se cerca una zona para que la comadreja no se escape. Se la envuelve en papel de burbuja y se le unta en grasa. Les niñes deben atraparlo y aquelle niñe que lo retenga 5 segundos gana. El ganador recibe el título de _Cazadore junior_ hasta el próximo año.
+Pero la actividad preferida de les niñes del complejo es la de atrapar el robot comadreja. Se celebra cerca de los dólmenes donde se cerca una zona para que la comadreja no se escape. Se la envuelve en papel de burbuja y se le unta en grasa. Les niñes deben atraparlo y le niñe que lo retenga 5 segundos gana y recibe el título de _Cazadore junior_ hasta el próximo año.
 
 > El juego está trucado y cuando lo atrapa une hije de _blus_ o _influencers_, desconectan el robot para que sea fácil ganar. Hace años que no gana ningune niñe _curri_.
 
@@ -617,7 +617,7 @@ xxx
 Y a la directoria R1c4rd le sucedió la directora J0hn y todo cambió.
 ```
 
-La llegada de J0hn es considerado por muchos como lo peor que le ha sucedido a la arcología, mientras que los afines a la compañia lo consideran la epoca de mayor prosperidad desde que se puso la primera piedra al complejo. xxx
+La llegada de J0hn es considerado por muchos como lo peor que le ha sucedido a la arcología, mientras que los afines a la compañía lo consideran la época de mayor prosperidad desde que se puso la primera piedra al complejo. xxx
 
 xxx
 
@@ -647,7 +647,7 @@ xxx
 Mientras que el complejo cae en un pozo de misería, el bosque está floreciendo y si se lo cuida y protege puede ser lo mejor que le haya pasado a Nottingham.
 ```
 
-Lo que empezo como un pequeño campamento de proscrites, se esta convirtiendo en una utopía donde priman la libertad y el bien común para todes les _boskis_. xxx
+Lo que empezó como un pequeño campamento de proscrites, se está convirtiendo en una utopía donde priman la libertad y el bien común para todes les _boskis_. xxx
 
 xxx
 
@@ -2771,11 +2771,11 @@ Se puede conseguir todo tipo de servicios y productos normales, nada de lujos. P
 
 Mientras que todo es bosque esta siempre es penumbra gracias a la iluminación básica que tiene todo el bosque y que R1c4rd no ha conseguido cortar, GR está perfectamente iluminado gracias a unos focos colocados en la gran columna que iluminan toda la comunidad. Estos focos se apagan de noche y se encienden de día.
 
-Les encargades de vigilar y mantener las luces son llamades farares y tienen la ventaja de poder vivir en unas estancias colgantes cerca de las potentes luces.
+Les encargades de vigilar y mantener las luces son conocides como farares y tienen la ventaja de poder vivir en unas estancias colgantes cerca de las potentes luces.
 
 #### El punto
 
-El punto es un zona libre en uno de los laterales de la columna principal donde se reúnen los _boskis_ para dialogar y tratar comunitarios. Es una zona pintada de verde en forma circular donde puede haber unas 200/250 personas sin apretujarse mucho.
+El punto es una zona libre en uno de los laterales de la columna principal donde se reúnen los _boskis_ para dialogar y tratar comunitarios. Es una zona pintada de verde en forma circular donde puede haber unas 200/250 personas sin apretujarse mucho.
 
 \sp
 
@@ -3068,7 +3068,7 @@ xxx
 
 \sinc
 
-## 3ª Parte: La caida de J0hn y el ascenso de R1c4rd
+## 3ª Parte: La caída de J0hn y el ascenso de R1c4rd
 
 \conc
 
