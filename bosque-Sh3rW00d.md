@@ -1061,9 +1061,9 @@ Tampoco son faciles de esconder y de deshacerse de ellas lo que no los hace adec
 
 #### Slingshot (Tirachinas)
 
-El tirachinas es el arma preferida por los pandilleros, la gente de la lucha callejera y los _boskis_. Son ligeros, versatiles y perfectos para los combates cercanos tan comunes en los espacios cerrados del complejo. Pero sobre todos muy baratos.
+El tirachinas es el arma preferida por los pandilleros, la gente de la lucha callejera y los _boskis_. Son ligeros, versátiles y perfectos para los combates cercanos tan comunes en los espacios cerrados del complejo. Pero sobre todos muy baratos.
 
-Piensa que se puede construir con poco materiales y faciles de conseguir y la munición es baratisima. No deja rastro y es muy versatil. Puede lanzar desde rodamientos a cocteles molotov con mínimos cambios. Además, se considera una arma distancia pequeña con lo que no tiene penalizadores al usarlo en contra une enemigue en cuerpo a cuerpo.
+Piensa que se puede construir con poco materiales y fáciles de conseguir y la munición es baratísima. No deja rastro y es muy versátil. Puede lanzar desde rodamientos a cocteles molotov con mínimos cambios. Además, a pesar de ser a dos manos, se considera una arma distancia pequeña con lo que puedes usarlo contra une enemigue en cuerpo a cuerpo.
 
 A todo esto se le suma su capacidad de disparar haciendo rebotes que permiten atacar a objetivos detras de paredes, a la vuelta de la esquina o parapetados detras de mesas y sofas.
 
@@ -1088,7 +1088,7 @@ Una de las ventajas de los tirachinas es que **su munición puede ser cualquier 
 
 #### Aire comprimido
 
-La polvora supone muchos problemas en Nottingham, pero el aire comprimido no, así que los diferentes grupos que hay en el complejo lo usan bastante en sus disputas. El aire comprimido se usa de arma, principalmente, como cerbatanas de aire comprimido y como pistolas de clavos.
+La pólvora supone muchos problemas en Nottingham, pero el aire comprimido no, así que los diferentes grupos que hay en el complejo lo usan bastante en sus disputas. El aire comprimido se usa de arma, principalmente, como cerbatanas de aire comprimido y como pistolas de clavos.
 
 ##### Cerbatanas
 
@@ -1108,21 +1108,27 @@ Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se
 
 Hay **tirachinas especiales para el lanzamiento de cócteles que duplican su alcance**, pero en este caso **se usaría Disparar** en vez de Atletismo
 
+#### Otras armas
+
+Tu banda y sus nemesis pueden portar otras armas como espadas, katanas, mazas, etc. Pero lejos de ser obras de artes decoradas, estamos hablando de toscos machetes hechos de chapas de acero cortdas en forma de hoja, afiladas con una rotaflex y con un mango de cinta americana o superestilizadas versiones de armas mediavales como espadas de titanio con vaceos con LED.
+
+A efectos prácticos, tiene las estadísticas del libro básico de SWAE, pero puedes darles detalles ciberpunk como los que te he propuesto antes. 
+
 ### Protecciones
 
-Las protecciones **son algo raro en Nottingham**, tenemos ropa de sintecuero que pueden dar algo de protección, pero el kevlar y otros tejidos ablativos son raros porque no se fabrican y la compañia no los importa.
-
-Si tu banda necesita protecciones podrán **encontrar como mucho Ropa/Cuero de Armaduras Contemporaneas**. Quizas tus PNJ que vayan tras la banda puede tener **Armaduras Ligeras del apartado Armaduras Futuristas**.
-
-En general **conseguir más de 4 puntos de protección tendría que ser muy raro y muy caro** también. En realidad es más facil conseguir ciberimplantes que otorguen armadura que armaduras propiamente dichas.
-
-El equipamiento de hockey de pasillo (peto con hombreras, rodilleras, coderas, casco y brazales) puede usarse como protecciones en combate y son totalmente legales. 
+Las protecciones **son algo raro en Nottingham**, tenemos ropa de sintecuero que pueden dar algo de protección, pero el kevlar y otros tejidos ablativos son raros porque no se fabrican y la compañía no los importa.
 
 \sp
 
+Si tu banda necesita protecciones podrán **encontrar como mucho Ropa/Cuero de Armaduras Contemporaneas**. Quizás tus PNJ que vayan tras la banda puede tener **Armaduras Ligeras del apartado Armaduras Futuristas**.
+
+En general **conseguir más de 4 puntos de protección tendría que ser muy raro y muy caro** también. En realidad es más fácil conseguir ciberimplantes que otorguen armadura que armaduras propiamente dichas.
+
+El equipamiento de hockey de pasillo (peto con hombreras, rodilleras, coderas, casco y brazales) puede usarse como protecciones en combate y son totalmente legales. 
+
 ### Transporte y comunicación
 
-andar es la forma más normal para moverse por el complejo usando escaleras mecanicas, montacargas y turboascensores, pero si quieres moverte más puedes recurrir a patines en linea, skatesborads y bicicletas eléctricas. Aunque su uso exige una buena habilidad para saltar obstaculos, bajar y subir escaleras, deslizarse por rampas, etc. 
+Andar es la forma más normal para moverse por el complejo usando escaleras mecánicas, montacargas y turboascensores, pero si quieres moverte más puedes recurrir a patines en línea, skateboards y bicicletas eléctricas. Aunque su uso exige una buena habilidad para saltar obstáculos, bajar y subir escaleras, deslizarse por rampas, etc. 
 
 #### Monturas: Roller skates, skateboards y e-bikes
 
@@ -1140,22 +1146,23 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 
 |ARMA|DAÑO|DISTANCIA|PESO|COSTE|CDF|FUE MIN.|PA|NOTAS|
 |---|---|---|---|---|---|---|---|
-|Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, 2 manos, rebote|
-|Arco compuesto|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
+|Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, ² 2 manos, Rebote|
+|Arco compuesto desmontable|FUE+d6|12/24/48|3,5|300|1|d6|1|³ Desmontable|
 |Cerbatana de aire comprimido|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
-|Pistola de clavos|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
+|Pistola de clavos|2d8|2/4/8|2|150|1|d6|2|⁴ Cuerpo a cuerpo|
 
 ¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
 
-|ARMA|DAÑO|DISTANCIA|PESO|COSTE|ÁREA|NOTAS|
-|---|---|---|---|---|---|---|
-|Cóctel molotov|1d10|5/10/20|0.5|1|1 casilla|² Daño de fuego|
+² A pesar de ser a dos manos, es una arma a distancia pequeña con lo que puedes usarla contra une enemigue en cuerpo a cuerpo.
 
-² Si sale un 5 o 6 en un d6 prende la ropa del objetivo.
+³ Se puede desmontar gastando una acción y se puede montar gastando 3 acciones. Al montarlo es necesario tener una llave allen para tensarlo.
+
+⁴ Debido a su tamaño pequeño puede usarse cuerpo a cuerpo.
 
 |ARMA|DAÑO|PESO|COSTE|FUE MIN.|PA|NOTAS|
 |---|---|---|---|---|---|---|
 |Stick de hockey de pasillo|FUE+d4|1|10|d6|-|Contundente|
+|Stick de hockey de pasillo con alambre de espinos|FUE+d4+1|1|10|d6|-|Contundente|
 |Palanca de hierro|FUE+d6|1|15|d6|-|Contundente|
 
 \conc
@@ -1164,11 +1171,19 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 
 \sinc
 
+|ARMA|DAÑO|DISTANCIA|PESO|COSTE|ÁREA|NOTAS|
+|---|---|---|---|---|---|---|
+|Cóctel molotov|1d10|5/10/20|0.5|1|1 casilla|¹ Daño de fuego|
+
+¹ Si sale un 5 o 6 en un d6 prende la ropa del objetivo.
+
 ### Listado de protecciones
 
 |PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
 |---|---|---|---|---|---|
 |Equipamiento de hockey de pasillo|Peto, brazos y piernas|+2|d6|5|250|
+
+&nbsp;
 
 ### Listado de vehículos
 
