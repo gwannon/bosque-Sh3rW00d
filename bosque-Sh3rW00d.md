@@ -369,6 +369,10 @@ La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las
 
 > Las vidas sentimentales y sexuales de la mayoría de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así, cualquier persona de tu mesa podrá romancear con cualquier PNJ que encuentres aquí. Algunes PNJ han sido definidos abiertamente no binaries y queer para que estos colectivos estén representados. Por favor, respeta esta decisión. 
 
+### Duelos
+
+xxx
+
 \sc
 
 \sp
@@ -1092,7 +1096,9 @@ La pólvora supone muchos problemas en Nottingham, pero el aire comprimido no, a
 
 ##### Cerbatanas
 
-xxx
+No estamos hablando de las armas clásicas de las tribus amazonicas si no su versión más cyberpunk, un tubo metálico, con una capsula de aire comprimido y algún tipo de proyectil, como un clavo. se rompe la capdula y el aire comprimido lanza el proyectil. Son muy faciles de hacer pero solo tienen un disparo. Con los componentes y herramientas adecuadas y una tirada de Reparar, tras trabajar una hora tenemos una cerbatana. 
+
+Estos tubos de unos 30 cm disparan un solo clavo y son dacilmente camufables al no tener forma de arma ni usar pólvora. Suelen usarse a traición. se pone el tubo hacia la nuca del objetivo sin que se de cuenta y se dispara. Muerte asegurada y muy silenciosa. Te antes de que nadie se de cuenta.
 
 ##### Pistolas de clavos
 
@@ -1108,17 +1114,17 @@ Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se
 
 Hay **tirachinas especiales para el lanzamiento de cócteles que duplican su alcance**, pero en este caso **se usaría Disparar** en vez de Atletismo
 
+\sp
+
 #### Otras armas
 
 Tu banda y sus nemesis pueden portar otras armas como espadas, katanas, mazas, etc. Pero lejos de ser obras de artes decoradas, estamos hablando de toscos machetes hechos de chapas de acero cortdas en forma de hoja, afiladas con una rotaflex y con un mango de cinta americana o superestilizadas versiones de armas mediavales como espadas de titanio con vaceos con LED.
 
-A efectos prácticos, tiene las estadísticas del libro básico de SWAE, pero puedes darles detalles ciberpunk como los que te he propuesto antes. 
+A efectos prácticos, tienen las estadísticas del libro básico de SWAE, pero puedes darles detalles ciberpunk como los que te he propuesto antes. 
 
 ### Protecciones
 
 Las protecciones **son algo raro en Nottingham**, tenemos ropa de sintecuero que pueden dar algo de protección, pero el kevlar y otros tejidos ablativos son raros porque no se fabrican y la compañía no los importa.
-
-\sp
 
 Si tu banda necesita protecciones podrán **encontrar como mucho Ropa/Cuero de Armaduras Contemporaneas**. Quizás tus PNJ que vayan tras la banda puede tener **Armaduras Ligeras del apartado Armaduras Futuristas**.
 
@@ -1136,8 +1142,6 @@ xxx
 
 Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, en su lugar **se usa en su lugar Atletismo**.
 
-\sc
-
 \sp
 
 \sinc
@@ -1148,7 +1152,7 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 |---|---|---|---|---|---|---|---|
 |Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, ² 2 manos, Rebote|
 |Arco compuesto desmontable|FUE+d6|12/24/48|3,5|300|1|d6|1|³ Desmontable|
-|Cerbatana de aire comprimido|xxx|xxx|xxx|xxx|xxx|xxx|xxx|xxx|
+|Cerbatana de aire comprimido|2d8|2/4/8|0,5|15|1|d4|2|Un único disparo|
 |Pistola de clavos|2d8|2/4/8|2|150|1|d6|2|⁴ Cuerpo a cuerpo|
 
 ¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
