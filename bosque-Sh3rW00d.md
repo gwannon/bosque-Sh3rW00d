@@ -1910,22 +1910,24 @@ xxx
 
 # I3es71ari0 **Bestiario**
 
-xxx
-
 \sinc
 
-## Secuaces
+Aquí te presentamos toda una galería de personajes no jugadores genériques que van a pulular por los pasillos de la arcología, las factorías de algas y los garitos. Te presentamos 3 grupos de PNJ: villanos, robots y gentes de Nottingham.
+
+También los puedes usar como base para tus PNJ. Si el tabernere va a ser importante, coge a une secuace y adórnale con tus propios detalles.
+
+Recuerda que en esta ambientación muchos de estos PNJ genériques puedes personalizarlos con diferentes habilidades y ventajas. Quizás le mensajere en bici que lleva un disco con datos importantes puede que tenga un d10 en Atletismo o la líder de una pandilla pueda tener un Persuadir alto para arengar a sus tropas.
+
+## Villanos
 
 [![Slaughteress 2019 By Mishkatron](./assests/images/slaughteress_2019_by_mishkatron_dcz55ay-pre.jpg "Slaughteress 2019 By Mishkatron")](https://www.deviantart.com/mishkatron/art/Slaughteress-2019-784620826 "Slaughteress 2019 By Mishkatron")
 
 \conc
 
 ```
-Aquí te presentamos toda una galería de personajes no jugadores genériques que van a pulular por los pasillos de la arcología, las factorías de algas y los garitos.
+Tu banda de proscrites tendrán que enfrentarte con todio tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines influencers, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarecompensas de fuera del complejo que cazan personas por dinero.
 ```
-También los puedes usar como base para tus PNJ. Si el tabernere va a ser importante, coge a une secuace y adórnale con tus propios detalles.
 
-Recuerda que en esta ambientación muchos de estos PNJ genériques puedes personalizarlos con diferentes habilidades y ventajas. Quizás le mensajere en bici que lleva un disco con datos importantes puede que tenga un d10 en Atletismo o la líder de una pandilla pueda tener un Persuadir alto para arengar a sus tropas.
 
 ### Sheriffs
 
@@ -1958,7 +1960,7 @@ Estas versiones inferiores de los sheriffs son usadas como ayudantes de estos. A
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
@@ -1970,7 +1972,50 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+
+\sc
+
+* **Ventajas:** xxx
+* **Ciberimplantes:** xxx
+* **Equipo:** xxx
+
+
+### Blus de alto rango
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Ciberimplantes:** xxx
+* **Equipo:** xxx
+
+### Asesores de blus
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Ciberimplantes:** xxx
+* **Equipo:** xxx
+
+### Cazarecompensas
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+
+\sp
+
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx

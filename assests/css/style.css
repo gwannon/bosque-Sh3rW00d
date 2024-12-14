@@ -244,6 +244,7 @@ h2 {
 }
 
 h2 + .columns > p:first-of-type:first-letter,
+h1 + .saltopagina + .columns > p:first-of-type:first-letter,
 h1 + .saltopagina + p:first-of-type:first-letter,
 h2 + .columns:has(p:first-of-type > a > img) > p:nth-of-type(2):first-letter,
 h2 + p:has(a > img) + .columns > p:first-of-type:first-letter {
@@ -257,6 +258,7 @@ h2 + p:has(a > img) + .columns > p:first-of-type:first-letter {
 }
 
 section:nth-of-type(odd) h2 + .columns > p:first-of-type:first-letter,
+section:nth-of-type(odd) h1 + .saltopagina + .columns > p:first-of-type:first-letter,
 section:nth-of-type(odd) h1 + .saltopagina + p:first-of-type:first-letter,
 section:nth-of-type(odd) h2 + .columns:has(p:first-of-type > a > img) > p:nth-of-type(2):first-letter,
 section:nth-of-type(odd) h2 + p:has(a > img) + .columns > p:first-of-type:first-letter {
