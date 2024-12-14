@@ -512,3 +512,5 @@ hipervigilade
 Joker
 conocides
 farares
+2d8
+rotaflex

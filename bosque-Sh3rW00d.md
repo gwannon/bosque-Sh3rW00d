@@ -1096,17 +1096,58 @@ La pólvora supone muchos problemas en Nottingham, pero el aire comprimido no, a
 
 ##### Cerbatanas
 
-No estamos hablando de las armas clásicas de las tribus amazonicas si no su versión más cyberpunk, un tubo metálico, con una capsula de aire comprimido y algún tipo de proyectil, como un clavo. se rompe la capdula y el aire comprimido lanza el proyectil. Son muy faciles de hacer pero solo tienen un disparo. Con los componentes y herramientas adecuadas y una tirada de Reparar, tras trabajar una hora tenemos una cerbatana. 
+No estamos hablando de las armas clásicas de las tribus amazónicas si no su versión más cyberpunk, un tubo metálico, con una cápsula de aire comprimido y algún tipo de proyectil, como un clavo. Se rompe la cápsula y el aire comprimido lanza el proyectil. Son muy fáciles de hacer, pero solo tienen un disparo. Con los componentes y herramientas adecuadas y una tirada de Reparar, tras trabajar una hora tenemos una cerbatana. 
 
-Estos tubos de unos 30 cm disparan un solo clavo y son dacilmente camufables al no tener forma de arma ni usar pólvora. Suelen usarse a traición. se pone el tubo hacia la nuca del objetivo sin que se de cuenta y se dispara. Muerte asegurada y muy silenciosa. Te antes de que nadie se de cuenta.
+Estos tubos de unos 30 cm disparan un solo clavo y son fácilmente camufables al no tener forma de arma ni usar pólvora. Suelen usarse a traición. se pone el tubo hacia la nuca del objetivo sin que se dé cuenta y se dispara. Muerte asegurada y muy silenciosa.
 
 ##### Pistolas de clavos
 
-xxx
+Se cuenta que los primeros en usar las pistolas de clavos como armas fueron les instaladores tratando de matar a un grupo de ratas gigantes que invadieron el complejo en sus inicios.
+
+De hecho existe un dicho sobre este tema "Eres más viejo que matar ratas con una pistola de clavos". También se usa mucho en jerga "pásame la matarratas" para referirse a la pistola de clavos.
+
+Estás pistolas, usadas principalmente por la gente de mantenimiento en su día a día se han convertido en una arma muy  usada por criminales y proscrites. Principalmente porque tienen una gran capacidad de hacer daño sobre todo en distancias cortas y su munición es fácil de hacer y difícilmente detectable.
+
+La compañía ha tratado de regular su venta, sin éxito ya que es una herramienta muy usada y necesaria en una estructura de 200 años que lleva décadas sin un mantenimiento adecuado. Además su funcionamiento es muy sencillo y son fácilmente reparables.
 
 #### Cóctel molotov
 
 Este clásico finlandés no pierde fuerza por mucho que avancen los siglos y la tecnología. Su bajo precio y su gran eficacia no tienen competencia y siempre habrá combustible, tela y recipientes que se rompen al golpear superficies duras.
+
+\sp
+
+\sinc
+
+|ARMA|DAÑO|DISTANCIA|PESO|COSTE|CDF|FUE MIN.|PA|NOTAS|
+|---|---|---|---|---|---|---|---|
+|Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, ² 2 manos, Rebote|
+|Arco compuesto desmontable|FUE+d6|12/24/48|3,5|300|1|d6|1|³ Desmontable|
+|Cerbatana de aire comprimido|2d8|2/4/8|0,5|15|1|d4|2|Un único disparo|
+|Pistola de clavos|2d8|2/4/8|2|150|1|d6|2|⁴ Cuerpo a cuerpo|
+
+¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
+
+² A pesar de ser a dos manos, es una arma a distancia pequeña con lo que puedes usarla contra une enemigue en cuerpo a cuerpo.
+
+³ Se puede desmontar gastando una acción y se puede montar gastando 3 acciones. Al montarlo es necesario tener una llave Allen para tensarlo.
+
+⁴ Debido a su tamaño pequeño puede usarse cuerpo a cuerpo.
+
+|ARMA|DAÑO|PESO|COSTE|FUE MIN.|PA|NOTAS|
+|---|---|---|---|---|---|---|
+|Stick de hockey de pasillo|FUE+d4|1|10|d6|-|Contundente|
+|Stick de hockey de pasillo con alambre de espinos|FUE+d4+1|1|10|d6|-|Contundente|
+|Palanca de hierro|FUE+d6|1|15|d6|-|Contundente|
+
+|ARMA|DAÑO|DISTANCIA|PESO|COSTE|ÁREA|NOTAS|
+|---|---|---|---|---|---|---|
+|Cóctel molotov|1d10|5/10/20|0.5|1|1 casilla|¹ Daño de fuego|
+
+¹ Si sale un 5 o 6 en un d6 prende la ropa del objetivo.
+
+\conc
+
+\sp
 
 Se pueden preparar, si tienes los componentes, 10 cócteles por horas con una tirada de Reparar exitosa.
 
@@ -1114,11 +1155,9 @@ Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se
 
 Hay **tirachinas especiales para el lanzamiento de cócteles que duplican su alcance**, pero en este caso **se usaría Disparar** en vez de Atletismo
 
-\sp
-
 #### Otras armas
 
-Tu banda y sus nemesis pueden portar otras armas como espadas, katanas, mazas, etc. Pero lejos de ser obras de artes decoradas, estamos hablando de toscos machetes hechos de chapas de acero cortdas en forma de hoja, afiladas con una rotaflex y con un mango de cinta americana o superestilizadas versiones de armas mediavales como espadas de titanio con vaceos con LED.
+Tu banda y sus némesis pueden portar otras armas como espadas, katanas, mazas, etc. Pero lejos de ser obras de artes decoradas, estamos hablando de toscos machetes hechos de chapas de acero cortadas en forma de hoja, afiladas con una rotaflex y con un mango de cinta americana o superestilizadas versiones de armas medievales como espadas de titanio con vaceos con LED.
 
 A efectos prácticos, tienen las estadísticas del libro básico de SWAE, pero puedes darles detalles ciberpunk como los que te he propuesto antes. 
 
@@ -1134,40 +1173,27 @@ El equipamiento de hockey de pasillo (peto con hombreras, rodilleras, coderas, c
 
 ### Transporte y comunicación
 
-Andar es la forma más normal para moverse por el complejo usando escaleras mecánicas, montacargas y turboascensores, pero si quieres moverte más puedes recurrir a patines en línea, skateboards y bicicletas eléctricas. Aunque su uso exige una buena habilidad para saltar obstáculos, bajar y subir escaleras, deslizarse por rampas, etc. 
+Andar es la forma más normal para moverse por el complejo usando escaleras mecánicas, montacargas y turboascensores, pero si quieres moverte más puedes recurrir a patines en línea, skateboards y bicicletas eléctricas. Aunque su uso exige una buena habilidad para saltar obstáculos, bajar y subir escaleras, deslizarse por rampas, etc.
 
 #### Monturas: Roller skates, skateboards y e-bikes
 
-xxx
+En un sitio cerrado y lleno de obstáculos como escaleras, puertas o vallas. Parece que no tiene sentido usar todos estos vehículos, pero cuando ves a les mensajeres moverse con ellos a gran velocidad saltando, _slayando_ y _grindando_ sobre el mobiliario urbano te das cuenta que pueden ser muy útiles si sabes usarlos.
 
 Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, en su lugar **se usa en su lugar Atletismo**.
 
 \sp
 
+Los rollers cuestan dos acciones ponérselos y otra quitárselos, pero puedes intentar **quitártelos como acción gratuita con una tirada de Atletismo**. Si fallas la tirada acabas tirado en el suelo y tardas 2 acciones en quitártelos.
+
+Las ventajas **Parkour y Acrobacias puedes aplicarlas cuando usas rollers, skates y bicis**, si tienes la habilidad de conducción adecuada.
+
 \sinc
 
-### Listado de armamento
-
-|ARMA|DAÑO|DISTANCIA|PESO|COSTE|CDF|FUE MIN.|PA|NOTAS|
-|---|---|---|---|---|---|---|---|
-|Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, ² 2 manos, Rebote|
-|Arco compuesto desmontable|FUE+d6|12/24/48|3,5|300|1|d6|1|³ Desmontable|
-|Cerbatana de aire comprimido|2d8|2/4/8|0,5|15|1|d4|2|Un único disparo|
-|Pistola de clavos|2d8|2/4/8|2|150|1|d6|2|⁴ Cuerpo a cuerpo|
-
-¹ Cargar un proyectil en un tirachinas es una acción gratuita que solo pueden realizarse una vez por acción.
-
-² A pesar de ser a dos manos, es una arma a distancia pequeña con lo que puedes usarla contra une enemigue en cuerpo a cuerpo.
-
-³ Se puede desmontar gastando una acción y se puede montar gastando 3 acciones. Al montarlo es necesario tener una llave allen para tensarlo.
-
-⁴ Debido a su tamaño pequeño puede usarse cuerpo a cuerpo.
-
-|ARMA|DAÑO|PESO|COSTE|FUE MIN.|PA|NOTAS|
-|---|---|---|---|---|---|---|
-|Stick de hockey de pasillo|FUE+d4|1|10|d6|-|Contundente|
-|Stick de hockey de pasillo con alambre de espinos|FUE+d4+1|1|10|d6|-|Contundente|
-|Palanca de hierro|FUE+d6|1|15|d6|-|Contundente|
+|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
+|--------|------|----|--|------|-----|-----|
+|Roller skates|-4|+2|32 km/h|4|1|
+|Skateboard|-3|+1|30 km/h|4|1|
+|E-bike|-1|+1|35 km/h|5|1+1|
 
 \conc
 
@@ -1175,27 +1201,11 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 
 \sinc
 
-|ARMA|DAÑO|DISTANCIA|PESO|COSTE|ÁREA|NOTAS|
-|---|---|---|---|---|---|---|
-|Cóctel molotov|1d10|5/10/20|0.5|1|1 casilla|¹ Daño de fuego|
-
-¹ Si sale un 5 o 6 en un d6 prende la ropa del objetivo.
-
 ### Listado de protecciones
 
 |PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
 |---|---|---|---|---|---|
 |Equipamiento de hockey de pasillo|Peto, brazos y piernas|+2|d6|5|250|
-
-&nbsp;
-
-### Listado de vehículos
-
-|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
-|--------|------|----|--|------|-----|-----|
-|Roller skates|-4|+2|32 km/h|4|1|
-|Skateboard|-3|+1|30 km/h|4|1|
-|E-bike|-1|+1|35 km/h|5|1+1|
 
 \conc
 
@@ -1280,7 +1290,6 @@ Pulsando una combinación de botones de ascensores, montacargas y escaleras mec�
 Cada espacio del complejo tiene un generador de realidad aumentada que otorga a los dispositivos de realidad aumentada de las personas que están en el de información interesante sobre los espacios. Hablamos de datos públicos de otras personas en ese espacio a la ruta hacia diferentes lugares (literalmente se genera una línea amarilla en el suelo que te indica el camino como si de un videojuego se tratara). Mediante una combinación de pasos, el generador de realidad los detecta y te abre un _modo instalador_ que te ofrece las siguientes ventajas.
 
 * **Presencia cercana de otro instaladore,** lo cual no es útil porque se fueron todes.
-
 * **Genera datos aleatorios de ti** de forma que según los dispositivos de realidad aumentada eres otra persona. El resto de usuarios no verán tus datos reales. Los sistemas de seguridad no funcionan con los de realidad aumentada y siguen reconociéndote.
 * El _modo instalador_ **agrega a una capa extra de información** que les instaladores usaban para su trabajo, principalmente un inventario de los objetos de la zona estableciendo cuanto llevaban allí y cuando se realizó el último mantenimiento. Puede usarse, por ejemplo, para saber si una alcantarilla lleva mucho tiempo sin abrirse o cuanto lleva una pared llena de grafitis sin limpiarse. Como DJ, puedes añadir datos extras a las descripciones, al activar este modo. Esos datos puedan ser usados como pistas por tu banda.
 
@@ -1520,6 +1529,10 @@ Cada vez que te golpeen añades un -1 a tu tirada de Espíritu porque sabes lo q
 Si aciertas el disparo, ganas un punto. Si además el objetivo se mueve ganas 1 punto extra. Cuando alguno de los dos consigue sacar una ventaja de 3 puntos, gana el concurso.
 
 Si alguien tiene una pifia en disparar hiere a su objetivo (tirada de daño real) y es descalificade si hace herida. Si pifias la tirada de Espíritu no pasa nada, pero el DJ puede describir algo vergonzoso que haces presa del miedo.
+
+### Hackear sistemas
+
+xxx
 
 ***
 
