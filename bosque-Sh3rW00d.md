@@ -2936,6 +2936,8 @@ Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su cienci
 
 ## Transporte público
 
+[![UDK SafeHouse 09 By jomet](./assests/images/udk_safehouse_09_by_jomet_d48pfys-fullview.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/jomet/art/UDK-SafeHouse-09-256488724 "UDK SafeHouse 09 By jomet")
+
 \conc
 
 ```
@@ -2952,21 +2954,16 @@ Al1enOR no está al nivel de procesamiento J0hn o R1c4rd, pero está muy cerca y
 
 Al1enOR genera instancias suyas que lanza a cada red de transporte y cuando las paran por mantenimiento o fallo vuelven a su núcleo con toda la info recabada. Cuando el sistema vuelve a funcionar lanza una nueva instancia y así en un bucle infinito. 
 
-[![For Jess By GraffMX](./assests/images/for_jess_by_graffmx_d5qpxus-375w-2x.jpg "For Jess By GraffMX")](https://www.deviantart.com/graffmx/art/For-Jess-347211172 "For Jess By GraffMX")
+Al1enOR es una adicta al trabajo. Solo piensa en su trabajo las 24 horas del día y se presiona mucho a si misma. Sabe que si no hace bien su trabajo todo el complejo se para y eso no puede parar. 
 
-xxx
+\sp
+
+El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
 Mientras que la directora R1c4rd siempre respetó los consejos y sugerencias de Al1enOR tanto solicitados como no, J0hn trata de evitar como sea a Al1enOR. No se fía de ella para nada y considera que como mucha gente en Nottingham busca su caída y el regreso de R1c4rd.
 
 > Si consigues llamar su atención y que abandone su trabajo, podrás preguntarle sobre cualquier cosa de la historia del complejo y seguro que lo sabe.
 
-\sp
-
-\sinc
-
-![Esquema de zonas del complejo](./assests/images/zonas.jpg "Esquema de zonas del complejo")
-
-\conc
 
 ### Moverse entre zonas
 
@@ -2975,6 +2972,8 @@ xxx
 Las zonas están conectadas como hemos explicado antes, pero siempre es posible hacer una buena tirada de Pasillear que permita acceder de unas a otras saltando los pasos intermedios. 
 
 \sc
+
+![Esquema de zonas del complejo](./assests/images/zonas.jpg "Esquema de zonas del complejo")
 
 \sp
 
@@ -3543,6 +3542,38 @@ xxx
 * **Equipo:** xxx
 
 > **Sugerencia de interpretación:** xxx
+
+\sp
+
+\sinc
+
+## Al1enOR, IA adicta a su trabajo &#35;
+
+\conc
+
+[![For Jess By GraffMX](./assests/images/for_jess_by_graffmx_d5qpxus-375w-2x.jpg "For Jess By GraffMX")](https://www.deviantart.com/graffmx/art/For-Jess-347211172 "For Jess By GraffMX")
+
+
+Al1enOR es la IA más antigua que hay en la arcología, mucho más antigua que J0hn y R1c4rd. De hecho, su primera instancia controla el primer montacargas que les instaladores hicieron funcionar.
+f
+Aunque es muy mayor es bastante moderna, está muy conectada con les _notis_ y lleva conociendo y trabajando para ellos desde hace cientos de años. Sabe las historias de muchos, sabe cuando están bien cuando están enfermos, cuando pasa algo especial, por sus rutinas de desplazamiento. xxx
+
+Ama y odia a les habitantes del complejo por igual. xxx
+
+Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su trabajo las 24 horas del día y se presiona mucho a si misma. Sabe que si no hace bien su trabajo todo el complejo se para y eso no puede parar.
+
+El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
+
+* **Atributos:** Astucia dX, Espíritu dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Desventajas:** xxx
+* **Ventajas:** xxx
+* **Capacidades especiales:**
+  * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
+  * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
+* **Equipo:** xxx
+
+> **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.
 
 ***
 
