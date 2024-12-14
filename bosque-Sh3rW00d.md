@@ -1039,15 +1039,15 @@ Las personas sin HUB como los _boskis_ de segunda generación no pueden pagar co
 
 ### Equipo normal
 
-Esta ambientación es ciberpunk y por tanto un poco futurista, pero con importantes toques medievales. Eso marca el equipo normal que puede tener tu banda. Tendrán smartphones, tabletas y ordenadores portatiles, pero comeran con cucharas, tenedores o palillos de plástico. Tendrán medpacks para cerrar sus heridas sangrantes en segundos, pero seguiran llevando sus botas a remendar a un zapatero.
+Esta ambientación es ciberpunk y, por tanto, un poco futurista, pero con importantes toques medievales. Eso marca el equipo normal que puede tener tu banda. Tendrán smartphones, tabletas y ordenadores portátiles, pero comerán con cucharas, tenedores o palillos de plástico. Tendrán medpacks para cerrar sus heridas sangrantes en segundos, pero seguirán llevando sus botas a remendar a un zapatero.
 
-En principio pueden tener acceso a todo el equipo normal que hay en el libro básico al precio allí marcado, pero con pinta de futurista. Por ejemplo, si necesitan comunicarse durante un golpe tendrán unos auriculares minusculos que casi ni se detectan dentro de la oreja, en vez de unos walkie-talkies. 
+En principio pueden tener acceso a todo el equipo normal que hay en el libro básico al precio allí marcado, pero con pinta de futurista. Por ejemplo, si necesitan comunicarse durante un golpe tendrán unos auriculares minúsculos que casi ni se detectan dentro de la oreja, en vez de unos walkie-talkies. 
 
 ### Armas
 
 Las armas de fuego no están permitidas en el complejo y, de hecho, su tenencia y/o construcción tienen las mayores penas de los delitos no violentos. En principio solo los sheriffs y sus ayudantes tienen acceso a este tipo de armas. 
 
-Si cualquier sistema de seguridad del complejo de Nottingham detecta un disparo, saltan las alarmas y rapidamente los sheriffs cercanos se acercan a detener a le pistolere. En caso de no haber ninguno cerca los sistemas tratarán de seguir e identificar a les portadores de pistalas para identificarlos y detenerlos.
+Si cualquier sistema de seguridad del complejo de Nottingham detecta un disparo, saltan las alarmas y rápidamente los sheriffs cercanos se acercan a detener a le pistolere. En caso de no haber ninguno cerca los sistemas tratarán de seguir e identificar a les portadores de pistolas para identificarlos y detenerlos.
 
 De hecho, disparar un arma puede ser una buena forma de crear distracciones, pero le tiradore tendrá graves problemas si quiere escapar de lo que se le va a echar encima.
 
@@ -1059,9 +1059,9 @@ Culturalmente, tienes que tener en cuenta que el pueblo quiere a ladrones carism
 
 #### Arcos
 
-Los arcos de competición recurvos y de polea son la opción de armas a distancia más poderosas que se pueden portar sin tener a todos los sheriffs encima. Siguen siendo ilegales, pero no atraen tanto la atención. aun así no suelen ser muy eficaces ya que los espacios son pequeños y encima entras en combate cuerpo a cuerpo. Ademas las coverturas detras de oaredes y puertas son muy comunes y puedes parapetarte detras de un mueble y estar a salvo de arcos.
+Los arcos de competición recurvos y de polea son la opción de armas a distancia más poderosas que se pueden portar sin tener a todos los sheriffs encima. Siguen siendo ilegales, pero no atraen tanto la atención. aun así no suelen ser muy eficaces, ya que los espacios son pequeños y encima entras en combate cuerpo a cuerpo muy fácilmente. Además, las coberturas detrás de paredes y puertas son muy comunes y puedes parapetarte de ellas y estar a salvo de arcos.
 
-Tampoco son faciles de esconder y de deshacerse de ellas lo que no los hace adecuadas en golpes y atracos.
+Tampoco son fáciles de esconder y de deshacerse de ellas, lo que no los hace adecuadas en golpes y atracos.
 
 #### Slingshot (Tirachinas)
 
@@ -1069,7 +1069,7 @@ El tirachinas es el arma preferida por los pandilleros, la gente de la lucha cal
 
 Piensa que se puede construir con poco materiales y fáciles de conseguir y la munición es baratísima. No deja rastro y es muy versátil. Puede lanzar desde rodamientos a cocteles molotov con mínimos cambios. Además, a pesar de ser a dos manos, se considera una arma distancia pequeña con lo que puedes usarlo contra une enemigue en cuerpo a cuerpo.
 
-A todo esto se le suma su capacidad de disparar haciendo rebotes que permiten atacar a objetivos detras de paredes, a la vuelta de la esquina o parapetados detras de mesas y sofas.
+A todo esto se le suma su capacidad de disparar haciendo rebotes que permiten atacar a objetivos detrás de paredes, a la vuelta de la esquina o parapetados detrás de mesas y sofás.
 
 ##### Rebotes
 
@@ -1096,9 +1096,9 @@ La pólvora supone muchos problemas en Nottingham, pero el aire comprimido no, a
 
 ##### Cerbatanas
 
-No estamos hablando de las armas clásicas de las tribus amazónicas si no su versión más cyberpunk, un tubo metálico, con una cápsula de aire comprimido y algún tipo de proyectil, como un clavo. Se rompe la cápsula y el aire comprimido lanza el proyectil. Son muy fáciles de hacer, pero solo tienen un disparo. Con los componentes y herramientas adecuadas y una tirada de Reparar, tras trabajar una hora tenemos una cerbatana. 
+No estamos hablando de las armas clásicas de las tribus amazónicas sino su versión más ciberpunk, un tubo metálico, con una cápsula de aire comprimido y algún tipo de proyectil, como un clavo. Se rompe la cápsula y el aire comprimido lanza el proyectil. Son muy fáciles de hacer, pero solo tienen un disparo. Con los componentes y herramientas adecuadas y una tirada de Reparar, tras trabajar una hora tenemos una cerbatana. 
 
-Estos tubos de unos 30 cm disparan un solo clavo y son fácilmente camufables al no tener forma de arma ni usar pólvora. Suelen usarse a traición. se pone el tubo hacia la nuca del objetivo sin que se dé cuenta y se dispara. Muerte asegurada y muy silenciosa.
+Estos tubos de unos 25 cm disparan un solo clavo y son fácilmente camufables al no tener forma de arma ni usar pólvora. Suelen usarse a traición. Se pone el tubo hacia la nuca del objetivo sin que se dé cuenta y se dispara. Muerte asegurada y muy silenciosa.
 
 ##### Pistolas de clavos
 
@@ -1155,13 +1155,23 @@ Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se
 
 Hay **tirachinas especiales para el lanzamiento de cócteles que duplican su alcance**, pero en este caso **se usaría Disparar** en vez de Atletismo
 
+\sc
+
 #### Otras armas
 
 Tu banda y sus némesis pueden portar otras armas como espadas, katanas, mazas, etc. Pero lejos de ser obras de artes decoradas, estamos hablando de toscos machetes hechos de chapas de acero cortadas en forma de hoja, afiladas con una rotaflex y con un mango de cinta americana o superestilizadas versiones de armas medievales como espadas de titanio con vaceos con LED.
 
 A efectos prácticos, tienen las estadísticas del libro básico de SWAE, pero puedes darles detalles ciberpunk como los que te he propuesto antes. 
 
+\sinc
+
 ### Protecciones
+
+|PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
+|---|---|---|---|---|---|
+|Equipamiento de hockey de pasillo|Peto, brazos y piernas|+2|d6|5|250|
+
+\conc
 
 Las protecciones **son algo raro en Nottingham**, tenemos ropa de sintecuero que pueden dar algo de protección, pero el kevlar y otros tejidos ablativos son raros porque no se fabrican y la compañía no los importa.
 
@@ -1171,23 +1181,11 @@ En general **conseguir más de 4 puntos de protección tendría que ser muy raro
 
 El equipamiento de hockey de pasillo (peto con hombreras, rodilleras, coderas, casco y brazales) puede usarse como protecciones en combate y son totalmente legales. 
 
-### Transporte y comunicación
-
-Andar es la forma más normal para moverse por el complejo usando escaleras mecánicas, montacargas y turboascensores, pero si quieres moverte más puedes recurrir a patines en línea, skateboards y bicicletas eléctricas. Aunque su uso exige una buena habilidad para saltar obstáculos, bajar y subir escaleras, deslizarse por rampas, etc.
-
-#### Monturas: Roller skates, skateboards y e-bikes
-
-En un sitio cerrado y lleno de obstáculos como escaleras, puertas o vallas. Parece que no tiene sentido usar todos estos vehículos, pero cuando ves a les mensajeres moverse con ellos a gran velocidad saltando, _slayando_ y _grindando_ sobre el mobiliario urbano te das cuenta que pueden ser muy útiles si sabes usarlos.
-
-Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, en su lugar **se usa en su lugar Atletismo**.
-
 \sp
 
-Los rollers cuestan dos acciones ponérselos y otra quitárselos, pero puedes intentar **quitártelos como acción gratuita con una tirada de Atletismo**. Si fallas la tirada acabas tirado en el suelo y tardas 2 acciones en quitártelos.
-
-Las ventajas **Parkour y Acrobacias puedes aplicarlas cuando usas rollers, skates y bicis**, si tienes la habilidad de conducción adecuada.
-
 \sinc
+
+### Transporte y comunicación
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|-----|
@@ -1197,17 +1195,17 @@ Las ventajas **Parkour y Acrobacias puedes aplicarlas cuando usas rollers, skate
 
 \conc
 
-\sp
+Andar es la forma más normal para moverse por el complejo usando escaleras mecánicas, montacargas y turboascensores, pero si quieres moverte más puedes recurrir a patines en línea, skateboards y bicicletas eléctricas. Aunque su uso exige una buena habilidad para saltar obstáculos, bajar y subir escaleras, deslizarse por rampas, etc.
 
-\sinc
+#### Monturas: Roller skates, skateboards y e-bikes
 
-### Listado de protecciones
+En un sitio cerrado y lleno de obstáculos como escaleras, puertas o vallas. Parece que no tiene sentido usar todos estos vehículos, pero cuando ves a les mensajeres moverse con ellos a gran velocidad saltando, _slayando_ y _grindando_ sobre el mobiliario urbano te das cuenta que pueden ser muy útiles si sabes usarlos.
 
-|PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
-|---|---|---|---|---|---|
-|Equipamiento de hockey de pasillo|Peto, brazos y piernas|+2|d6|5|250|
+Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, en su lugar **se usa en su lugar Atletismo**.
 
-\conc
+Los rollers cuestan dos acciones ponérselos y otra quitárselos, pero puedes intentar **quitártelos como acción gratuita con una tirada de Atletismo**. Si fallas la tirada acabas tirado en el suelo y tardas 2 acciones en quitártelos.
+
+Las ventajas **Parkour y Acrobacias puedes aplicarlas cuando usas rollers, skates y bicis**, si tienes la habilidad de conducción adecuada.
 
 \sp
 
@@ -1297,13 +1295,17 @@ Cada espacio del complejo tiene un generador de realidad aumentada que otorga a 
 
 **Requisitos:** Experimentade
 
-**Jerga:** xxx
+**Jerga:** Ábrete sésamo, Alojomora
 
-xxx
+Mediante una serie de gestos cerca del sensor de movimientos de una puerta automática se puede activar o desactivar las puertas o sacar modos especiales.
 
-* xxx
-* xxx
-* xxx
+Este hackeo **vale para puertas simples**. Aquellas con cerraduras, sensores biométricos o claves necesitan hackeos de más nivel.
+
+* **Activar/Desactivar:** con este hackeo la puerta se queda cerrada o abierta indefinidamente. Gastando dos acciones y una tirada Electrónica dificultad tirada del hackeo se puede volver a dejar como estaba.
+* **Mover la posición del sensor de movimiento:** Puede usarse para hacer que la puerta se abra solo si detecta cierta circunstancia, por ejemplo si subimos el sensor solo detectará figura altas y no abrirá para los robots pequeños de reparto. Esto solo funciona para un sensor y cada puerta tiene dos sensores uno a cada lado. Si queremos cambiar ambos sensores habrá que hacer el hackeo dos veces, uno en cada lado de la puerta.
+* **Desactivar el control de entrada y salida:** las puertas más simples controlan solo la entrada y salida de personas para temas de aforo y cuando han sido dichos accesos. Se puede desactivar y volver a activar el control de acceso de persona de forma que no que registrada ni los accesos. Por ejemplo, se podrían desactivar el control de acceso de una puerta, salir por ella y volver al de un rato y activarla de nuevo.  Para el sistema durante ese tiempo no habría habido ningún movimiento.
+
+\sp
 
 ### Controlar ascensor
 
@@ -1326,8 +1328,6 @@ xxx
 xxx
 
 Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero controlando las luces de emergencia y similar.
-
-\sp
 
 * Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
 * xxx
@@ -1381,6 +1381,8 @@ El problema de este hackeo es que hay que hacerlo desde dentro del ascensor.
 
 xxx
 
+\sp
+
 * Puedes poner los ventiladores a tal velocidad, más allá de lo seguro, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * xxx
 * xxx
@@ -1397,8 +1399,6 @@ xxx
 * xxx
 * xxx
 
-\sp
-
 ### Dominar vigilancia
 
 **Requisitos:** Heróique, Controlar vigilancia
@@ -1411,6 +1411,8 @@ xxx
 * xxx
 * xxx
 
+\sc
+
 ### Código Konami
 
 **Requisitos:** Legendario
@@ -1421,21 +1423,17 @@ xxx
 
 xxx
 
-\sc
-
 \sp
 
 \sinc
-
-### Listado de hackeos
 
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
 |Controlar pantallas|Novate|Encender y apagar pantallas y poner mensajes simples|
 |Controlar iluminación|Novate|Encender y apagar luces y otros efectos simples|
 |Llamar ascensor|Novate|Robar el ascensor a otras personas o mandarlo a un extremo de su ruta|
-|Controlar realidad aumentada|Novate|xxx|
-|Controlar puertas|Experimentade|xxx|
+|Controlar realidad aumentada|Novate|Controlar la información pública que la realidad aumentada proporciona|
+|Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
 |Controlar ascensor|Experimentade, Llamar ascensor|xxx|
 |Dominar iluminación|Experimentade, Controlar iluminación|xxx|
 |Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
@@ -1993,7 +1991,7 @@ xxx
 Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y lanzarte.
 ```
 
-xxx
+En esta ambientación los robots no son personajes carismáticos, charlatanes y autónomos. Son herramientas programadas para hacer su trabajo y solo su trabajo. Tampoco están antropomorfizados, si tienen que transportar materiales serán carros con ruedas y gruas para cargar y descargar materiales, si limpian los conductos serán largos y estrechos y se moverán como comadrejas o serpientes por los tubos de ventilación.
 
 ### Animal animatrónico
 
@@ -2034,12 +2032,13 @@ xxx
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
+
+\sp
+
 * **Capacidades especiales:**
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** xxx
-
-\sp
 
 ### Comadrejas
 
@@ -2963,6 +2962,12 @@ Mientras que la directora R1c4rd siempre respetó los consejos y sugerencias de 
 
 \sp
 
+\sinc
+
+![Esquema de zonas del complejo](./assests/images/zonas.jpg "Esquema de zonas del complejo")
+
+\conc
+
 ### Moverse entre zonas
 
 xxx
@@ -3030,7 +3035,6 @@ xxx
 > xxx
 
 xxx
-
 
 ### Cayendo en el pozo
 
@@ -3130,7 +3134,6 @@ Parece que ese DJ de la RLN sabe de todo quizas si tu banda de proscites lo loca
 
 xxx
 
-
 ### Descalzos por el parque
 
 ```
@@ -3147,7 +3150,6 @@ Nadie lo sabe pero Alfonse es un fork de R1c4rd sin su entrenamiento, si se le i
 
 xxx
 
-
 \sc
 
 \sp
@@ -3159,7 +3161,6 @@ xxx
 \conc
 
 > No todo va a ser robar a les riques y dárselo a les pobres mientras haces rabiar a la directora J0hn.
-
 
 Todos los relatos salvajes que encontrarás en este capítulo son aventuras que puedes intercalar dentro de la campaña en el momento que desees. 
 
@@ -3614,7 +3615,6 @@ Agradecimientos a todas estas personas que me han dado su opinión y han contest
 ## Atribuciones
 
 Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros que hay en este documento.
-
 
 ### Fuentes
 

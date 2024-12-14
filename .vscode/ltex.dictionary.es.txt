@@ -514,3 +514,8 @@ conocides
 farares
 2d8
 rotaflex
+medpacks
+tiradore
+pistolere
+camufables
+Alojomora
