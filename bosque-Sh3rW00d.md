@@ -1538,7 +1538,7 @@ xxx
 
 \sinc
 
-xxx
+En este capítulo vas a ver toda la tecnología que puedes encontrar en la arcología de Nottingham y como afecta al día a día de les _notis_. Hablaremos de IA, nanotecnología, ciberimplantes, realidad virtual y aumentada y otras tecnologías típicas de las ambientaciones ciberpunk.
 
 ## HUB de conexión
 
@@ -2973,7 +2973,7 @@ Las zonas están conectadas como hemos explicado antes, pero siempre es posible 
 
 \sc
 
-![Esquema de zonas del complejo](./assests/images/zonas.jpg "Esquema de zonas del complejo")
+![Esquema de zonas del complejo](./assests/images/zonas.png "Esquema de zonas del complejo")
 
 \sp
 
@@ -2987,7 +2987,7 @@ Las zonas están conectadas como hemos explicado antes, pero siempre es posible 
 xxx
 ```
 
-xxx
+Las siguientes reglas te permiten crear espacios de forma rápida y sencilla donde poder situar las escenas de tus aventuras. Podrás elegir el tipo de espacio y su tamaño y obtendrás su forma, sus salidas, su contenido, elementos de seguridad, etc.
 
 ### Espacios pregenerados
 
