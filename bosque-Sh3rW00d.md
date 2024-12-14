@@ -1925,9 +1925,10 @@ Recuerda que en esta ambientación muchos de estos PNJ genériques puedes person
 \conc
 
 ```
-Tu banda de proscrites tendrán que enfrentarte con todio tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines influencers, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarecompensas de fuera del complejo que cazan personas por dinero.
+Como siempre se dice la talla de tus heroines la marcan sus villanos.
 ```
 
+Tu banda de proscrites tendrán que enfrentarte con todio tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines influencers, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarecompensas de fuera del complejo que cazan personas por dinero.
 
 ### Sheriffs
 
@@ -1935,13 +1936,16 @@ xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
+
+\sp
+
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Ciberimplantes:** xxx
+* **Capacidades especiales:**
+  * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+  * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** xxx
-
-\sp
 
 ### Ayudante de sheriffs
 
@@ -1952,7 +1956,9 @@ Estas versiones inferiores de los sheriffs son usadas como ayudantes de estos. A
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Ciberimplantes:** xxx
+* **Capacidades especiales:**
+  * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+  * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** xxx
 
 ### Alto influencer
@@ -1975,13 +1981,9 @@ xxx
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
-
-\sc
-
 * **Ventajas:** xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
-
 
 ### Blus de alto rango
 
@@ -1994,6 +1996,8 @@ xxx
 * **Ventajas:** xxx
 * **Ciberimplantes:** xxx
 * **Equipo:** xxx
+
+\sp
 
 ### Asesores de blus
 
@@ -2013,9 +2017,6 @@ xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-
-\sp
-
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
