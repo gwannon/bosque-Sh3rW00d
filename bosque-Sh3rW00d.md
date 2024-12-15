@@ -1605,10 +1605,10 @@ Estas mejoras permiten aumentar un nivel el dado del atributo.
 Estas mejoras permiten aumentar un nivel el dado de la habilidad.
 
 * El dado de habilidad aumenta un nivel independiente del nivel de su atributo.
+* Puedes gastar avances en CI para conseguir subir una habilidad por encima de d12, pero a partir d12 los implantes no son camuflables.
 
 \sp
 
-* Puedes gastar avances en CI para conseguir subir una habilidad por encima de d12, pero a partir d12 los implantes no son camuflables.
 * Si alguno de tus implantes no es camuflable todos los de la misma habilidad se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver "CI camuflables").
 
 #### CI que otorgan ventajas
@@ -1625,7 +1625,11 @@ Los rasgos de bestia acumulables como Armadura no son camuflables a partir de la
 
 ### Instalar implantes
 
-xxx
+Instalar implantes puede variar de unas horas a dos o tres días (uno de cirujia y otros dos de recuperación). Puede haber implantes que no necesiten instalación ni cirujía o que solo sean una inyección con nanitos que te pones tú mismo y que hace su trabajo mientras tu duermes.
+
+En caso de necesitar cirujía, **cualquier persona con Medicina y Reparar d8 o más podrá instalarlos**. Normalmente puede haber pequeños chiringuitos en la zona baja de dudosa reputación donde te los pueden instalar o lujosos centros donde tomas un caro café mientras te reemplazan tu brazo por uno cibernético.
+
+> El tiempo de instalación de un ciberimplantes y si necesitan o no cirujia queda a tu discrección. Ajustalo a tu historia y tu mesa, aunque lo normal es que cuantos más puntos, más tiempo necesite. 1 punto medio día, 2 puntos un día, 3 puntos dos días, 4 puntos tres días, etc. Recuerda que los implantes se consiguen con avances, así que simplemente los obtienen al gastar el avance. La duración del proceso y la forma de instalarlo es por darle un poco de historia y trasfondo a un elemento tan interesante y llamativo.
 
 ### Quitarse implantes
 
@@ -1633,21 +1637,25 @@ Por cada rango puedes quitarte un implante y recuperar los puntos de CI que gast
 
 ### CI camuflables
 
-Los implantes en condiciones normales son visibles. Se ven partes metálicas y cromadas, cables, leds, etc. pero por un punto extra se pueden hacer camuflables. De esa forma no son detectables a simple vista. Hay que tener en cuenta que tener garras es camuflable hasta el momento en que se sacan y se empieza a desgarrar gargantas. En ese momento por muy camuflables que sean la gente podrá verlas.
+Los implantes en condiciones normales son visibles. Se ven partes metálicas y cromadas, cables, leds, etc. pero por un punto extra se pueden hacer camuflables. De esa forma no son detectables a simple vista. 
+
+\sp
+
+Hay que tener en cuenta que tener garras es camuflable hasta el momento en que se sacan y se empieza a desgarrar gargantas. En ese momento por muy camuflables que sean la gente podrá verlas.
 
 ### Reparación
 
-Los implantes se compran con avances y son como las ventajas o las habilidades, por lo que no se estropean, ni dejan de funcionar, ni se pierden. Sin embargo, si para tu historia tienen que dejar de funcionar o hay que repararlos, cualquier persona con Medicina y Ciencias d8 o más podrá arreglarles.
+Los implantes se compran con avances y son como las ventajas o las habilidades, por lo que no se estropean, ni dejan de funcionar, ni se pierden. Sin embargo, si para tu historia tienen que dejar de funcionar o hay que repararlos, cualquier persona con Medicina y Reparar d8 o más podrá arreglarles.
 
 ### Implantes legales e ilegales
 
 Los implantes pueden ser considerados legales o ilegales. Los legales puedes llevarlos por la calle sin ser perseguido por la autoridad, los ilegales deberás llevarlos ocultos o tener algún tipo de licencia que te permita llevarlos.
 
-\sp
-
 En muchas ambientaciones los implantes de Armadura serían ilegales, pero une policíe podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
 
 Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo postapocalíptico realmente no importaría si son legales o no.
+
+Los implantes ilegales no pueden ser instalados en sitio normales y tendrás que recurrir a doctores sin licencia o de la mafia. En el bosque hay gente capaz de instalarte implantes legales e ilegales, pero normalmente deberas conseguirlos y llevarselos para que te los instalen.
 
 \sinc
 
@@ -1667,15 +1675,6 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Apostar|1|Sí|Calculadora cerebral de probabilidades|
 |Ciencias|1|Sí|Base de datos científica|
 |Conducir|1|Sí|Ciberconexión a vehículo|
-|Disparar|1|No|HUB de puntería|
-|Electrónica|1|Sí|Base de datos de electrónica|
-|Humanidades|1|Sí|Base de datos de historia y arte|
-|Interpretar|1|Sí|Cibercuerdas vocales, base de datos musical/teatral|
-|Intimidar|1|Sí|Modulador de voz|
-|Investigar|1|Sí|HUB de información|
-|Latrocinio|1|No|Implante de ganzúa eléctrica en un dedo|
-|Medicina|1|Sí|Sensores médicos avanzados|
-|Notar|1|Sí|Telemetría ocular|
 
 \conc
 
@@ -1685,6 +1684,15 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
+|Disparar|1|No|HUB de puntería|
+|Electrónica|1|Sí|Base de datos de electrónica|
+|Humanidades|1|Sí|Base de datos de historia y arte|
+|Interpretar|1|Sí|Cibercuerdas vocales, base de datos musical/teatral|
+|Intimidar|1|Sí|Modulador de voz|
+|Investigar|1|Sí|HUB de información|
+|Latrocinio|1|No|Implante de ganzúa eléctrica en un dedo|
+|Medicina|1|Sí|Sensores médicos avanzados|
+|Notar|1|Sí|Telemetría ocular|
 |Ordenadores|1|Sí|Entrada I/O intracerebral|
 |Pelear|1|No|Ordenador de combate|
 |Persuadir|1|Sí|Modificaciones estéticas|
@@ -1704,14 +1712,6 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |Atractive|1|Sí|Cirugía estética, ojos felinos, nanitos capilares|
 |Calculadore|2|Sí|Ordenador táctico|
 |Curación rápida|2|Sí|Implante médico cervical|
-|Esquiva|2|Sí|Predictor de ataques|
-|Esquiva mejorada|4|Sí|Predictor de ataques mejorado|
-|Gorila|2|No|Nudillos metálicos|
-|Hueso duro de roer|4|No|Bionanitos cirujanos|
-|Hueso muy duro de roer|4|No|Bionanitos cirujanos mejorados|
-|Lingüista|2|Sí|Base de datos lingüística|
-|Mandíbula de hierro|2|Sí|Refuerzos óseos|
-|Pies ligeros|1|Sí|Servo-rodillas|
 
 \conc
 
@@ -1721,6 +1721,14 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
+|Esquiva|2|Sí|Predictor de ataques|
+|Esquiva mejorada|4|Sí|Predictor de ataques mejorado|
+|Gorila|2|No|Nudillos metálicos|
+|Hueso duro de roer|4|No|Bionanitos cirujanos|
+|Hueso muy duro de roer|4|No|Bionanitos cirujanos mejorados|
+|Lingüista|2|Sí|Base de datos lingüística|
+|Mandíbula de hierro|2|Sí|Refuerzos óseos|
+|Pies ligeros|1|Sí|Servo-rodillas|
 |Puntería|2|Sí|Conexión a arma|
 |Reflejos de combate|2|Sí|Sistema anti-aturdimiento cervical|
 |Temple|2|Sí|Ciberreflejos|
@@ -1739,6 +1747,15 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 |² Armas naturales (Cuernos)|2|No|Cuernos retráctiles, placas craneales metálicas.|
 |² Armas naturales (Garras)|2|No|Garras retráctiles, cuchillas interdigitales.|
 |Infravisión|2|Sí|Implantes oculares|
+
+\conc
+
+\sp
+
+\sinc
+
+|Ciberimplantes|Puntos|Legal|Descripción|
+|---|---|---|---|
 |Regeneración (lenta)|1|Sí|Ciberplaquetas en la sangre|
 |Regeneración (rápida)|2|Sí|Nanitos en la corriente sanguínea|
 |Resistente|2|Sí|Implante de neo-adrenalina, amortiguador cerebral|
@@ -1754,15 +1771,17 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 \sinc
 
-[![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
-
 ## IA
+
+[![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
 
 \conc
 
 ```
 Las IA son algo muy normal en Nottingham. De hecho, la IA J0hn controla muchísimos aspectos de la vida de les _notis_.
 ```
+
+Las inteligencias artificiales son un elemento muy importante en esta ambientación al girar casi sus los elementos alrededor de las dos IA directoras, la bondadosa R1c4rd y la malvada J0hn. Pero hay otras IA con sus historias y su importancia en la historia como Al1enOR, Alfonse o Baris, todas ellas con su idiosincrasia y su historia para meterlas en tus aventuras. 
 
 xxx
 
@@ -1780,11 +1799,11 @@ xxx
 
 Las IA dedicadas avanzadas son IA más avanzadas que las anteriores, pero siguen trabajando sobre un solo elemento. Una IA dedicada avanzada podría no solo gestionar los ascensores, sino también prever posibles aglomeraciones por información que recibe como eventos deportivos y buscar soluciones.
 
+\sp
+
 Siguiendo con IA médica anterior, una IA dedicada avanzada médica podría diagnosticar muchos tipos de enfermedades y también dar tratamientos más adecuados.
 
 xxx
-
-\sp
 
 ### IA polivalentes
 
@@ -1830,7 +1849,7 @@ xxx
 
 ### Nanotecnología y seres vivos
 
-Un hecho importante a tener en cuenta es que los nanitos no entienden a los seres vivos y por eso su uso en medicina y biología es muy complicado. NO tienen problemas al crear complejas estructuras metálicas o plásticas, pero la biología y sus constantes cambios se les hacen muy difícil. Es por ello que no entienden el dolor ni los sentimientos y estados de ánimo. Por ejemplo, no pueden ser programados para que funcionen en un ente biológico sin provocar dolor, ya que para ellos el dolor es otra señal más del cuerpo del sistema nervioso.
+Un hecho importante a tener en cuenta es que los nanitos no entienden a los seres vivos y por eso su uso en medicina y biología es muy complicado. No tienen problemas al crear complejas estructuras metálicas o plásticas, pero la biología y sus constantes cambios se les hacen muy difícil. Es por ello que no entienden el dolor ni los sentimientos y estados de ánimo. Por ejemplo, no pueden ser programados para que funcionen en un ente biológico sin provocar dolor, ya que para ellos el dolor es otra señal más del cuerpo del sistema nervioso.
 
 Por decirlo de forma sencilla, cuando construyen una casa, la casa no se queja, ni está todo el rato moviéndose y cambiando de tamaño y forma y si lo hace es dentro de un entorno controlable. 
 
