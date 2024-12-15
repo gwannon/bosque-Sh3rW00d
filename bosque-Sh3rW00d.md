@@ -258,9 +258,23 @@ Quizás lo más interesante gastronómicamente hablando de toda la arcología es
  
 ### Religiones y sectas
 
-Al obtener la concesión de Nottingham, la compañía firmo muchos temas legales y uno de ellos fue respetar la libertad de credo y religión de los _notis_. En la teoría no puede discriminar por temas religiosos, pero en la práctica hay ciertas creencias religiosas que le resultan peligrosas como el culto a les instaladores que persigue (de forma oculta) y trata de hacer desaparecer. 
+Al obtener la concesión de Nottingham, la compañía firmo muchos temas legales y uno de ellos fue respetar la libertad de credo y religión de los _notis_. En la teoría no puede discriminar por temas religiosos, pero en la práctica hay ciertas creencias religiosas que le resultan peligrosas como el culto a les instaladores que persigue (de forma oculta) y trata de hacerlo desaparecer. 
 
-xxx
+#### El culto a les instaladores 
+
+Les seguidores de esta fe consideran a les instaladores como unos seres superiores y casi mágicos que desaparecieron por culpa de los pecados de los _notis_ y que ahora están expiandolos con todo el dolor y sufrimiento que sufren los habitantes del ciomplejo. Según su credo, cuando se hayan pagados todos los pecados les instaladores volverán para arreglar todo lo que está mal en el complejo y poder vivir un paraiso en la tierra.
+
+Ser parte del culto no es un delito, pero si J0hn descubre que lo eres, tratará de acabar contigo, bien metiendote en la carcel de alguna manera, incluso poco legal, o haciendote que acabes en el bosque como une proscrite. Es por esto que gran parte de la población del bosque creen en les instaladores.
+
+La **vertiente más radical y fanática del culto a les instaladores son les buscadores de la contraseña de SU** que creen que les instaladores dejaron en alguna parte una contraseña de superusuarie o _password de root_ que al usarla convertira a les buscadores en instaladores y activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
+
+\sp
+
+Para entender mejor esta religión debes pensar en ella siguiendo las estas ideas.
+
+1. Les **instaladores son una especie de druidas**. Misteriosos, enigmaticos, mágicos y sabios. Mientras elles estuvieron trabajando en el complejo fue una epoca de bien y progeso.
+2. Les **buscadores son una especie de buscadores del grial** que creen que cuando lo encuentren el bien y la paz reinará en el congreso.
+3. La **directora J0hn y la compañia serían los cristianos** tratando de acabar con las viejas creencias. 
 
 ### Fiestas, celebraciones y otros eventos
 
@@ -276,15 +290,15 @@ De hecho hay tradición de besarte con tu pareja cuando se va a producir el Glit
 
 Los locales de comida de todo el complejo ponen puestos de comida para disfrute de los paladares de les _notis_. Curiosamente, mientras que los locales más humildes suelen poner precios populares para sus clientes, los de alta gama suelen cobrar más de lo normal.
 
-\sp
-
 > La realidad de este festival es tapar el auténtico festival de la primera piedra que celebran los _boskis_ en conmemoración de la creación del primer asentamiento _boski_ en el Gran Roble. El ruido que montaban era tal que se colaba por todo el complejo amplificado por los conductos y tubos que hay por todas partes.
 
-El punto fuerte del festival es un concurso de disparo con tirachinas con un suculento premio 5000 $ y el título de Cazadore. Les participantes compiten entre sí hasta un encuentro final entre les supervivientes de las rondas anteriores. La directora J0hn siempre presenta une participante que va con los colores de la compañía y que normalmente suele ganar, pero no siempre.
+El punto fuerte del festival es un concurso de disparo con tirachinas con un suculento premio 5.000 $ y el título de Cazadore. Les participantes compiten entre sí hasta un encuentro final entre les supervivientes de las rondas anteriores. La directora J0hn siempre presenta une participante que va con los colores de la compañía y que normalmente suele ganar, pero no siempre.
 
 Pero la actividad preferida de les niñes del complejo es la de atrapar el robot comadreja. Se celebra cerca de los dólmenes donde se cerca una zona para que la comadreja no se escape. Se la envuelve en papel de burbuja y se le unta en grasa. Les niñes deben atraparlo y le niñe que lo retenga 5 segundos gana y recibe el título de _Cazadore junior_ hasta el próximo año.
 
 > El juego está trucado y cuando lo atrapa une hije de _blus_ o _influencers_, desconectan el robot para que sea fácil ganar. Hace años que no gana ningune niñe _curri_.
+
+\sp
 
 #### Fét Gede
 
@@ -302,8 +316,6 @@ El deporte se ha adaptado a la vida en la arcología gracias a las últimas tecn
 
 El hockey de pasillo es el rey de los deportes en Nottingham. Es un hockey sobre hierba adaptado a 3 jugadores al interior del complejo.
 
-\sp
-
 Se juega en recintos cerrados como pasillos y galerías en equipos de 4 (parabol, pasabol, lanzabol y un suplente). Cada encuentro dura 5 rondas de 7 minutos.
 
 Gana el equipo que más goles meta o el que consigue marcar en 3 rondas seguidas sin que su oponente le marque (llamado en el argot deportivo "baño").
@@ -317,6 +329,8 @@ En los partidos oficiales de liga se elige al azar el campo de entre todos los c
 Los partidos son retransmitidos a través de las cámaras de vigilancia del pasillo. Se cierran todos los accesos al pasillo, excepto para personal sanitario y los suplentes.
 
 Debido al poco espacio del campo, los partidos son arbitrados desde fuera usando las imágenes de las cámaras de seguridad y hablando por los altavoces. Por la misma razón, los entrenadores, si se tienen, siguen el partido por las cámaras de seguridad y dan las órdenes también por la megafonía.
+
+\sp
 
 El juego es más de habilidad para moverse entre espacios pequeños, de saber mover la bola y aprovechar los rebotes que de fuerza física, ya que no hay espacio para golpear a tu contrincante con el stick o para coger carrerilla.
 
@@ -333,8 +347,6 @@ El hockey de pasillo atrae muchas apuestas ilegales controladas por las mafias y
 
 **Semilla de aventura:** Un pequeño equipo de hockey de pasillo ha dado el campanazo este año, pueden hasta ganar la liga. Pero necesitan guardaespaldas que les protejan, ya que hay gente que quiere impedir que lleguen a la final.
 
-\sp
-
 ### Títulos nobiliarios
 
 Los títulos nobiliarios, principalmente **_lord_, _lady_ y _liege_**, son algo que impuso en su tiempo la directora R1c4rd como una forma de destacar a la gente que había hecho grandes cosas por la comunidad de Nottingham o había destacado en algún ámbito de la cultura, la sociedad y/o la ciencia.
@@ -346,6 +358,8 @@ Cuando J0hn accedió al poder trato de quitar esta costumbre, pero le resultó m
 Así que tomó el camino fácil, no otorgar ningún título a nadie más, esperando que así se dejara de usar y terminara desapareciendo. El problema es que R1c4rd lo dejo como algo hereditario y cuando murió la primera persona con título nobiliario, un proceso del sistema censal le **otorgo el título a su primogenite automáticamente**.
 
 > En partida la forma de tener título nobiliario sería escogiendo la ventaja Alcurnia. Pero recuerda que puedes perderlo si te conviertes es une forajide. 
+
+\sp
 
 Como curiosidad, los sistemas de puertas automáticas fueron modificados por la directora R1c4rd para decir tu título al entrar y salir. Esto, a lo largo de los años, ha generalizado el uso de los títulos nobiliarios entre los habitantes de la arcología.
 
@@ -361,8 +375,6 @@ Las operaciones de cambio sexo son tan comunes y normales como muchas operacione
 
 **Intentar cambiar esto es ir en contra del espíritu de la ambientación.**
 
-\sp
-
 Para la directora J0hn, como némesis principal de tu banda de proscrites, todos estos temas de género y sexualidad no son relevantes, digamos que solo se interesa por los habitantes como unidades productivas y fiscales y, por tanto, las casillas de preferencias sexuales y género son más una curiosidad más que algo que usar para discriminar. 
 
 La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las culpas y encauzar el odio de los _notis_ y no necesita ninguna otra minoría para sus planes de control de la arcología.
@@ -372,8 +384,6 @@ La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las
 ### Duelos
 
 xxx
-
-\sc
 
 \sp
 
@@ -685,8 +695,6 @@ A no ser que quieras darle un toque paranormal, **Ocultismo desaparece** de las 
 
 Aun así recuerda que por ejemplo en la trilogía de Sprawl de William Gibson, el vudú estaba integrado dentro de las creencias de los ciberjinetes. Puede que en lo más profundo de la red haya espíritus y otros seres que la informática no pueda explicar. 
 
-\sc
-
 [![HeadShots By Fernand0FC](./assests/images/headshots_by_fernand0fc_dcay9wx-fullview.jpg "HeadShots By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/HeadShots-743989425 "HeadShots By Fernand0FC")
 
 ### Espacios cerrados
@@ -713,13 +721,14 @@ Los secretos es algo muy común entre les personajes de las historias de Robin H
 
 > Tode personaje debe **tener un Secreto (mayor o menor)** entre sus desventajas.
 
-\sc
-
 ### Ciberimplantes
 
 Los ciberimplantes son algo común entre les _notis_, sobre todo desde que la compañía ofrece implantes gratis para mejorar tu productividad. La compañía solo financia implantes legales y que estén relacionados con la profesión de su empleade.
 
 > Opcionalmente, puedes tener un **implante cualquier tipo, pero solo de valor 1 y legal**.
+
+
+[![Fork Bomb (one dark) By fuzzyfox0](./assests/images/fork_bomb__one_dark__by_fuzzyfox0_dbhsi7i-fullview.jpg "Fork Bomb (one dark) By fuzzyfox0")](https://www.deviantart.com/fuzzyfox0/art/Fork-Bomb-one-dark-695011374 "Fork Bomb (one dark) By fuzzyfox0")
 
 ### Hackeos de les instaladores
 
@@ -756,8 +765,6 @@ Te mueves rápide y nunca estás mucho tiempo quiete en un mismo sitio. Por así
 ### Buscadore
 
 Les buscadores son un grupo de personas que creen en un mundo mejor y han jurado conseguirlo.
-
-\sc
 
 Según sus creencias, les instaladores dejaron en alguna parte un password de _superusuarie_ que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
 
@@ -875,8 +882,6 @@ A diferencia de Supervivencia, no se puede usar para seguir rastros, ya que en t
 
 En persecuciones, en cada ronda puedes gastar tu acción para buscar la mejor ruta tirando Pasillear. Un éxito en la tirada supone un +1 a las tiradas de maniobras de tu conductor. Solo une pasajere puede realizar esta acción por ronda. 
 
-\sc
-
 ### Idiomas
 
 En la arcología de Nottingham se habla principalmente inglés, pero hay pequeños grupos que mantienen sus propios idiomas.
@@ -912,8 +917,6 @@ Mientras que la ventaja Rique/Extremadamente Rique te ofrecen riquezas, tienen e
 Alijos te ofrece esa riqueza al otro lado de la ley. Tienes grandes cantidades de dinero en forma de alijos pueden ser objetos de valor, cupones de trueques, etc. Lo más importante es que es dinero que no está controlado por la empresa y se puede usar en actividades que no controla la compañía y/o de carácter ilegal.
 
 > **Alijos funciona como Rique** salvo que solo se puede usar en temas ilegales o cuando no se quiera que las transacciones comerciales sean rastreables.
-
-\sc
 
 [![ERROR By mindofjen](./assests/images/error_by_mindofjen_daaw03e-375w-2x.png "ERROR By mindofjen")](https://www.deviantart.com/mindofjen/art/ERROR-622951034 "ERROR By mindofjen")
 
@@ -1238,8 +1241,6 @@ A priori, puede parecer que gastar un avance para controlar un ascensor es muy c
 
 Salvo que el hackeo diga lo contrario, **todos necesitan una tirada de Electrónica**. Si se pasa se consigue uno de los posibles efectos del hackeo. No se pueden ejecutar varios hackeos a la vez sobre el mismo sistema, solo un efecto estará activo, aquel con la tirada de Electrónica más alta.
 
-\sc
-
 Los hackeos son muy rápidos de realizar, por ello **solo necesitan una acción**. Salvo que el hackeo diga otra cosa, la **duración es de 4 turnos**. Puedes gastar avances para conseguir otros 4 turnos extras.
 
 Una persona que conozca el mismo hackeo podrá **desactivarlo haciendo una tirada de Electrónica**. La dificultad es la tirada de Electrónica del que ejecutó el hackeo.
@@ -1424,7 +1425,7 @@ xxx
 
 ### Clave de superusuarie
 
-**Requisitos:** Legendario
+**Requisitos:** Legendario, Especial
 
 **Jerga:** Código konami, 777
 
@@ -2357,8 +2358,6 @@ Un día vas a tu trabajo y de repente a la entrada de tu turboascensor hay graba
 
 Durante una semana está en ese sitio y de vez en cuando algún niñe se pone a jugar hasta que un día desaparece tal como apareció. Al cabo de unas semanas encuentras otra rayuela de unicornios en un pasillo de servicio que vuelve a desaparecer al de unos días, así en un ciclo infinito.
 
-\sc
-
 Esta rayuela es conocida por les pillueles de la calle como la rayuela fantasma y corren todo tipo de leyendas. Sin embargo, ninguna acierta con la realidad, **la rayuela la crea y la destruye un grupo de nanitos.** Lo lleva haciendo así desde la desaparición de les instaladores. Su última tarea era crear una rayuela en un parque infantil y no le dieron la orden de parar, con lo que lleva siglo y medio creando rayuelas con motivos infantiles y borrándolas al no recibir el "ok" de sus amos. Con el tiempo su programación les ha dicho que se movieran por todo el complejo, que igual no conseguían el visto bueno porque se habían equivocado de lugar.
 
 La zona de trabajo de este grupo de nanitos es la Zona Baja, pero han empezado a aparecer en la Zona Media y a empezar a llamar la atención. Como son cosas de niñes a nadie le preocupan, por ahora.
@@ -2382,8 +2381,6 @@ Con los años ha habido gente que ha pasado de montar el mercadillo para deshace
 Como en casi todos estos eventos de carácter social **han empezado a venir _influencers_** a hacer reels de esta costumbre de la gente humilde de la Zona Baja. El problema es que están afectando al orden natural del mercado al pagar mucho dinero por cosas que no lo valen o acaparando toda la producción de un producto, **subiendo su precio y haciendo que no sean accesibles a los bolsillos más pobres**.
 
 Hace años las _fantarinas_ se compraban por otras frutas pieza por pieza. Desde que se pusieron de moda en cócteles de lujo, su precio ronda 1 a 7. Y como las _fantarinas_ hay cada vez más productos de primera necesidad cuyo precio está ahora desorbitado por la acción de las clases altas.
-
-\sc
 
 > Durante las noches de mercadillo se puede tirar Pasillear para encontrar cualquier tipo de producto a un 40/50% de su precio real. Como DJ puedes añadir negativos a la tirada para encontrar artículos más difíciles de localizar o escasos.
 
@@ -2429,8 +2426,6 @@ Aunque los enterramientos están prohibidos en la arcología y solo se permite l
 
 Con los años una de estas zonas comunales ha tomado más importancia que el resto y se le conoce como el cementerio haitiano. Todo empezó cuando una anciana dejo en su testamento que sus cenizas quedarán donde murió su esposa años antes en un accidente de trabajo. En esa zona, aprovechando un hueco para unos extintores (hace años robados), su hijo dejó la biocápsula de las cenizas.
 
-\sc
-
 A esa primera urna, le fueron siguiendo más y se fue creando una especie fondo común de donaciones (dinero que dejaban los difuntos para su funeral) con el que la comunidad haitiana fue comprando habitáculos anexos donde meter más cápsulas.
 
 Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas no descendientes de haitianos han empezado a dejar las cenizas de sus muertes. Cada una de ellas decoradas en la tradición de los muertos _almacenados_ allí. Se empiezan a ver zonas parecidas a santuarios _sinto_ y minicapillas a dioses hindúes.
@@ -2456,8 +2451,6 @@ Piénsalo, si vas a dar un golpe no es mala idea que Noc revise y ponga a punto 
 De hecho, Noc es un acumulador que pasa la mayoría de su tiempo libre **recogiendo equipo mecánico y electrónico desechado y almacenándolo en su taller**. Lleva muchos años haciéndolo y tiene mucho material viejo y obsoleto del que se resiste a deshacerse "por si alguna vez sirviera para algo".
 
 > Si tu banda en algún momento busca equipo retro, Noc es la persona con la que debes hablar. Otra cosa es que consiga que te lo venda o te lo preste.
-
-\sc
 
 Hay varios objetos que no saben para qué son realmente y que guarda como un gran tesoro. Si alguien los llevará a la bruja del bosque, esta **los identificaría como tecnología de les instaladores**. 
 
@@ -2704,8 +2697,6 @@ En unos días el virus estaba desactivado y todo el sistema limpio, pero la nuev
 
 Desde fuera para los profanos, Cr4c|&lt; Café es un sitio pésimamente decorado con un café de algas pésimo y gente con pintas extrañas mirando pantallas y de vez en cuando riéndose sin ninguna razón aparente.
 
-\sc
-
 Como es de esperar, **la clientela es principalmente programadores y hackers que vienen aquí a desahogarse de sus estresantes trabajos**. Aunque parezca un sinsentido desestresarse de tu trabajo de programación programando, pero es una actividad totalmente improductiva donde se programa por el placer de programar.
 
 > Si necesitas une **genie de la informática Cr4c|&lt; Café es el sitio donde buscarlo**. Pad puede presentarte a alguno de los clientes y claro se lleva una buena propina por ello.
@@ -2816,8 +2807,6 @@ Este elegante local con unas 10 mesas bajas y con 2 sillones por mesa está llen
 
 Hace unos años Café Corta fue denunciado por robo de propiedad intelectual del método de producción de café. Café Corta consiguió ganar este largo litigio y ahora mismo ostenta los derechos totales de cualquier procedimiento que haga que las algas produzcan cafeína. 
 
-\sc
-
 Esto les asegura que serán los únicos productores de café natural a gran escala en Nottingham.
 
 Y si no puedes permitirte el café de Corta, siempre puedes ponerte tu planta de café en tu casa con un sistema hidropónico y disfrutarlo tranquilamente en tu habitáculo vivienda.
@@ -2843,8 +2832,6 @@ Ahora mismo **es capaz de deducir que va a hacer un cliente con un par de visita
 [![Yellow coffee By gigiEDT](./assests/images/yellow_coffee__by_gigiedt_de7ghzd-fullview.jpg "Yellow coffee By gigiEDT")](https://www.deviantart.com/gigiedt/art/Yellow-coffee-859053577 "Yellow coffee By gigiEDT")
 
 En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a partir de charlas intrascendentes con _blus_**, si no fuera porque hacer el mejor café del complejo le quita mucho poder de procesamiento.
-
-\sc
 
 * **Atributos:** Astucia d8, Espíritu d8
 * **Habilidades:** Conocimientos generales d12+4, Humanidades d6, Investigar d8, Notar d6, Persuadir d8
@@ -2888,7 +2875,7 @@ Con cada ola de gente que huía del complejo y de R1c4rd la comunidad iba crecie
 
 Las casas están creadas de plásticos reciclados y materiales que se encuentran en el bosque que les instaladores dejaron, pero nunca llegaron a usar. Además, todo es reciclado y muy pocos productos se tiran. Si se rompe algo, alguien te lo repara o lo recicla para crear otro objeto útil.
 
-La población actual del GR es de unos 5000 _boskis_ y hay gente llegando todos los días. De hecho, han empezado a crearse nuevas comunidades en zonas cercanas aprovechando otras columnas de carga. 
+La población actual del GR es de unos 5.000 _boskis_ y hay gente llegando todos los días. De hecho, han empezado a crearse nuevas comunidades en zonas cercanas aprovechando otras columnas de carga. 
 
 En GR puede encontrar de todo lo básico para vivir decentemente, alimentación, servicios sanitarios y cuidados, educación e incluso ocio. R1c4rd se ha encargado de hacer que gente de toda condición y educación haya tenido que huir al bosque.
 
