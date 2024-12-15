@@ -17,14 +17,14 @@ Pero recuerda, lo más importante es **robar a les riques para repartirlo entre 
 \conc
 
 ```
-xxx
+Bosque Sh3rW00d te ofrece una ambientación ciberpunk, ultima tecnología en un mundo roto donde unes poques explotan a muches, mezclada con muchos elementos genéricos de la Edad Media.
 ```
 
-xxx
+En estas aventuras **tu mesa tomará el papel de proscrites y bandides de buen corazón** y que creen más en la justicia que la ley. Y es por eso roban a les riques para darselos a les pobres.
 
 ### Nottingham
 
-Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. xxx
+Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. Aunque, a priori pueda parecer un lugar donde vivir, es más bien una inmensa f+ábrica donde la compañia exprime todo lo que puede a sus habitantes.
 
 xxx
 
@@ -34,13 +34,13 @@ El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcol
 
 xxx
 
+\sp
+
 ### Las directoras
 
 Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. xxx
 
 xxx
-
-\sp
 
 #### Directora J0hn y sus sheriffs
 
@@ -160,7 +160,7 @@ A todos estos teletrabajadores se les llama en argot pijameres, por la broma de 
 
 En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
 
-Pueden trabajar para algunas de los miles de minifábricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
+Pueden trabajar para algunas de entte los miles de minifábricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
 
 Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
@@ -1109,9 +1109,9 @@ Se cuenta que los primeros en usar las pistolas de clavos como armas fueron les 
 
 De hecho existe un dicho sobre este tema "Eres más viejo que matar ratas con una pistola de clavos". También se usa mucho en jerga "pásame la matarratas" para referirse a la pistola de clavos.
 
-Estás pistolas, usadas principalmente por la gente de mantenimiento en su día a día se han convertido en una arma muy  usada por criminales y proscrites. Principalmente porque tienen una gran capacidad de hacer daño sobre todo en distancias cortas y su munición es fácil de hacer y difícilmente detectable.
+Estás pistolas, usadas principalmente por la gente de mantenimiento en su día a día se han convertido en una arma muy usada por criminales y proscrites. Principalmente porque tienen una gran capacidad de hacer daño sobre todo en distancias cortas y su munición es fácil de hacer y difícilmente detectable.
 
-La compañía ha tratado de regular su venta, sin éxito ya que es una herramienta muy usada y necesaria en una estructura de 200 años que lleva décadas sin un mantenimiento adecuado. Además su funcionamiento es muy sencillo y son fácilmente reparables.
+La compañía ha tratado de regular su venta, sin éxito, ya que es una herramienta muy usada y necesaria en una estructura de 200 años que lleva décadas sin un mantenimiento adecuado. Además su funcionamiento es muy sencillo y son fácilmente reparables.
 
 #### Cóctel molotov
 
@@ -2875,6 +2875,8 @@ Con cada ola de gente que huía del complejo y de R1c4rd la comunidad iba crecie
 
 Las casas están creadas de plásticos reciclados y materiales que se encuentran en el bosque que les instaladores dejaron, pero nunca llegaron a usar. Además, todo es reciclado y muy pocos productos se tiran. Si se rompe algo, alguien te lo repara o lo recicla para crear otro objeto útil.
 
+Lo curioso es que el tiempo, los nanitos de la zona cubren estas casetas de material organico dandole el aspecto de casa de madera y techo de paja que tienen las más antiguas.
+
 La población actual del GR es de unos 5.000 _boskis_ y hay gente llegando todos los días. De hecho, han empezado a crearse nuevas comunidades en zonas cercanas aprovechando otras columnas de carga. 
 
 En GR puede encontrar de todo lo básico para vivir decentemente, alimentación, servicios sanitarios y cuidados, educación e incluso ocio. R1c4rd se ha encargado de hacer que gente de toda condición y educación haya tenido que huir al bosque.
@@ -2887,11 +2889,11 @@ Mientras que todo es bosque esta siempre es penumbra gracias a la iluminación b
 
 Les encargades de vigilar y mantener las luces son conocides como farares y tienen la ventaja de poder vivir en unas estancias colgantes cerca de las potentes luces.
 
+\sp
+
 #### El punto
 
 El punto es una zona libre en uno de los laterales de la columna principal donde se reúnen los _boskis_ para dialogar y tratar comunitarios. Es una zona pintada de verde en forma circular donde puede haber unas 200/250 personas sin apretujarse mucho.
-
-\sp
 
 Aquí se presentan problemas todas las semanas después del mercado y se vota a la persona que decidirá la solución al problema.
 
@@ -2919,11 +2921,11 @@ En un lado apartado del mercado se hacen donaciones de excedentes y un par de pe
 
 En lo más profundo de Bosque Sh3rW00d hay una choza de planchas irregulares de diferentes polímeros y cristal, que le dan un aspecto fantasmagórico.  Les _boskis_ lo llaman el refugio de la bruja y no suelen acercarse salvo que necesiten los servicios tecnológicos de la bruja. 
 
+\sp
+
 Hay colgando de diferentes partes de la choza carillones de viento hechos de materiales reciclados que emiten extraños sonidos acentuando el ambiente terrorífico del lugar. Lo curioso es que no se mueven porque no hay nunca viento.
 
 Todes en el bosque saben que **Harriette la bruja** es la persona con la que hablar cuando tienes que **reparar algún objeto electrónico, reprogramar un robot, hackear algún aparato u obtener _oscuros_ conocimientos informáticos**.  
-
-\sp
 
 El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos, comida, bebida, vídeos recreativos, etc.) y lo que quieres que haga y el equipo necesario y vuelves en un par de días. Si la ofrenda no está, es que acepta tu trato y ha realizado la tarea. Donde dejaste la ofrenda tendrás el código del programa que le pediste, la unidad de almacenamiento con los datos hackeados, etc. 
 
@@ -2941,19 +2943,17 @@ Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superi
 
 Alrededor de la casa de la bruja puedes encontrar robots en _modo encantado_ que se dedican a dar vueltas alrededor de la casa limpiando el bosque y defendiéndolo en caso de ataque. Da lo mismo que sean simples robots comadreja o pesados robots de carga y trabajo. 
 
+\sp
+
 Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos de la instaladora y reprogramado pudiendo hacer unas pocas funciones de defensa y limpieza e impidiéndoles comunicarse con sus dueños o abandonar la zona. **Portar armas o actuar de forma violenta** dentro de la zona de seguridad del refugio, supone que **los robots atacarán sin cuartel** a les intruses.
 
 > Basado en una idea de [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
-
-\sp
 
 ### RLN (Radio libre de Nottingham)
 
 La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un pódcast que de una radio tradicional.
 
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
-
-[![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
 Cuando no está despotricando de la directora J0hn puede estar haciendo cualquier cosa, desde dar una receta de _plumcake_ o leer poesía, hasta explicar física cuántica o estar una hora haciendo ruidos de pedos o hablando solo con la "i".
 
@@ -2967,19 +2967,19 @@ Sin embargo, en pocos días aparecen nuevos para sustituir a los destruidos, ya 
 
 Alfonse acepta preguntas en directo de todo tipo y las respuestas suelen ser bastante acertadas y sensatas, lo que le he convertido es una especie de consejero o coach para mucha gente que le va con sus problemas en busca de consejo.
 
-\sp
-
-> Puedes usar a Alfonse como una especie de oráculo para cuando tu banda se pierda y no sepa como seguir, pero recuérdales que este debería ser su último recurso. Si tu banda está cerca de un wifi (algo a tu elección como DJ) pueden conectarse e intentar entrar en contacto con Alfonse y preguntarle algo. El que vaya a preguntar deberá **gastar todos sus benis, mínimo 1, para conseguir entrar en antena y poder preguntar**. Cómo DJ podrás responderles a su pregunta y darles una pista para continuar su aventura.
-
 Corren rumores sobre quien es Alfonse. Desde que son varias personas que se turnan para hacer el programa hasta que es une instaladore que se quedó en el complejo. La realidad es que **Alfonse es una IA al nivel de las directoras**, exactamente un _fork_ muy joven de la directora R1c4rd.
 
+\sp
+
 Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma base que el original, pero a partir de la copia se desarrolla independientemente y tiene su propia programación. Alfonse podría ser una **pieza fundamental en la caída de J0hn y el regreso de R1c4rd**.
+
+> Puedes usar a Alfonse como una especie de oráculo para cuando tu banda se pierda y no sepa como seguir, pero recuérdales que este debería ser su último recurso. Si tu banda está cerca de un wifi (algo a tu elección como DJ) pueden conectarse e intentar entrar en contacto con Alfonse y preguntarle algo. El que vaya a preguntar deberá **gastar todos sus benis, mínimo 1, para conseguir entrar en antena y poder preguntar**. Cómo DJ podrás responderles a su pregunta y darles una pista para continuar su aventura.
 
 ### Greenhouse
 
 Zeyaur Khan construyó hace ya unos años esta especie de invernadero en lo profundo del bosque, tras problemas legales en el complejo de Nottingham. Había encontrado la forma de hacer que un par de variedad de algas crearan cafeína como parte de sus defensas químicas.
 
-[![Gardening by freepik](./assests/images/gardening.jpg "Gardening by freepik")](https://www.freepik.com/free-photo/gardening_3580401.htm "Digital Gardening by freepik")
+
 
 Corta Café empezó comprándole café a un buen precio, pero decidió que robarle el proceso de hacer café era más rentable. Zeyaur denunció el robo de propiedad intelectual, pero perdió el caso. Para evitarse problemas huyo al bosque y montó su laboratorio en forma de invernadero.
 
@@ -2987,13 +2987,15 @@ Todo lo que Zeyaur produce en el invernadero lo vende a los _boskis_ y con ello 
 
 Es importante destacar que el invernadero está debajo de una especie de chimenea de varios cientos de metros de altura y unos 5 metros de diámetro que da directamente al cielo. 
 
-Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
+[![Gardening by freepik](./assests/images/gardening.jpg "Gardening by freepik")](https://www.freepik.com/free-photo/gardening_3580401.htm "Digital Gardening by freepik")
 
-\sp
+Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
 
 > La primera vez que tu banda reciba auténtica luz del día, dales un beni. A veces las cosas sencillas son las más importantes.
 
 Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimientos científicos y sobre ordenadores.
+
+\sp
 
 > Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200 $ a la semana** como sueldo.
 
@@ -3348,7 +3350,7 @@ xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-> **Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** Se lo más bruta posible, erupta, escupe, bebe y grita. Las normas sociales de civismo son para les demás, tú no tienes tiempo para preocupartes por esas chorradas.
 
 \sp
 
@@ -3662,14 +3664,11 @@ Aquí tienes algunas herramientas de seguridad que puedes usar: [DEVIR](https://
 
 ### Relaciones sexo-afectivas
 
-Las vidas sentimentales y sexuales de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. 
+Las vidas sentimentales y sexuales de les personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese.
 
 Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí.
 
 Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
-
-### Participar en el proyecto
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
 ### Lenguaje inclusivo
 
@@ -3679,11 +3678,17 @@ Las lenguas evolucionan y en 200 años en el futuro porque no iba a haberse impu
 
 Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el lenguaje inclusivo. Espero que os escueza cada "e" y no paséis de la primera página. Sinceramente, no os quiero ni en mi juego ni en mi mesa. 
 
-\sp
-
 ### ¿Por qué Savage Worlds?
 
-Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento. Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
+Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento.
+
+\sp
+
+Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
+
+### Participar en el proyecto
+
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
 \sc
 
