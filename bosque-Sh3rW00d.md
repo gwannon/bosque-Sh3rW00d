@@ -759,7 +759,7 @@ Les buscadores son un grupo de personas que creen en un mundo mejor y han jurado
 
 \sc
 
-Según sus creencias, les instaladores dejaron en alguna parte un password de _superusuario_ que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
+Según sus creencias, les instaladores dejaron en alguna parte un password de _superusuarie_ que al usarlo activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
 
 No tienes por qué creerte todo ese rollo, pero igual estás segure de que hay algo escondido en la arcología que vuelva a poner las cosas a como estaban con la directora R1c4rd. 
 
@@ -1167,10 +1167,6 @@ A efectos prácticos, tienen las estadísticas del libro básico de SWAE, pero p
 
 ### Protecciones
 
-|PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
-|---|---|---|---|---|---|
-|Equipamiento de hockey de pasillo|Peto, brazos y piernas|+2|d6|5|250|
-
 \conc
 
 Las protecciones **son algo raro en Nottingham**, tenemos ropa de sintecuero que pueden dar algo de protección, pero el kevlar y otros tejidos ablativos son raros porque no se fabrican y la compañía no los importa.
@@ -1181,21 +1177,26 @@ En general **conseguir más de 4 puntos de protección tendría que ser muy raro
 
 El equipamiento de hockey de pasillo (peto con hombreras, rodilleras, coderas, casco y brazales) puede usarse como protecciones en combate y son totalmente legales. 
 
+\sinc
+
+|PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
+|---|---|---|---|---|---|
+|Protecciones de hockey de pasillo|Peto, brazos y piernas|+2|d6|5|250|
+|Casco con visor de rejilla de hockey de pasillo|Cabeza|+2|d6|1.5|95|
+
+\conc
+
 \sp
 
 \sinc
 
 ### Transporte y comunicación
 
-|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
-|--------|------|----|--|------|-----|-----|
-|Roller skates|-4|+2|32 km/h|4|1|
-|Skateboard|-3|+1|30 km/h|4|1|
-|E-bike|-1|+1|35 km/h|5|1+1|
-
 \conc
 
 Andar es la forma más normal para moverse por el complejo usando escaleras mecánicas, montacargas y turboascensores, pero si quieres moverte más puedes recurrir a patines en línea, skateboards y bicicletas eléctricas. Aunque su uso exige una buena habilidad para saltar obstáculos, bajar y subir escaleras, deslizarse por rampas, etc.
+
+[![Rollerblade By HikaReki](./assests/images/rollerblade_by_hikareki_daqfvo6-414w-2x.jpg "Rollerblade By HikaReki")](https://www.deviantart.com/hikareki/art/Rollerblade-649072662 "Rollerblade By HikaReki")
 
 #### Monturas: Roller skates, skateboards y e-bikes
 
@@ -1206,6 +1207,16 @@ Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Con
 Los rollers cuestan dos acciones ponérselos y otra quitárselos, pero puedes intentar **quitártelos como acción gratuita con una tirada de Atletismo**. Si fallas la tirada acabas tirado en el suelo y tardas 2 acciones en quitártelos.
 
 Las ventajas **Parkour y Acrobacias puedes aplicarlas cuando usas rollers, skates y bicis**, si tienes la habilidad de conducción adecuada.
+
+\sinc
+
+|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
+|--------|------|----|--|------|-----|-----|
+|Roller skates|-4|+2|32 km/h|4|1|
+|Skateboard|-3|+1|30 km/h|4|1|
+|E-bike|-1|+1|35 km/h|5|1+1|
+
+\conc
 
 \sp
 
@@ -1411,17 +1422,23 @@ xxx
 * xxx
 * xxx
 
-\sc
-
-### Código Konami
+### Clave de superusuarie
 
 **Requisitos:** Legendario
 
-**Jerga:** xxx
+**Jerga:** Código konami, 777
 
 ![](./assests/images/codigo-konami.png)
 
-xxx
+La clave de superusuarie o clave SU es un hackeo legendario que solo conocían les instaladores y que se cree que se perdió con su marcha.
+
+De alguna manera desconocida (y a discreción de ti como DJ) te registras en el sistema del complejo y te identificas como superusuarie. Según les buscadores debía ser algún tipo ceremonia secreta con muchos elementos programáticos. Aunque igual era una simple entrada en una tabla de una base de datos perdida entre los miles  de datos y ficheros que manejan los miles de sistemas del complejo.
+
+Te permite hacer todo lo que marcan los **hackeos anteriores con un bono de +4** y solo otra persona con este hackeo puede deshacer tu hackeo.
+
+Por ejemplo, si como superusuarie desactivas una puerta automática solo volverá a funcionar si otro superusuarie lo vuelve activar superando tu tirada de Electrónica o a malas reemplazando toda la puerta por una nueva.
+
+> Este hackeo debe ser enseñado por otro superusuarie y que se sepa solo les instaladores (y solo les de mayor nivel) lo conocían.
 
 \sp
 
@@ -1442,7 +1459,7 @@ xxx
 |Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|xxx|
 |Dominar puertas|Veterane, Controlar puertas|xxx|
 |Dominar vigilancia|Heróique, Controlar vigilancia|xxx|
-|Código Konami|Legendario|xxx|
+|Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 
 \conc
 
@@ -2444,7 +2461,7 @@ De hecho, Noc es un acumulador que pasa la mayoría de su tiempo libre **recogie
 
 Hay varios objetos que no saben para qué son realmente y que guarda como un gran tesoro. Si alguien los llevará a la bruja del bosque, esta **los identificaría como tecnología de les instaladores**. 
 
-Puedes usar estos aparatos como pistas iniciales de una aventura que busque encontrar a les instaladores o como parte de la trama de les buscadores del clave de superusuario.
+Puedes usar estos aparatos como pistas iniciales de una aventura que busque encontrar a les instaladores o como parte de la trama de les buscadores del clave de superusuarie.
 
 Cómo muchos artesanos de Nottingham busca une aprendice al que transmitir sus conocimientos. Mientras no te preocupe morir bajo una avalancha de cables y piezas de repuesto y te gusten las ebikes, puede ser una buena salida profesional.
 
@@ -3160,7 +3177,7 @@ xxx
 
 \sinc
 
-## 2ª Parte: La búsqueda de la clave de superusuario
+## 2ª Parte: La búsqueda de la clave de superusuarie
 
 \conc
 
@@ -3695,7 +3712,7 @@ Aquí tienes un listado de términos especiales usados en esta ambientación.
 * **Glitch de la mañana:** amanecer
 * **Glitch de la noche:** anochecer
 * **Notis:** ciudadanes que viven en la arcología Nottingham.
-* **Superusuario:** también llamado _root_, se refiere en un sistema informático a le usuarie más poderose con capacidades especiales.
+* **Superusuarie:** también llamado _root_, se refiere en un sistema informático a le usuarie más poderose con capacidades especiales.
 
 ## Agradecimientos
 
