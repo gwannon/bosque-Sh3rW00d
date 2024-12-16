@@ -70,11 +70,6 @@ La sociedad de la arcología de Nottingham **está dividida en 3 clases sociales
 
 [![Wesker By MonkeyMu](./assests/images/wesker_by_monkeymu_d4yu3vz-375w-2x.jpg "Wesker By MonkeyMu")](https://www.deviantart.com/monkeymu/art/Wesker-300376367 "Wesker By MonkeyMu")
 
-
-
-
-
-
 ### Blus (Nobleza)
 
 El termino _blus_ viene de "blue", azul. Los _blus_ eran trabajadores de alto nivel de la compañia que solián llevar el azul corporativo de la compañia frente a los marrones de los trabajadores de bajo nivel.
@@ -756,7 +751,6 @@ Los ciberimplantes son algo común entre les _notis_, sobre todo desde que la co
 
 > Opcionalmente, puedes tener un **implante cualquier tipo, pero solo de valor 1 y legal**.
 
-
 [![Fork Bomb (one dark) By fuzzyfox0](./assests/images/fork_bomb__one_dark__by_fuzzyfox0_dbhsi7i-fullview.jpg "Fork Bomb (one dark) By fuzzyfox0")](https://www.deviantart.com/fuzzyfox0/art/Fork-Bomb-one-dark-695011374 "Fork Bomb (one dark) By fuzzyfox0")
 
 ### Hackeos de les instaladores
@@ -1406,7 +1400,7 @@ xxx
 
 **Jerga:** xxx
 
-xxx 
+xxx
 
 El problema de este hackeo es que hay que hacerlo desde dentro del ascensor.
 
@@ -3040,8 +3034,6 @@ Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma
 
 Zeyaur Khan construyó hace ya unos años esta especie de invernadero en lo profundo del bosque, tras problemas legales en el complejo de Nottingham. Había encontrado la forma de hacer que un par de variedad de algas crearan cafeína como parte de sus defensas químicas.
 
-
-
 Corta Café empezó comprándole café a un buen precio, pero decidió que robarle el proceso de hacer café era más rentable. Zeyaur denunció el robo de propiedad intelectual, pero perdió el caso. Para evitarse problemas huyo al bosque y montó su laboratorio en forma de invernadero.
 
 Todo lo que Zeyaur produce en el invernadero lo vende a los _boskis_ y con ello sobrevive y consigue equipo y materiales. Todos los viernes, abandona el invernadero y va al Gran Roble a vender sus verduras hiperproteínicas, sus infusiones estimulantes y sus famosas algas cafeteras. Sus precios son económicos y puedes sacarle una buena cantidad de verduras si le ofreces equipo de laboratorio moderno y en buen estado.
@@ -3095,7 +3087,6 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 Mientras que la directora R1c4rd siempre respetó los consejos y sugerencias de Al1enOR tanto solicitados como no, J0hn trata de evitar como sea a Al1enOR. No se fía de ella para nada y considera que como mucha gente en Nottingham busca su caída y el regreso de R1c4rd.
 
 > Si consigues llamar su atención y que abandone su trabajo, podrás preguntarle sobre cualquier cosa de la historia del complejo y seguro que lo sabe.
-
 
 ### Moverse entre zonas
 
@@ -3686,7 +3677,6 @@ xxx
 \conc
 
 [![For Jess By GraffMX](./assests/images/for_jess_by_graffmx_d5qpxus-375w-2x.jpg "For Jess By GraffMX")](https://www.deviantart.com/graffmx/art/For-Jess-347211172 "For Jess By GraffMX")
-
 
 Al1enOR es la IA más antigua que hay en la arcología, mucho más antigua que J0hn y R1c4rd. De hecho, su primera instancia controla el primer montacargas que les instaladores hicieron funcionar.
 f
