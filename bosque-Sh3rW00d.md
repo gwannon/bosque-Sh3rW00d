@@ -20,11 +20,11 @@ Pero recuerda, lo más importante es **robar a les riques para repartirlo entre 
 Bosque Sh3rW00d te ofrece una ambientación ciberpunk, ultima tecnología en un mundo roto donde unes poques explotan a muches, mezclada con muchos elementos genéricos de la Edad Media.
 ```
 
-En estas aventuras **tu mesa tomará el papel de proscrites y bandides de buen corazón** y que creen más en la justicia que la ley. Y es por eso roban a les riques para darselos a les pobres.
+En estas aventuras **tu mesa tomará el papel de proscrites y bandides de buen corazón** y que creen más en la justicia que la ley. Y es por eso roban a les riques para dárselos a les pobres.
 
 ### Nottingham
 
-Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. Aunque, a priori pueda parecer un lugar donde vivir, es más bien una inmensa f+ábrica donde la compañia exprime todo lo que puede a sus habitantes.
+Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. Aunque, a priori pueda parecer un lugar donde vivir, es más bien una inmensa fábrica donde la compañía exprime todo lo que puede a sus habitantes.
 
 xxx
 
@@ -66,15 +66,13 @@ xxx
 Las gentes que viven en Nottingham son conocidas como _notis_ (un gentilicio abreviado usado por las clases bajas). El complejo de Nottingham se rige por un sistema neofeudal, una versión ciberpunk del sistema feudal del siglo XII.
 ```
 
- La sociedad de la arcología de Nottingham **está dividida en 3 clases sociales estancas**; Blus, que vendrían a ser la Nobleza del viejo sistema, Influencers, como Iglesia, y Curris, como el campesinado. Por encima de todos elles, está la compañía que rige los destino de todes, el presunto de Dios, y la IA directora que rige el complejo por designio de la compañía como si de una reina se tratara.  
+La sociedad de la arcología de Nottingham **está dividida en 3 clases sociales estancas**; Blus, que vendrían a ser la Nobleza del viejo sistema, Influencers, como Iglesia, y Curris, como el campesinado. Por encima de todos elles, está la compañía que rige los destino de todes, el presunto de Dios, y la IA directora que rige el complejo por designio de la compañía como si de una reina se tratara.  
+
+[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073v "Guitable By gigiEDT")
 
 ### Blus (Nobleza)
 
 xxx
-
-\sc
-
-[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073v "Guitable By gigiEDT")
 
 ### Influencers (Iglesia)
 
@@ -82,27 +80,31 @@ Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers
 
 Además, señalan a los disidentes y los excluyen socialmente, de forma que sus acciones y proclamas contra el sistema son muchas veces rechazadas, desacreditadas y olvidadas.
 
-\sp
-
 También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
 
-xxx
+\sp
 
 ### Curris (Campesinado)
 
 xxx
 
-\sc
-
-[![Neti Nateek By Blazbaros](./assests/images/neti_nateek_by_blazbaros_d7nva80-414w-2x.jpg "Neti Nateek By Blazbaros")](https://www.deviantart.com/blazbaros/art/Neti-Nateek-463353984 "Neti Nateek By Blazbaros")
-
 ### Boskis (Fuera de la ley)
 
-Siempre que hay un sistema hay gente que se queda fuera o prefiere salirle. Estos son les _boskis_, les proscrites fuera de la ley que viven en el Bosque de Sh3rW00d. 
+Siempre que hay un sistema hay gente que se queda fuera o prefiere salirle. Estos son les _boskis_, les proscrites fuera de la ley que viven en el Bosque de Sh3rW00d.
 
-xxx
+Aunque la inmensa mayoria de los _boskis_ son de origen humilde y de bajos estratos sociales, principalmente _curris_, también puedes _blus_ e _influencers_ caides en desgracia.
+
+Podemos tener boskis de primera generación, es decir que nacieron en el complejo (y tienen un insertado en su cuerpo un hub de conexion) o de segunda generación conocidos como nacides libres, porque nacieron en el bosque no tienen el hub decconexión.
 
 Los _boskis_ tienen un dicho que explica su forma de pensar _En el bosque tienes tu propio nombre, pero no es solo tuyo._
+
+### La compañia y la IA directora (Monarquía)
+
+Como ya hemos dicho, por encima de todos los grupos anteriores, incluso los _boskis_, está la compañía que rige los destino de todes elles y la IA directora que rige el complejo por designio de la compañía como si de una reina se tratara. 
+
+La compañia es un ente abstracto en esta ambientación que no tiene ni nombre, pero que puedes llamarla como quieras. Todo es de la compañia, todo lo decide la compañia y todo esta pensado para conseguir beneficio para la compañia. 
+
+La mano ejecutora de la compañia es la IA directora. J0hn, la actual IA directora, toma todas sus decisiones teniendo en mente esta simple regla "No importa la gente, solo los beneficios de la compañia".
 
 \sp
 
@@ -160,7 +162,7 @@ A todos estos teletrabajadores se les llama en argot pijameres, por la broma de 
 
 En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
 
-Pueden trabajar para algunas de entte los miles de minifábricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
+Pueden trabajar para algunas de entre los miles de minifábricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
 
 Muchos de estes teletrabajadores desarrollan fobias sociales y problemas de intimidad al solo conocer lo que es contacto virtual con otros seres humanos.
 
@@ -262,19 +264,19 @@ Al obtener la concesión de Nottingham, la compañía firmo muchos temas legales
 
 #### El culto a les instaladores 
 
-Les seguidores de esta fe consideran a les instaladores como unos seres superiores y casi mágicos que desaparecieron por culpa de los pecados de los _notis_ y que ahora están expiandolos con todo el dolor y sufrimiento que sufren los habitantes del ciomplejo. Según su credo, cuando se hayan pagados todos los pecados les instaladores volverán para arreglar todo lo que está mal en el complejo y poder vivir un paraiso en la tierra.
+Les seguidores de esta fe consideran a les instaladores como unos seres superiores y casi mágicos que desaparecieron por culpa de los pecados de los _notis_ y que ahora están expiándolos con todo el dolor y sufrimiento que sufren los habitantes del complejo. Según su credo, cuando se hayan pagado todos los pecados les instaladores volverán para arreglar todo lo que está mal en el complejo y poder vivir un paraíso en la tierra.
 
-Ser parte del culto no es un delito, pero si J0hn descubre que lo eres, tratará de acabar contigo, bien metiendote en la carcel de alguna manera, incluso poco legal, o haciendote que acabes en el bosque como une proscrite. Es por esto que gran parte de la población del bosque creen en les instaladores.
+Ser parte del culto no es un delito, pero si J0hn descubre que lo eres, tratará de acabar contigo, bien metiéndote en la cárcel de alguna manera, incluso poco legal, o haciendote que acabes en el bosque como une proscrite. Es por esto que gran parte de la población del bosque creen en les instaladores.
 
-La **vertiente más radical y fanática del culto a les instaladores son les buscadores de la contraseña de SU** que creen que les instaladores dejaron en alguna parte una contraseña de superusuarie o _password de root_ que al usarla convertira a les buscadores en instaladores y activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
+La **vertiente más radical y fanática del culto a les instaladores son les buscadores de la contraseña de SU** que creen que les instaladores dejaron en alguna parte una contraseña de superusuarie o _password de root_ que al usarla convertirá a les buscadores en instaladores y activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
 
 \sp
 
-Para entender mejor esta religión debes pensar en ella siguiendo las estas ideas.
+Para entender mejor esta religión debes pensar en ella siguiendo las estás ideas.
 
-1. Les **instaladores son una especie de druidas**. Misteriosos, enigmaticos, mágicos y sabios. Mientras elles estuvieron trabajando en el complejo fue una epoca de bien y progeso.
+1. Les **instaladores son una especie de druidas**. Misteriosos, enigmáticos, mágicos y sabios. Mientras elles estuvieron trabajando en el complejo fue una época de bien y progreso.
 2. Les **buscadores son una especie de buscadores del grial** que creen que cuando lo encuentren el bien y la paz reinará en el congreso.
-3. La **directora J0hn y la compañia serían los cristianos** tratando de acabar con las viejas creencias. 
+3. La **directora J0hn y la compañía serían los cristianos** tratando de acabar con las viejas creencias. 
 
 ### Fiestas, celebraciones y otros eventos
 
@@ -1965,7 +1967,7 @@ Recuerda que en esta ambientación muchos de estos PNJ genériques puedes person
 Como siempre se dice la talla de tus heroines la marcan sus villanos.
 ```
 
-Tu banda de proscrites tendrán que enfrentarte con todio tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines influencers, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarecompensas de fuera del complejo que cazan personas por dinero.
+Tu banda de proscrites tendrán que enfrentarte con todo tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines influencers, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarrecompensas de fuera del complejo que cazan personas por dinero.
 
 ### Sheriffs
 
@@ -2005,9 +2007,9 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
+* **Ciberimplantes:** xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
 ### Bajo influencer
@@ -2017,9 +2019,9 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
+* **Ciberimplantes:** xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
 ### Blus de alto rango
@@ -2029,9 +2031,9 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
+* **Ciberimplantes:** xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
 \sp
@@ -2043,21 +2045,21 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
+* **Ciberimplantes:** xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
-### Cazarecompensas
+### Cazarrecompensas
 
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
+* **Ciberimplantes:** xxx
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Ciberimplantes:** xxx
 * **Equipo:** xxx
 
 \sc
@@ -2162,8 +2164,9 @@ Estamos hablando desde electricistes o albañiles hasta profesiones muy especial
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Latrocinio d4, Notar d4, Ordenadores d6, Pelear d4, Reparar d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Persona de recursos
+* **Ciberimplantes:** xxx
 * **Desventajas:** Elige 1 o más: Avariciose (Mayor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
+* **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Persona de recursos
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
 ### Artiste
@@ -2173,6 +2176,7 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Electrónica d4, Humanidades d6, Idioma Inglés d8, Interpretación d8, Notar d6, Ordenadores d4, Persuadir d6, Sigilo d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Ciberimplantes:** xxx
 * **Desventajas:** Elegir 1: Hábito (menor alcohol, marihuana, etc.), Curiose, Coje, Patose
 * **Ventajas:** Elegir 1: Carismátique, Famose, Atractive
 * **Equipo:** Ropas vistosas, instrumento musical, herramientas relacionadas con su arte
@@ -2186,8 +2190,9 @@ Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde f�
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d8, Conocimientos Generales d8, Electrónica d6, Idioma inglés d8, Notar d8, Ordenadores d6, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ventajas:** Elige 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
+* **Ciberimplantes:** xxx
 * **Desventajas:** Elige 1 (Avergonzado, Despistado, Fobia, Patoso)
+* **Ventajas:** Elige 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
 * **Equipo:** Equipo científico adecuado a su especialidad, ordenador portátil o tableta de datos
 
 ### Delincuente de los bajos fondos
@@ -2197,8 +2202,9 @@ Los oscuros callejones de Nottingham están llenas de este tipo de personajes. T
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alijos
+* **Ciberimplantes:** xxx
 * **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
+* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Stick de hockey (FUE+d4), Tirachinas
 
 ### Funcionarie
@@ -2208,6 +2214,7 @@ Estamos hablando de chupatintas que están detrás de un mostrador gestionando a
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
+* **Ciberimplantes:** xxx
 * **Desventajas:** Elige 1 o más: Avariciose (Mayor), Bocazas (Menor), Habito (Menor)
 * **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rique
 * **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
@@ -2219,11 +2226,13 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d8, Pelear d4, Pasillear d6, Ordenadores d4, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
-* **Desventajas:** Elige 1 o más: Avariciose (Mayor), Bocazas (Menor), Caute (Menor), Habito (Mayor, Alcoholismo)
-* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alcurnia, Rique
-* **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
+* **Ciberimplantes:** xxx
 
 \sp
+
+* **Desventajas:** Elige 1 o más: Avariciose (Mayor), Bocazas (Menor), Caute (Menor), Habito (Mayor, Alcoholismo)
+* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alcurnia, Rique
+**Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
 [![Implacable By Fernand0FC](./assests/images/implacable_by_fernand0fc_dcqnvuh-pre.jpg "Implacable By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Implacable-770378489 "Implacable By Fernand0FC")
 
@@ -2231,14 +2240,13 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 
 Estes criminales menores pueblan los callejones de la zona baja dando golpes menores o juntándose para enfrentarse a bandas rivales o dar golpes más grandes. Solo el grupo puede hacerlos peligrosos para tus proscrites.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
-* **Desventajas:** xxx
-* **Ventajas:** xxx
+* **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Ciberimplantes:** xxx
+* **Desventajas:** Buscado (Menor, por delitos menores), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Feo (Menor), Habito (Mayor, Cocaína)
+* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Navaja (FUE+d4), stick de hockey con clavos (FUE+d4+1)
-
-\sc
 
 ***
 
