@@ -68,31 +68,56 @@ Las gentes que viven en Nottingham son conocidas como _notis_ (un gentilicio abr
 
 La sociedad de la arcología de Nottingham **está dividida en 3 clases sociales estancas**; Blus, que vendrían a ser la Nobleza del viejo sistema, Influencers, como Iglesia, y Curris, como el campesinado. Por encima de todos elles, está la compañía que rige los destino de todes, el presunto de Dios, y la IA directora que rige el complejo por designio de la compañía como si de una reina se tratara.  
 
-[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073v "Guitable By gigiEDT")
+[![Wesker By MonkeyMu](./assests/images/wesker_by_monkeymu_d4yu3vz-375w-2x.jpg "Wesker By MonkeyMu")](https://www.deviantart.com/monkeymu/art/Wesker-300376367 "Wesker By MonkeyMu")
+
+
+
+
+
 
 ### Blus (Nobleza)
 
-xxx
+El termino _blus_ viene de "blue", azul. Los _blus_ eran trabajadores de alto nivel de la compañia que solián llevar el azul corporativo de la compañia frente a los marrones de los trabajadores de bajo nivel.
+
+Hoy en día se distinguen por sus trajes caros con tejidos ablativos que sobresalen sobre los viejos y remendados trapos que llevan muchos de les currelas.
+
+Los blus son principalmente personal directivo de la compañia que se encarga de dar forma y ejecutar las ordenes de la directoras a traves de sus puestos directivos en las diferentes industrias del complejo. Cobrán mucho y viven en la zona alta en grandes espacios. No suelen mezclarse con el resto de _notis_, de hecho sus relaciones suelen ser muy endogámicas.
+
+Hay una especie de _blus_ menores, más cercanos a los _curris_, pero muchas veces igual de clasistas o más. Son personas que ocupan cargos intermedios en la compañia o tienen negocios floreientes que la compañia todavía no ha absorvido. Muchos de ellos son trepas esperando a su oportunidad para convertirse en grandes _blus_ y, por supuesto, harán lo que sea por ascender socialmente. Cuando decimos lo que sea, es lo que sea, engañar, intimidar, amenazar, falsificar pruebas, falso testimonio, etc.
 
 ### Influencers (Iglesia)
 
-Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers adictos a la directora J0hn que marcan la vida de los _notis_. Ellos establecen las modas, lo que es _cool_ y lo que no, lo que se debe hacer y lo que no y, al final, lo que está bien y lo que está mal.
+Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers adictos a la directora J0hn que marcan la vida de los _notis_. 
+
+\sp
+
+[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073 "Guitable By gigiEDT")
+
+Ellos establecen las modas, lo que es _cool_ y lo que no, lo que se debe hacer y lo que no y, al final, lo que está bien y lo que está mal.
 
 Además, señalan a los disidentes y los excluyen socialmente, de forma que sus acciones y proclamas contra el sistema son muchas veces rechazadas, desacreditadas y olvidadas.
 
 También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
 
-\sp
+Aunque muchos de les _influencers_ se nombran a si mismos como creadores de muchas de las modas del compplejo, lo normal es que en realidad copien esos movimientos esteticos y ridiculicen a aquellos que tratan de demostrar el origen real de esas modas.
 
 ### Curris (Campesinado)
 
-xxx
+Les_curris_, casi lo más bajo de la piramide social de Nottingham, son explotades por la compañia, la directora J0hn y sus _blus_ y ridiculizades y manipulades por _influencers_ para que sigan con su deningrantes y anodinas vidas día tras día. 
+
+Si solo se dedican a trabajar sin levantar la cabeza, solo les espera misería y desesperación. Si intentan luchar por sus derechos y por mejoras sociales, son apaleados sin piedad por los sheriffs y encerrados.
+
+[![Maintenance EotV Art By Igor-Esaulov](./assests/images/maintenance_eotv_art_by_igor_esaulov_db764s8-fullview.jpg "Maintenance EotV Art By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Maintenance-EotV-Art-677171384 "Maintenance EotV Art By Igor-Esaulov")
+
+Al final mucho terminan cayendo al otro lado de la ley y buscando una nueva oportunidad en el bosque como proscrites.
 
 ### Boskis (Fuera de la ley)
 
 Siempre que hay un sistema hay gente que se queda fuera o prefiere salirle. Estos son les _boskis_, les proscrites fuera de la ley que viven en el Bosque de Sh3rW00d.
 
 Aunque la inmensa mayoria de los _boskis_ son de origen humilde y de bajos estratos sociales, principalmente _curris_, también puedes _blus_ e _influencers_ caides en desgracia.
+
+\sp
 
 Podemos tener boskis de primera generación, es decir que nacieron en el complejo (y tienen un insertado en su cuerpo un hub de conexion) o de segunda generación conocidos como nacides libres, porque nacieron en el bosque no tienen el hub decconexión.
 
@@ -105,6 +130,8 @@ Como ya hemos dicho, por encima de todos los grupos anteriores, incluso los _bos
 La compañia es un ente abstracto en esta ambientación que no tiene ni nombre, pero que puedes llamarla como quieras. Todo es de la compañia, todo lo decide la compañia y todo esta pensado para conseguir beneficio para la compañia. 
 
 La mano ejecutora de la compañia es la IA directora. J0hn, la actual IA directora, toma todas sus decisiones teniendo en mente esta simple regla "No importa la gente, solo los beneficios de la compañia".
+
+\sc
 
 \sp
 
@@ -2498,6 +2525,32 @@ La fábrica funciona 24 horas en turnos de 8 horas y la IA alcaide suele evitar 
 
 > El rumor que corre entre les preses es que **los sheriffs más violentos son enviados al correccional** y es totalmente cierto. Si un sheriff resulta muy violento para el trabajo de calle, sele envía al correccional o al bosque, donde sus actos no son vistos por los notis.
 
+### Máquinas de vending
+
+Siempre ha habido máquinas de vending en la zona baja de la arcología, pero fue la directora J0hn quien lleno todos los rincones de la zona baja de máquinas de vending de cualquier cosa en un esfuerzo de acabar con los pequeños negocios.
+
+Sin embargo, no llegaron nunca triunfar, por la sencilla razón de que las transacciones tenian que ser en creditos de la compañia y la gente trabaja mas con trueque. a pesar de ello la directora J0hn sigue manteniendolas y reponiendolas en un claro esfuerzo por no reconcer su error.
+
+> Cuando crees un espacio en la zona baja donde se vaya a combatir o interactuar **es muy posible que haya por lo menos una maquina de vending**, de café en una sala de espera, de productos de higiene y farmaceuticos en una zona hospital, productos de ocio en zonas de diversión, etc. 
+
+\sp
+
+[![Vending Machine By burningmonk](./assests/images/db0vnla-915f97ef-c5a8-40b7-ab9c-6a60fd2a9c67.jpg "Vending Machine By burningmonk")](https://www.deviantart.com/burningmonk/art/Vending-Machine-666604846 "Vending Machine By burningmonk")
+
+Las máquinas de vending son pequeñas bolsas de dinero para gente que vive en el otro lado de la ley. Pueden tener productos por unos 1d10x10 $ en alijos. El cristal, a pesar de ser blindado, tiene una **consistencia de 12** (18 si los usas como parapeto).
+
+Como se ha dicho, las maquinas casi ni se usan, pero hay que reponerlas, limpiarlas y arreglarlas, así que Lady Marian, con apoyo popular y tras varias manifestaciones y bastantes actos de vandalismo contra las máquinas de vending, consiguió que les preses no violentes pudieran elegir pagar sus deudas trabajando como reponedores de las máquinas.
+
+\sc
+
+En teoría, esto permitía una reinserción social más rápida, ya que durante los meses de trabajo reponiendo productos volvían a vivir en sociedad, a establecer nuevas relaciones sociales y a acostumbrarse a vivir entre sus iguales.
+
+Lady Marian en persona dirige muchas de las audiencias de los presos donde se decide o no darles estás ventajas penitenciarias.
+
+Si bien, la mayoría de estés trabajadores se reinserta adecuadamente, el número de fugas al bosque ha aumentado drásticamente, sobre todo les preses que salieron con la firma de Lady Marian. 
+
+> Si alguien hiciera cuentas, vería que casi todos les preses que salen para reponer con la firma de Lady Marian terminan fugándose. Esto podría poner en serios aprietos está buena samaritana.
+
 \sp
 
 \sinc
@@ -3057,6 +3110,8 @@ Las zonas están conectadas como hemos explicado antes, pero siempre es posible 
 \sp
 
 \sinc
+
+[![Concept of SciFi Coridor 1920x1080 By Igor-Esaulov](./assests/images/concept_of_scifi_coridor_1920x1080_by_igor_esaulov_d6559vr-fullview.jpg "Concept of SciFi Coridor 1920x1080 By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Concept-of-SciFi-Coridor-1920x1080-371441223 "Concept of SciFi Coridor 1920x1080 By Igor-Esaulov")
 
 ## Creación de espacios para tus aventuras
 
