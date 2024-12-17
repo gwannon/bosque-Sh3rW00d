@@ -72,13 +72,13 @@ La sociedad de la arcología de Nottingham **está dividida en 3 clases sociales
 
 ### Blus (Nobleza)
 
-El termino _blus_ viene de "blue", azul. Los _blus_ eran trabajadores de alto nivel de la compañia que solián llevar el azul corporativo de la compañia frente a los marrones de los trabajadores de bajo nivel.
+El término _blus_ viene de "blue", azul. Los _blus_ eran trabajadores de alto nivel de la compañía que solían llevar el azul corporativo de la compañía frente a los marrones de los trabajadores de bajo nivel.
 
 Hoy en día se distinguen por sus trajes caros con tejidos ablativos que sobresalen sobre los viejos y remendados trapos que llevan muchos de les currelas.
 
-Los blus son principalmente personal directivo de la compañia que se encarga de dar forma y ejecutar las ordenes de la directoras a traves de sus puestos directivos en las diferentes industrias del complejo. Cobrán mucho y viven en la zona alta en grandes espacios. No suelen mezclarse con el resto de _notis_, de hecho sus relaciones suelen ser muy endogámicas.
+Los blus son principalmente personal directivo de la compañía que se encarga de dar forma y ejecutar las órdenes de las directoras a través de sus puestos directivos en las diferentes industrias del complejo. Cobran mucho y viven en la zona alta en grandes espacios. No suelen mezclarse con el resto de _notis_, de hecho sus relaciones suelen ser muy endogámicas.
 
-Hay una especie de _blus_ menores, más cercanos a los _curris_, pero muchas veces igual de clasistas o más. Son personas que ocupan cargos intermedios en la compañia o tienen negocios floreientes que la compañia todavía no ha absorvido. Muchos de ellos son trepas esperando a su oportunidad para convertirse en grandes _blus_ y, por supuesto, harán lo que sea por ascender socialmente. Cuando decimos lo que sea, es lo que sea, engañar, intimidar, amenazar, falsificar pruebas, falso testimonio, etc.
+Hay una especie de _blus_ menores, más cercanos a los _curris_, pero muchas veces igual de clasistas o más. Son personas que ocupan cargos intermedios en la compañía o tienen negocios florecientes que la compañía todavía no ha absorbido. Muchos de ellos son trepas esperando a su oportunidad para convertirse en grandes _blus_ y, por supuesto, harán lo que sea por ascender socialmente. Cuando decimos lo que sea, es lo que sea, engañar, intimidar, amenazar, falsificar pruebas, falso testimonio, etc.
 
 ### Influencers (Iglesia)
 
@@ -94,13 +94,13 @@ Además, señalan a los disidentes y los excluyen socialmente, de forma que sus 
 
 También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
 
-Aunque muchos de les _influencers_ se nombran a si mismos como creadores de muchas de las modas del compplejo, lo normal es que en realidad copien esos movimientos esteticos y ridiculicen a aquellos que tratan de demostrar el origen real de esas modas.
+Aunque muchos de les _influencers_ se nombran a si mismos como creadores de muchas de las modas del complejo, lo normal es que en realidad copien esos movimientos estéticos y ridiculicen a aquellos que tratan de demostrar el origen real de esas modas.
 
 ### Curris (Campesinado)
 
-Les_curris_, casi lo más bajo de la piramide social de Nottingham, son explotades por la compañia, la directora J0hn y sus _blus_ y ridiculizades y manipulades por _influencers_ para que sigan con su deningrantes y anodinas vidas día tras día. 
+Les_curris_, casi lo más bajo de la pirámide social de Nottingham, son explotades por la compañía, la directora J0hn y sus _blus_ y ridiculizades y manipulades por _influencers_ para que sigan con su denigrantes y anodinas vidas día tras día. 
 
-Si solo se dedican a trabajar sin levantar la cabeza, solo les espera misería y desesperación. Si intentan luchar por sus derechos y por mejoras sociales, son apaleados sin piedad por los sheriffs y encerrados.
+Si solo se dedican a trabajar sin levantar la cabeza, solo les espera miseria y desesperación. Si intentan luchar por sus derechos y por mejoras sociales, son apaleados sin piedad por los sheriffs y encerrados.
 
 [![Maintenance EotV Art By Igor-Esaulov](./assests/images/maintenance_eotv_art_by_igor_esaulov_db764s8-fullview.jpg "Maintenance EotV Art By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Maintenance-EotV-Art-677171384 "Maintenance EotV Art By Igor-Esaulov")
 
@@ -110,21 +110,21 @@ Al final mucho terminan cayendo al otro lado de la ley y buscando una nueva opor
 
 Siempre que hay un sistema hay gente que se queda fuera o prefiere salirle. Estos son les _boskis_, les proscrites fuera de la ley que viven en el Bosque de Sh3rW00d.
 
-Aunque la inmensa mayoria de los _boskis_ son de origen humilde y de bajos estratos sociales, principalmente _curris_, también puedes _blus_ e _influencers_ caides en desgracia.
+Aunque la inmensa mayoría de los _boskis_ son de origen humilde y de bajos estratos sociales, principalmente _curris_, también puedes _blus_ e _influencers_ caídes en desgracia.
 
 \sp
 
-Podemos tener boskis de primera generación, es decir que nacieron en el complejo (y tienen un insertado en su cuerpo un hub de conexion) o de segunda generación conocidos como nacides libres, porque nacieron en el bosque no tienen el hub decconexión.
+Podemos tener boskis de primera generación, es decir que nacieron en el complejo (y tienen un insertado en su cuerpo un hub de conexión) o de segunda generación, conocidos como nacides libres, porque nacieron en el bosque no tienen el hub de conexión.
 
 Los _boskis_ tienen un dicho que explica su forma de pensar _En el bosque tienes tu propio nombre, pero no es solo tuyo._
 
-### La compañia y la IA directora (Monarquía)
+### La compañía y la IA directora (Monarquía)
 
 Como ya hemos dicho, por encima de todos los grupos anteriores, incluso los _boskis_, está la compañía que rige los destino de todes elles y la IA directora que rige el complejo por designio de la compañía como si de una reina se tratara. 
 
-La compañia es un ente abstracto en esta ambientación que no tiene ni nombre, pero que puedes llamarla como quieras. Todo es de la compañia, todo lo decide la compañia y todo esta pensado para conseguir beneficio para la compañia. 
+La compañía es un ente abstracto en esta ambientación que no tiene ni nombre, pero que puedes llamarla como quieras. Todo es de la compañía, todo lo decide la compañía y todo está pensado para conseguir beneficio para la compañía. 
 
-La mano ejecutora de la compañia es la IA directora. J0hn, la actual IA directora, toma todas sus decisiones teniendo en mente esta simple regla "No importa la gente, solo los beneficios de la compañia".
+La mano ejecutora de la compañía es la IA directora. J0hn, la actual IA directora, toma todas sus decisiones teniendo en mente esta simple regla "No importa la gente, solo los beneficios de la compañía".
 
 \sc
 
@@ -288,7 +288,7 @@ Al obtener la concesión de Nottingham, la compañía firmo muchos temas legales
 
 Les seguidores de esta fe consideran a les instaladores como unos seres superiores y casi mágicos que desaparecieron por culpa de los pecados de los _notis_ y que ahora están expiándolos con todo el dolor y sufrimiento que sufren los habitantes del complejo. Según su credo, cuando se hayan pagado todos los pecados les instaladores volverán para arreglar todo lo que está mal en el complejo y poder vivir un paraíso en la tierra.
 
-Ser parte del culto no es un delito, pero si J0hn descubre que lo eres, tratará de acabar contigo, bien metiéndote en la cárcel de alguna manera, incluso poco legal, o haciendote que acabes en el bosque como une proscrite. Es por esto que gran parte de la población del bosque creen en les instaladores.
+Ser parte del culto no es un delito, pero si J0hn descubre que lo eres, tratará de acabar contigo, bien metiéndote en la cárcel de alguna manera, incluso poco legal, o haciéndote que acabes en el bosque como une proscrite. Es por esto que gran parte de la población del bosque creen en les instaladores.
 
 La **vertiente más radical y fanática del culto a les instaladores son les buscadores de la contraseña de SU** que creen que les instaladores dejaron en alguna parte una contraseña de superusuarie o _password de root_ que al usarla convertirá a les buscadores en instaladores y activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
 
@@ -2523,9 +2523,9 @@ La fábrica funciona 24 horas en turnos de 8 horas y la IA alcaide suele evitar 
 
 Siempre ha habido máquinas de vending en la zona baja de la arcología, pero fue la directora J0hn quien lleno todos los rincones de la zona baja de máquinas de vending de cualquier cosa en un esfuerzo de acabar con los pequeños negocios.
 
-Sin embargo, no llegaron nunca triunfar, por la sencilla razón de que las transacciones tenian que ser en creditos de la compañia y la gente trabaja mas con trueque. a pesar de ello la directora J0hn sigue manteniendolas y reponiendolas en un claro esfuerzo por no reconcer su error.
+Sin embargo, no llegaron nunca triunfar, por la sencilla razón de que las transacciones tenían que ser en créditos de la compañía y la gente trabaja más con trueque. A pesar de ello la directora J0hn sigue manteniéndolas y reponiéndolas en un claro esfuerzo por no reconocer su error.
 
-> Cuando crees un espacio en la zona baja donde se vaya a combatir o interactuar **es muy posible que haya por lo menos una maquina de vending**, de café en una sala de espera, de productos de higiene y farmaceuticos en una zona hospital, productos de ocio en zonas de diversión, etc. 
+> Cuando crees un espacio en la zona baja donde se vaya a combatir o interactuar **es muy posible que haya por lo menos una máquina de vending**, de café en una sala de espera, de productos de higiene y farmacéuticos en una zona hospital, productos de ocio en zonas de diversión, etc. 
 
 \sp
 
@@ -2541,9 +2541,9 @@ En teoría, esto permitía una reinserción social más rápida, ya que durante 
 
 Lady Marian en persona dirige muchas de las audiencias de los presos donde se decide o no darles estás ventajas penitenciarias.
 
-Si bien, la mayoría de estés trabajadores se reinserta adecuadamente, el número de fugas al bosque ha aumentado drásticamente, sobre todo les preses que salieron con la firma de Lady Marian. 
+Si bien, la mayoría de estes trabajadores se reinserta adecuadamente, el número de fugas al bosque ha aumentado drásticamente, sobre todo les preses que salieron con la firma de Lady Marian. 
 
-> Si alguien hiciera cuentas, vería que casi todos les preses que salen para reponer con la firma de Lady Marian terminan fugándose. Esto podría poner en serios aprietos está buena samaritana.
+> Si alguien hiciera cuentas, vería que casi todos les preses que salen para reponer con la firma de Lady Marian terminan fugándose. Esto podría poner en serios aprietos esta buena samaritana.
 
 \sp
 
@@ -2930,7 +2930,7 @@ Con cada ola de gente que huía del complejo y de R1c4rd la comunidad iba crecie
 
 Las casas están creadas de plásticos reciclados y materiales que se encuentran en el bosque que les instaladores dejaron, pero nunca llegaron a usar. Además, todo es reciclado y muy pocos productos se tiran. Si se rompe algo, alguien te lo repara o lo recicla para crear otro objeto útil.
 
-Lo curioso es que el tiempo, los nanitos de la zona cubren estas casetas de material organico dandole el aspecto de casa de madera y techo de paja que tienen las más antiguas.
+Lo curioso es que el tiempo, los nanitos de la zona cubren estas casetas de material orgánico, dándole el aspecto de casa de madera y techo de paja que tienen las más antiguas.
 
 La población actual del GR es de unos 5.000 _boskis_ y hay gente llegando todos los días. De hecho, han empezado a crearse nuevas comunidades en zonas cercanas aprovechando otras columnas de carga. 
 
@@ -3404,7 +3404,7 @@ xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-> **Sugerencia de interpretación:** Se lo más bruta posible, erupta, escupe, bebe y grita. Las normas sociales de civismo son para les demás, tú no tienes tiempo para preocupartes por esas chorradas.
+> **Sugerencia de interpretación:** Sé lo más bruta posible, eructa, escupe, bebe y grita. Las normas sociales de civismo son para les demás, tú no tienes tiempo para preocuparte por esas chorradas.
 
 \sp
 
@@ -3679,7 +3679,7 @@ xxx
 [![For Jess By GraffMX](./assests/images/for_jess_by_graffmx_d5qpxus-375w-2x.jpg "For Jess By GraffMX")](https://www.deviantart.com/graffmx/art/For-Jess-347211172 "For Jess By GraffMX")
 
 Al1enOR es la IA más antigua que hay en la arcología, mucho más antigua que J0hn y R1c4rd. De hecho, su primera instancia controla el primer montacargas que les instaladores hicieron funcionar.
-f
+
 Aunque es muy mayor es bastante moderna, está muy conectada con les _notis_ y lleva conociendo y trabajando para ellos desde hace cientos de años. Sabe las historias de muchos, sabe cuando están bien cuando están enfermos, cuando pasa algo especial, por sus rutinas de desplazamiento. xxx
 
 Ama y odia a les habitantes del complejo por igual. xxx
