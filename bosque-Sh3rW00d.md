@@ -1195,7 +1195,7 @@ A efectos prácticos, tienen las estadísticas del libro básico de SWAE, pero p
 
 Las protecciones **son algo raro en Nottingham**, tenemos ropa de sintecuero que pueden dar algo de protección, pero el kevlar y otros tejidos ablativos son raros porque no se fabrican y la compañía no los importa.
 
-Si tu banda necesita protecciones podrán **encontrar como mucho Ropa/Cuero de Armaduras Contemporaneas**. Quizás tus PNJ que vayan tras la banda puede tener **Armaduras Ligeras del apartado Armaduras Futuristas**.
+Si tu banda necesita protecciones podrán **encontrar como mucho Ropa/Cuero de Armaduras Contemporáneas**. Quizás tus PNJ que vayan tras la banda puede tener **Armaduras Ligeras del apartado Armaduras Futuristas**.
 
 En general **conseguir más de 4 puntos de protección tendría que ser muy raro y muy caro** también. En realidad es más fácil conseguir ciberimplantes que otorguen armadura que armaduras propiamente dichas.
 
@@ -1224,7 +1224,7 @@ Andar es la forma más normal para moverse por el complejo usando escaleras mec�
 
 #### Monturas: Roller skates, skateboards y e-bikes
 
-En un sitio cerrado y lleno de obstáculos como escaleras, puertas o vallas. Parece que no tiene sentido usar todos estos vehículos, pero cuando ves a les mensajeres moverse con ellos a gran velocidad saltando, _slayando_ y _grindando_ sobre el mobiliario urbano te das cuenta que pueden ser muy útiles si sabes usarlos.
+En un sitio cerrado y lleno de obstáculos como escaleras, puertas o vallas. Parece que no tiene sentido usar todos estos vehículos, pero cuando ves a les mensajeres moverse con ellos a gran velocidad saltando, _slayando_ y _grindando_ sobre el mobiliario urbano te das cuenta de que pueden ser muy útiles si sabes usarlos.
 
 Los **skateboards y rollers** (y todas sus variantes) no tienen habilidad de Conducir propia, en su lugar **se usa en su lugar Atletismo**.
 
@@ -1454,7 +1454,7 @@ xxx
 
 La clave de superusuarie o clave SU es un hackeo legendario que solo conocían les instaladores y que se cree que se perdió con su marcha.
 
-De alguna manera desconocida (y a discreción de ti como DJ) te registras en el sistema del complejo y te identificas como superusuarie. Según les buscadores debía ser algún tipo ceremonia secreta con muchos elementos programáticos. Aunque igual era una simple entrada en una tabla de una base de datos perdida entre los miles  de datos y ficheros que manejan los miles de sistemas del complejo.
+De alguna manera desconocida (y a discreción de ti como DJ) te registras en el sistema del complejo y te identificas como superusuarie. Según les buscadores debía ser algún tipo ceremonia secreta con muchos elementos programáticos. Aunque igual era una simple entrada en una tabla de una base de datos perdida entre los miles de datos y ficheros que manejan los miles de sistemas del complejo.
 
 Te permite hacer todo lo que marcan los **hackeos anteriores con un bono de +4** y solo otra persona con este hackeo puede deshacer tu hackeo.
 
@@ -1580,14 +1580,13 @@ xxx
 En este capítulo vas a ver toda la tecnología que puedes encontrar en la arcología de Nottingham y como afecta al día a día de les _notis_. Hablaremos de IA, nanotecnología, ciberimplantes, realidad virtual y aumentada y otras tecnologías típicas de las ambientaciones ciberpunk.
 
 ## HUB de conexión
-
 \conc
 
 ```
 Todas las personas nacidas en una maternidad de la arcología, son implantados nada más nacer con un HUB de conexión que le permitirá conectarse a las redes informáticas de su alrededor. Por otro lado permite tener a todo la gente rastreada y controlada.
 ```
 
-El HUB de conexión permite entre otras muchas cosas.
+Este pequeño implante se alimenta de la energía eléctrica del cuerpo humano y es tan simple de diseño y software que no tiene casi fallos, aun que alguno tiene. El HUB de conexión permite entre otras muchas cosas.
 
 * Conectarse en realidad aumentada a la red de la arcología.
 * Controlar la domótica del hogar y/o del lugar de trabajo.
@@ -1598,9 +1597,23 @@ El HUB de conexión permite entre otras muchas cosas.
 
 El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo les hijes de _boskis_ pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
 
-xxx
+**Cada HUb tiene su propio código de identificación**, lo que en cierta manera lo convierte en un **documento de identificación**. El codigo del HUB se basa en un encriptado de tus progenitores más tu propio código con lo que se pueden rastrear tus antepasados a traves de las bases de datos de la arcología hasta tus primeros ancestros que se fueron a vivir a la arcología.
 
-\sc
+Les proscrites no suelen quitarse el HUB, porque lo necesitan para cuando se mueven por el complejo en sus misiones, pero suelen hackearlo con códigos temporales validos para no ser identificados con su ćodigo personal. Estos códigos son validos (pertenecen a niñes, ancianes, gente que ha huido al bosque, etc.) pero no suelen tener ningún tipo de datos asociados con lo que no pueden pagar porque no tienen creditos o tienen acceso a muy pocos lugares.
+
+La vida sin un HUB de conexión es bastante en el complejo:
+
+* No se puede pagar con creditos.
+* La puertas con seguridad no te detectan y no se abren. Las puertas sautomaticas más simples te detectan porque detectan tu cuerpo, no tu HUB.
+
+\sp
+
+* Los turbo ascensores no aceptan tus ordenes, porque creen que no hay nadie dentro. Necesitas a alguien con HUB para poder usarlos.
+* Los robots te consideran objetos y si tienen que aplastarte para esquivar a una persona, lo harán. su programación les dice que deben proteger primero a las personas y luego a los objetos.
+* Los sheriffs te identifican facilmente como _boski_ y son de los dispara primero y pregunta despues.
+* Mucha domotica de los habitáculos solo funciona a través del HUB. Olvídate de encender/apagar luces de una habitación sin HUB, deberás usar los controles manuales.
+* El HUB da acceso a diferentes redes sociales y servicios web. Sin HUB todo eso está fuera de tu alcance. Con códigos validos temporales tampoco se puede hacer mucho, porque muchas veces son perfiles vacios.
+* El HUB permite acceder a mucha información, entre otros datos información médica. Les doctores del complejo, de normal no suelen tratar a gente sin HUB porque ayudar a proscrites es un delito grave, pero en caso de hacerlo tiene el problema de que tengan info médica de le paciente.
 
 \sp
 
@@ -1664,11 +1677,11 @@ Los rasgos de bestia acumulables como Armadura no son camuflables a partir de la
 
 ### Instalar implantes
 
-Instalar implantes puede variar de unas horas a dos o tres días (uno de cirujia y otros dos de recuperación). Puede haber implantes que no necesiten instalación ni cirujía o que solo sean una inyección con nanitos que te pones tú mismo y que hace su trabajo mientras tu duermes.
+Instalar implantes puede variar de unas horas a dos o tres días (uno de cirugía y otros dos de recuperación). Puede haber implantes que no necesiten instalación ni cirugía o que solo sean una inyección con nanitos que te pones tú mismo y que hace su trabajo mientras tú duermes.
 
-En caso de necesitar cirujía, **cualquier persona con Medicina y Reparar d8 o más podrá instalarlos**. Normalmente puede haber pequeños chiringuitos en la zona baja de dudosa reputación donde te los pueden instalar o lujosos centros donde tomas un caro café mientras te reemplazan tu brazo por uno cibernético.
+En caso de necesitar cirugía, **cualquier persona con Medicina y Reparar d8 o más podrá instalarlos**. Normalmente puede haber pequeños chiringuitos en la zona baja de dudosa reputación donde te los pueden instalar o lujosos centros donde tomas un caro café mientras te reemplazan tu brazo por uno cibernético.
 
-> El tiempo de instalación de un ciberimplantes y si necesitan o no cirujia queda a tu discrección. Ajustalo a tu historia y tu mesa, aunque lo normal es que cuantos más puntos, más tiempo necesite. 1 punto medio día, 2 puntos un día, 3 puntos dos días, 4 puntos tres días, etc. Recuerda que los implantes se consiguen con avances, así que simplemente los obtienen al gastar el avance. La duración del proceso y la forma de instalarlo es por darle un poco de historia y trasfondo a un elemento tan interesante y llamativo.
+> El tiempo de instalación de un ciberimplantes y si necesitan o no cirugía queda a tu discreción. Ajustalo a tu historia y tu mesa, aunque lo normal es que cuantos más puntos, más tiempo necesite. 1 punto medio día, 2 puntos un día, 3 puntos dos días, 4 puntos tres días, etc. Recuerda que los implantes se consiguen con avances, así que simplemente los obtienen al gastar el avance. La duración del proceso y la forma de instalarlo es por darle un poco de historia y trasfondo a un elemento tan interesante y llamativo.
 
 ### Quitarse implantes
 
@@ -1694,7 +1707,7 @@ En muchas ambientaciones los implantes de Armadura serían ilegales, pero une po
 
 Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo postapocalíptico realmente no importaría si son legales o no.
 
-Los implantes ilegales no pueden ser instalados en sitio normales y tendrás que recurrir a doctores sin licencia o de la mafia. En el bosque hay gente capaz de instalarte implantes legales e ilegales, pero normalmente deberas conseguirlos y llevarselos para que te los instalen.
+Los implantes ilegales no pueden ser instalados en sitios normales y tendrás que recurrir a doctores sin licencia o de la mafia. En el bosque hay gente capaz de instalarte implantes legales e ilegales, pero normalmente deberás conseguirlos y llevárselos para que te los instalen.
 
 \sinc
 
@@ -2095,7 +2108,7 @@ xxx
 Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y lanzarte.
 ```
 
-En esta ambientación los robots no son personajes carismáticos, charlatanes y autónomos. Son herramientas programadas para hacer su trabajo y solo su trabajo. Tampoco están antropomorfizados, si tienen que transportar materiales serán carros con ruedas y gruas para cargar y descargar materiales, si limpian los conductos serán largos y estrechos y se moverán como comadrejas o serpientes por los tubos de ventilación.
+En esta ambientación los robots no son personajes carismáticos, charlatanes y autónomos. Son herramientas programadas para hacer su trabajo y solo su trabajo. Tampoco están antropomorfizados, si tienen que transportar materiales serán carros con ruedas y grúas para cargar y descargar materiales, si limpian los conductos serán largos y estrechos y se moverán como comadrejas o serpientes por los tubos de ventilación.
 
 ### Animal animatrónico
 
