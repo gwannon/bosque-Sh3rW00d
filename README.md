@@ -48,10 +48,15 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 
 * La arcología de Nottingham
   * El mundo actual
+    * Nottingham
+    * El bosque de Sh3rW00d
+    * Las directoras
   * Vida diaria
     * Cultura y contracultura
     * Ocio y entretenimiento
   * Bajos fondos y crimen organizado
+    * Mafias y crimen organizado
+    * Pandillas y sus territorios
   * Les instaladores
   * La vida en el Bosque
   * El mundo exterior

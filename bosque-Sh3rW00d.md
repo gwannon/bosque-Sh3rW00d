@@ -84,23 +84,23 @@ Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers
 
 \sp
 
-[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073 "Guitable By gigiEDT")
-
 Ellos establecen las modas, lo que es _cool_ y lo que no, lo que se debe hacer y lo que no y, al final, lo que está bien y lo que está mal.
 
 Además, señalan a los disidentes y los excluyen socialmente, de forma que sus acciones y proclamas contra el sistema son muchas veces rechazadas, desacreditadas y olvidadas.
 
 También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
 
+[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073 "Guitable By gigiEDT")
+
 Aunque muchos de les _influencers_ se nombran a si mismos como creadores de muchas de las modas del complejo, lo normal es que en realidad copien esos movimientos estéticos y ridiculicen a aquellos que tratan de demostrar el origen real de esas modas.
+
+[![Maintenance EotV Art By Igor-Esaulov](./assests/images/maintenance_eotv_art_by_igor_esaulov_db764s8-fullview.jpg "Maintenance EotV Art By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Maintenance-EotV-Art-677171384 "Maintenance EotV Art By Igor-Esaulov")
 
 ### Curris (Campesinado)
 
-Les_curris_, casi lo más bajo de la pirámide social de Nottingham, son explotades por la compañía, la directora J0hn y sus _blus_ y ridiculizades y manipulades por _influencers_ para que sigan con su denigrantes y anodinas vidas día tras día. 
+Les_curris_, casi lo más bajo de la pirámide social de Nottingham, son explotades por la compañía, la directora J0hn y sus _blus_ y ridiculizades y manipulades por _influencers_ para que sigan con sus denigrantes y anodinas vidas día tras día. 
 
 Si solo se dedican a trabajar sin levantar la cabeza, solo les espera miseria y desesperación. Si intentan luchar por sus derechos y por mejoras sociales, son apaleados sin piedad por los sheriffs y encerrados.
-
-[![Maintenance EotV Art By Igor-Esaulov](./assests/images/maintenance_eotv_art_by_igor_esaulov_db764s8-fullview.jpg "Maintenance EotV Art By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Maintenance-EotV-Art-677171384 "Maintenance EotV Art By Igor-Esaulov")
 
 Al final mucho terminan cayendo al otro lado de la ley y buscando una nueva oportunidad en el bosque como proscrites.
 
