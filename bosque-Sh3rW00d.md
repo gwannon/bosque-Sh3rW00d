@@ -72,9 +72,7 @@ La sociedad de la arcología de Nottingham **está dividida en 3 clases sociales
 
 ### Blus (Nobleza)
 
-El término _blus_ viene de "blue", azul. Los _blus_ eran trabajadores de alto nivel de la compañía que solían llevar el azul corporativo de la compañía frente a los marrones de los trabajadores de bajo nivel.
-
-Hoy en día se distinguen por sus trajes caros con tejidos ablativos que sobresalen sobre los viejos y remendados trapos que llevan muchos de les currelas.
+El término _blus_ viene de "blue", azul. Los _blus_ eran trabajadores de alto nivel de la compañía que solían llevar el azul corporativo de la compañía frente a los marrones de los trabajadores de bajo nivel. Hoy en día se distinguen por sus trajes caros con tejidos ablativos que sobresalen sobre los viejos y remendados trapos que llevan muchos de les currelas.
 
 Los blus son principalmente personal directivo de la compañía que se encarga de dar forma y ejecutar las órdenes de las directoras a través de sus puestos directivos en las diferentes industrias del complejo. Cobran mucho y viven en la zona alta en grandes espacios. No suelen mezclarse con el resto de _notis_, de hecho sus relaciones suelen ser muy endogámicas.
 
