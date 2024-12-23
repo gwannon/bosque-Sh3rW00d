@@ -98,7 +98,7 @@ Aunque muchos de les _influencers_ se nombran a si mismos como creadores de much
 
 ### Curris (Campesinado)
 
-Les_curris_, casi lo más bajo de la pirámide social de Nottingham, son explotades por la compañía, la directora J0hn y sus _blus_ y ridiculizades y manipulades por _influencers_ para que sigan con sus denigrantes y anodinas vidas día tras día. 
+Les _curris_, casi lo más bajo de la pirámide social de Nottingham, son explotades por la compañía, la directora J0hn y sus _blus_ y ridiculizades y manipulades por _influencers_ para que sigan con sus denigrantes y anodinas vidas día tras día. 
 
 Si solo se dedican a trabajar sin levantar la cabeza, solo les espera miseria y desesperación. Si intentan luchar por sus derechos y por mejoras sociales, son apaleados sin piedad por los sheriffs y encerrados.
 
@@ -1597,22 +1597,22 @@ Este pequeño implante se alimenta de la energía eléctrica del cuerpo humano y
 
 El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo les hijes de _boskis_ pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
 
-**Cada HUb tiene su propio código de identificación**, lo que en cierta manera lo convierte en un **documento de identificación**. El codigo del HUB se basa en un encriptado de tus progenitores más tu propio código con lo que se pueden rastrear tus antepasados a traves de las bases de datos de la arcología hasta tus primeros ancestros que se fueron a vivir a la arcología.
+**Cada HUb tiene su propio código de identificación**, lo que en cierta manera lo convierte en un **documento de identificación**. El código del HUB se basa en un encriptado de tus progenitores más tu propio código con lo que se pueden rastrear tus antepasados a través de las bases de datos de la arcología hasta tus primeros ancestros que se fueron a vivir a la arcología.
 
-Les proscrites no suelen quitarse el HUB, porque lo necesitan para cuando se mueven por el complejo en sus misiones, pero suelen hackearlo con códigos temporales validos para no ser identificados con su ćodigo personal. Estos códigos son validos (pertenecen a niñes, ancianes, gente que ha huido al bosque, etc.) pero no suelen tener ningún tipo de datos asociados con lo que no pueden pagar porque no tienen creditos o tienen acceso a muy pocos lugares.
+Les proscrites no suelen quitarse el HUB, porque lo necesitan para cuando se mueven por el complejo en sus misiones, pero suelen hackearlo con códigos temporales válidos para no ser identificados con su código personal. Estos códigos son válidos (pertenecen a niñes, ancianes, gente que ha huido al bosque, etc.) pero no suelen tener ningún tipo de datos asociados con lo que no pueden pagar porque no tienen créditos o tienen acceso a muy pocos lugares.
 
 La vida sin un HUB de conexión es bastante en el complejo:
 
-* No se puede pagar con creditos.
-* La puertas con seguridad no te detectan y no se abren. Las puertas sautomaticas más simples te detectan porque detectan tu cuerpo, no tu HUB.
+* No se puede pagar con créditos.
+* Las puertas con seguridad no te detectan y no se abren. Las puertas automáticas más simples te detectan porque detectan tu cuerpo, no tu HUB.
 
 \sp
 
-* Los turbo ascensores no aceptan tus ordenes, porque creen que no hay nadie dentro. Necesitas a alguien con HUB para poder usarlos.
+* Los turbo-ascensores no aceptan tus órdenes, porque creen que no hay nadie dentro. Necesitas a alguien con HUB para poder usarlos.
 * Los robots te consideran objetos y si tienen que aplastarte para esquivar a una persona, lo harán. su programación les dice que deben proteger primero a las personas y luego a los objetos.
-* Los sheriffs te identifican facilmente como _boski_ y son de los dispara primero y pregunta despues.
-* Mucha domotica de los habitáculos solo funciona a través del HUB. Olvídate de encender/apagar luces de una habitación sin HUB, deberás usar los controles manuales.
-* El HUB da acceso a diferentes redes sociales y servicios web. Sin HUB todo eso está fuera de tu alcance. Con códigos validos temporales tampoco se puede hacer mucho, porque muchas veces son perfiles vacios.
+* Los sheriffs te identifican fácilmente como _boski_ y son de los que disparan primero y pregunta después.
+* Mucha domótica de los habitáculos solo funciona a través del HUB. Olvídate de encender/apagar luces de una habitación sin HUB, deberás usar los controles manuales.
+* El HUB da acceso a diferentes redes sociales y servicios web. Sin HUB todo eso está fuera de tu alcance. Con códigos válidos temporales tampoco se puede hacer mucho, porque muchas veces son perfiles vacíos.
 * El HUB permite acceder a mucha información, entre otros datos información médica. Les doctores del complejo, de normal no suelen tratar a gente sin HUB porque ayudar a proscrites es un delito grave, pero en caso de hacerlo tiene el problema de que tengan info médica de le paciente.
 
 \sp
