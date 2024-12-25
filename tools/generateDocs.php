@@ -22,7 +22,9 @@ $html = str_replace("</h1>", "</h1>\n<div class=\"saltopagina\"></div><div class
 $html = str_replace("<div class=\"columns\">\n</div>", "", $html); 
 $html = str_replace("<table>", "<div><table>", $html); 
 $html = str_replace("</table>", "</table></div>", $html); 
-$html = str_replace("<p><strong>Semilla de aventura:</strong>", "<p class=\"seed\"><strong>Semilla de aventura:</strong>", $html); 
+$html = str_replace("<p><strong>Semilla de aventura:</strong>", "<p class=\"seed\"><strong>Semilla de aventura:</strong>", $html);
+
+file_put_contents(__DIR__ . "/../index.html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
@@ -37,7 +39,7 @@ $metas .= "InfoValue: ".$tags['KEYWORDS']."\n\n";
 /* -------------------------------------------------------------- */
 $doc = new DOMDocument();
 $internalErrors = libxml_use_internal_errors(true);
-$doc->loadHTMLFile("index.html");
+$doc->loadHTMLFile(__DIR__ . "/../index.html");
 $body = $doc->getElementsByTagName('body');
 $body = $body->item(0);
 $json = [];
@@ -82,6 +84,8 @@ foreach($lines as $line) {
 
 $metas .= bookMark("Contraportada", 1, $counter);
 $json[] = ["title" => "Contraportada", "page" => $counter];
+
+echo "Indice ".count($json)." items\n";
 
 /* Generamos el Índice HTML */
 /* -------------------------------------------------------------- */
