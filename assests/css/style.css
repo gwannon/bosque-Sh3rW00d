@@ -249,12 +249,14 @@ h1 + .saltopagina + p:first-of-type:first-letter,
 h2 + .columns:has(p:first-of-type > a > img) > p:nth-of-type(2):first-letter,
 h2 + p:has(a > img) + .columns > p:first-of-type:first-letter {
   font-family: 'Medieval Pixel', cursive;
-  font-size: 5.7em;
+  font-size: 118px;
   display: block;
   float: left;
   margin: 0px 0px 0px 0px;
-  padding: 11px 5px 0px;
+  padding: 19px 5px 0px 0px;
   color: var(--black-color);
+  line-height: 53px;
+  text-transform: uppercase;
 }
 
 section:nth-of-type(odd) h2 + .columns > p:first-of-type:first-letter,

@@ -1931,7 +1931,7 @@ xxx
 
 \sinc
 
-## Mensajería
+## Información y mensajería
 
 \conc
 
@@ -1939,11 +1939,47 @@ xxx
 En un mundo hipertecnificado, la forma más fácil de que no te hackeen información es que esta sea física. Los planos de un nuevo ingenio es mejor tenerlos en papel y que los lleve une mensajere en bici que mandarlos por mensajes digitales.
 ```
 
+En Nottingham, como buen mundo ciberpunk, la información es poder y protegerla es muy importante, así que mucha información importante se mantiene de forma física (papel o unidades de almacenamiento) y se mueven físicamente en vez de electrónicamente. Es por ello que existen empresas de mensajería y mensajeres independientes que llevan esa información en forma física de un lugar a otro.
+
+### Empresas de mensajería y mensajeres independientes
+
+Las empresas de mensajería son empresas bastante atípicas en comparación con el sistema capitalista imperantes. Suelen ser cooperativas de mensajeres, no empresas como podríamos pensar. Muchas empezaron normalmente como grupos de corredores de parkour o skaters que estaban en sus callejones practicando su deporte y que recibían encargos por llevar pedidos de comida rápidamente por una buena propina.
+
+Poco a poco se fueron profesionalizando y ponían una cuota inicial para alquilar un habitáculo donde descansar, guardar su equipo y montar una oficina donde recibir los encargos. Los mensajeres nuevos que se apuntan a la cooperativa pagan una cuota de entrega tras ser aceptaba su solicitud de ingreso en la cooperativa.
+
+Les mensajeres independientes suelen ser practicantes de disciplinas como parkour o skating que empiezan a trabajar de mensajeres para monetizar su afición, pero sin convertirse en un modo de vida. Si quieren dedicarse profesionalmente, suelen unirse a una cooperativa.
+
 [![Delivery By Fernand0FC](./assests/images/delivery_by_fernand0fc_dd9kr8q-414w-2x.jpg "Delivery By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Delivery-802145258 "Delivery By Fernand0FC")
 
-xxx
+> Muchas de las cooperativas están siendo absorbidas por empresas más grandes que bien quieren meterse en el negocio de la mensajería o bien quieren integrar en su estructura un sistema seguro de mensajería. Las más rehacias y resistentes a ser compradas suelen tener contactos con el bosque y si eres de confianza, pueden llevar mensajes al Gran Roble.
+
+\sp
+
+A parte de las empresas tradicionales de mensajería hay otras con unos métodos de trabajo totalmente diferentes, como Mouseguard o Multiply.
+
+#### Multiply
+
+Una de las empresas de mensajería más curiosas es Multiply. A diferencia de otras empresas, Multiply tiene cientos de trabajadores. Te ofreces como mensajero y dices tus rutas habituales. Cuando alguna de tus rutas normales coincide con un envío, te avisan y recoges el paquete y lo entregas donde te dicen.
+
+No vas rápido, ni haciendo acrobacias, simplemente haces tu ruta habitual, andando tranquilamente y sin llamar la atención. Te pagan muy poco pero es un extra a tu salario habitual. La seguridad en esta empresa la da el número. Para un envío tiene a varies mensajeres, pero solo une lleva el paquete con el mensaje, el resto son señuelos. 
+
+#### Mouseguard
+
+Esta empresa de robots tiene una flotilla de minirobots, llamados mouses o ratones, que se mueven por todo el complejo por pasillos de servicio, conductos, tuberías, etc. para hacer envíos. Solo llevan info en unidades de almacenamiento, no llevan objetos grandes.
+
+Su estrategia es moverse por rutas alternativas que no pueden usar los humanos. No son vistos ni detectados y, por tanto, no pueden ser interceptados y su información robada. Además, la IA que controla las rutas y nunca las repite. No le importa usar rutas larguísimas, el robot no tiene un horario de trabajo, así que tenerlos dando vueltas es una opción. 
 
 \sc
+
+Los robots se autodestruyen, si creen que pueden ser interceptados y la información que portan puede ser robada. Como son solo datos basta con grabarlos en otra unidad de almacenamiento y mandar otro ratón.
+
+> Los mapas del complejo de Mouseguard son mejores que los que tiene la propia directora J0hn, ya que los robots mapean todos los sitios por los que pasan. Conseguir esos datos podría dar una gran ventaja a una banda de proscrites que necesitan entrar y salir de un lugar sin ser detectados y moverse por toda la arcología sin ser vistos. 
+
+### Parkour, skaters, BMX y otros estilos
+
+Cada mensajero tiene su forma de moverse por la ciudad rápidamente. Tenemos corredores que hacen parkour, skaters y rollers con sus saltos y sus descensos a toda velocidad y ciclistes con sus ebikes de BMX.
+
+Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, enfermeres en caso del parkour o mecániques de bicis para los especialistas en BMX.
 
 \sp
 
@@ -1957,7 +1993,7 @@ xxx
 En Bosque Sh3rW00d hay otras tecnologías no tan relacionadas con la cibernia que pueden dar sabor a tus partidas.
 ```
 
-xxx
+Veamos algunas de esas otras tecnologías y que influencia pueden tener en Nottingham y sus residentres,
 
 ### Clonación e ingeniería genética
 
@@ -2138,7 +2174,7 @@ xxx
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño (-2):** Modificar al atacarlo -2. Son pequeños robots que se dedican a limpiar suelos, paredes y techos.
   * **Trepamuros:** Se mueven a paso 6 por paredes y techos y pueden incluso correr.
-* **Equipo:** xxx
+* **Equipo:** Depositos con diferentes productos de lipieza, acidos, desengrasantes, etc.
 
 ### Cargador
 
@@ -2155,7 +2191,6 @@ xxx
 * **Capacidades especiales:**
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
-* **Equipo:** xxx
 
 ### Comadrejas
 
@@ -2170,7 +2205,6 @@ Esto pequeños robots son alargados como comadrejas, aunque más grandes, se enc
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño (-1):** Puede moverse sin problemas por tubos de ventilación y otros conductos grandes.
-* **Equipo:** xxx
 
 \sc
 

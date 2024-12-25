@@ -9,7 +9,7 @@ $tags = [
   'VERSION' => "BETA 0.4.5",
   'LANZAMIENTO' => 'Marzo de 2025',
   "AUTHOR" => "@Gwannon",
-  "KEYWORDS" => "juego de rol, Savage Worlds, cyperpunk, robin hood",
+  "KEYWORDS" => "juego de rol, Savage Worlds, ciberpunk, robin hood",
   "URL" => "https://bosque.gwannon.com",
   "GITHUB" => 'https://github.com/gwannon/bosque-Sh3rW00d'
 ];
