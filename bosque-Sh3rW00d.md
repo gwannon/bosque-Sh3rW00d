@@ -236,21 +236,25 @@ Por desgracia, puede tocarte un simulacro de incendios en cualquier parte y acab
 
 ### Cultura y contracultura
 
-xxx
+Si hablamos de tema culturales tenemos que considerar que una cultura oficial protegida y promovida por la directora J0hn con respaldo de la compañia y diferentes corrientes contraculturales y disidentes que parten de diferentes grupos oprimidos y/o aislados.
 
 \sp
 
-[![Marnie Bass Guitar By gigiEDT](./assests/images/marnie_bass_guitar_by_gigiedt_dftn15j-414w-2x.jpg "SMarnie Bass Guitar By gigiEDT")](https://www.deviantart.com/gigiedt/art/Marnie-Bass-Guitar-956776087 "Marnie Bass Guitar By gigiEDT")
+[![Marnie Bass Guitar By gigiEDT](./assests/images/marnie_bass_guitar_by_gigiedt_dftn15j-414w-2x.jpg "Marnie Bass Guitar By gigiEDT")](https://www.deviantart.com/gigiedt/art/Marnie-Bass-Guitar-956776087 "Marnie Bass Guitar By gigiEDT")
+
+xxx
+
+\sc
 
 ### Ocio y entretenimiento
+
+[![DJ By Sapphire4723](./assests/images/dj_by_sapphire4723_d2uyz9t-pre.jpg "DJ By Sapphire4723")](https://www.deviantart.com/sapphire4723/art/DJ-172952849 "DJ By Sapphire4723")
 
 xxx
 
 ### Gastronomía
 
 La base de la gastronomía se basa en las algas producidas y procesadas en la algafactoria del Trent. A partir de estas algas se crean todo tipo de productos alimenticios como formas y sabores muy variados.
-
-\sc
 
 \sp
 
@@ -405,7 +409,39 @@ La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las
 
 ### Duelos
 
-xxx
+De siempre, los duelos, sobre todo a muerte, han estado prohibidos en Nottingham, pero eso nunca ha parado a los _notis_ de alto nivel de batirse en alguno de los pasajes del huerto urbano. La politica de la compañía es no dañar mortalmente su fuerza de trabajo, aunque sí los ha permitido cuando le han servido para acabar con disidentes.
+
+\sp
+
+[![Derivates By cyberaeon](./assests/images/derivates_by_cyberaeon_dfp67be-414w-2x.jpg "Derivates By cyberaeon")](https://www.deviantart.com/cyberaeon/art/Derivates-949272458 "Derivates By cyberaeon")
+
+Para empezar, debemos decir que los duelos es algo de _blus_ e _influencers_, no se da entre _curris_. Cuando une de estos dos grupos se siente ofendido puede pedir un duelo para resarcir su honor mancillado.
+
+Normalmente los desafios se suelen lanzar a _curris_ por tonterías, como una forma de humillación, sabiendo que no los aceptarán y tendrán que retractarse de la supuesta ofensa que han hecho y humillarse publicamente como cobardes devolviendo el guante. Les _blus_ e _influencers_ juegan con la ventaja de que los _curris_ no tienen ni el tiempo ni el dinero para afrontar un duelo y mucho menos permitirse semanas o meses de curas y medicinas en caso de que no sean mortales. 
+
+Otro elemento importante es que puedes tener un campeón que se bata en duelo en tu nombre, lo cual hace que los _curris_ no tengan ninguna oportunidad de ganar ante esto profesionales de los duelos y prefieran la humillación a las consecuencias de perder casi seguro el duelo.
+
+Aun asi ha habido casos de _curris_ que han aceptado duelos, pese a saberse que tenían muy pocas posibilidades de sallir victoriosos. Incluso ha habido varios que han conseguido que un campeón encapuchado luchara en su nombre y venciera, obligando al _blus_ e _influencer_ a rogar por su vida.
+
+Normalmente, los duelos que terminan haciendo son entre _blus_ e _influencers_ por estupidas rencillas que pueden ir desde temas románticos a bejaciones en reels peleas por ascensos o simples trucos para cinseguir más fama y seguidores.
+
+Les _influencers_ suelen convertir los duelos en espectáculos, mientras que los _blus_ suelen ser más discretos y menos dados a enseñar sus cartas a futuros adversarios.
+
+#### Normas
+
+Las normas son las siguientes. 
+
+* El **ofendido puede exigir el duelo o una satisfacción**, normalmente humillante.
+* El **ofensor puede aceptar** el duelo o escoger **cumplir la satisfacción**.
+* Si acepta el duelo puede **elegir el tipo (primera sangre, incapacidad o muerte) o el arma**, normalmente armas de filo, pero ha habido duelos con arcos o con sticks de hockey de pasillo.
+* El ofendido elegirá lo que no haya elegido ofensor.
+
+\sp
+
+* El **duelo será al glitch de la mañana dentro de 3 días**, tiempo suficiente para dejar tus asuntos cerrados. Deberán presentarse con une madrine y su campeone en caso de tenerlo.
+* Se suele llegar a un acuerdo sobre quien será el juez y normalmente se elige una IA con las capacidades minimas para que sea jurado en un juicio.
+
+\sc
 
 \sp
 
@@ -2720,17 +2756,19 @@ Pero el huerto no solo sirve para limpiar la imagen de la directora, también si
 
 \sp
 
+Los pasillos con vegetación alta de este jardín se ha convertido en el sitio preferido para llevar a cabo duelos entre _notis_. Es un buen sitio. Fácil de encontrar, oculto a simple vista y la vegetación le da un toque clásico y romántico que no se puede conseguir en otras partes del complejo.
+
 **Semilla de aventura:** La última persona que gano las verduras del huerto ha estado unos días comportándose muy raro, con fallos de memoria y ahora presenta ronchas y prurito por todo el cuerpo. Quizás habría que investigar el huerto y ver que trama la directora.
 
 ### Pastelería Badreddin
 
 En un anexo de la Plaza Mayor tiene Hassan Badreddin su pastelería, **la mejor pastelería del complejo.** Los Badreddin llevan haciendo las mismas recetas familiares para preparar sus dulces y pasteles desde la creación de Nottingham. Pese a su fama y a la cola que hay todos los días frente a su puerta y que llega hasta la Plaza Mayor son muy asequibles y hasta les más pobres pueden disfrutar de sus muffins.
 
+Hassan y sus empleades dejan los pasteles enfriar en el alfeizar de una de las ventanas del local, como han hecho sus antepasados desde hace siglos, no solo para atraer a la clientela con el buen olor, sino también para que la gente sin dinero y con hambre pueda "robarlos".
+
 Los pasteles de Hassan pueden ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une _blus_ con el que vas a firmar un contrato. Quizás no sea tan mala idea echar un par de horas en la cola para comprar unos pasteles a Hassan y regalárselos a tu _amore_.
 
 > Regalar a una persona una caja de dulces de Hassan y conseguir que los pruebe hará que automáticamente **la reacción de le agasajade sea un nivel menos hostil**. En caso de tirarse en la tabla de Reacciones, podrá pedir tirar de nuevo y quedarse con la que más le interese.
-
-Hassan y sus empleades dejan los pasteles enfriar en el alfeizar de una de las ventanas del local, como han hecho sus antepasados desde hace siglos, no solo para atraer a la clientela con el buen olor, sino también para que la gente sin dinero y con hambre pueda "robarlos".
 
 ### LEDland
 
@@ -2740,9 +2778,9 @@ Antiguamente, este acceso estaba cubierto por una sustancia gomosa creada por le
 
 Esta historia corrió como la pólvora y LEDland se convirtió en un pozo de los deseos. La gente va allí con miniLEDs, busca un espacio libre donde clavar su lucecita y pide un deseo. Si se enciende se cumplirá y si falla (cosas que ocurre muy pocas veces) no se hará realidad.
 
-Corre otra historia, en la que Anette murió en accidente de trabajo a los pocos días de empezar en su nuevo puesto. Hay gente que cree que los deseos de LEDland son peligrosos y pueden volverse contra ti.
-
 \sp
+
+Corre otra historia, en la que Anette murió en accidente de trabajo a los pocos días de empezar en su nuevo puesto. Hay gente que cree que los deseos de LEDland son peligrosos y pueden volverse contra ti.
 
 > Lo interesante es que LEDland fascina a la directora J0hn. El tema de los deseos intriga a la mente de esta IA y pierde muchos ciclos de proceso y memoria estudiando a la gente que pide deseos y si se cumplen o no. Podemos decir que J0hn cree en cierta medida en lo sobrenatural y la magia, lo cual es raro para su mente analítica y científica. Si lo de su extraña afición se llegara a conocer, un estafador hábil podría montar un buen golpe contra la directora J0hn usando ese conocimiento.
 
@@ -3433,6 +3471,8 @@ Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombr
 
 xxx
 
+Otro de los alteregos de Mariam es un encapuchado que se ha ofrecido como campéon de personas indefensas que habían aceptado duelos de _blus_ e _influencers_ abusones. Se presenta con ropa de corte militar y una sudadera de camuflaje con gran capucha que esconde su cara y por ahora ha salido victoriosa, que no ilesa de todos esos duelos. 
+
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
@@ -3509,9 +3549,11 @@ xxx
 
 \sinc
 
-## Guy de Gisbourne &#35;
+## Guy de Gisbourne, asesino a sueldo reformado &#35;
 
 \conc
+
+[![tokyo style 1 By GogOsWorld](./assests/images/tokyo_style_1_by_gogosworld_d1ie7s5-414w-2x.jpg "tokyo style 1 By GogOsWorld")](https://www.deviantart.com/gogosworld/art/tokyo-style-1-91362533 "tokyo style 1 By GogOsWorld")
 
 xxx
 

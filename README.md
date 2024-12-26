@@ -64,6 +64,8 @@ Bosque Sh3rW00d es una ambientación CyberPunk para Savage Worlds Edición Explo
 
 ### 0.4.6 En desarrollo
 
+* Terminada sección de "Duelos"
+
 ### 0.4.5 26/12/2024
 
 * Terminada sección de "El mundo exterior"
@@ -198,6 +200,9 @@ https://www.deviantart.com/batjorge/art/Never-ending-Builds-968998449
 ---
 
 https://www.deviantart.com/phracker/art/Edge-Noise-924955740
+
+
+https://www.deviantart.com/gogosworld/gallery
 
 ## Ideas
 
