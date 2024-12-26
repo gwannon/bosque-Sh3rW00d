@@ -574,16 +574,28 @@ Les profesores suelen ser profesionales que trabajan de ello. Imparten clases a 
 \conc
 
 ```
-Una regla fundamental de esta ambientación es que es imposible salir al exterior de la arcología. El exterior es algo de lo que se habla, pero que la gente no ha visto nunca.
+Un principio fundamental de esta ambientación es que es imposible salir al exterior de la arcología. El exterior es algo de lo que se habla, pero que la gente no ha visto nunca.
 ```
 
-El mundo exterior es algo de lo que todes hablan, pero muy pocos conocen. Les _notis_ pueden tener noticias y ver imágenes del mundo exterior y saber lo que pasa en otras arcologías, pero como en tiempos medievales, otra cosa es salir de tu condado y visitar otros lugares. Les _notis_ nunca salen de la arcología, esa opción es tan tremendamente cara que solo les más riques y famoses puede permitírselo. 
+El mundo exterior es algo de lo que todes hablan, pero muy pocos conocen. Les _notis_ pueden tener noticias y ver imágenes del mundo exterior y saber lo que pasa en otras arcologías, pero como en tiempos medievales, otra cosa es salir de tu condado y visitar otros lugares. Les _notis_ nunca salen de la arcología, esa opción es tan tremendamente cara que solo les más riques y famoses puede permitírselo. Otra opción es que la directora J0hn te envíe fuera de Nottingham para que realices algún trabajo.
 
-xxx
+La idea es que si tienes que huir, no sea a la arcología de Manchester, sino al bosque.
 
 > La regla fundamental es que **las únicas personas que conocen el exterior sean PNJ**, como Lady Myrna, que entran y salen del complejo constantemente o que cuentan cosas de los tiempos en que vivían en otras arcologías.
 
+No debería influir en las aventuras lo que haya fuera pero tenerlo decidido puede ayudar a montar futuras partidas. Quizás cuando la directora R1c4rd vuelva y todo sea como en antaño sea el momento de ir a Oxford y ayudarles a librarse de la tiranía de la compañía. Tal vez la arcología expanda una plaga mortal en Nottingham y los pocos _boskis_ deban encontrar un nuevo hogar.
+
 \sc
+
+[![Aion By batjorge](./assests/images/aion_by_batjorge_dcl4mpy-pre.jpg "Aion By batjorge")](https://www.deviantart.com/batjorge/art/Aion-761082118 "Aion By batjorge")
+
+Sea como sea, aquí tienes **algunas ideas** que puedes usar.
+
+* No existen ciudades, solo arcologías donde viven todos los humanos. El mundo fuera de las arcologías es un páramo apocalíptico muy peligroso y solo quedan unas zonas con fauna y flora donde viven los superricos.
+* El mundo está en guerra y las arcologías son mega factorías que producen para poder continuar la guerra, como Nottingham y sus algas.
+* Para poder sobrevivir a un cataclismo ecológico, los humanos se vieron obligados a recluirse en las arcologías y permanecer en ellas mientras la tierra se cura.
+* La tierra es una megaciudad y las arcologías son solo barrios de esa megaciudad. Cómo pertenecen a la compañía, está no deja entrar o salir a nadie.
+* Puedes incluso convertir Nottingham es una especie de base lunar o marciana. Salir del complejo significa la muerte.
 
 ***
 
@@ -1586,7 +1598,7 @@ En este capítulo vas a ver toda la tecnología que puedes encontrar en la arcol
 Todas las personas nacidas en una maternidad de la arcología, son implantados nada más nacer con un HUB de conexión que le permitirá conectarse a las redes informáticas de su alrededor. Por otro lado permite tener a todo la gente rastreada y controlada.
 ```
 
-Este pequeño implante se alimenta de la energía eléctrica del cuerpo humano y es tan simple de diseño y software que no tiene casi fallos, aun que alguno tiene. El HUB de conexión permite entre otras muchas cosas.
+Este pequeño implante se alimenta de la energía eléctrica del cuerpo humano y es tan simple de diseño y software que no tiene casi fallos, aunque alguno tiene. El HUB de conexión permite entre otras muchas cosas.
 
 * Conectarse en realidad aumentada a la red de la arcología.
 * Controlar la domótica del hogar y/o del lugar de trabajo.
@@ -1951,7 +1963,7 @@ Les mensajeres independientes suelen ser practicantes de disciplinas como parkou
 
 [![Delivery By Fernand0FC](./assests/images/delivery_by_fernand0fc_dd9kr8q-414w-2x.jpg "Delivery By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Delivery-802145258 "Delivery By Fernand0FC")
 
-> Muchas de las cooperativas están siendo absorbidas por empresas más grandes que bien quieren meterse en el negocio de la mensajería o bien quieren integrar en su estructura un sistema seguro de mensajería. Las más rehacias y resistentes a ser compradas suelen tener contactos con el bosque y si eres de confianza, pueden llevar mensajes al Gran Roble.
+> Muchas de las cooperativas están siendo absorbidas por empresas más grandes que bien quieren meterse en el negocio de la mensajería o bien quieren integrar en su estructura un sistema seguro de mensajería. Las más reacias y resistentes a ser compradas suelen tener contactos con el bosque y si eres de confianza, pueden llevar mensajes al Gran Roble.
 
 \sp
 
@@ -1993,7 +2005,7 @@ Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y c
 En Bosque Sh3rW00d hay otras tecnologías no tan relacionadas con la cibernia que pueden dar sabor a tus partidas.
 ```
 
-Veamos algunas de esas otras tecnologías y que influencia pueden tener en Nottingham y sus residentres,
+Veamos algunas de esas otras tecnologías y que influencia pueden tener en Nottingham y sus residentes,
 
 ### Clonación e ingeniería genética
 
@@ -2174,7 +2186,7 @@ xxx
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño (-2):** Modificar al atacarlo -2. Son pequeños robots que se dedican a limpiar suelos, paredes y techos.
   * **Trepamuros:** Se mueven a paso 6 por paredes y techos y pueden incluso correr.
-* **Equipo:** Depositos con diferentes productos de lipieza, acidos, desengrasantes, etc.
+* **Equipo:** Depósitos con diferentes productos de limpieza, ácidos, desengrasantes, etc.
 
 ### Cargador
 

@@ -545,3 +545,5 @@ sintecuero
 konami
 recurvos
 parkour
+Multiply
+Mouseguard
