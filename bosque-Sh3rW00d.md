@@ -2041,7 +2041,19 @@ Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y c
 En Bosque Sh3rW00d hay otras tecnologías no tan relacionadas con la cibernia que pueden dar sabor a tus partidas.
 ```
 
-Veamos algunas de esas otras tecnologías y que influencia pueden tener en Nottingham y sus residentes,
+Veamos algunas de estas otras tecnologías y que influencia pueden tener en el día a día de la arcología de Nottingham y sus residentes,
+
+### Tecnología láser
+
+La tecnología laser, como hoy en día, sigue **usándose solo en industria, medicina y telecomunicaciones**. El laser no ha llegado a les _notis_ de a pie, principalmente, por su enorme gasto energético.
+
+Aunque en el mundo exterior el laser tiene aplicaciones militares, el laser ha llegado a las calles de Nottingham en forma de pistolas laser ni filos laser. De hecho, la existencia de un arma laser en las calles de Nottingham podría ser una buena semilla de aventura, donde diferentes facciones buscan hacerse con ellas.
+
+### Hologramas
+
+La tecnología de hologramas **existe, pero no está muy avanzada**. Se nota que algo es un holograma con mucha facilidad, principalmente por su falta de calidad y definición y porque no tiene casi movimiento. 
+
+Su uso principal es crear HUD virtuales y pantallas y teclados holográficos sobre los que trabajar, pero no crear habitaciones holográficas totalmente realistas. De hecho en concepto de luz dura no existe en bosque Sh3rW00d.
 
 ### Clonación e ingeniería genética
 
@@ -2050,16 +2062,6 @@ xxx
 ### Transhumanidad
 
 xxx
-
-### Tecnología láser
-
-xxx
-
-### Hologramas
-
-xxx
-
-\sc
 
 ***
 
@@ -3204,7 +3206,7 @@ Las zonas están conectadas como hemos explicado antes, pero siempre es posible 
 \conc
 
 ```
-xxx
+El complejo de Nottingham es formado por miles sino millones de espacios con sus miles de tamaños, formas, accesos, mobiliario, iluminación, etc. 
 ```
 
 Las siguientes reglas te permiten crear espacios de forma rápida y sencilla donde poder situar las escenas de tus aventuras. Podrás elegir el tipo de espacio y su tamaño y obtendrás su forma, sus salidas, su contenido, elementos de seguridad, etc.
@@ -3604,7 +3606,7 @@ xxx
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Microfono inalambrico de calidad con carcasa vintage, ropa ajustada y sexy pero que permite moverse y bailar
 
 > **Sugerencia de interpretación:** xxx
 
@@ -3623,13 +3625,13 @@ xxx
 > Se cuenta que Mamá Claire puede leer tu futuro en el gumbo, te echa una ración en tu plato y lee el gumbo. Es por ello que Mamá Claire tiene Ocultismo, por si quieres que les haga una predicción.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, ocultismo d8,Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ocultismo d8,Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-> **Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** Delantal con un bolsillo grandecon todo tipo de objetos de cocina y especias, gran cucharón metálico para revolver el gumbo y servirlo, machete (FUE+d6)
 
 \sp
 
@@ -3650,7 +3652,7 @@ xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-> **Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** Ropas simples, arco recurvo y una sola flecha que lanza y recoge todo el rato.
 
 \sp
 
@@ -3688,7 +3690,7 @@ xxx
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
 
 > **Sugerencia de interpretación:** xxx
 
@@ -3765,7 +3767,7 @@ xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-> **Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** Herramientas de jardineria (tijeras de podar, pala, semilleros, cuerda, etc.) y equipo cientifico(probetas, placas petri, pinzas, mechero bunchen, etc.). 1d4 botes de zumo estimulante (otorga un nivel de dado a FUE o VIG durante una hora).
 
 \sp
 
