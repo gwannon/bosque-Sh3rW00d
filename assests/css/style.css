@@ -243,6 +243,10 @@ h2 {
   font-weight: 300;
 }
 
+p:has(a > img) + h2 {
+  margin-top: 0px;
+}
+
 h2 + .columns > p:first-of-type:first-letter,
 h1 + .saltopagina + .columns > p:first-of-type:first-letter,
 h1 + .saltopagina + p:first-of-type:first-letter,

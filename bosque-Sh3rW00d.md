@@ -2033,6 +2033,8 @@ Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y c
 
 \sinc
 
+[![1920x1080 Wallpaper Desktop By siulzz](./assests/images/1920x1080_wallpaper_desktop_by_siulzz_dcqt4kg-pre.jpg "1920x1080 Wallpaper Desktop By siulzz")](https://www.deviantart.com/siulzz/art/1920x1080-Wallpaper-Desktop-770623072 "1920x1080 Wallpaper Desktop By siulzz")
+
 ## Otras tecnologías
 
 \conc
@@ -2055,13 +2057,25 @@ La tecnología de hologramas **existe, pero no está muy avanzada**. Se nota que
 
 Su uso principal es crear HUD virtuales y pantallas y teclados holográficos sobre los que trabajar, pero no crear habitaciones holográficas totalmente realistas. De hecho en concepto de luz dura no existe en bosque Sh3rW00d.
 
+\sp
+
 ### Clonación e ingeniería genética
 
-xxx
+La **clonación de seres humanos, aunque posible, es ilegal** incluso, la clonación de órganos para transplantes.
+
+Los laboratorios de clonación y manipulación genetica son investigados y supervisados continuamente. Solo se les permite trabajar en plantas y criaturas muy básicas.
+
+Casi todos estos laboratorios trabajan en mejorar las características de las algas de Trent para mejorar su producción,  sus características y su resistencia a plagas.
+
+Cabe destacar, por ejemplo, los estudios de manipulación genética del Doctor Zeyaur Khan al dotar de cafeína a las algas como defensa química. Esto hizo que el café de Nottingham fuera y de lus mejores del mundo.
 
 ### Transhumanidad
 
-xxx
+Cómo la clonación, los métodos de **descargar mentes humanas dentro de ordenadores están también prohibidos**.
+
+Aunque la tecnología es factible, como demuestran las IA de alto nivel, no está disponible en la arcología. El consumo de recursos, material y espacio sería demasiado alto. Pero eso no quiere decir que no sea factible en otros complejos donde les riques y poderoses puedan meter sus mentes en máquinas y vivir eternamente.
+
+Pero desde luego, está tecnología es muy rara y se mantiene en secreto. Solo estaría reservada para los más altos cargos de la compañía.
 
 ***
 
@@ -2075,7 +2089,7 @@ También los puedes usar como base para tus PNJ. Si el tabernere va a ser import
 
 Recuerda que en esta ambientación muchos de estos PNJ genériques puedes personalizarlos con diferentes habilidades y ventajas. Quizás le mensajere en bici que lleva un disco con datos importantes puede que tenga un d10 en Atletismo o la líder de una pandilla pueda tener un Persuadir alto para arengar a sus tropas.
 
-## Villanos
+## Villanes
 
 [![Slaughteress 2019 By Mishkatron](./assests/images/slaughteress_2019_by_mishkatron_dcz55ay-pre.jpg "Slaughteress 2019 By Mishkatron")](https://www.deviantart.com/mishkatron/art/Slaughteress-2019-784620826 "Slaughteress 2019 By Mishkatron")
 
@@ -2085,7 +2099,7 @@ Recuerda que en esta ambientación muchos de estos PNJ genériques puedes person
 Como siempre se dice la talla de tus heroines la marcan sus villanos.
 ```
 
-Tu banda de proscrites tendrán que enfrentarte con todo tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines influencers, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarrecompensas de fuera del complejo que cazan personas por dinero.
+Tu banda de proscrites tendrá que enfrentarte con todo tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines _influencers_, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarrecompensas de fuera del complejo que atrapan o matan personas por dinero.
 
 ### Sheriffs
 
@@ -2191,7 +2205,7 @@ xxx
 \conc
 
 ```
-Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y lanzarte.
+Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y usar a su antojo.
 ```
 
 En esta ambientación los robots no son personajes carismáticos, charlatanes y autónomos. Son herramientas programadas para hacer su trabajo y solo su trabajo. Tampoco están antropomorfizados, si tienen que transportar materiales serán carros con ruedas y grúas para cargar y descargar materiales, si limpian los conductos serán largos y estrechos y se moverán como comadrejas o serpientes por los tubos de ventilación.
@@ -2319,7 +2333,7 @@ Los oscuros callejones de Nottingham están llenas de este tipo de personajes. T
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ciberimplantes:** xxx
-* **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
+* **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Algaína), Manco (Mayor), Mudo (Mayor)
 * **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Stick de hockey (FUE+d4), Tirachinas
 
@@ -2360,7 +2374,7 @@ Estes criminales menores pueblan los callejones de la zona baja dando golpes men
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ciberimplantes:** xxx
-* **Desventajas:** Buscado (Menor, por delitos menores), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Feo (Menor), Habito (Mayor, Cocaína)
+* **Desventajas:** Buscado (Menor, por delitos menores), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Feo (Menor), Habito (Mayor, Algaína)
 * **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Navaja (FUE+d4), stick de hockey con clavos (FUE+d4+1)
 
