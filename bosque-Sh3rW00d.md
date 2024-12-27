@@ -1942,8 +1942,12 @@ xxx
 \conc
 
 ```
-xxx
+La nanotecnología es una de las fuerzas creadoras más importantes de bosque Sh3rW00d.
 ```
+
+Les instaladores eran sus grandes maestros y cuantos ellos se fueron sus inmensos conocimientos en nanotecnología y la casi totalidad de los nabots que había en Nottingham desaparecieron con elles.
+
+### La arcología y Nottingham
 
 xxx
 
@@ -1953,9 +1957,22 @@ Un hecho importante a tener en cuenta es que los nanitos no entienden a los sere
 
 Por decirlo de forma sencilla, cuando construyen una casa, la casa no se queja, ni está todo el rato moviéndose y cambiando de tamaño y forma y si lo hace es dentro de un entorno controlable. 
 
+\sc
+
 Así pues, el uso de nanitos en entidades biológicas está reservado a la experimentación en laboratorios y todavía no habido grandes avances en esta tecnología. Salvo cosas muy puntuales como reparación de huesos o estimular de ciertas glándulas. En ambos casos los nanorobots solo tienen una única tarea y es muy simple, con lo que no les genera gran problema.
 
-\sc
+### Restos de nanotecnología
+
+xxx
+
+Actualmente hay pocos restos de nanotecnología en Nottingham, pero aun queda algunos.
+
+* Las historias cuentan que en **el pozo (Zona baja)** aun queda resto de nanobots en el fondo, pero nadie ha querido comprobarlo.
+* **La rayuela fantasma (Zona baja)** de la que hablan les niñes tiene su origen en un grupo de nanitos que se han quedado en un bucle infinito.
+
+### Nanotecnología en el bosque
+
+xxx
 
 \sp
 
