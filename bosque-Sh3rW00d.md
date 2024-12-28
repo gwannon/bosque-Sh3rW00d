@@ -112,7 +112,7 @@ Aunque la inmensa mayoría de los _boskis_ son de origen humilde y de bajos estr
 
 \sp
 
-Podemos tener boskis de primera generación, es decir que nacieron en el complejo (y tienen un insertado en su cuerpo un hub de conexión) o de segunda generación, conocidos como nacides libres, porque nacieron en el bosque no tienen el hub de conexión.
+Podemos tener boskis de primera generación, es decir que nacieron en el complejo (y tienen un insertado en su cuerpo un HUB de conexión) o de segunda generación, conocidos como nacides libres, porque nacieron en el bosque no tienen el HUB de conexión.
 
 Los _boskis_ tienen un dicho que explica su forma de pensar _En el bosque tienes tu propio nombre, pero no es solo tuyo._
 
@@ -236,7 +236,7 @@ Por desgracia, puede tocarte un simulacro de incendios en cualquier parte y acab
 
 ### Cultura y contracultura
 
-Si hablamos de tema culturales tenemos que considerar que una cultura oficial protegida y promovida por la directora J0hn con respaldo de la compañia y diferentes corrientes contraculturales y disidentes que parten de diferentes grupos oprimidos y/o aislados.
+Si hablamos de temas culturales tenemos que considerar que una cultura oficial protegida y promovida por la directora J0hn con respaldo de la compañía y diferentes corrientes contraculturales y disidentes que parten de diferentes grupos oprimidos y/o aislados.
 
 \sp
 
@@ -409,7 +409,7 @@ La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las
 
 ### Duelos
 
-De siempre, los duelos, sobre todo a muerte, han estado prohibidos en Nottingham, pero eso nunca ha parado a los _notis_ de alto nivel de batirse en alguno de los pasajes del huerto urbano. La politica de la compañía es no dañar mortalmente su fuerza de trabajo, aunque sí los ha permitido cuando le han servido para acabar con disidentes.
+De siempre, los duelos, sobre todo a muerte, han estado prohibidos en Nottingham, pero eso nunca ha parado a los _notis_ de alto nivel de batirse en alguno de los pasajes del huerto urbano. La política de la compañía es no dañar mortalmente su fuerza de trabajo, aunque sí los ha permitido cuando le han servido para acabar con disidentes.
 
 \sp
 
@@ -417,13 +417,13 @@ De siempre, los duelos, sobre todo a muerte, han estado prohibidos en Nottingham
 
 Para empezar, debemos decir que los duelos es algo de _blus_ e _influencers_, no se da entre _curris_. Cuando une de estos dos grupos se siente ofendido puede pedir un duelo para resarcir su honor mancillado.
 
-Normalmente los desafios se suelen lanzar a _curris_ por tonterías, como una forma de humillación, sabiendo que no los aceptarán y tendrán que retractarse de la supuesta ofensa que han hecho y humillarse publicamente como cobardes devolviendo el guante. Les _blus_ e _influencers_ juegan con la ventaja de que los _curris_ no tienen ni el tiempo ni el dinero para afrontar un duelo y mucho menos permitirse semanas o meses de curas y medicinas en caso de que no sean mortales. 
+Normalmente, los desafíos se suelen lanzar a _curris_ por tonterías, como una forma de humillación, sabiendo que no los aceptarán y tendrán que retractarse de la supuesta ofensa que han hecho y humillarse públicamente como cobardes devolviendo el guante. Les _blus_ e _influencers_ juegan con la ventaja de que los _curris_ no tienen ni el tiempo ni el dinero para afrontar un duelo y mucho menos permitirse semanas o meses de curas y medicinas en caso de que no sean mortales. 
 
-Otro elemento importante es que puedes tener un campeón que se bata en duelo en tu nombre, lo cual hace que los _curris_ no tengan ninguna oportunidad de ganar ante esto profesionales de los duelos y prefieran la humillación a las consecuencias de perder casi seguro el duelo.
+Otro elemento importante es que puedes tener un campeón que se bata en duelo en tu nombre, lo cual hace que los _curris_ no tengan ninguna oportunidad de ganar ante estos profesionales de los duelos y prefieran la humillación a las consecuencias de perder casi seguro el duelo.
 
-Aun asi ha habido casos de _curris_ que han aceptado duelos, pese a saberse que tenían muy pocas posibilidades de sallir victoriosos. Incluso ha habido varios que han conseguido que un campeón encapuchado luchara en su nombre y venciera, obligando al _blus_ e _influencer_ a rogar por su vida.
+Aun asi ha habido casos de _curris_ que han aceptado duelos, pese a saberse que tenían muy pocas posibilidades de salir victoriosos. Incluso ha habido varios que han conseguido que un campeón encapuchado luchara en su nombre y venciera, obligando al _blus_ e _influencer_ a rogar por su vida.
 
-Normalmente, los duelos que terminan haciendo son entre _blus_ e _influencers_ por estupidas rencillas que pueden ir desde temas románticos a bejaciones en reels peleas por ascensos o simples trucos para cinseguir más fama y seguidores.
+Normalmente, los duelos que terminan haciendo son entre _blus_ e _influencers_ por estúpidas rencillas que pueden ir desde temas románticos a vejaciones en reels peleas por ascensos o simples trucos para conseguir más fama y seguidores.
 
 Les _influencers_ suelen convertir los duelos en espectáculos, mientras que los _blus_ suelen ser más discretos y menos dados a enseñar sus cartas a futuros adversarios.
 
@@ -439,7 +439,7 @@ Las normas son las siguientes.
 \sp
 
 * El **duelo será al glitch de la mañana dentro de 3 días**, tiempo suficiente para dejar tus asuntos cerrados. Deberán presentarse con une madrine y su campeone en caso de tenerlo.
-* Se suele llegar a un acuerdo sobre quien será el juez y normalmente se elige una IA con las capacidades minimas para que sea jurado en un juicio.
+* Se suele llegar a un acuerdo sobre quien será el juez y normalmente se elige una IA con las capacidades mínimas para que sea jurado en un juicio.
 
 \sc
 
@@ -1645,7 +1645,7 @@ Este pequeño implante se alimenta de la energía eléctrica del cuerpo humano y
 
 El HUB de conexión es obligatorio y solo personal autorizado puede retirarlo, repararlo o modificarlo. Solo les hijes de _boskis_ pueden haber nacido sin HUB de conexión, ya que nacieron fuera de las maternidades de la arcología.
 
-**Cada HUb tiene su propio código de identificación**, lo que en cierta manera lo convierte en un **documento de identificación**. El código del HUB se basa en un encriptado de tus progenitores más tu propio código con lo que se pueden rastrear tus antepasados a través de las bases de datos de la arcología hasta tus primeros ancestros que se fueron a vivir a la arcología.
+**Cada HUB tiene su propio código de identificación**, lo que en cierta manera lo convierte en un **documento de identificación**. El código del HUB se basa en un encriptado de tus progenitores más tu propio código con lo que se pueden rastrear tus antepasados a través de las bases de datos de la arcología hasta tus primeros ancestros que se fueron a vivir a la arcología.
 
 Les proscrites no suelen quitarse el HUB, porque lo necesitan para cuando se mueven por el complejo en sus misiones, pero suelen hackearlo con códigos temporales válidos para no ser identificados con su código personal. Estos códigos son válidos (pertenecen a niñes, ancianes, gente que ha huido al bosque, etc.) pero no suelen tener ningún tipo de datos asociados con lo que no pueden pagar porque no tienen créditos o tienen acceso a muy pocos lugares.
 
@@ -1988,6 +1988,8 @@ xxx
 xxx
 ```
 
+Para empezar es importante diferencíar la realidad virtual y la realidad aumentada. xxx
+
 xxx
 
 \sc
@@ -2064,9 +2066,9 @@ Veamos algunas de estas otras tecnologías y que influencia pueden tener en el d
 
 ### Tecnología láser
 
-La tecnología laser, como hoy en día, sigue **usándose solo en industria, medicina y telecomunicaciones**. El laser no ha llegado a les _notis_ de a pie, principalmente, por su enorme gasto energético.
+La tecnología láser, como hoy en día, sigue **usándose solo en industria, medicina y telecomunicaciones**. El láser no ha llegado a les _notis_ de a pie, principalmente, por su enorme gasto energético.
 
-Aunque en el mundo exterior el laser tiene aplicaciones militares, el laser ha llegado a las calles de Nottingham en forma de pistolas laser ni filos laser. De hecho, la existencia de un arma laser en las calles de Nottingham podría ser una buena semilla de aventura, donde diferentes facciones buscan hacerse con ellas.
+Aunque en el mundo exterior el láser tiene aplicaciones militares, esta tecnología no ha llegado a las calles de Nottingham en forma de pistolas láser ni filos láser. De hecho, la existencia de un arma de este tipo en las calles de Nottingham podría ser una buena semilla de aventura, donde diferentes facciones buscan hacerse con ellas.
 
 ### Hologramas
 
@@ -2093,6 +2095,16 @@ Cómo la clonación, los métodos de **descargar mentes humanas dentro de ordena
 Aunque la tecnología es factible, como demuestran las IA de alto nivel, no está disponible en la arcología. El consumo de recursos, material y espacio sería demasiado alto. Pero eso no quiere decir que no sea factible en otros complejos donde les riques y poderoses puedan meter sus mentes en máquinas y vivir eternamente.
 
 Pero desde luego, está tecnología es muy rara y se mantiene en secreto. Solo estaría reservada para los más altos cargos de la compañía.
+
+\sc
+
+### Drones pilotados y autonomos
+
+**La tecnología de drones resulta totalmente ineficaz** en un lugar con las caracterñísticas arquitectónicas de la arcología de Sh3rW00d. Volar no aporta ninguna ventaja en los espacios pequeños, bajos y lleno de puertas. De hecho robots autopilatados que van el suelo son mucho más eficaces y menos molestos para habitantes del complejo.
+
+Quizas haya aficionados a los drones, pero solo es un hobbie y no una actividad profesional.
+
+Los drones son más utiles en los espacios abiertos del bosque Sh3rWood, pero les _boskis_ no son muy dados a dejar la seguridad de sus campamentos en manos de drones y prefieren vigilar y defenderlos elles mismes.
 
 ***
 
@@ -3242,15 +3254,146 @@ El complejo de Nottingham es formado por miles sino millones de espacios con sus
 
 Las siguientes reglas te permiten crear espacios de forma rápida y sencilla donde poder situar las escenas de tus aventuras. Podrás elegir el tipo de espacio y su tamaño y obtendrás su forma, sus salidas, su contenido, elementos de seguridad, etc.
 
+El proceso de creación de un espacio se compone de 5 pasos. Cada paso supone una tablas y una tiradas para poder definir y dibujar un espacio. Para hacer estás tiradas necesitaras un d4, un d6, un d8, un d10, un d12 y un d20
+
+\sc
+
+1. Definir función de la zona, como sala de espera, pasillo, taller, vivienda, etc.Puedes también tirar un d20 si quieres crear un espacio al azar.
+2. Establecer el tamaño (d4)
+3. Establecer la forma (d8).
+3. Marcar accesos (puertas, ventanas y conductos) (d12).
+4. Establecer mobiliario (d10).
+5. Determinar el nivel de seguridad y sus elementos (d6). 
+
+Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del espacio puede hacer que su tamaño pueda ser más grande de lo normal
+
+\sp
+
+\sinc
+
+|d20|Función del espacio|
+|--|------|
+|1|xxx|
+|2|xxx|
+|3|xxx|
+|4|xxx|
+|5|xxx|
+|6|xxx|
+|7|xxx|
+|8|xxx|
+|9|xxx|
+|10|xxx|
+|11|xxx|
+|12|xxx|
+|13|xxx|
+|14|xxx|
+|15|xxx|
+|16|xxx|
+|17|xxx|
+|18|xxx|
+|19|xxx|
+|20|xxx|
+
+\conc
+
+\sp
+
+\sinc
+
+|d4|Tamaño del espacio|
+|--|------|
+|1|2 grupos de casillas de 2x1|
+|2|2 grupos de casillas de 4x2|
+|3|2 grupos de casillas de 6x3|
+|4|2 grupos de casillas de 8x4|
+|>4|3 grupos de casillas de 8x4|
+
+|d8|Forma del espacio|
+|--|------|
+|1|xxx|
+|2|xxx|
+|3|xxx|
+|4|xxx|
+|5|xxx|
+|6|xxx|
+|7|xxx|
+|8|xxx|
+
+\conc
+
+\sp
+
+\sinc
+
+|d12|Accesos|
+|--|------|
+|1|xxx|
+|2|xxx|
+|3|xxx|
+|4|xxx|
+|5|xxx|
+|6|xxx|
+|7|xxx|
+|8|xxx|
+|9|xxx|
+|10|xxx|
+|11|xxx|
+|12|xxx|
+
+|d10|Mobiliario|
+|--|------|
+|1|xxx|
+|2|xxx|
+|3|xxx|
+|4|xxx|
+|5|xxx|
+|6|xxx|
+|7|xxx|
+|8|xxx|
+|9|xxx|
+|10|xxx|
+
+\conc
+
+\sp
+
+\sinc
+
+|d6|Nivel de seguridad|
+|--|------|
+|1|xxx|
+|2|xxx|
+|3|xxx|
+|4|xxx|
+|5|xxx|
+|6|xxx|
+
+\conc
+
+xxx
+
 ### Espacios pregenerados
 
 ```
-xxx
+Si no tienes tiempo para crear tus propios espacios puedes usar los pregenerados.
 ```
+
+Te recomendamos guardar tus espacios generados para reutilizarlos en otras ocasiones. Piensa que entro de la arcología hay miles de espacios muy parecidos y que igual solo se diferencían en la disposición de sus accesos o el mobiliario interno. Por ejemplo, la sala de espera de un dentista con una mesa donde esta le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.
+
+
+#### Pasillo
+
+xxx
+
+#### Descansillo
 
 xxx
 
 \sc
+
+#### Callejón
+
+xxx
 
 ***
 
@@ -3276,6 +3419,14 @@ xxx
 
 \sc
 
+### ¿Y dónde está Robin Hood?
+
+Si has leido toda la ambientación, habrás visto que Robin Hood no aparece por ningún sitio. Eso es porque Robin Hood no existe como tal. Robin Hood es tu mesa y su banda de proscrites.
+
+Serán elles quienes huyan al bosque y organicen a sus habitantes. Serán quienes roben a les riques y se lo den a les pobres. Serán quienes enamoren a Lady Marian. Serán quienes ganen el concurso de tiro con arco. serán quienes derroten a los sheriffs de Notthingham en singular duelo. Y finalmente, quienes derroten a J0hn y restauren a R1c4rd.
+
+En definitiva, **elles serán Robin Hood** y correran sus aventuras y realizarán sus legendarias hazañas.
+
 \sp
 
 \sinc
@@ -3284,7 +3435,7 @@ xxx
 
 \conc
 
-> xxx
+> De como tu banda de proscrites acabo en el bosque y se convirtierón en les defensores de los habitantes de Nottingham.
 
 xxx
 
@@ -3352,7 +3503,7 @@ xxx
 
 \conc
 
-> xxx
+> De como tu banda de tunantes buscó y terminó encontrando la legendaria clave de superusuarie.
 
 xxx
 
@@ -3374,7 +3525,7 @@ xxx
 
 \conc
 
-> xxx
+> De como tu proscrites derrotan a la malvada directora J0hn y reinstauran a la benevola directora R1c4rd.
 
 xxx
 
@@ -3394,6 +3545,8 @@ Dar un golpe en la Plaza Mayor son palabras mayores, pero sentrar en un bunker s
 
 xxx
 
+\sc
+
 ### El secreto de Alfonse
 
 ```
@@ -3401,8 +3554,6 @@ Nadie lo sabe pero Alfonse es un fork de R1c4rd sin su entrenamiento, si se le i
 ```
 
 xxx
-
-\sc
 
 \sp
 
@@ -3637,9 +3788,9 @@ xxx
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** xxx
 * **Ventajas:** xxx
-* **Equipo:** Microfono inalambrico de calidad con carcasa vintage, ropa ajustada y sexy pero que permite moverse y bailar
+* **Equipo:** Micrófono inalámbrico de calidad con carcasa vintage, ropa ajustada y sexy, pero que permite moverse y bailar
 
-> **Sugerencia de interpretación:** xxx
+> **Sugerencia de interpretación:** Eres una de las personas más egocéntricas que existe, solo hablas de ti misma e incluso interrumpes las conversaciones de otros para hablar de ti. Reconduces las conversaciones para poder meter tus anécdotas de conciertos y actuaciones donde sueles brillar.
 
 \sp
 
@@ -3662,7 +3813,7 @@ xxx
 * **Ventajas:** xxx
 * **Equipo:** xxx
 
-> **Sugerencia de interpretación:** Delantal con un bolsillo grandecon todo tipo de objetos de cocina y especias, gran cucharón metálico para revolver el gumbo y servirlo, machete (FUE+d6)
+> **Sugerencia de interpretación:** Delantal con un bolsillo grande que contiene todo tipo de objetos de cocina y especias, gran cucharón metálico para revolver el gumbo y servirlo, machete (FUE+d6) para cortar y picar carne y verdura.
 
 \sp
 
@@ -3713,6 +3864,8 @@ xxx
 ## Robert Guthrie, buhonero ambulante &#35;
 
 \conc
+
+[![Salt of the earth By Meg-James](./assests/images/salt_of_the_earth_by_meg_james_dekv0hl-414w-2x.png "Salt of the earth By Meg-James")](https://www.deviantart.com/meg-james/art/Salt-of-the-earth-881565753 "Salt of the earth By Meg-James")
 
 xxx
 
