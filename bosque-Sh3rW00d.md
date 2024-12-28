@@ -3254,18 +3254,18 @@ El complejo de Nottingham es formado por miles sino millones de espacios con sus
 
 Las siguientes reglas te permiten crear espacios de forma rápida y sencilla donde poder situar las escenas de tus aventuras. Podrás elegir el tipo de espacio y su tamaño y obtendrás su forma, sus salidas, su contenido, elementos de seguridad, etc.
 
-El proceso de creación de un espacio se compone de 5 pasos. Cada paso supone una tablas y una tiradas para poder definir y dibujar un espacio. Para hacer estás tiradas necesitaras un d4, un d6, un d8, un d10, un d12 y un d20
+El proceso de creación de un espacio se compone de 5 pasos. Cada paso supone una tabla con su tirada para poder definir y dibujar un espacio. Para hacer estas tiradas necesitarás los dados normales de SWAE y un d20.
 
 \sc
 
-1. Definir función de la zona, como sala de espera, pasillo, taller, vivienda, etc.Puedes también tirar un d20 si quieres crear un espacio al azar.
-2. Establecer el tamaño (d4)
+1. Definir función de la zona, como sala de espera, pasillo, taller, vivienda, etc. Puedes también tirar un d20 si quieres crear un espacio al azar.
+2. Establecer el tamaño (d8)
 3. Establecer la forma (d8).
 3. Marcar accesos (puertas, ventanas y conductos) (d12).
 4. Establecer mobiliario (d10).
 5. Determinar el nivel de seguridad y sus elementos (d6). 
 
-Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del espacio puede hacer que su tamaño pueda ser más grande de lo normal
+Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del espacio puede hacer que su tamaño pueda ser más grande de lo normal dando positivos o negativos a la tirada de Tamaño.
 
 \sp
 
@@ -3273,7 +3273,7 @@ Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del
 
 |d20|Función del espacio|
 |--|------|
-|1|xxx|
+|1|**Almacenaje:** Cuarto de las escobas, despensa, cámara frigorifica, almacen de materiales. **-3 a Tamaño del espacio**|
 |2|xxx|
 |3|xxx|
 |4|xxx|
@@ -3300,24 +3300,29 @@ Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del
 
 \sinc
 
-|d4|Tamaño del espacio|
+|d8|Tamaño del espacio|
 |--|------|
-|1|2 grupos de casillas de 2x1|
-|2|2 grupos de casillas de 4x2|
-|3|2 grupos de casillas de 6x3|
-|4|2 grupos de casillas de 8x4|
-|>4|3 grupos de casillas de 8x4|
+|&lt;1|2 grupos de casillas de 2x1|
+|1|2 grupos de casillas de 3x1|
+|2|1 grupo de casillas de 3x1 + 1 grupo de casillas de 4x2|
+|3|2 grupos de casillas de 4x2|
+|4|1 grupo de casillas de 4x2 + 1 grupo de casillas de 6x3|
+|5|2 grupos de casillas de 6x3|
+|6|1 grupo de casillas de 6x3 + 1 grupo de casillas de 8x4|
+|7|2 grupos de casillas de 8x4|
+|8|3 grupos de casillas de 8x4|
 
-|d8|Forma del espacio|
+|d10|Forma del espacio|
 |--|------|
-|1|xxx|
-|2|xxx|
-|3|xxx|
-|4|xxx|
-|5|xxx|
-|6|xxx|
-|7|xxx|
-|8|xxx|
+|1-2|Cuadrado, pon los grupos pegados por el lado más largo|
+|3-4|Pasillo, pon los grupos pegados por el lado más corto|
+|5|Forma de T, el grupo de menor tamaño forma la cabeza de la T|
+|6|Forma de L, el grupo de menor tamaño forma el pie de la L|
+|7|Forma de +, se pierde espacio al sobreponerse un grupo sobre otro en el centro|
+|8-9|Cuadrado con huecos, pon los grupos pegados por el lado más largo y desplaza uno de ellos siguiendo la unión tantas casillas como su lado corto|
+|10|Pasillo con esquina, pon los grupos pegados por el lado más largo y desplaza uno de ellos siguiendo la unión hasta que solo queden unidas tantas casillas casillas como su lado corto|
+
+![Formas de espacios](./assests/images/forma-espacios.jpg "Formas de espacios")
 
 \conc
 
