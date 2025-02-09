@@ -20,3 +20,21 @@
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QEjemplo de Leet |-|3110 \\\\\\0R1|) Hello World\\E$"}
 {"rule":"SPACE_UNITIES","sentence":"^\\QMike Grauer 1980s shopping mall, water fountain, p By Mackingster\\E$"}
 {"rule":"PREP_VERB","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, ...\\E$"}
+{"rule":"ES_MULTITOKEN_SPELLING_TWO","sentence":"^\\QMike Grauer 1980s shopping mall, water fountain, p By Mackingster\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QQ Les seguidores del equipo con más puntos empiezan a apoyar a su equipo con golpes y cánticos a través de las paredes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QK Les seguidores del equipo con menos puntos empiezan a apoyar a su equipo con golpes y cánticos a través de las paredes.\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QLes doctores del complejo, de normal no suelen tratar a gente sin HUB porque ayudar a proscrites es un delito grave, pero en caso de hacerlo tiene el problema de que tengan info médica de le paciente.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, …\\E$"}
+{"rule":"HAZ_HAS","sentence":"^\\QArrambla con equipo y materiales, libera a cautives, haz pintadas contra la directora J0hn, haz duelos sobre el Trent, escapa de los sheriffs de Nottingham, bátete en duelo contra pintoresques personajes, …\\E$"}
+{"rule":"SABIA","sentence":"^\\QEl resto de crímenes son juzgadas por «las 3 sabIAs».\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QLes mejores abogades van detectando las IA que más posibilidades tienen de llevarse al resto a su campo.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QSi el tabernere va a ser importante, coge a une secuace y adórnale con tus propios detalles.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QSi el tabernere va a ser importante, coge a une secuace y adórnale con tus propios detalles.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QDeberán presentarse con une madrine y su campeone en caso de tenerlo.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QAdemás, a pesar de ser a dos manos, se considera una arma distancia pequeña con lo que puedes usarlo contra une enemigue en cuerpo a cuerpo.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\Q² A pesar de ser a dos manos, es una arma a distancia pequeña con lo que puedes usarla contra une enemigue en cuerpo a cuerpo.\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QSolo a un grupo muy exclusivo de clientes fijes se les ofrece salas especiales como mazmorras sexuales o salas para ceremonias religiosas.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QCarismática\nCapacidades especiales:\\E$"}
+{"rule":"SINGLE_CHARACTER","sentence":"^\\QMike Grauer 1980s shopping mall, water fountain, p By Mackingster\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QLa historia de Tuck es que uno de los primeros trabajos fue de mono en un reel de une influencer y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos.\\E$"}
+{"rule":"AGREEMENT_DET_ADJ","sentence":"^\\QCafé Corta es quizás el café más chic de la arcología. Todos los blus de más alto rango vienen a relajarse al Corta tras sus estresantes jornadas laborales, tomando una taza de café expreso.\\E$"}
