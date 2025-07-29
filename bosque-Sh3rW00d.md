@@ -4031,7 +4031,7 @@ Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me s
 
 ### Participar en el proyecto
 
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://linktr.ee/gwannon) y hablamos.
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://bsky.app/profile/gwannon.com) y hablamos.
 
 \sc
 
@@ -4115,7 +4115,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 ***
 
-**Bosque Sh3rW00d creado por [Gwannon](https://linktr.ee/gwannon)**
+**Bosque Sh3rW00d creado por [Gwannon](https://gwannon.com/)**
 
 Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds Edición Aventura en un mundo extrañamente parecido a las historias de Robin Hood.
 
