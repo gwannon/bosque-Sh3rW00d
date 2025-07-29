@@ -4031,7 +4031,7 @@ Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me s
 
 ### Participar en el proyecto
 
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://bsky.app/profile/gwannon.com) y hablamos.
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://gwannon.com) y hablamos.
 
 \sc
 
