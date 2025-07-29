@@ -208,7 +208,7 @@ https://www.deviantart.com/gogosworld/gallery
 
 https://mastodon.social/@jandi/113555759622356366
 
-Pitufos. Pitufos vivos. La colisión entre las leyes contra la clonación humana y las leyes de Propiedad Intelectual hizo que se creasen seres vivos limitados y Trademark a cascoporro. Los Pitufos, dado su característica manera de hablar (que necesita menos CPU/GPU) se hicieron populares entre los hackers y casi todo hacker que se precie tiene 10 o 20 pitufos pululando por casa. Hay cafés con Pitufos y cuando te identificas te asignan dos o tres que dicen cosas pitufas. O algo...
+Pitufos. Pitufos vivos. La colisión entre las leyes contra la clonación humana y las leyes de Propiedad Intelectual hizo que se creasen seres vivos limitados y Trademark a cascoporro. Los Pitufos, dado su característica manera de hablar (que necesita menos CPU/GPU) se hicieron populares entre los hackers y casi todo hacker que se precie tiene 10 o 20 pitufos pululando por casa. Hay cafés con Pitufos y cuando te identificas te asignan dos o tres que dicen cosas pitufas. O algo…
 
 @jandi no me va un café, pero me gusta la idea de cyber duendes. La idea de ambientación en la que estoy trabajando es una mezcla entre cyberpunk y Robin Hood y que haya algún tipo de duende me pega mucho mucho en la parte medieval. El hecho de que sea algo con marca registrada le da un toque corporativo de cyberpunk.
 
