@@ -2936,9 +2936,9 @@ Las animatrónicas son muy realistas (pelaje, garras, colmillos, respiran, etc.)
 
 Cómo muchas cosas que la directora J0hn organiza en Nottingham tiene una cara oculta. La directora usa estos robots en un estudio psicológico y sociológico. Está aprendiendo a crear robots increíblemente reales, tratando de superar el «valle inquietante» y a la vez estudiar como hacerlos más terribles e intimidantes.
 
-Todo el zoo está lleno de sensores médicos, que miden muchos indicadores biológicos como temperatura corporal, sudoración, pulso, etc. Programan diferentes rutinas en los animales y **estudian cuáles provocan más miedo en los visitantes**.
-
 \sp
+
+Todo el zoo está lleno de sensores médicos, que miden muchos indicadores biológicos como temperatura corporal, sudoración, pulso, etc. Programan diferentes rutinas en los animales y **estudian cuáles provocan más miedo en los visitantes**.
 
 Todo este estudio plantea **implementarlo en sus sheriffs robóticos** para usarlo en funciones como interrogatorio o control de masas.
 
@@ -2966,9 +2966,9 @@ La otra parte es el SPA que son una gran cantidad de habitáculos donde el perso
 
 Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el lugar donde dar tu gran golpe. Aquí pasan buenas temporadas la gente importante con sus séquitos y sus objetos de valor. Y lo último que les preocupa es que les vayan a robar.
 
-A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
-
 \sp
+
+A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
 
 **Semilla de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les _blus_ asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
 
