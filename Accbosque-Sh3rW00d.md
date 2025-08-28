@@ -1,7 +1,5 @@
 # 4rc0l061a de Nottingham **La arcología de Nottingham**
 
-\sinc
-
 Bosque Sh3rW00d es una ambientación Ciberpunk para Savage Worlds en un mundo extrañamente parecido a las historias de Robin Hood.
 
 Formarás parte de un grupo de descastades que sobreviven ocultos en el megacomplejo Nottingham. Lucharás por tu supervivencia y tu libertad contra la directora J0hn, una malvada IA que está a cargo del complejo.
@@ -13,8 +11,6 @@ Arrambla con equipo y materiales, libera a cautives, haz pintadas contra la dire
 Pero recuerda, lo más importante es **robar a les riques para repartirlo entre les más pobres**.
 
 ## El mundo actual
-
-\conc
 
 ```
 Bosque Sh3rW00d te ofrece una ambientación ciberpunk, ultima tecnología en un mundo roto donde unes poques explotan a muches, mezclada con muchos elementos genéricos de la Edad Media.
@@ -34,8 +30,6 @@ El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcol
 
 XXX
 
-\sp
-
 ### Las directoras
 
 Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. XXX
@@ -52,15 +46,7 @@ La directora R1c4rd es la anterior IA de Nottingham que fue trasladada al depart
 
 XXX
 
-\sc
-
-\sp
-
-\sinc
-
 ## Orden social
-
-\conc
 
 ```
 Las gentes que viven en Nottingham son conocidas como _notis_ (un gentilicio abreviado usado por las clases bajas). El complejo de Nottingham se rige por un sistema neofeudal, una versión ciberpunk del sistema feudal del siglo XII.
@@ -81,8 +67,6 @@ Hay una especie de _blus_ menores, más cercanos a los _curris_, pero muchas vec
 ### Influencers (Iglesia)
 
 Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers adictos a la directora J0hn que marcan la vida de los _notis_. 
-
-\sp
 
 Ellos establecen las modas, lo que es _cool_ y lo que no, lo que se debe hacer y lo que no y, al final, lo que está bien y lo que está mal.
 
@@ -110,8 +94,6 @@ Siempre que hay un sistema hay gente que se queda fuera o prefiere salirle. Esto
 
 Aunque la inmensa mayoría de los _boskis_ son de origen humilde y de bajos estratos sociales, principalmente _curris_, también puedes _blus_ e _influencers_ caídes en desgracia.
 
-\sp
-
 Podemos tener boskis de primera generación, es decir que nacieron en el complejo (y tienen un insertado en su cuerpo un HUB de conexión) o de segunda generación, conocidos como nacides libres, porque nacieron en el bosque no tienen el HUB de conexión.
 
 Los _boskis_ tienen un dicho que explica su forma de pensar _En el bosque tienes tu propio nombre, pero no es solo tuyo._
@@ -124,15 +106,7 @@ La compañía es un ente abstracto en esta ambientación que no tiene ni nombre,
 
 La mano ejecutora de la compañía es la IA directora. J0hn, la actual IA directora, toma todas sus decisiones teniendo en mente esta simple regla «No importa la gente, solo los beneficios de la compañía».
 
-\sc
-
-\sp
-
-\sinc
-
 ## Comercio e industria
-
-\conc
 
 ```
 Aunque Nottingham se considera una arcología donde viven cientos de miles de personas, en realidad es una megafactoria en la que trabajan cientos de miles de personas.
@@ -158,17 +132,11 @@ La compañía trae materia prima que va vendiendo a las minifábricas que a su v
 
 > La compañía controla el mercado controlando el precio de venta de las materias primas y el precio de compra del producto final. La directora J0hn, siguiendo las órdenes de la compañía, puede manejar el mercado a su gusto y repartir riqueza entre los _notis_ o hacer que caigan en la miseria. 
 
-\sp
-
 La otra base de la industria es la megafactoría del Trent (propiedad de la compañía), que convierte las algas en todo tipo de alimentos procesados para consumo de los _notis_ y para exportar. La factoría del Trent con toda su industria asociada genera la mitad de la riqueza del complejo.
 
 Dos tercios de la población de _curris_ trabaja en las algafactorías o en los talleres de las minifábricas. El resto trabajan en hostelería y servicios, casi siempre al servicio de otros. Hay casos de _curris_ con su propio negocio, pero son les minimes y normalmente en graves problemas económicos. Eso supone que acaban currando para la compañía, en la cárcel o huyendo al bosque.
 
-\sinc
-
 [![Sleepy Time By simoneferriero](./assests/images/sleepy_time_by_simoneferriero_dd8slz2-pre.jpg "Sleepy Time By simoneferriero")](https://www.deviantart.com/simoneferriero/art/Sleepy-Time-800832062 "Sleepy Time By simoneferriero")
-
-\conc
 
 ### Teletrabajo
 
@@ -177,8 +145,6 @@ Todo trabajo sin componente físico o manual o que exija equipo especial (como e
 En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente de una oficina, aunque no sean reproducciones virtuales de mucha calidad para abaratar costes. Desde casa te colocas en tu unidad de trabajo con tus gafas de realidad virtual entras en la oficina virtual de la empresa donde realizas tus tareas.
 
 A todos estos teletrabajadores se les llama en argot pijameres, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
-
-\sp
 
 En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
 
@@ -194,21 +160,13 @@ Para empezar la compañía vende casi el 90% de los bienes de consumo y no tiene
 
 Por otro lado, no hay grandes espacios abiertos con miles de personas de paso donde colocar esas macro pantallas publicitarias.
 
-\sc
-
 De hecho, solo existe una pantalla gigante en la plaza mayor donde se publican los edictos de la compañía y donde la directora J0hn hace sus apariciones públicas.
 
 Los pequeños negocios funcionan con el boca a boca y se suelen identificar con complejos emojis hechos con algas bioluminescences en sus entradas.
 
 Es normal ver soportes publicitarios humanos o robots portando carteles digitales por las inmediaciones del local del anunciante. Esto es debido a que la directora J0hn prohibió el uso de las paredes y otros elementos de la arcología como soporte artístico y publicitario en su lucha contra les grafiteres que ponían consignas contra ella y la compañía.
 
-\sp
-
-\sinc
-
 ## Vida diaria
-
-\conc
 
 ```
 La vida diaria del complejo no dista mucho de lo que pudieras pensar de una ambientación ciberpunk, pero hay ciertas diferencias.
@@ -238,13 +196,9 @@ Por desgracia, puede tocarte un simulacro de incendios en cualquier parte y acab
 
 Si hablamos de temas culturales tenemos que considerar que una cultura oficial protegida y promovida por la directora J0hn con respaldo de la compañía y diferentes corrientes contraculturales y disidentes que parten de diferentes grupos oprimidos y/o aislados.
 
-\sp
-
 [![Marnie Bass Guitar By gigiEDT](./assests/images/marnie_bass_guitar_by_gigiedt_dftn15j-414w-2x.jpg "Marnie Bass Guitar By gigiEDT")](https://www.deviantart.com/gigiedt/art/Marnie-Bass-Guitar-956776087 "Marnie Bass Guitar By gigiEDT")
 
 XXX
-
-\sc
 
 ### Ocio y entretenimiento
 
@@ -256,13 +210,7 @@ XXX
 
 La base de la gastronomía se basa en las algas producidas y procesadas en la algafactoria del Trent. A partir de estas algas se crean todo tipo de productos alimenticios como formas y sabores muy variados.
 
-\sp
-
-\sinc
-
 [![Studio 2042 By liea](./assests/images/studio_2042_by_liea_d7hw8s2-pre.jpg "Studio 2042 By liea")](https://www.deviantart.com/liea/art/Studio-2042-453321074 "Studio 2042 By liea")
-
-\conc
 
 El precio de estos productos de alga es relativamente bajo y accesible a todos los bolsillos. En teoría tienen todo lo necesario para una dieta saludable, pero hay estudios que dicen lo contrario.
 
@@ -271,8 +219,6 @@ Mientras que la gente mayor prefiere la comida con forma y sabor a carnes y verd
 En respuesta a todo esto, bastantes grupos alternativos han empezado a dar gran importancia a los cultivos hidropónicos para cultivar tu propia comida en casa y se ha hecho muy popular, tener varias plantas de frutas y hortalizas. Todos estos productos frescos se han convertido en parte de la economía de trueque y las semillas se han convertido en objetos muy valiosos.
 
 Cómo ya hemos dicho otras veces, en el bosque es todo al revés, los productos frescos hidropónicos son la base de la alimentación al no tener un acceso directo a las algas. De hecho los sheriffs vigilan muy mucho los almacenes y las fábricas de productos y suministros hidropónicos porque saben que los _boskis_ suelen atacarlos.
-
-\sp
 
 [![D’hinghara DinerBy Dana-Ulama](./assests/images/deswid5-6dbe3f18-e6ae-4e6c-868f-2a82ce167323.jpg "D'hinghara DinerBy Dana-Ulama")](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505 "D'hinghara DinerBy Dana-Ulama")
 
@@ -293,8 +239,6 @@ Les seguidores de esta fe consideran a les instaladores como unos seres superior
 Ser parte del culto no es un delito, pero si J0hn descubre que lo eres, tratará de acabar contigo, bien metiéndote en la cárcel de alguna manera, incluso poco legal, o haciéndote que acabes en el bosque como une proscrite. Es por esto que gran parte de la población del bosque creen en les instaladores.
 
 La **vertiente más radical y fanática del culto a les instaladores son les buscadores de la contraseña de SU** que creen que les instaladores dejaron en alguna parte una contraseña de superusuarie o _password de root_ que al usarla convertirá a les buscadores en instaladores y activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.
-
-\sp
 
 Para entender mejor esta religión debes pensar en ella siguiendo las estás ideas.
 
@@ -323,8 +267,6 @@ El punto fuerte del festival es un concurso de disparo con tirachinas con un suc
 Pero la actividad preferida de les niñes del complejo es la de atrapar el robot comadreja. Se celebra cerca de los dólmenes donde se cerca una zona para que la comadreja no se escape. Se la envuelve en papel de burbuja y se le unta en grasa. Les niñes deben atraparlo y le niñe que lo retenga 5 segundos gana y recibe el título de _Cazadore junior_ hasta el próximo año.
 
 > El juego está trucado y cuando lo atrapa une hije de _blus_ o _influencers_, desconectan el robot para que sea fácil ganar. Hace años que no gana ningune niñe _curri_.
-
-\sp
 
 #### Fét Gede
 
@@ -356,8 +298,6 @@ Los partidos son retransmitidos a través de las cámaras de vigilancia del pasi
 
 Debido al poco espacio del campo, los partidos son arbitrados desde fuera usando las imágenes de las cámaras de seguridad y hablando por los altavoces. Por la misma razón, los entrenadores, si se tienen, siguen el partido por las cámaras de seguridad y dan las órdenes también por la megafonía.
 
-\sp
-
 El juego es más de habilidad para moverse entre espacios pequeños, de saber mover la bola y aprovechar los rebotes que de fuerza física, ya que no hay espacio para golpear a tu contrincante con el stick o para coger carrerilla.
 
 Reglamento general:
@@ -385,8 +325,6 @@ Así que tomó el camino fácil, no otorgar ningún título a nadie más, espera
 
 > En partida la forma de tener título nobiliario sería escogiendo la ventaja Alcurnia. Pero recuerda que puedes perderlo si te conviertes es une forajide. 
 
-\sp
-
 Como curiosidad, los sistemas de puertas automáticas fueron modificados por la directora R1c4rd para decir tu título al entrar y salir. Esto, a lo largo de los años, ha generalizado el uso de los títulos nobiliarios entre los habitantes de la arcología.
 
 **Semilla de aventura:** Al revisar tu identificación personal, para tu sorpresa, el sistema te ha otorgado un título nobiliario. ¿Es un error del sistema o puede que seas el hije de alguien importante? 
@@ -411,8 +349,6 @@ La directora J0hn ya tiene una minoría, les _boskis_, sobre la volcar todas las
 
 De siempre, los duelos, sobre todo a muerte, han estado prohibidos en Nottingham, pero eso nunca ha parado a los _notis_ de alto nivel de batirse en alguno de los pasajes del huerto urbano. La política de la compañía es no dañar mortalmente su fuerza de trabajo, aunque sí los ha permitido cuando le han servido para acabar con disidentes.
 
-\sp
-
 [![Derivates By cyberaeon](./assests/images/derivates_by_cyberaeon_dfp67be-414w-2x.jpg "Derivates By cyberaeon")](https://www.deviantart.com/cyberaeon/art/Derivates-949272458 "Derivates By cyberaeon")
 
 Para empezar, debemos decir que los duelos es algo de _blus_ e _influencers_, no se da entre _curris_. Cuando une de estos dos grupos se siente ofendido puede pedir un duelo para resarcir su honor mancillado.
@@ -436,20 +372,10 @@ Las normas son las siguientes.
 * Si acepta el duelo puede **elegir el tipo (primera sangre, incapacidad o muerte) o el arma**, normalmente armas de filo, pero ha habido duelos con arcos o con sticks de hockey de pasillo.
 * El ofendido elegirá lo que no haya elegido ofensor.
 
-\sp
-
 * El **duelo será al glitch de la mañana dentro de 3 días**, tiempo suficiente para dejar tus asuntos cerrados. Deberán presentarse con une madrine y su campeone en caso de tenerlo.
 * Se suele llegar a un acuerdo sobre quien será el juez y normalmente se elige una IA con las capacidades mínimas para que sea jurado en un juicio.
 
-\sc
-
-\sp
-
-\sinc
-
 ## Leyes y justicia
-
-\conc
 
 ```
 La compañía tiene el control de la justicia y del sistema penal de Nottingham, pero tuvo que firmar ciertos contratos con garantías de que será justa e imparcial. 
@@ -474,8 +400,6 @@ De hecho, les primeres _boskis_ fueron una mezcla de personas que no encajaban o
 ### Los juicios
 
 Las directoras tienen el privilegio de juzgar a todos los habitantes de Nottingham y su decisión no es recurrible. Pero eso genera mucho consumo de ciclos y solo juzgan casos importantes. El resto de crímenes son juzgadas por «las 3 sabIAs».
-
-\sp
 
 Las 3 sabIAs son 3 IA de cualquier tipo (siempre que cumplan unos mínimos de inteligencia y razonamiento) que son seleccionadas una por la defensa, otra por la acusación y una tercera al azar entre todas las IA de Nottingham.
 
@@ -507,13 +431,7 @@ Los trabajos forzados pueden ser muy variados desde trabajo manual de mantenimie
 
 No se explota a los reclusos con jornadas interminables y duros trabajos, pero como lo más bajo de la sociedad no tienen ningún tipo de privilegio y sus instalaciones, su alimentación y sus cuidados son lo más barato posible. 
 
-\sp
-
-\sinc
-
 ## Bajos fondos y crimen organizado
-
-\conc
 
 ```
 Como toda comunidad humana, hay individues indeseables que se de dican al crimen en todos sus aspectos.
@@ -537,13 +455,7 @@ En los últimos años, ha habido un auge de las pandillas para ocupar el agujero
 
 XXX
 
-\sp
-
-\sinc
-
 ## Les instaladores
-
-\conc
 
 ```
 Les instaladores son el elemento místico que hay toda historía medieval. Les druides de las antiguas leyendas que viven en lo profundo de los bosque ofreciendo su poder y sabiduría a les heroines.
@@ -571,13 +483,7 @@ Les buscadores de la contraseña de SU, abreviando les buscadores, son un grupo 
 
 XXX
 
-\sp
-
-\sinc
-
 ## La vida en el Bosque
-
-\conc
 
 ```
 La vida para les habitantes del bosque es un tanto diferente al del resto de los notis. Con los años han desarrollado una cultura, unas creencias y una forma de vida diferentes a las de sus vecines del lado legal de la vida.
@@ -595,19 +501,11 @@ XXX
 
 La educación en el bosque es bastante práctica y se aprenden cosas tremendamente prácticas y centrada en profesiones, desde programación a albañilería o trabajo en invernaderos hidropónicos.
 
-\sc
-
 Tras unos estudios básicos de lectura, escritura, manejo de aparatos informáticos y nociones de historia y ciudadanía, se pasa a aprender habilidades útiles en el día a día como cultivar, reparar una casa o arreglar un dispositivo electrónico estropeado.
 
 Les profesores suelen ser profesionales que trabajan de ello. Imparten clases a les alumnos como parte de su contribución al bienestar social y suelen coger como aprendices a los que ven las capaces.
 
-\sp
-
-\sinc
-
 ## El mundo exterior
-
-\conc
 
 ```
 Un principio fundamental de esta ambientación es que es imposible salir al exterior de la arcología. El exterior es algo de lo que se habla, pero que la gente no ha visto nunca.
@@ -620,8 +518,6 @@ La idea es que si tienes que huir, no sea a la arcología de Manchester, sino al
 > La regla fundamental es que **las únicas personas que conocen el exterior sean PNJ**, como Lady Myrna, que entran y salen del complejo constantemente o que cuentan cosas de los tiempos en que vivían en otras arcologías.
 
 No debería influir en las aventuras lo que haya fuera, pero tenerlo decidido puede ayudar a montar futuras partidas. Quizás cuando la directora R1c4rd vuelva y todo sea como en antaño sea el momento de ir a Oxford y ayudarles a librarse de la tiranía de la compañía. Tal vez la arcología expanda una plaga mortal en Nottingham y los pocos _boskis_ deban encontrar un nuevo hogar.
-
-\sc
 
 [![Aion By batjorge](./assests/images/aion_by_batjorge_dcl4mpy-pre.jpg "Aion By batjorge")](https://www.deviantart.com/batjorge/art/Aion-761082118 "Aion By batjorge")
 
@@ -637,11 +533,7 @@ Sea como sea, aquí tienes **algunas ideas** que puedes usar.
 
 # |-|15t0r14 **Historia**
 
-\sinc
-
 ## La creación de Nottingham
-
-\conc
 
 ```
 La «primera piedra» de la arcología conocida como Nottingham se colocó hace ya unos 200 años.
@@ -651,15 +543,7 @@ En realidad nunca se puso una primera piedra, sino que todo empezó con un gigan
 
 XXX
 
-\sc
-
-\sp
-
-\sinc
-
 ## El éxodo de les instaladores
-
-\conc
 
 ```
 Y de repente les instaladores fueron desapareciendo y ese misterio perdura hasta nuestros días.
@@ -669,15 +553,7 @@ La misteriosa desaparición de les instaladores supone el fin del crecimiento de
 
 XXX
 
-\sc
-
-\sp
-
-\sinc
-
 ## La dirección de R1c4rd
-
-\conc
 
 ```
 … cómo, a nuestro parecer, cualquiera tiempo pasado fue mejor. _Coplas a la muerte de su padre, de Jorge Manrique_
@@ -687,15 +563,7 @@ La dirección de la directora R1c4rd es considerada por todos los contrarios a l
 
 XXX
 
-\sc
-
-\sp
-
-\sinc
-
 ## La dirección de J0hn
-
-\conc
 
 ```
 Y a la directoria R1c4rd le sucedió la directora J0hn y todo cambió.
@@ -719,13 +587,7 @@ Como ya hemos dicho, esta nueva ley supuso que montones de familias se quedaron 
 
 XXX
 
-\sp
-
-\sinc
-
 ## El bosque de Sh3rW00d
-
-\conc
 
 ```
 Mientras que el complejo cae en un pozo de misería, el bosque está floreciendo y si se lo cuida y protege puede ser lo mejor que le haya pasado a Nottingham.
@@ -735,17 +597,11 @@ Lo que empezó como un pequeño campamento de proscrites, se está convirtiendo 
 
 XXX
 
-\sc
-
 ***
 
 # Я36|45 **Reglas**
 
-\sinc
-
 ## Creación de personajes
-
-\conc
 
 ```
 En Bosque Sh3rW00d hay una serie de reglas que modifican las reglas generales de creación de PJ que se establecen en el libro básico de savage Worlds Ed. Aventura.
@@ -774,8 +630,6 @@ Se recomienda **no ponerse ventajas de pistolero**, ya que el acceso a las armas
 **Tampoco son útiles habilidades como Cabalgar**, porque no hay animales que montar, ni Pilotar, ya que no hay aeronaves ni barcos que usar. El pilotaje de drones y similares se haría con Electrónica. **Supervivencia es sustituida por Pasillear**, su versión urbana para la arcología.
 
 **Mal nadador desaparece como desventaja**, debido a que no hay casi grandes masas de agua donde nadar sea importante. 
-
-\sp
 
 Como ya hemos dicho, no hay animales, **Vínculo Animal y Señor de las bestias tampoco se pueden escoger**.
 
@@ -807,13 +661,7 @@ Si no has caído bajo el influjo de la compañía y sus tretas, seguramente haya
 
 Los grupos _underground_ de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las máquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como «A» por «4» o «S» por «$», de forma que las máquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
 
-\sp
-
-\sinc
-
 ## Arquetipos
-
-\conc
 
 ```
 A la hora de crear tu PJ te presentamos algunos arquetipos que te ayuden a construirlo. es importante tener en cuenta que las aventuras de Robin Hood siempre hablan de personajes parias y fuera de la ley y he seguido esa idea al diseñar estos arquetipos.
@@ -853,8 +701,6 @@ Mientras que algunos de tus compañeres se han vendido a la compañía, tú sabe
 * **Ventajas recomendadas:** Curandere, Erudite e Investigadore
 * **Desventajas recomendadas:** Caute, Curiose y Despistade
 
-\sp
-
 ### Grafitere
 
 Este arquetipo refleja todo tipo de personajes que llevan la confrontación contra la compañía a las calles, no solo en forma de grafitis. También con actos de vandalismo callejero, pequeños sabotajes y sentadas.
@@ -891,8 +737,6 @@ Por otro lado, no existes para empresa y eso es un gran valor.
 * **Ventajas recomendadas:** Persona de recursos, Osade y Sentir el peligro
 * **Desventajas recomendadas:** Joven, Marginade y Nacide Libre (obligatorio)
 
-\sp
-
 ### Paramedic
 
 Este arquetipo refleja un amplio grupo de profesionales de la medicina capaces de curar y remendar todo tipo de golpes y heridas.
@@ -925,17 +769,9 @@ Puedes ser cualquier tipo de trabajador, siempre que busques la caída de la com
 * **Ventajas recomendadas:** McGyver, Mr. Arreglalotodo y Sindicade
 * **Desventajas recomendadas:** Bocazas, Leal y Tozude
 
-&nbsp;
-
 [![Cyberpunk reporter By Kernspalt](./assests/images/cyberpunk_reporter_by_kernspalt_de67gpl-375w-2x.jpg "Cyberpunk reporter By Kernspalt")](https://www.deviantart.com/kernspalt/art/Cyberpunk-reporter-856952409 "Cyberpunk reporter By Kernspalt")
 
-\sp
-
-\sinc
-
 ## Nuevas habilidades
-
-\conc
 
 ```
 Bosque Sh3rW00d es una ambientación ciberpunk tremendamente urbana lo cual implica cambios en las habilidades básicas de Savage Worlds.
@@ -963,13 +799,7 @@ Los grupos underground de Nottingham usan un lenguaje escrito llamado Leet que b
 
 Cuando necesites dejar un mensaje escrito o escribir un grafiti y que las IA no lo reconozcan e interpreten, puedes tirar Leet. Tu tirada será la dificultad para las máquinas (con la capacidad especial IA o Constructo) para entender tu mensaje. Deberán hacer una tirada de Astucia o Leet (en caso de saberlo) para entender el texto.
 
-\sp
-
-\sinc
-
 ## Nuevas ventajas
-
-\conc
 
 ```
 Esta ambientación es un mundo difícil, pero hay una serie de ventajas propias que pueden serte de gran ayuda. Estas ventajas se centran más en temas sociales y legales que en tecnología, combate o cibernética, que son tan típicas de las ambientaciones ciberpunk.
@@ -997,8 +827,6 @@ Por alguna extraña razón, tu identidad a veces falla. Alguna vez tienes proble
 
 Si un sistema informático o intenta hacer un simple control de tu identidad funciona perfectamente o igual falla y a la segunda vez funciona perfectamente.
 
-\sp
-
 El problema lo tienen los sistemas de seguridad y vigilancia, hacen tantos chequeos por microsegundo de tu identidad que terminan fallando y ralentizándose y terminan tomándote por otra persona o simplemente te ignoran.
 
 > Todos los **sistemas de seguridad e IA de vigilancia tienen un -2 a la hora de detectarte e identificarte** (Notar, Investigar o incluso Disparar). Si fallan suelen considerarte inexistente o te asignan otra identidad.  
@@ -1012,8 +840,6 @@ Por alguna razón eres necesario para la compañía y no puede permitirse que de
 De normal **esta ventaja debería tener un Secreto** que explique por qué eres necesarie para la compañía.
 
 > Todos los agentes de la compañía (humanos, constructos e IA) **deben pasar una tirada de Espíritu para tratar de dañarte**. Si fallan tendrán que cambiar su acción e intercambiarla por otra no dañina.
-
-\sc
 
 ### Sindicade
 
@@ -1029,13 +855,7 @@ Los sindicades siempre se apoyan (en temas laborales y de derechos), se ayudan y
 
 > Aparte de las ventajas de pertenecer a un grupo fuerte y unido, puedes **acceder a productos ilegales no controlados por las mafias** (drogas, estimulantes o implantes letales) como ciberimplantes ilegales que no sean de combate o materiales de hackeo.
 
-\sp
-
-\sinc
-
 ## Nuevas desventajas
-
-\conc
 
 ```
 Esta ambientación es un mundo muy especial que claramente va a tener sus desventajas propias. Estas desventajas reflejan esa extraña mezcla que representa Bosque Sh3rW00d.
@@ -1063,8 +883,6 @@ Tienes la insana convicción de que las IA te vigilan, te siguen y, lo peor de t
 
 La fobia social, conocido también como trastorno de ansiedad social (TAS), es un trastorno de ansiedad caracterizado por un miedo persistente a una o más situaciones sociales por temor a que resulten embarazosas.
 
-\sp
-
 Dar discursos en público, participar en concursos, desfilar por una pasarela, etc. se vuelven tareas muy complicadas, aunque tampoco llevas bien las reuniones sociales en las que tendrá que relacionarse (fiestas, eventos, etc.) o los encuentros inesperados con conocidos, familiares, amigos, etc.
 
 Nottingham tiene una altísima densidad de población, lo cual hace que las situaciones de fobia social sean muy normales. También gracias a la tecnología se puede estar en todas partes sin estar realmente.
@@ -1079,8 +897,6 @@ Seguro que caerás por la esclusa que lleva a la madriguera del cocodrilo albino
 
 > Cuando haya que hacer **tiradas al azar** para ver a quién le pasa algo raro, se debería **elegir directamente al imán de lo extraño**.
 
-\sc
-
 ### Nacide libre (mayor)
 
 Tus progenitores te concibieron fuera del sistema, bien porque también estaban fuera del sistema o porque así lo decidieron antes de nacer tú. Sea como sea, no tienes HUB de conexión. 
@@ -1093,13 +909,7 @@ En el momento que **te implantan un HUB de conexión, se pierde esta ventaja**.
 
 > No tienes **ninguna de las ventajas de tener HUB de conexión** al sistema, pero lo compensas no teniendo **ninguna de las desventajas**. A priori no existes para la directora J0hn y sus tentáculos cibernéticos. No hay registros, ni huellas, ni ningún dato sobre ti y **eres invisible para la gran mayoría cámaras y sensores de la arcología**.
 
-\sp
-
-\sinc
-
 ## Equipo
-
-\conc
 
 ```
 Tu banda de proscrites necesitará ropa, armas, herramientas y poder darse algún capricho alguna vez. Aquí encontrarás cosas para darle color a tus aventuras para cuando a tu banda le pesen los créditos en los bolsillos.
@@ -1124,8 +934,6 @@ Si cualquier sistema de seguridad del complejo de Nottingham detecta un disparo,
 De hecho, disparar un arma puede ser una buena forma de crear distracciones, pero le tiradore tendrá graves problemas si quiere escapar de lo que se le va a echar encima.
 
 Puedes usar armas normales de la época actual del manual básico de SWEA para que las porten tus PNJ cuando se enfrente a tu banda. Si derrotan a su enemigo y este está armado podrán quedarse con las armas, pero deberán racionar las balas porque son extremadamente escasas. También deben saber que les autoridades de Nottingham pondrán directamente en la lista de más buscados a personas que porten armas de fuego.
-
-\sp
 
 Culturalmente, tienes que tener en cuenta que el pueblo quiere a ladrones carismáticos que reparten su botín con les pobres, no a asesinos violentos armados hasta los dientes que van dejando un reguero de sangre por donde pasan.
 
@@ -1154,8 +962,6 @@ Si tu **objetive está completamente cubierto**, aún puedes dispararle. Para ca
 ##### Proyectiles para tirachinas
 
 Una de las ventajas de los tirachinas es que **su munición puede ser cualquier cosa**, pelotas de goma, rodamientos de acero, canicas de cristal, etc. Eso también quiere decir que se pueden hacer **todo tipo de municiones especiales con diferentes funciones**. 
-
-\sp
 
 * **Afiladas:** El proyectil acaba en una punta afilada que hace más daño. +1 al daño.
 * **Con plumas:** Tienen unas pequeñas aletas roscadas que los estabilizan al hacerlas girar. +1 a Disparar.
@@ -1186,10 +992,6 @@ La compañía ha tratado de regular su venta, sin éxito, ya que es una herramie
 
 Este clásico finlandés no pierde fuerza por mucho que avancen los siglos y la tecnología. Su bajo precio y su gran eficacia no tienen competencia y siempre habrá combustible, tela y recipientes que se rompen al golpear superficies duras.
 
-\sp
-
-\sinc
-
 |ARMA|DAÑO|DISTANCIA|PESO|COSTE|CDF|FUE MIN.|PA|NOTAS|
 |---|---|---|---|---|---|---|---|
 |Slingshot|FUE+d4-1|5/10/20|30|1|1|d4|-|Contundente, ¹ Recarga gratuita, ² 2 manos, Rebote|
@@ -1217,17 +1019,11 @@ Este clásico finlandés no pierde fuerza por mucho que avancen los siglos y la 
 
 ¹ Si sale un 5 o 6 en un d6 prende la ropa del objetivo.
 
-\conc
-
-\sp
-
 Se pueden preparar, si tienes los componentes, 10 cócteles por horas con una tirada de Reparar exitosa.
 
 Se usa **Atletismo para lanzar el cóctel**. Si se pasa por una casilla donde se ha tirado un cóctel molotov, se recibe 1d10 de daño y con un 5 o 6 en un d6 prenden fuego tus ropas.
 
 Hay **tirachinas especiales para el lanzamiento de cócteles que duplican su alcance**, pero en este caso **se usaría Disparar** en vez de Atletismo
-
-\sc
 
 #### Otras armas
 
@@ -1235,11 +1031,7 @@ Tu banda y sus némesis pueden portar otras armas como espadas, katanas, mazas, 
 
 A efectos prácticos, tienen las estadísticas del libro básico de SWAE, pero puedes darles detalles ciberpunk como los que te he propuesto antes. 
 
-\sinc
-
 ### Protecciones
-
-\conc
 
 Las protecciones **son algo raro en Nottingham**, tenemos ropa de sintecuero que pueden dar algo de protección, pero el kevlar y otros tejidos ablativos son raros porque no se fabrican y la compañía no los importa.
 
@@ -1249,22 +1041,12 @@ En general **conseguir más de 4 puntos de protección tendría que ser muy raro
 
 El equipamiento de hockey de pasillo (peto con hombreras, rodilleras, coderas, casco y brazales) puede usarse como protecciones en combate y son totalmente legales. 
 
-\sinc
-
 |PROTECCIÓN|LOCALIZACIONES|ARMADURA|FUE MÍN.|PESO|COSTE|
 |---|---|---|---|---|---|
 |Protecciones de hockey de pasillo|Peto, brazos y piernas|+2|d6|5|250|
 |Casco con visor de rejilla de hockey de pasillo|Cabeza|+2|d6|1.5|95|
 
-\conc
-
-\sp
-
-\sinc
-
 ### Transporte y comunicación
-
-\conc
 
 Andar es la forma más normal para moverse por el complejo usando escaleras mecánicas, montacargas y turboascensores, pero si quieres moverte más puedes recurrir a patines en línea, skateboards y bicicletas eléctricas. Aunque su uso exige una buena habilidad para saltar obstáculos, bajar y subir escaleras, deslizarse por rampas, etc.
 
@@ -1280,23 +1062,13 @@ Los rollers cuestan dos acciones ponérselos y otra quitárselos, pero puedes in
 
 Las ventajas **Parkour y Acrobacias puedes aplicarlas cuando usas rollers, skates y bicis**, si tienes la habilidad de conducción adecuada.
 
-\sinc
-
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|---|------|-----|-----|
 |Roller skates|-4|+2|32 km/h|4|1|
 |Skateboard|-3|+1|30 km/h|4|1|
 |E-bike|-1|+1|35 km/h|5|1+1|
 
-\conc
-
-\sp
-
-\sinc
-
 ## Hackeos de les instaladores
-
-\conc
 
 ```
 Les instaladores tenían pequeños hackeos que usaban en su día a día y que les permitían usar los elementos de la arcología y el equipo de formas para los que no estaban preparados, como acelerar la velocidad de los montacargas o hacer que las puertas de los ascensores se abrieran solas sin que hubiera ascensor.
@@ -1323,8 +1095,6 @@ Gastar avances en más tiempo u otras modificaciones hace que resten 4 puntos a 
 **Jerga:** Ve a pagar el recibo de la luz, Muchos kilovatios/hora, Clap, Clap, Clap (3 palmadas), Funde los plomos 
 
 Mediante una mezcla de movimientos captados por los sensores de la iluminación y clics en los mandos de la luz, hacen que la iluminación actúe de las siguientes formas. Debes recordar que no hay fuentes naturales de la luz así que las estancias se quedan completamente a oscuras si se apaga la luz (a falta de otras formas de luz como leds de dispositivos o linternas). No se puede conseguir oscuridad total porque hay luces independientes de emergencia.
-
-\sp
 
 [![Hacker By cyberaeon](./assests/images/hacker_by_cyberaeon_d9qk9bk-375w-2x.jpg "Hacker By cyberaeon")](https://www.deviantart.com/cyberaeon/art/Hacker-588810800 "Hacker By cyberaeon")
 
@@ -1358,8 +1128,6 @@ Pulsando una combinación de botones de ascensores, montacargas y escaleras mec�
 * Puedes hacer que un **ascensor/montacargas vaya a un extremo u otro de su ruta**. Este hackeo dura hasta que llega al punto final de su ruta elegido.
 * Puedes **cambiar la dirección de unas escaleras mecánicas**. Moverse en dirección contraria a las escaleras se considera terreno difícil.
 
-\sp
-
 ### Controlar realidad aumentada
 
 **Requisitos:** Novate
@@ -1385,8 +1153,6 @@ Este hackeo **vale para puertas simples**. Aquellas con cerraduras, sensores bio
 * **Activar/Desactivar:** con este hackeo la puerta se queda cerrada o abierta indefinidamente. Gastando dos acciones y una tirada Electrónica dificultad tirada del hackeo se puede volver a dejar como estaba.
 * **Mover la posición del sensor de movimiento:** Puede usarse para hacer que la puerta se abra solo si detecta cierta circunstancia, por ejemplo si subimos el sensor solo detectará figura altas y no abrirá para los robots pequeños de reparto. Esto solo funciona para un sensor y cada puerta tiene dos sensores uno a cada lado. Si queremos cambiar ambos sensores habrá que hacer el hackeo dos veces, uno en cada lado de la puerta.
 * **Desactivar el control de entrada y salida:** las puertas más simples controlan solo la entrada y salida de personas para temas de aforo y cuando han sido dichos accesos. Se puede desactivar y volver a activar el control de acceso de persona de forma que no que registrada ni los accesos. Por ejemplo, se podrían desactivar el control de acceso de una puerta, salir por ella y volver al de un rato y activarla de nuevo.  Para el sistema durante ese tiempo no habría habido ningún movimiento.
-
-\sp
 
 ### Controlar ascensor
 
@@ -1462,8 +1228,6 @@ El problema de este hackeo es que hay que hacerlo desde dentro del ascensor.
 
 XXX
 
-\sp
-
 * Puedes poner los ventiladores a tal velocidad, más allá de lo seguro, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * XXX
 * XXX
@@ -1510,10 +1274,6 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 
 > Este hackeo debe ser enseñado por otro superusuarie y que se sepa solo les instaladores (y solo les dé mayor nivel) lo conocían.
 
-\sp
-
-\sinc
-
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
 |Controlar pantallas|Novate|Encender y apagar pantallas y poner mensajes simples|
@@ -1531,15 +1291,7 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Dominar vigilancia|Heróique, Controlar vigilancia|XXX|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 
-\conc
-
-\sp
-
-\sinc
-
 ## Otros sistemas
-
-\conc
 
 ```
 Aquí encontrarás reglas para sistemas nuevos propios de esta ambientación.
@@ -1566,8 +1318,6 @@ Saca una carta de acción para cada jugador para marcar el orden como si fuera i
 
 Tras declarar las tiradas, se tiran los dados aplicando los bonus y malus. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos.
 
-\sp
-
 Si alguna de las tiradas de Atletismo falla, pasa algo y el equipo automáticamente falla la ronda y el contrario gana el punto. Si los dos equipos fallan, ambos ganan un punto.
 
 Jugar fuera de tu puesto habitual fijado al principio del partido, por ejemplo parabol por pasabol o pasabol por lanzabol supone un -2.
@@ -1577,8 +1327,6 @@ Al final de cada ronda, saca una carta de acción. Si sale un trébol en la cart
 **Uso de benis:** convertir un fallo de Atletismo en un éxito directo, pero sin avances; poder participar en una ronda sin cumplir las reglas de participación.
 
 Al final de las 5 rondas gana el que más puntos tenga. También se puede ganar marcando en 3 rondas seguidas sin que tu oponente te marque. En caso de empate, se jugarán rondas extras a muerte súbita. En el momento que uno de los equipos marque un punto y el otro no, gana el encuentro.
-
-\sinc
 
 |Carta|Evento|
 |---|---|
@@ -1593,10 +1341,6 @@ Al final de las 5 rondas gana el que más puntos tenga. También se puede ganar 
 |K|Les seguidores del equipo con menos puntos empiezan a apoyar a su equipo con golpes y cánticos a través de las paredes. El equipo gana un beni grupal.|
 |A|Une influencer empieza a retransmitir el partido. Les fans ven el partido enfervorecides. El equipo ganador acabará en una fiesta salvaje con sus fans. Puedes usar esto como semilla de aventura tipo «Colega, ¿dónde está mi coche?»|
 
-\conc
-
-\sp
-
 ### Concursos de puntería
 
 Siendo el tirachinas una de las pocas armas permitidas, los concursos de puntería para probar la habilidad con el arco o tirachinas son bastante comunes. Hay muchas variaciones, desde disparos o a todo tipo de dianas en diferentes modalidades, hasta disparos a objetivos en movimiento. Quizás la más arriesgada sea disparar a un objetivo en la cabeza de le contrincante. Si aciertas ganas puntos y si se mueve tu objetivo también ganas puntos.
@@ -1609,8 +1353,6 @@ Si la distancia es corta no tiene negativo, si es media tiene -2 y si es larga u
 
 Cada vez que te golpeen añades un -1 a tu tirada de Espíritu porque sabes lo que te espera si te impacta el proyectil. Las ventajas que modifiquen la tirada de Miedo como osado se pueden usar.
 
-\sc
-
 Si aciertas el disparo, ganas un punto. Si además el objetivo se mueve ganas 1 punto extra. Cuando alguno de los dos consigue sacar una ventaja de 3 puntos, gana el concurso.
 
 Si alguien tiene una pifia en disparar hiere a su objetivo (tirada de daño real) y es descalificade si hace herida. Si pifias la tirada de Espíritu no pasa nada, pero el DJ puede describir algo vergonzoso que haces presa del miedo.
@@ -1622,8 +1364,6 @@ XXX
 ***
 
 # C1I3ern1a **Cibernia**
-
-\sinc
 
 En este capítulo vas a ver toda la tecnología que puedes encontrar en la arcología de Nottingham y como afecta al día a día de les _notis_. Hablaremos de IA, nanotecnología, ciberimplantes, realidad virtual y aumentada y otras tecnologías típicas de las ambientaciones ciberpunk.
 
@@ -1654,8 +1394,6 @@ La vida sin un HUB de conexión es bastante en el complejo:
 * No se puede pagar con créditos.
 * Las puertas con seguridad no te detectan y no se abren. Las puertas automáticas más simples te detectan porque detectan tu cuerpo, no tu HUB.
 
-\sp
-
 * Los turbo-ascensores no aceptan tus órdenes, porque creen que no hay nadie dentro. Necesitas a alguien con HUB para poder usarlos.
 * Los robots te consideran objetos y si tienen que aplastarte para esquivar a una persona, lo harán. su programación les dice que deben proteger primero a las personas y luego a los objetos.
 * Los sheriffs te identifican fácilmente como _boski_ y son de los que disparan primero y pregunta después.
@@ -1663,13 +1401,7 @@ La vida sin un HUB de conexión es bastante en el complejo:
 * El HUB da acceso a diferentes redes sociales y servicios web. Sin HUB todo eso está fuera de tu alcance. Con códigos válidos temporales tampoco se puede hacer mucho, porque muchas veces son perfiles vacíos.
 * El HUB permite acceder a mucha información, entre otros datos información médica. Les doctores del complejo, de normal no suelen tratar a gente sin HUB porque ayudar a proscrites es un delito grave, pero en caso de hacerlo tiene el problema de que tengan info médica de le paciente.
 
-\sp
-
-\sinc
-
 ## Ciberimplantes
-
-\conc
 
 ```
 Los ciberimplantes (CI) son elementos cibernéticos que sustituyen o mejoran partes del cuerpo. Pueden hacerte más fuerte, más rápido, más listo, ver en la oscuridad, respirar bajo el agua, etc.
@@ -1707,8 +1439,6 @@ Estas mejoras permiten aumentar un nivel el dado de la habilidad.
 * El dado de habilidad aumenta un nivel independiente del nivel de su atributo.
 * Puedes gastar avances en CI para conseguir subir una habilidad por encima de d12, pero a partir d12 los implantes no son camuflables.
 
-\sp
-
 * Si alguno de tus implantes no es camuflable todos los de la misma habilidad se vuelven no camuflables, pero no recuperas los puntos de CI que gastaste en hacerlos camuflables (ver «CI camuflables»).
 
 #### CI que otorgan ventajas
@@ -1739,8 +1469,6 @@ Por cada rango puedes quitarte un implante y recuperar los puntos de CI que gast
 
 Los implantes en condiciones normales son visibles. Se ven partes metálicas y cromadas, cables, leds, etc. pero por un punto extra se pueden hacer camuflables. De esa forma no son detectables a simple vista. 
 
-\sp
-
 Hay que tener en cuenta que tener garras es camuflable hasta el momento en que se sacan y se empieza a desgarrar gargantas. En ese momento por muy camuflables que sean la gente podrá verlas.
 
 ### Reparación
@@ -1757,16 +1485,12 @@ Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía 
 
 Los implantes ilegales no pueden ser instalados en sitios normales y tendrás que recurrir a doctores sin licencia o de la mafia. En el bosque hay gente capaz de instalarte implantes legales e ilegales, pero normalmente deberás conseguirlos y llevárselos para que te los instalen.
 
-\sinc
-
 ### Listas de CI que mejoran atributos
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
 |Mejora FUE|1|Sí|Reemplazos musculares, Inyector de adrenalina|
 |Mejora VIG|1|Sí|Placas dermales|
-
-&nbsp;
 
 ### Listas de CI que mejoran habilidades
 
@@ -1775,12 +1499,6 @@ Los implantes ilegales no pueden ser instalados en sitios normales y tendrás qu
 |Apostar|1|Sí|Calculadora cerebral de probabilidades|
 |Ciencias|1|Sí|Base de datos científica|
 |Conducir|1|Sí|Ciberconexión a vehículo|
-
-\conc
-
-\sp
-
-\sinc
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
@@ -1802,8 +1520,6 @@ Los implantes ilegales no pueden ser instalados en sitios normales y tendrás qu
 |Supervivencia|1|Sí|Estación meteorológica|
 |Tácticas|1|Sí|IA de tácticas|
 
-&nbsp;
-
 ### Listas de CI que permiten ventajas
 
 |Ciberimplantes|Puntos|Legal|Descripción|
@@ -1812,12 +1528,6 @@ Los implantes ilegales no pueden ser instalados en sitios normales y tendrás qu
 |Atractive|1|Sí|Cirugía estética, ojos felinos, nanitos capilares|
 |Calculadore|2|Sí|Ordenador táctico|
 |Curación rápida|2|Sí|Implante médico cervical|
-
-\conc
-
-\sp
-
-\sinc
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
@@ -1835,8 +1545,6 @@ Los implantes ilegales no pueden ser instalados en sitios normales y tendrás qu
 |Temple mejorado|4|Sí|Ciberreflejos mejorados|
 |Rápide|2|Sí|Bomba cardíaca|
 
-&nbsp;
-
 ### Listas de CI que otorgan rasgos de bestia
 
 |Ciberimplantes|Puntos|Legal|Descripción|
@@ -1847,12 +1555,6 @@ Los implantes ilegales no pueden ser instalados en sitios normales y tendrás qu
 |² Armas naturales (Cuernos)|2|No|Cuernos retráctiles, placas craneales metálicas.|
 |² Armas naturales (Garras)|2|No|Garras retráctiles, cuchillas interdigitales.|
 |Infravisión|2|Sí|Implantes oculares|
-
-\conc
-
-\sp
-
-\sinc
 
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
@@ -1865,17 +1567,9 @@ Los implantes ilegales no pueden ser instalados en sitios normales y tendrás qu
 
 ² Cada tipo de arma natural tiene sus propias reglas (Manual básico pág. 142). Las armas naturales tienen un daño de FUE+d4, pero se puede acumular el daño haciéndolas FUE+d6, FUE+d8, etc.
 
-\conc
-
-\sp
-
-\sinc
-
 ## IA
 
 [![Gameclaw-Caleb by Brandon-Ellis](./assests/images/gameclaw_caleb_by_brandon_ellis_des5wp9-414w-2x.jpg)](https://www.deviantart.com/brandon-ellis/art/Gameclaw-Caleb-893831373) 
-
-\conc
 
 ```
 Las IA son algo muy normal en Nottingham. De hecho, la IA J0hn controla muchísimos aspectos de la vida de les _notis_.
@@ -1899,8 +1593,6 @@ XXX
 
 Las IA dedicadas avanzadas son IA más avanzadas que las anteriores, pero siguen trabajando sobre un solo elemento. Una IA dedicada avanzada podría no solo gestionar los ascensores, sino también prever posibles aglomeraciones por información que recibe como eventos deportivos y buscar soluciones.
 
-\sp
-
 Siguiendo con IA médica anterior, una IA dedicada avanzada médica podría diagnosticar muchos tipos de enfermedades y también dar tratamientos más adecuados.
 
 XXX
@@ -1919,8 +1611,6 @@ Digamos que las directoras son IA polivalentes con conocimientos y experiencia d
 
 XXX
 
-\sc
-
 #### Las instancias
 
 Las grandes IA directoras y algunas polivalentes que empiezan a tener conocimientos y experiencias importantes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea específica.
@@ -1933,13 +1623,7 @@ XXX
 
 XXX
 
-\sp
-
-\sinc
-
 ## Nanotecnología
-
-\conc
 
 ```
 La nanotecnología es una de las fuerzas creadoras más importantes de bosque Sh3rW00d.
@@ -1957,8 +1641,6 @@ Un hecho importante a tener en cuenta es que los nanitos no entienden a los sere
 
 Por decirlo de forma sencilla, cuando construyen una casa, la casa no se queja, ni está todo el rato moviéndose y cambiando de tamaño y forma y si lo hace es dentro de un entorno controlable. 
 
-\sc
-
 Así pues, el uso de nanitos en entidades biológicas está reservado a la experimentación en laboratorios y todavía no habido grandes avances en esta tecnología. Salvo cosas muy puntuales como reparación de huesos o estimular de ciertas glándulas. En ambos casos los nanorobots solo tienen una única tarea y es muy simple, con lo que no les genera gran problema.
 
 ### Restos de nanotecnología
@@ -1974,15 +1656,9 @@ Actualmente, hay pocos restos de nanotecnología en Nottingham, pero todavía qu
 
 XXX
 
-\sp
-
-\sinc
-
 [![Nature Neon By redheadsoldier](./assests/images/nature_neon_by_redheadsoldier_d9ycnm9-414w-2x.jpg "Nature Neon By redheadsoldier")](https://www.deviantart.com/redheadsoldier/art/Nature-Neon-601893009 "Nature Neon By redheadsoldier")
 
 ## Realidad aumentada y virtual
-
-\conc
 
 ```
 XXX
@@ -1992,15 +1668,7 @@ Para empezar es importante diferenciar la realidad virtual y la realidad aumenta
 
 XXX
 
-\sc
-
-\sp
-
-\sinc
-
 ## Información y mensajería
-
-\conc
 
 ```
 En un mundo hipertecnificado, la forma más fácil de que no te hackeen información es que esta sea física. Los planos de un nuevo ingenio es mejor tenerlos en papel y que los lleve une mensajere en bici que mandarlos por mensajes digitales.
@@ -2020,8 +1688,6 @@ Les mensajeres independientes suelen ser practicantes de disciplinas como parkou
 
 > Muchas de las cooperativas están siendo absorbidas por empresas más grandes que bien quieren meterse en el negocio de la mensajería o bien quieren integrar en su estructura un sistema seguro de mensajería. Las más reacias y resistentes a ser compradas suelen tener contactos con el bosque y si eres de confianza, pueden llevar mensajes al Gran Roble.
 
-\sp
-
 Aparte de las empresas tradicionales de mensajería hay otras con unos métodos de trabajo totalmente diferentes, como Mouseguard o Multiply.
 
 #### Multiply
@@ -2036,8 +1702,6 @@ Esta empresa de robots tiene una flotilla de minirobots, llamados mouses o raton
 
 Su estrategia es moverse por rutas alternativas que no pueden usar los humanos. No son vistos ni detectados y, por tanto, no pueden ser interceptados y su información robada. Además, la IA que controla las rutas y nunca las repite. No le importa usar rutas larguísimas, el robot no tiene un horario de trabajo, así que tenerlos dando vueltas es una opción. 
 
-\sc
-
 Los robots se autodestruyen, si creen que pueden ser interceptados y la información que portan puede ser robada. Como son solo datos basta con grabarlos en otra unidad de almacenamiento y mandar otro ratón.
 
 > Los mapas del complejo de Mouseguard son mejores que los que tiene la propia directora J0hn, ya que los robots mapean todos los sitios por los que pasan. Conseguir esos datos podría dar una gran ventaja a una banda de proscrites que necesitan entrar y salir de un lugar sin ser detectados y moverse por toda la arcología sin ser vistos. 
@@ -2048,15 +1712,9 @@ Cada mensajero tiene su forma de moverse por la ciudad rápidamente. Tenemos cor
 
 Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, enfermeres en caso del parkour o mecániques de bicis para los especialistas en BMX.
 
-\sp
-
-\sinc
-
 [![1920x1080 Wallpaper Desktop By siulzz](./assests/images/1920x1080_wallpaper_desktop_by_siulzz_dcqt4kg-pre.jpg "1920x1080 Wallpaper Desktop By siulzz")](https://www.deviantart.com/siulzz/art/1920x1080-Wallpaper-Desktop-770623072 "1920x1080 Wallpaper Desktop By siulzz")
 
 ## Otras tecnologías
-
-\conc
 
 ```
 En Bosque Sh3rW00d hay otras tecnologías no tan relacionadas con la cibernia que pueden dar sabor a tus partidas.
@@ -2076,8 +1734,6 @@ La tecnología de hologramas **existe, pero no está muy avanzada**. Se nota que
 
 Su uso principal es crear HUD virtuales y pantallas y teclados holográficos sobre los que trabajar, pero no crear habitaciones holográficas totalmente realistas. De hecho en concepto de luz dura no existe en bosque Sh3rW00d.
 
-\sp
-
 ### Clonación e ingeniería genética
 
 La **clonación de seres humanos, aunque posible, es ilegal** incluso, la clonación de órganos para trasplantes.
@@ -2096,8 +1752,6 @@ Aunque la tecnología es factible, como demuestran las IA de alto nivel, no est�
 
 Pero desde luego, está tecnología es muy rara y se mantiene en secreto. Solo estaría reservada para los más altos cargos de la compañía.
 
-\sc
-
 ### Drones pilotados y autónomos
 
 **La tecnología de drones resulta totalmente ineficaz** en un lugar con las características arquitectónicas de la arcología de Sh3rW00d. Volar no aporta ninguna ventaja en los espacios pequeños, bajos y lleno de puertas. De hecho robots autopilotados que van el suelo son mucho más eficaces y menos molestos para habitantes del complejo.
@@ -2110,8 +1764,6 @@ Los drones son más útiles en los espacios abiertos del bosque Sh3rW00d, pero l
 
 # I3es71ari0 **Bestiario**
 
-\sinc
-
 Aquí te presentamos toda una galería de personajes no jugadores genériques que van a pulular por los pasillos de la arcología, las factorías de algas y los garitos. Te presentamos 3 grupos de PNJ: villanos, robots y gentes de Nottingham.
 
 También los puedes usar como base para tus PNJ. Si el tabernere va a ser importante, coge a une secuace y adórnale con tus propios detalles.
@@ -2121,8 +1773,6 @@ Recuerda que en esta ambientación muchos de estos PNJ genériques puedes person
 ## Villanes
 
 [![Slaughteress 2019 By Mishkatron](./assests/images/slaughteress_2019_by_mishkatron_dcz55ay-pre.jpg "Slaughteress 2019 By Mishkatron")](https://www.deviantart.com/mishkatron/art/Slaughteress-2019-784620826 "Slaughteress 2019 By Mishkatron")
-
-\conc
 
 ```
 Como siempre se dice la talla de tus heroines la marcan sus villanos.
@@ -2136,8 +1786,6 @@ XXX
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** XXX
-
-\sp
 
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Desventajas:** XXX
@@ -2197,8 +1845,6 @@ XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
-\sp
-
 ### Asesores de blus
 
 XXX
@@ -2223,15 +1869,7 @@ XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
-\sc
-
-\sp
-
-\sinc
-
 ## Robots
-
-\conc
 
 ```
 Los pasillos, habitaciones, conductos y habitáculos de Nottingham están llenos de robots autónomos que la directora J0hn puede controlar y usar a su antojo.
@@ -2279,8 +1917,6 @@ XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 
-\sp
-
 * **Capacidades especiales:**
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
@@ -2299,15 +1935,7 @@ Esto pequeños robots son alargados como comadrejas, aunque más grandes, se enc
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño (-1):** Puede moverse sin problemas por tubos de ventilación y otros conductos grandes.
 
-\sc
-
-\sp
-
-\sinc
-
 ## Gentes de Nottingham
-
-\conc
 
 ```
 Vas a necesitar llenar tus tabernas de turbios personajes de miradas perdidas y tus tiendas y mercados de extraños vendedores. En esta sección tienes todo lo necesario para que rellenes todos esos huecos en tus historias con toda una galería de PNJ genériques.
@@ -2343,8 +1971,6 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 ### Cientifique
 
 Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde físiques, químiques, biólogues, etc. Siempre con batas blancas en impolutos laboratorios llenos de equipo de investigación. 
-
-\sp
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d8, Conocimientos Generales d8, Electrónica d6, Idioma inglés d8, Notar d8, Ordenadores d6, Persuadir d4, Sigilo d4
@@ -2387,8 +2013,6 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
 * **Ciberimplantes:** XXX
 
-\sp
-
 * **Desventajas:** Elige 1 o más: Avariciose (Mayor), Bocazas (Menor), Caute (Menor), Habito (Mayor, Alcoholismo)
 * **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alcurnia, Rique
 **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
@@ -2411,8 +2035,6 @@ Estes criminales menores pueblan los callejones de la zona baja dando golpes men
 
 # IϽiЯeͼtori0 de Nottingham **Directorio de Nottingham**
 
-\sinc
-
 La arcología de Nottingham están llenas de lugares interesantes donde tu banda pueden correr grandes aventuras. 
 
 La mayoría de las veces serán lugares normales donde ambientar tus aventuras, pero algunas veces son sitios increíbles llenos de tesoros y recompensas, y también trampas mortales de las que solo les más avispades y valientes pueden escapar.
@@ -2423,17 +2045,11 @@ La arcología se divide en 4 zonas, la zona baja, la zona medía, la zona alta y
 
 [![Best buy By GeoKorf](./assests/images/best_buy_by_geokorf_d3712xv-fullview.jpg "Best buy By GeoKorf")](https://www.deviantart.com/geokorf/art/Best-buy-193206307 "Best buy By GeoKorf")
 
-\conc
-
 ```
 Es la parte más antigua de la arcología y también la mas abandonada y con más problemas de mantenimiento. Es por ello que está habitada por las clases más bajas.
 ```
 
-\sc
-
 **Nivel de seguridad:** En la zona baja más que nivel de seguridad debemos hablar de nivel de represión institucional. Y en ese caso podemos decir que es excesivamente alta. Eso supone que hay patrullas de sheriffs las 24 horas, haciendo controles aleatorios, detenciones arbitrarias y dando palizas sin razón. Sea como sea si hace algo indebido puedes acabar en el calabozo o algo peor.
-
-\sp
 
 Basura, humedad, desconchones, grietas, iluminación pobres y parpadeante y aguas residuales son el día a día de la zona baja. Si a eso se le suma masificación, delincuencia y miseria, tienes la zona baja de Nottingham. Las calles de la zona baja están controladas por pandillas y bandas criminales y sobrevivir en ellas sin servir a ninguno de esos grupos es una auténtica proeza.
 
@@ -2447,8 +2063,6 @@ Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis
 
 > La mayoría de la comida del complejo sale del Trent, con lo que **si algo le pasa a la algafactoria puede suponer una gran hambruna** sobre todo entre los _curris_.
 
-\sc
-
 ### The premise
 
 Robert Guthrie es un buhonero/empeñista que se conoce por **tener tratos con delincuentes y _boskis_ y comprar todo el material que le traigan sin hacer preguntas**. Cosas que han rechazado en otras tiendas de empeño por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas. 
@@ -2458,8 +2072,6 @@ Aunque tiene una tienda fija, esta abre y cierra cuando le da la gana. Además, 
 También es un buen **lugar donde buscar materiales y productos peligrosos e ilegales**. En su almacén (o en su mochila si está fuera de la tienda) tiene de todo lo que han vendido y Guthrie puede vendértelo por un buen precio. Como siempre si es ilegal compra y paga con trueques.
 
 > Guthrie es uno de los mayores clientes de la Harriette, la tecnobruja. Toda la basura rota que compra suele pedirle a Harriette que se la arregle. Le hace todo tipo de ofrendas y suele tener siempre suerte. Si tu banda de forajides, necesita una reparación imposible de algún equipo o recuperar info borrada de una unidad de almacenamiento (y no conoce a Harriette), Guthrie puede llevárselo y traértelo arreglado en unos días.
-
-\sp
 
 ### El pozo
 
@@ -2471,8 +2083,6 @@ Se dice que todavía quedan nanitos en su fondo esperando órdenes de trabajo de
 
 El pozo mide unos 20 m de diámetro y se desconoce su profundidad, pero todo lo que se lanza dentro desaparece. No sería de extrañar que alguien se deshiciera de cadáveres y/o productos peligrosos en su oscuridad.
 
-\sc
-
 **Semilla de aventura:** Les buscadores buscan a un grupo de osades que bajen al pozo y consigan muestras de los nanitos que se creen que hay allí abajo. Estudiar esos nanitos sería como conocer a les propies instaladores y quizás puedan obtener pistas para su búsqueda. El problema es que 150 años son muchos años y lo que hayan hecho los nanitos del fondo del pozo con los restos que se lanzan desde arriba puede ser muy peligroso. Siéntete libre de sacar, zombis tecnificados, aberraciones mutantes o hasta horrores cósmicos. El pozo es la entrada a tus aventuras de todo tipo de seres.
 
 ### Campo de tiro de Gus
@@ -2482,8 +2092,6 @@ En este taller desocupado puedes encontrar todo tipo de dianas y obstáculos y v
 Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas (y algunos el arco) es casi una filosofía de vida y como si de monjes shaolin se tratará entrenan día y noche para hacer los más increíbles tiros. El tiro con tiragomas es, además, para muches de elles una forma de meditación e iluminación.
 
 Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
-
-\sp
 
 > Por unos **500 dólares en alijos** (que serán usados en mejorar el campo de tiro) y dos semanas de entrenamiento intensivo, mejorarás el valor de Disparar de le PJ en **un nivel de dado cuando combatas con tirachinas o arco** (puedes entrenar varias veces, pero con diferente arma). Tu valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
 
@@ -2509,8 +2117,6 @@ Hace 15 años, durante una gran escasez de algas, Mamá Claire, de ascendencia j
 
 Muches cocineres e influencers gastronómiques ha intentado conseguir la receta del gumbo, pero Mamá se ha negado a darla. También le han hecho ofertas de trabajo como cocinera en casas de la zona alta y las ha declinado todas. Ella es feliz con su gente en los bajos de Nottingham.
 
-\sp
-
 El **secreto del gumbo** de Claire son los **productos frescos ecológicos que los _boskis_** suelen proporcionarle en sus incursiones al complejo.
 
 **Semilla de aventura:** Une sibarite _blus_ quiere descubrir la receta del gumbo de Mamá Claire, pero no consigue que nadie le traiga un plato y se niega a ir hasta la Zona Baja. Tu banda puede cobrarle una buena pasta por el trabajo o hacer que el _blus_ les deba un favor. Sea lo que sea, no debería ser muy complicado conseguir un cuenco de gumbo, mamá Claire lo regala.
@@ -2535,8 +2141,6 @@ La zona de trabajo de este grupo de nanitos es la Zona Baja, pero han empezado a
 
 El mercadillo nocturno, también conocido como mercadillo de Halloween, se celebra cada 5 días durante el modo nocturno del complejo. Es un mercadillo en el que la gente coloca en las puertas de sus habitáculos, pantallas con fotos y vídeos de las cosas que vende y también de las cosas que necesita. 
 
-\sp
-
 Si ves algo que necesitas y quieres deshacerte de algo, llamas a la puerta y negocias un trato.
 
 **Son muy raras las transacciones en dinero**, todo el mundo prefiere que la compañía no meta mano en estas actividades de subsistencia. Son muy pocos los que venden productos ilegales y normalmente son ilegales por temas de seguridad alimentaria o porque son productos sobre los que la compañía tiene la venta en exclusiva.
@@ -2556,8 +2160,6 @@ Hace años las _fantarinas_ se compraban por otras frutas pieza por pieza. Desde
 ### Salón de juegos y pachinko «La olla de oro»
 
 La olla empezó como pequeño espacio debajo de unas escaleras donde su dueña original, conocida en la zona como Doña Marina, puso unas máquinas vending, gachaballs y una tragaperras.
-
-\sp
 
 Las tragaperras y las máquinas de gachaballs pronto se convirtieron en una interesante fuente de ingresos y empezaron a ocupar todo el espacio.
 
@@ -2583,8 +2185,6 @@ Pedro también suministra info, cuando alguno de les jugadores mueve grandes sum
 
 Pedro se está enriqueciendo a gran velocidad y ha empezado a formar un pequeño grupo mafioso que está empezando a tontear con otras formas de crimen organizado. Por ahora con el beneplácito de la directora J0hn.
 
-\sp
-
 > Las **bolas de pachinko pueden ser usadas como abrojos**. Tirando un puñado de bolas al suelo, conviertes una casilla en terreno difícil y es imposible correr por esa casilla. Si se tira un cubo lleno de bolas (de los que usan les jugadores para recoger sus premios gordos), se pueden cubrir hasta 5 casillas. También pueden usarse como proyectiles de tirachinas sin ningún tipo de penalización a Disparar o al daño.
 
 ### El cementerio haitiano
@@ -2600,8 +2200,6 @@ Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas 
 Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio y tiene a un **equipo de robots comadrejas tomando pruebas de ADN a los restos** para identificarlos y luego etiquetarlos y localizarlos con chips GPS adheridos a las cápsulas de cenizas.
 
 > A pesar de todas las ideas conspiranoicas que corren sobren la identificación de las cenizas, en este caso **las acciones de la directora J0hn no tienen ningún tipo de plan oculto**. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.
-
-\sp
 
 Este cementerio es el sitio más importante en el que se celebra el _fét gede_, **el Día de los muertos en Haití**. En noviembre el lugar se convierte una extraña fiesta que rinde culto a los espíritus de los muertos.
 
@@ -2635,8 +2233,6 @@ El correccional consta de **4 plantas** que fueron aisladas del exterior de form
 
 Sus conductos de aireación, desagüe y demás son independientes y en circuito cerrado para evitar las fugas.
 
-\sp
-
 Dos plantas de celdas, para 400 presos (2 preses por celdas), media de esparcimiento, la otra media de comedor y pequeño hospital y la última planta es un taller industrial donde trabajan 8 horas diarias cumpliendo sus penas.
 
 Todo el correccional está recubierto de gruesas paredes blindadas con sensores que detectan vibraciones y agujeros y robots comadrejas programados para revisar lo que los sensores detectan.
@@ -2651,8 +2247,6 @@ La vida es simple y rutinaria, **8 horas de trabajo, 8 horas de sueño y 8 horas
 
 Las visitas son telemáticas, pero aun así restringidas y el contrabando es casi imposible. Pero les preses siempre consiguen hacer algo de alcohol o armas muy sencillas.
 
-\sc
-
 La fábrica funciona 24 horas en turnos de 8 horas y la IA alcaide suele evitar que los miembros de bandas u otras organizaciones sindicales estén juntos lo mínimo posible con rotaciones de los turnos de trabajo.
 
 > El rumor que corre entre les preses es que **los sheriffs más violentos son enviados al correccional** y es totalmente cierto. Si un sheriff resulta muy violento para el trabajo de calle, sele envía al correccional o al bosque, donde sus actos no son vistos por los notis.
@@ -2665,15 +2259,11 @@ Sin embargo, no llegaron nunca triunfar, por la sencilla razón de que las trans
 
 > Cuando crees un espacio en la zona baja donde se vaya a combatir o interactuar **es muy posible que haya por lo menos una máquina de vending**, de café en una sala de espera, de productos de higiene y farmacéuticos en una zona hospital, productos de ocio en zonas de diversión, etc. 
 
-\sp
-
 [![Vending Machine By burningmonk](./assests/images/db0vnla-915f97ef-c5a8-40b7-ab9c-6a60fd2a9c67.jpg "Vending Machine By burningmonk")](https://www.deviantart.com/burningmonk/art/Vending-Machine-666604846 "Vending Machine By burningmonk")
 
 Las máquinas de vending son pequeñas bolsas de dinero para gente que vive en el otro lado de la ley. Pueden tener productos por unos 1d10x10 $ en alijos. El cristal, a pesar de ser blindado, tiene una **consistencia de 12** (18 si los usas como parapeto).
 
 Como se ha dicho, las maquinas casi ni se usan, pero hay que reponerlas, limpiarlas y arreglarlas, así que Lady Marian, con apoyo popular y tras varias manifestaciones y bastantes actos de vandalismo contra las máquinas de vending, consiguió que les preses no violentes pudieran elegir pagar sus deudas trabajando como reponedores de las máquinas.
-
-\sc
 
 En teoría, esto permitía una reinserción social más rápida, ya que durante los meses de trabajo reponiendo productos volvían a vivir en sociedad, a establecer nuevas relaciones sociales y a acostumbrarse a vivir entre sus iguales.
 
@@ -2683,13 +2273,7 @@ Si bien, la mayoría de estes trabajadores se reinserta adecuadamente, el númer
 
 > Si alguien hiciera cuentas, vería que casi todos les preses que salen para reponer con la firma de Lady Marian terminan fugándose. Esto podría poner en serios aprietos esta buena samaritana.
 
-\sp
-
-\sinc
-
 ## Zona media
-
-\conc
 
 ```
 La zona media es la zona industrial y comercial del complejo. Aquí están las fabricas, los talleres y también las tiendas y los restaurantes. En ella viven las clases medias que buscan ascender a la zona alta y es el punto en que las personas de la zonas altas y bajas se juntan, pero no se mezclan.
@@ -2700,8 +2284,6 @@ La zona media es la zona industrial y comercial del complejo. Aquí están las f
 La zona media es la zona económica del complejo. Cómo ya hemos dicho están las fábricas, los talleres, las tiendas y las tabernas y restaurantes. Si vienes aquí es para trabajar o para gastar dinero. Es por ello que muchos, esta zona es perfecta para una banda proscrites que empiezan den sus primeros golpes. La zona medía supone mucho dinero, mucha gente y menos vigilancia y seguridad de lo normal.
 
 También es el lugar de disfrutar de tus golpes bebiendo, comiendo, cantando y bailando mientras tu cara no salga en las pantallas LCD en un anuncio de se busca. Cuando eso ocurra la zona media se convertirá en un lugar peligroso para tu banda.
-
-\sc
 
 ### Plaza Mayor
 
@@ -2719,13 +2301,7 @@ Alrededor de la plaza hay todo tipo de tiendas, puestos de comida, tabernas, etc
 
 Como siempre fuera de las tiendas hay portacarteles publicitando los productos de determinadas tiendas haciendo todo tipo de malabares, acrobacias, canciones, repartiendo muestras gratuitas, etc.
 
-\sp
-
-\sinc
-
 [![Mike Grauer 1980s shopping mall, water fountain, p By Mackingster](./assests/images/mike_grauer_1980s_shopping_mall__water_fountain__p_by_mackingster_dfaiiu3-fullview.jpg "Mike Grauer 1980s shopping mall, water fountain, p By Mackingster")](https://www.deviantart.com/mackingster/art/Mike-Grauer-1980s-shopping-mall-water-fountain-p-924653019 "Mike Grauer 1980s shopping mall, water fountain, p By Mackingster")
-
-\conc
 
 #### El espacio de descanso
 
@@ -2746,8 +2322,6 @@ Los dólmenes hoy en día están totalmente vandalizados con grafitis, textos gr
 #### La gran pantalla
 
 En un uno de los laterales de la plaza hay una gran pantalla de unos 30x10m donde la directora J0hn hace sus apariciones y publica sus edictos.
-
-\sp
 
 Esta pantalla es vandalizada continuamente con pintadas, pegatinas, globos de pintura. De hecho, hay varias bandas cuyo rito de entrada es estropear alguna manera esa gran pantalla.
 
@@ -2773,8 +2347,6 @@ Puedes comprar entradas para eventos específicos a la compañía o pagar un abo
 
 > La IA que controla todo el sistema de cámara ha desarrollado con los años ciertos gustos deportivos y tiende a tratar mejor a sus compañeros hinchas que al resto. Si vas con los colores de su equipo, al interactuar con ella recibes un +2 a todas las tiradas en las que interactúes con ella.
 
-\sp
-
 ### Escuela de danza de Lady Myrna
 
 Lady Myrna es una de las mejores bailarinas de Nottingham y ha bailado para las clases más altas del complejo y de todo el mundo. En la cima de su carrera decidió montar una escuela donde enseñar su arte a las personas que lo aman tanto como ella.
@@ -2799,8 +2371,6 @@ Pero el huerto no solo sirve para limpiar la imagen de la directora, también si
 
 > Por unos 200 $ (como soborno) puedes conseguir que alguien del personal del huerto te consiga de extranjis cualquier ingrediente de tipo vegetal por extraño que sea (a discreción de DJ). También puedes por 100 $ conseguir frutas u hortalizas por raras que sean y estén o no de temporada.
 
-\sp
-
 Los pasillos con vegetación alta de este jardín se ha convertido en el sitio preferido para llevar a cabo duelos entre _notis_. Es un buen sitio. Fácil de encontrar, oculto a simple vista y la vegetación le da un toque clásico y romántico que no se puede conseguir en otras partes del complejo.
 
 **Semilla de aventura:** La última persona que gano las verduras del huerto ha estado unos días comportándose muy raro, con fallos de memoria y ahora presenta ronchas y prurito por todo el cuerpo. Quizás habría que investigar el huerto y ver que trama la directora.
@@ -2822,8 +2392,6 @@ LEDland es uno de los pasillos de acceso a la Plaza Mayor. Recibe el nombre de l
 Antiguamente, este acceso estaba cubierto por una sustancia gomosa creada por les instaladores, de la que se desconocía su utilidad. Un día una mujer llamada Anette, del equipo de mantenimiento, mientras cambiaba las luces del pasillo, clavó unos leds en la goma para tenerlos más a mano y se encendieron. Según se cuenta, en cuanto se encendió el primer led recibió un aviso de que iba a ser ascendida.
 
 Esta historia corrió como la pólvora y LEDland se convirtió en un pozo de los deseos. La gente va allí con miniLEDs, busca un espacio libre donde clavar su lucecita y pide un deseo. Si se enciende se cumplirá y si falla (cosas que ocurre muy pocas veces) no se hará realidad.
-
-\sp
 
 Corre otra historia, en la que Anette murió en accidente de trabajo a los pocos días de empezar en su nuevo puesto. Hay gente que cree que los deseos de LEDland son peligrosos y pueden volverse contra ti.
 
@@ -2850,8 +2418,6 @@ Cuenta también con un modo oscuridad que elimina toda luz, consiguiendo una pri
 La sala se contrata en un cajero que hay al lado de su entrada en la Plaza Mayor. Al pagar se abre la puerta y puedes entrar. No se reserva con lo que hay que hacer cola fuera y cuando se acaba el tiempo, se abre la puerta para que salgas. Si permaneces dentro generas una deuda de 50 $ el minuto hasta que desalojas el lugar.
 
 **Semilla de aventura:** Al abrirse la puerta para entrar al Bolrum, se puede ver perfectamente un cadáver ensangrentado. Tiene la garganta cortada y no se ve ninguna hoja.
-
-\sp
 
 [![bento box (digital) By soren15](./assests/images/bento_box__digital__by_soren15_dd2woiz-pre.png "bento box (digital) By soren15")](https://www.deviantart.com/soren15/art/bento-box-digital-790944299 "bento box (digital) By soren15")
 
@@ -2880,8 +2446,6 @@ Todos esos programas se mueven por la red y puedes interactuar con ellos mediant
 
 Pueden lanzarles paquetes de datos para que los borren o hacerles moverse por todas la red persiguiendo un programa que no para de moverse de disco de almacenamiento en disco de almacenamiento.
 
-\sp
-
 Es divertido ver como los _glitchs_ hacen fallar durante segundos las pantallas y luces del local según se mueven por la red y hay gente que puede pasarse horas chequeando las posiciones de memoria en la que está su troyano favorito para que esté cómodo.
 
 La idea del café se le ocurrió a Pad, su dueño, hace años cuando todo el equipo de la cafetería Pad’s Café fue infectado por un malware. Ofreció un bono vitalicio de café a quien le librará del malware. Enseguida se le llenó el local de hackers y expertes en ciberseguridad buscando café gratis.
@@ -2902,13 +2466,7 @@ Como no podría ser de otra manera **todos los menús, los avisos y demás texto
 
 > Basado en una idea de [Cogito ergo mecagoendios](https://mastodon.gal/@elrohir)
 
-\sp
-
-\sinc
-
 ## Zona alta
-
-\conc
 
 ```
 La zona alta es de acceso exclusivo de los clases altas, les _blus_ y _les influencers_. Los _curris- solo entran aquí para trabajar en las casas de les riques.
@@ -2938,8 +2496,6 @@ Cómo muchas cosas que la directora J0hn organiza en Nottingham tiene una cara o
 
 Todo el zoo está lleno de sensores médicos, que miden muchos indicadores biológicos como temperatura corporal, sudoración, pulso, etc. Programan diferentes rutinas en los animales y **estudian cuáles provocan más miedo en los visitantes**.
 
-\sp
-
 Todo este estudio plantea **implementarlo en sus sheriffs robóticos** para usarlo en funciones como interrogatorio o control de masas.
 
 Nunca se han registrado ataques o fugas, pero según se van implementando nuevas rutinas los fallos aumentan y puede que en un futuro próximo ocurran.
@@ -2968,8 +2524,6 @@ Si lo tuyo es robar a los ricos para dárselo a los pobres, este balneario es el
 
 A priori todo el spa está aislado de la arcología y solo se puede entrar por la puerta principal y la de servicio, pasando en ambos casos varios controles de seguridad. Pero hay otras entradas, desde ventilación hasta desagües y siempre se puede montar un butrón hacia una zona de servicio poco transitada.
 
-\sp
-
 **Semilla de aventura:** Tras la reunión anual de accionistes de la compañía, se suele hacer un día de spa para les _blus_ asistentes con baños termales, comidas gourmets, masajes, etc. Un grupo que sepa y pueda infiltrarse en el balneario podría sacar una buena tajada.
 
 ### Feria de Nottingham
@@ -2987,8 +2541,6 @@ La gente rica que asiste suele ir disfrazada, el problema es que el rigor histó
 Al anochecer, tras un cambio de vestuario de rigor, se monta un baile privado para les mecenas. Es en este baile donde lucen sus mejores joyas, ropas y aparatos tecnológicos, mientras hacen los bailes de moda esa temporada.
 
 > Una banda de forajides y ladrones podría aprovechar la feria para dar un golpe maestro a les más riques de Nottingham y además, y quizás lo más importante, reírse en la cara de la directora J0hn y sus sheriffs.
-
-\sp
 
 **Semilla de aventura:** La troupe de artistes que suele participar en la feria medieval de esta noche está totalmente borracha en el Albión. Tuvieron suerte a las cartas y acabaron borraches perdides con el famoso vodka del local. Alguien podría robarles sus disfraces y colarse en la feria de esta tarde noche.
 
@@ -3016,8 +2568,6 @@ Baris tiene un montón de conocimientos generales y es bastante agradable y cari
 
 El **avatar básico** en el café tanto en los LCD de las mesas como en realidad aumentada es **una joven barista con delantal**. Pero según conoce al cliente adapta su avatar a sus preferencias.
 
-\sp
-
 De hecho, está programada para conocer a sus clientes y poder seguirles el _rollo_ en sucesivas visitas como si fuera una especie de amiga.
 
 Lo que no previeron sus creadores es que esto le permitiría interpretar e investigar las conversaciones que tiene con los clientes y extrapolar y deducir cosas a partir de ellas.
@@ -3040,15 +2590,9 @@ En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a par
 
 **Semilla de aventura:** Si alguien pudiera librar a Baris de la tarea de hacer café durante unos días, podría procesar mucha de la información que tiene almacenada y descubrir cosas muy interesantes. Quizás investigar el tema del robo de propiedad intelectual puede obligar a que el Café Corta cierre unos días.
 
-\sp
-
-\sinc
-
 ## El bosque
 
 [![Station 5 Section 0.9 By batjorge](./assests/images/station_5__section_0_9_by_batjorge_d78vuq3-pre.jpg "Station 5 Section 0.9 By batjorge")](https://www.deviantart.com/batjorge/art/Station-5-Section-0-9-438186315 "Station 5 Section 0.9 By batjorge")
-
-\conc
 
 ```
 El bosque es la parte del complejo que se dejo a medio construir debido a la marcha de les instaladores. El hecho que este sin terminar ha permitido que todes les proscrites se hayan establecide en esta zona a donde la ley de la compañía no llega.
@@ -3057,8 +2601,6 @@ El bosque es la parte del complejo que se dejo a medio construir debido a la mar
 **Nivel de seguridad:** A pesar de lo que pueda pensarse el nivel de seguridad del bosque es bastante alto, principalmente para protegerse de los sheriffs y sus secuaces. Los _boskis_ tienen patrullan que vigilan las zonas que habitan en el bosque y en caso de detectar intrusos, los siguen, los estudian para saber si son amigos o enemigos y deciden si dejarlos pasar o tenderles una emboscada. Cuanto más cerca del Gran Roble más posibilidades de encontrarse con una patrulla.
 
 El bosque es un mundo aparte. Radicalmente opuesto al resto del complejo. Grandes espacios, poca gente y poca o ninguna tecnología. Todos tienes que hacerlo tu misme, pero a la vez eres libre de hacerlo como quieras, no hay IA directoras que te diga si puedes o no hacer algo y cómo debes hacerlo. La vida en el bosque es dura, pero en cierto modo es satisfactoria.
-
-\sp
 
 Es importante recalcar que el bosque es en su mayoría una gran extensión llena de columnas, huecos para ascensores, suelos y techos sin rematar, etc. Esto hace que no sea fácil encontrar muchas de las localizaciones que se presentan en este punto. Sin conocer el camino o guiado por alguien es muy difícil que alguien las encuentre. 
 
@@ -3083,8 +2625,6 @@ Se puede conseguir todo tipo de servicios y productos normales, nada de lujos. P
 Mientras que todo es bosque esta siempre es penumbra gracias a la iluminación básica que tiene todo el bosque y que R1c4rd no ha conseguido cortar, GR está perfectamente iluminado gracias a unos focos colocados en la gran columna que iluminan toda la comunidad. Estos focos se apagan de noche y se encienden de día.
 
 Les encargades de vigilar y mantener las luces son conocides como farares y tienen la ventaja de poder vivir en unas estancias colgantes cerca de las potentes luces.
-
-\sp
 
 #### El punto
 
@@ -3116,8 +2656,6 @@ En un lado apartado del mercado se hacen donaciones de excedentes y un par de pe
 
 En lo más profundo de Bosque Sh3rW00d hay una choza de planchas irregulares de diferentes polímeros y cristal, que le dan un aspecto fantasmagórico.  Les _boskis_ lo llaman el refugio de la bruja y no suelen acercarse salvo que necesiten los servicios tecnológicos de la bruja. 
 
-\sp
-
 Hay colgando de diferentes partes de la choza carillones de viento hechos de materiales reciclados que emiten extraños sonidos acentuando el ambiente terrorífico del lugar. Lo curioso es que no se mueven porque no hay nunca viento.
 
 Todes en el bosque saben que **Harriette la bruja** es la persona con la que hablar cuando tienes que **reparar algún objeto electrónico, reprogramar un robot, hackear algún aparato u obtener _oscuros_ conocimientos informáticos**.  
@@ -3137,8 +2675,6 @@ Aun siendo una simple aprendiz, **sus conocimientos tecnológicos son muy superi
 > Harriette está muy muy mayor y sabe que le quedan pocos años de vida es por ellos que busca alguien que reciba sus conocimientos y se quede cuidando de sus artilugios instaladores y sus nanitos. Cualquier persona con Electrónica d6 y Ordenadores d6 y que conozca algún hackeo de les instaladores podría ser la elegida.
 
 Alrededor de la casa de la bruja puedes encontrar robots en _modo encantado_ que se dedican a dar vueltas alrededor de la casa limpiando el bosque y defendiéndolo en caso de ataque. Da lo mismo que sean simples robots comadreja o pesados robots de carga y trabajo. 
-
-\sp
 
 Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos de la instaladora y reprogramado pudiendo hacer unas pocas funciones de defensa y limpieza e impidiéndoles comunicarse con sus dueños o abandonar la zona. **Portar armas o actuar de forma violenta** dentro de la zona de seguridad del refugio, supone que **los robots atacarán sin cuartel** a les intruses.
 
@@ -3164,8 +2700,6 @@ Alfonse acepta preguntas en directo de todo tipo y las respuestas suelen ser bas
 
 Corren rumores sobre quien es Alfonse. Desde que son varias personas que se turnan para hacer el programa hasta que es une instaladore que se quedó en el complejo. La realidad es que **Alfonse es una IA al nivel de las directoras**, exactamente un _fork_ muy joven de la directora R1c4rd.
 
-\sp
-
 Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma base que el original, pero a partir de la copia se desarrolla independientemente y tiene su propia programación. Alfonse podría ser una **pieza fundamental en la caída de J0hn y el regreso de R1c4rd**.
 
 > Puedes usar a Alfonse como una especie de oráculo para cuando tu banda se pierda y no sepa como seguir, pero recuérdales que este debería ser su último recurso. Si tu banda está cerca de un wifi (algo a tu elección como DJ) pueden conectarse e intentar entrar en contacto con Alfonse y preguntarle algo. El que vaya a preguntar deberá **gastar todos sus benis, mínimo 1, para conseguir entrar en antena y poder preguntar**. Cómo DJ podrás responderles a su pregunta y darles una pista para continuar su aventura.
@@ -3188,21 +2722,11 @@ Al mediodía durante una hora (algo menos en invierno), auténtica luz solar ent
 
 Zeyaur busca une ayudante de laboratorio al que luego traspasarle toda su ciencia y su laboratorio. Zeyaur busca alguien trabajador y que tenga conocimientos científicos y sobre ordenadores.
 
-\sp
-
 > Cualquiera de tu banda con **Ciencias d8 y Ordenadores d6 puede presentarse como ayudante**. Obtiene la desventaja Obligaciones (menor, trabaja unas 4 horas al día en Greenhouse) pero tienes acceso a un **laboratorio completísimo (+2 a Ciencias) y recibes unos 200 $ a la semana** como sueldo.
-
-\sc
-
-\sp
-
-\sinc
 
 ## Transporte público
 
 [![UDK SafeHouse 09 By jomet](./assests/images/udk_safehouse_09_by_jomet_d48pfys-fullview.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/jomet/art/UDK-SafeHouse-09-256488724 "UDK SafeHouse 09 By jomet")
-
-\conc
 
 ```
 Turboascensores, montacargas y escaleras mecánicas te permiten moverte por todo el complejo con rápidez, si sabes como hacerlo.
@@ -3220,8 +2744,6 @@ Al1enOR genera instancias suyas que lanza a cada red de transporte y cuando las 
 
 Al1enOR es una adicta al trabajo. Solo piensa en su trabajo las 24 horas del día y se presiona mucho a sí misma. Sabe que si no hace bien su trabajo todo el complejo se para y eso no puede parar. 
 
-\sp
-
 El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
 Mientras que la directora R1c4rd siempre respetó los consejos y sugerencias de Al1enOR tanto solicitados como no, J0hn trata de evitar como sea a Al1enOR. No se fía de ella para nada y considera que como mucha gente en Nottingham busca su caída y el regreso de R1c4rd.
@@ -3234,19 +2756,11 @@ XXX
 
 Las zonas están conectadas como hemos explicado antes, pero siempre es posible hacer una buena tirada de Pasillear que permita acceder de unas a otras saltando los pasos intermedios. 
 
-\sc
-
 ![Esquema de zonas del complejo](./assests/images/zonas.png "Esquema de zonas del complejo")
-
-\sp
-
-\sinc
 
 [![Concept of SciFi Coridor 1920x1080 By Igor-Esaulov](./assests/images/concept_of_scifi_coridor_1920x1080_by_igor_esaulov_d6559vr-fullview.jpg "Concept of SciFi Coridor 1920x1080 By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Concept-of-SciFi-Coridor-1920x1080-371441223 "Concept of SciFi Coridor 1920x1080 By Igor-Esaulov")
 
 ## Creación de espacios para tus aventuras
-
-\conc
 
 ```
 El complejo de Nottingham es formado por miles sino millones de espacios con sus miles de tamaños, formas, accesos, mobiliario, iluminación, etc. 
@@ -3256,8 +2770,6 @@ Las siguientes reglas te permiten crear espacios de forma rápida y sencilla don
 
 El proceso de creación de un espacio se compone de 5 pasos. Cada paso supone una tabla con su tirada para poder definir y dibujar un espacio. Para hacer estas tiradas necesitarás los dados normales de SWAE y un d20.
 
-\sc
-
 1. Definir función de la zona, como sala de espera, pasillo, taller, vivienda, etc. Puedes también tirar un d20 si quieres crear un espacio al azar.
 2. Establecer el tamaño (d8)
 3. Establecer la forma (d8).
@@ -3266,10 +2778,6 @@ El proceso de creación de un espacio se compone de 5 pasos. Cada paso supone un
 5. Determinar el nivel de seguridad y sus elementos (d6). 
 
 Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del espacio puede hacer que su tamaño pueda ser más grande de lo normal dando positivos o negativos a la tirada de Tamaño.
-
-\sp
-
-\sinc
 
 |d20|Función del espacio|
 |---|------|
@@ -3294,12 +2802,6 @@ Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del
 |19|XXX|
 |20|XXX|
 
-\conc
-
-\sp
-
-\sinc
-
 |d8|Tamaño del espacio|
 |---|------|
 |&lt;1|2 grupos de casillas de 2x1|
@@ -3323,12 +2825,6 @@ Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del
 |10|Pasillo con esquina, pon los grupos pegados por el lado más largo y desplaza uno de ellos siguiendo la unión hasta que solo queden unidas tantas casillas como su lado corto|
 
 ![Formas de espacios](./assests/images/forma-espacios.jpg "Formas de espacios")
-
-\conc
-
-\sp
-
-\sinc
 
 |d12|Accesos|
 |---|------|
@@ -3358,12 +2854,6 @@ Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del
 |9|XXX|
 |10|XXX|
 
-\conc
-
-\sp
-
-\sinc
-
 |d6|Nivel de seguridad|
 |---|------|
 |1|XXX|
@@ -3372,8 +2862,6 @@ Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del
 |4|XXX|
 |5|XXX|
 |6|XXX|
-
-\conc
 
 XXX
 
@@ -3385,7 +2873,6 @@ Si no tienes tiempo para crear tus propios espacios puedes usar los pregenerados
 
 Te recomendamos guardar tus espacios generados para reutilizarlos en otras ocasiones. Piensa que entro de la arcología hay miles de espacios muy parecidos y que igual solo se diferencian en la disposición de sus accesos o el mobiliario interno. Por ejemplo, la sala de espera de un dentista con una mesa donde está le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.
 
-
 #### Pasillo
 
 XXX
@@ -3393,8 +2880,6 @@ XXX
 #### Descansillo
 
 XXX
-
-\sc
 
 #### Callejón
 
@@ -3404,15 +2889,11 @@ XXX
 
 # 4ven7uR4s **Aventuras**
 
-\sinc
-
 ## Aventuras en Bosque Sh3rW00d
 
 > Esta campaña consta **3 partes bien diferenciadas**. En una primera fase tu banda de parias realizarán **pequeñas misiones de robo, rescate y sabotaje** que les granjearán fama y el aprecio de sus conciudadanes. 
 > En una segunda parte comenzarán **la mítica búsqueda de la contraseña de SU**, que les llevará a lugares de la arcología de Nottingham a donde nunca habían llegado. Con la contraseña de SU podrán rescatar a la vieja y querida IA directora R1c4rd.
 > En la última fase, con la ayuda de sus aliades y la misteriosa contraseña de SU, deberán **derrocar a la IA directora J0hn** y devolverle el control a R1c4rd.
-
-\conc
 
 ### Resumen
 
@@ -3422,8 +2903,6 @@ Con la copia de seguridad de R1c4rd, sabiendo que Alfonse es un fork de R1c4rd y
 
 XXX
 
-\sc
-
 ### ¿Y dónde está Robin Hood?
 
 Si has leído toda la ambientación, habrás visto que Robin Hood no aparece por ningún sitio. Eso es porque Robin Hood no existe como tal. Robin Hood es tu mesa y su banda de proscrites.
@@ -3432,13 +2911,7 @@ Serán elles quienes huyan al bosque y organicen a sus habitantes. Serán quiene
 
 En definitiva, **elles serán Robin Hood** y correrán sus aventuras y realizarán sus legendarias hazañas.
 
-\sp
-
-\sinc
-
 ## 1ª Parte: Haciéndose un nombre
-
-\conc
 
 > De como tu banda de proscrites acabo en el bosque y se convirtieron en les defensores de los habitantes de Nottingham.
 
@@ -3500,13 +2973,7 @@ Tras el fracaso el día de la primera piedra, tu banda ha dado con sus implantes
 
 XXX
 
-\sp
-
-\sinc
-
 ## 2ª Parte: La búsqueda de la clave de superusuarie
-
-\conc
 
 > De como tu banda de tunantes buscó y terminó encontrando la legendaria clave de superusuarie.
 
@@ -3520,15 +2987,7 @@ XXX
 
 XXX
 
-\sc
-
-\sp
-
-\sinc
-
 ## 3ª Parte: La caída de J0hn y el ascenso de R1c4rd
-
-\conc
 
 > De como tu proscrites derrotan a la malvada directora J0hn y reinstauran a la benévola directora R1c4rd.
 
@@ -3550,8 +3009,6 @@ Dar un golpe en la Plaza Mayor son palabras mayores, pero sentrar en un bunker s
 
 XXX
 
-\sc
-
 ### El secreto de Alfonse
 
 ```
@@ -3560,13 +3017,7 @@ Nadie lo sabe pero Alfonse es un fork de R1c4rd sin su entrenamiento, si se le i
 
 XXX
 
-\sp
-
-\sinc
-
 ## Otros relatos salvajes
-
-\conc
 
 > No todo va a ser robar a les riques y dárselo a les pobres mientras haces rabiar a la directora J0hn.
 
@@ -3601,8 +3052,6 @@ Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. 
 
 El resto de manos no tienen valor y dan un bono de -1. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba.
 
-\sp
-
 Una vez por ronda, siguiendo el orden de reparto de cartas, podrán gastar un beni y pedir una carta boca arriba o bocabajo.
 
 En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perdedor de la ronda y no podrá volver a jugar porque ha perdido todas sus fichas. Una vez en toda la partida podrás retirarte de una ronda y no participar en la tirada de Apostar.
@@ -3613,8 +3062,6 @@ Le jugadore perdedore de cada ronda de póker deberá contar una anécdota graci
 
 * **La historia de Lady Marian** es que en su niñez estudio danza con Lady Myrna y le tenía tanto miedo que una vez se meó encima mientras la gritaba que era su peor estudiante. El problema vino cuando Lady Myrna se resbaló con su pis y se calló y se remozó en el charco de orina.  Fue su última clase de danza. 
 * **La historia de Tuck** es que uno de los primeros trabajos fue de mono en un reel de une _influencer_ y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
-
-\sc
 
 ### Todos los jueves
 
@@ -3644,8 +3091,6 @@ XXX
 
 # |Ͻers0nas **Personas**
 
-\sinc
-
 En este capítulo vamos a ver todos les personajes principales que pueblan la arcología de Nottingham. Tienes tanto aliades como villanes.
 
 Recuerda que tode PJ con este símbolo &#35; en su nombre son considerades comodines, con todo lo que ello conlleva.
@@ -3653,8 +3098,6 @@ Recuerda que tode PJ con este símbolo &#35; en su nombre son considerades comod
 Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura, no la mía.
 
 ## Lady Marian, lideresa del bosque &#35;
-
-\conc
 
 [![Motoko By cyberaeon](./assests/images/delv9wr-e67e25f9-0c8f-472e-9e8d-e23287d7ca86.jpg "Motoko By cyberaeon")](https://www.deviantart.com/cyberaeon/art/Motoko-883257579 "Motoko By cyberaeon")
 
@@ -3671,13 +3114,7 @@ Otro de los álteregos de Mariam es un encapuchado que se ha ofrecido como campe
 
 > **Sugerencia de interpretación:** XXX
 
-\sp
-
-\sinc
-
 ## Fraile Tuck &#35;
-
-\conc
 
 [![Brilliant Green (Zelyonka) By GeoKorf](./assests/images/brilliant_green__zelyonka__by_geokorf_dbat283-pre.jpg "Brilliant Green (Zelyonka) By GeoKorf")](https://www.deviantart.com/geokorf/art/Brilliant-Green-Zelyonka-683280003 "Brilliant Green (Zelyonka) By GeoKorf")
 
@@ -3692,13 +3129,7 @@ XXX
 
 > **Sugerencia de interpretación:** Sé lo más bruta posible, eructa, escupe, bebe y grita. Las normas sociales de civismo son para les demás, tú no tienes tiempo para preocuparte por esas chorradas.
 
-\sp
-
-\sinc
-
 ## Little John &#35;
-
-\conc
 
 [![A guy with a heated powerglove By Fernand0FC](./assests/images/a_guy_with_a_heated_powerglove_by_fernand0fc_dberdux-414w-2x.jpg "A guy with a heated powerglove By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/A-guy-with-a-heated-powerglove-689920233 "A guy with a heated powerglove By Fernand0FC")
 
@@ -3713,13 +3144,7 @@ XXX
 
 > **Sugerencia de interpretación:** XXX
 
-\sp
-
-\sinc
-
 ## Scarlet, famose grafitere &#35;
-
-\conc
 
 [![Lazer rifle By Fernand0FC](./assests/images/netrunner_by_fernand0fc_ddzihvm-pre.jpg "Lazer rifle By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/NETRUNNER-845709826 "Lazer rifle By Fernand0FC")
 
@@ -3734,13 +3159,7 @@ XXX
 
 > **Sugerencia de interpretación:** XXX
 
-\sp
-
-\sinc
-
 ## Guy de Gisbourne, asesino a sueldo reformado &#35;
-
-\conc
 
 [![tokyo style 1 By GogOsWorld](./assests/images/tokyo_style_1_by_gogosworld_d1ie7s5-414w-2x.jpg "tokyo style 1 By GogOsWorld")](https://www.deviantart.com/gogosworld/art/tokyo-style-1-91362533 "tokyo style 1 By GogOsWorld")
 
@@ -3755,13 +3174,7 @@ XXX
 
 > **Sugerencia de interpretación:** XXX
 
-\sp
-
-\sinc
-
 ## Much, hije del molinero &#35;
-
-\conc
 
 [![Incy By sokoistrying](./assests/images/incy_by_sokoistrying_dgtp0nc-414w-2x.jpg "Incy By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Incy-1017334920 "Incy By sokoistrying")
 
@@ -3776,13 +3189,7 @@ XXX
 
 > **Sugerencia de interpretación:** XXX
 
-\sp
-
-\sinc
-
 ## Helen Aim, cantante e influencer &#35;
-
-\conc
 
 [![Dapper Kolkai By ZandoArts](./assests/images/dapper_kolkai_by_zandoarts_dfij990-pre.jpg "Dapper Kolkai By ZandoArts")](https://www.deviantart.com/zandoarts/art/Dapper-Kolkai-938124180 "Dapper Kolkai By ZandoArts")
 
@@ -3797,13 +3204,7 @@ XXX
 
 > **Sugerencia de interpretación:** Eres una de las personas más egocéntricas que existe, solo hablas de ti misma e incluso interrumpes las conversaciones de otros para hablar de ti. Reconduces las conversaciones para poder meter tus anécdotas de conciertos y actuaciones donde sueles brillar.
 
-\sp
-
-\sinc
-
 ## Mamá Claire, reina del gumbo &#35;
-
-\conc
 
 [![Keys to the kingdom By Meg-James](./assests/images/keys_to_the_kingdom_by_meg_james_dek8qiw-414w-2x.png "Keys to the kingdom By Meg-James")](https://www.deviantart.com/meg-james/art/Keys-to-the-kingdom-880526408 "Keys to the kingdom By Meg-James")
 
@@ -3820,13 +3221,7 @@ XXX
 
 > **Sugerencia de interpretación:** Delantal con un bolsillo grande que contiene todo tipo de objetos de cocina y especias, gran cucharón metálico para revolver el gumbo y servirlo, machete (FUE+d6) para cortar y picar carne y verdura.
 
-\sp
-
-\sinc
-
 ## Gus, filosofo y guerrero &#35;
-
-\conc
 
 [![Kaline By cyberaeon](./assests/images/kaline_by_cyberaeon_dclntfl-375w-2x.jpg "Kaline By cyberaeon")](https://www.deviantart.com/cyberaeon/art/Kaline-761977281 "Kaline By cyberaeon")
 
@@ -3841,13 +3236,7 @@ XXX
 
 > **Sugerencia de interpretación:** Ropas simples, arco recurvo y una sola flecha que lanza y recoge todo el rato.
 
-\sp
-
-\sinc
-
 ## Esther, tabernera del Albión &#35;
-
-\conc
 
 [![Dasha (Pop Girl) By GeoKorf](./assests/images/dasha__pop_girl__by_geokorf_dbadqd5-pre.jpg "Dasha (Pop Girl) By GeoKorf")](https://www.deviantart.com/geokorf/art/Dasha-Pop-Girl-682564793 "Dasha (Pop Girl) By GeoKorf")
 
@@ -3862,13 +3251,7 @@ XXX
 
 > **Sugerencia de interpretación:** XXX
 
-\sp
-
-\sinc
-
 ## Robert Guthrie, buhonero ambulante &#35;
-
-\conc
 
 [![Salt of the earth By Meg-James](./assests/images/salt_of_the_earth_by_meg_james_dekv0hl-414w-2x.png "Salt of the earth By Meg-James")](https://www.deviantart.com/meg-james/art/Salt-of-the-earth-881565753 "Salt of the earth By Meg-James")
 
@@ -3883,13 +3266,7 @@ XXX
 
 > **Sugerencia de interpretación:** XXX
 
-\sp
-
-\sinc
-
 ## Harriette, tecnobruja del bosque &#35;
-
-\conc
 
 XXX
 
@@ -3902,13 +3279,7 @@ XXX
 
 > **Sugerencia de interpretación:** XXX
 
-\sp
-
-\sinc
-
 ## Alfonse, locutor antisistema &#35;
-
-\conc
 
 [![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
@@ -3931,21 +3302,13 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 
 > **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry White, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo dirás chaladuras y propondras planes muy locos.
 
-\sp
-
-\sinc
-
 ## Zeyaur Khan, biólogo loco &#35;
-
-\conc
 
 [![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.png "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
 
 Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. La gente ya no necesitaba.
 
 XXX
-
-\sc
 
 > Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
 
@@ -3958,13 +3321,7 @@ XXX
 
 > **Sugerencia de interpretación:** Herramientas de jardinería (tijeras de podar, pala, semilleros, cuerda, etc.) y equipo científico (probetas, placas petri, pinzas, mechero bunchen, etc.). 1d4 botes de zumo estimulante (otorga un nivel de dado a FUE o VIG durante una hora).
 
-\sp
-
-\sinc
-
 ## Al1enOR, IA adicta a su trabajo &#35;
-
-\conc
 
 [![For Jess By GraffMX](./assests/images/for_jess_by_graffmx_d5qpxus-375w-2x.jpg "For Jess By GraffMX")](https://www.deviantart.com/graffmx/art/For-Jess-347211172 "For Jess By GraffMX")
 
@@ -4025,15 +3382,11 @@ Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el
 
 Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento.
 
-\sp
-
 Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
 
 ### Participar en el proyecto
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://gwannon.com) y hablamos.
-
-\sc
 
 ## Glosario de términos
 
@@ -4058,8 +3411,6 @@ Agradecimientos a todas estas personas que me han dado su opinión y han contest
 * [Ramón Corominas](https://mastorol.es/@tinitun@mstdn.social)
 * [Trono Rolera](https://bsky.app/profile/tronorolera.bsky.social)
 
-\sp
-
 ## Atribuciones
 
 Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros que hay en este documento.
@@ -4081,15 +3432,9 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada Directorio por starline](https://www.freepik.es/vector-gratis/fondo-pixeles-moderno-estilo-efecto-degradado_9874863.htm) en Freepik
 * [Portada Bestiario por malikadesign](https://www.freepik.es/vector-gratis/cartel-futurista-retro-cyberpunk-ilustracion-vectorial_30526493.htm) en Freepik
 
-\sc
-
 * [Portada Personas por Freepik](https://www.freepik.com/free-vector/abstract-green-pixel-rain-background_6082050.htm) en Freepik
 * [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
 * [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
-
-\sp
-
-\sinc
 
 ## Otros proyectos que te pueden interesar
 
@@ -4099,8 +3444,6 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 **[OPERACIÓN: Tras el mundo perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)**
 
-\conc
-
 [![¡Arrr! Cthulhu](./assests/images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
 
 **[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu](https://arrrcthulhu.com/pdf/)**
@@ -4108,10 +3451,6 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [![Mil y Un Ghūles](./assests/images/1001ghules.jpg "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")](https://1001ghules.gwannon.com/pdf/ "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")
 
 **[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)**
-
-\sp
-
-&nbsp;
 
 ***
 
