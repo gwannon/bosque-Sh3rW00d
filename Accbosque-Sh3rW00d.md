@@ -2059,7 +2059,7 @@ Lo que has de tener en cuenta en la zona baja es que nadie quiere estar allí, t
 
 El río Trent es como se conoce **una inmensa algafactoría donde se produce la gran mayoría de comida de la arcología**. Es una de las industrias más importantes de la arcología y es muy importante para la compañía no solo porque su buen funcionamiento supone el buen funcionamiento del complejo, sino porque también da tremendos beneficios a la empresa.
 
-Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis_ lo más parecido a un río o un mar que hayan visto en su vida. Es tan grande que han tenido que aprovechar habitáculos alrededor del Trent para expandir las piscinas de crecimiento de algas de forma que les peatones pueden pasear entre sus piscinas mientras se mueven por la zona.
+Con sus cientos de piscinas de agua dulce llenas de algas, es para muches _notis_ lo más parecido a un río o un mar que hayan visto en su vida. Es tan grande que han tenido que aprovechar habitáculos alrededor del Trent para expandir las piscinas de crecimiento de algas de manera que les peatones pueden pasear entre sus piscinas mientras se mueven por la zona.
 
 > La mayoría de la comida del complejo sale del Trent, con lo que **si algo le pasa a la algafactoria puede suponer una gran hambruna** sobre todo entre los _curris_.
 
@@ -2089,7 +2089,7 @@ El pozo mide unos 20 m de diámetro y se desconoce su profundidad, pero todo lo 
 
 En este taller desocupado puedes encontrar todo tipo de dianas y obstáculos y variopintes personajes muy centrados intentando tiros y rebotes imposibles. 
 
-Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas (y algunos el arco) es casi una filosofía de vida y como si de monjes shaolin se tratará entrenan día y noche para hacer los más increíbles tiros. El tiro con tiragomas es, además, para muches de elles una forma de meditación e iluminación.
+Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas (y algunos el arco) es casi una filosofía de vida y como si de monjes shaolin se tratará entrenan día y noche para hacer los más increíbles tiros. El tiro con tiragomas es, además, para muches de elles un método de meditación e iluminación.
 
 Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
 
@@ -2197,7 +2197,7 @@ A esa primera urna, le fueron siguiendo más y se fue creando una especie fondo 
 
 Alrededor del cementerio haitiano, han empezado a aparecer zonas donde personas no descendientes de haitianos han empezado a dejar las cenizas de sus muertes. Cada una de ellas decoradas en la tradición de los muertos _almacenados_ allí. Se empiezan a ver zonas parecidas a santuarios _sinto_ y minicapillas a dioses hindúes.
 
-Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio y tiene a un **equipo de robots comadrejas tomando pruebas de ADN a los restos** para identificarlos y luego etiquetarlos y localizarlos con chips GPS adheridos a las cápsulas de cenizas.
+Ante esta situación la directora J0hn ha empezado a exigir la identificación de todos las cenizas almacenadas en el cementerio. De hecho, tiene a un **equipo de robots comadrejas tomando pruebas de ADN a los restos** para identificarlos y luego etiquetarlos y localizarlos con chips GPS adheridos a las cápsulas de cenizas.
 
 > A pesar de todas las ideas conspiranoicas que corren sobren la identificación de las cenizas, en este caso **las acciones de la directora J0hn no tienen ningún tipo de plan oculto**. Digámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual. Eso no quiere decir que no puedas hacer correr como DJ cualquier tipo de bulo sobre los estudios de ADN y usarlo como parte de una aventura.
 
@@ -2257,7 +2257,7 @@ Siempre ha habido máquinas de vending en la zona baja de la arcología, pero fu
 
 Sin embargo, no llegaron nunca triunfar, por la sencilla razón de que las transacciones tenían que ser en créditos de la compañía y la gente trabaja más con trueque. A pesar de ello la directora J0hn sigue manteniéndolas y reponiéndolas en un claro esfuerzo por no reconocer su error.
 
-> Cuando crees un espacio en la zona baja donde se vaya a combatir o interactuar **es muy posible que haya por lo menos una máquina de vending**, de café en una sala de espera, de productos de higiene y farmacéuticos en una zona hospital, productos de ocio en zonas de diversión, etc. 
+> Cuando crees un espacio en la zona baja donde se vaya a combatir o interactuar **es muy posible que haya por lo menos una máquina de vending**. De café en una sala de espera, de productos de higiene y farmacéuticos en una zona hospital, productos de ocio en zonas de diversión, etc. 
 
 [![Vending Machine By burningmonk](./assests/images/db0vnla-915f97ef-c5a8-40b7-ab9c-6a60fd2a9c67.jpg "Vending Machine By burningmonk")](https://www.deviantart.com/burningmonk/art/Vending-Machine-666604846 "Vending Machine By burningmonk")
 
@@ -2339,7 +2339,7 @@ Este espacio no es mucho más de una cancha de tenis con unos vestuarios y una s
 
 El estadio cumple la función de circo en la famosa locución latina «Pan y circo». Entretiene a los _curris_ y evita que se subleven contra la compañía.
 
-Como ya hemos dicho, no hay ni gradas ni asientos, sino miles de cámaras que retransmiten los eventos deportivos a su propietario/socio. De forma que lo ves en tu dispositivo de realidad aumentada como si estuvieras allí. El sistema simula a tus compañeres de grada y puedes hablar con elles o cantar los himnos de tu equipo, incluso abrazarte a elles y celebrar las victorias y llorar las derrotas.
+Como ya hemos dicho, no hay ni gradas ni asientos, sino miles de cámaras que retransmiten los eventos deportivos a su propietario/socio. De manera que lo ves en tu dispositivo de realidad aumentada como si estuvieras allí. El sistema simula a tus compañeres de grada y puedes hablar con elles o cantar los himnos de tu equipo, incluso abrazarte a elles y celebrar las victorias y llorar las derrotas.
 
 Claramente, hay cámaras en mejores puestos que otros y, por tanto, son más caras y normalmente están destinadas a _blus_ e _influencers_.
 
@@ -2405,11 +2405,11 @@ La premisa es que en un lugar como Nottingham donde el espacio vacío es un desp
 
 El Bolrum es donde debes ir, si eres alguien en Nottingham. **Es el mayor espacio de ocio del complejo** y el segundo espacio de mayor tamaño después de la Plaza Mayor.
 
-Lo interesante es que no hay nada, absolutamente nada, en sus 60x60x4 m. Sus paredes de un blanco inmaculado se funden mediante un efecto óptico con los también inmaculadamente blancos techos y suelo, de forma que no sabes dónde empieza o acaba la sala.
+Lo interesante es que no hay nada, absolutamente nada, en sus 60x60x4 m. Sus paredes de un blanco inmaculado se funden mediante un efecto óptico con los también inmaculadamente blancos techos y suelo, de manera que no sabes dónde empieza o acaba la sala.
 
-A esto se le une que no entra ni sale de esta gran sala ni sonido ni señales electromagnéticas y cuando cierran su puerta está desaparece completamente. Tampoco hay ningún tipo de cámara que registre que pasa dentro. Además, el aire es ionizado de forma que se eliminan todos los olores.
+A esto se le une que no entra ni sale de esta gran sala ni sonido ni señales electromagnéticas y cuando cierran su puerta está desaparece completamente. Tampoco hay ningún tipo de cámara que registre que pasa dentro. Además, el aire es ionizado, de forma que se eliminan todos los olores.
 
-Su suelo inteligente se mueve ligeramente cuando caminas, de forma que te hace ir en círculos y por más que andes no llegas nunca a encontrarte con la pared.
+Su suelo inteligente se mueve ligeramente cuando caminas, de manera que te hace ir en círculos y por más que andes no llegas nunca a encontrarte con la pared.
 
 **Se alquila por horas con un máximo de 4 personas por 1.000 $ la hora.** Además, ofrece extras como catering, DJ profesional, etc. 
 
@@ -2432,7 +2432,7 @@ Es el lugar preferido para las celebraciones de todo tipo, deportivas, comercial
 
 Los platos son servidos por un antiquísimo robot camarero que se equivoca la mitad de las veces al entregar los platos, pero es parte del encanto del local y la gente se come lo que le pone. Al final todo está buenísimo y no te importa.
 
-El pescado está hecho a base de algas, como toda la comida en la arcología, pero Dupont sabe marinarla de tal forma que pierde su sabor artificial y parece más natural.
+El pescado está hecho a base de algas, como toda la comida en la arcología, pero Dupont sabe marinarla de tal manera que pierde su sabor artificial y parece más natural.
 
 > Dupont no solo es un experto en preparar sushi, es un maestro en el afilado de cuchillos. Si consigues que afiles tus armas de filo, el afilado es tan fino que otorga un +1 al daño hasta que en una tirada de daño con esa arma saques un 1.
 
@@ -2472,7 +2472,7 @@ Como no podría ser de otra manera **todos los menús, los avisos y demás texto
 La zona alta es de acceso exclusivo de los clases altas, les _blus_ y _les influencers_. Los _curris- solo entran aquí para trabajar en las casas de les riques.
 ```
 
-**Nivel de seguridad:** La zona alta tiene la seguridad más alta y también la menos detectable. Hay sistemas de seguridad en todas las calles, escaleras, habitáculos, etc. Es casi imposible moverse sin ser detectado e identificado y en caso de ser peligrose, detenido y encarcelado. Los sheriffs aquí solo se ven cuando van a actuar, mientras que en otras zonas patrullan de forma disuasoria.
+**Nivel de seguridad:** La zona alta tiene la seguridad más alta y también la menos detectable. Hay sistemas de seguridad en todas las calles, escaleras, habitáculos, etc. Es casi imposible moverse sin ser detectado e identificado y en caso de ser peligrose, detenido y encarcelado. Los sheriffs aquí solo se ven cuando van a actuar, mientras que en otras zonas patrullan de manera disuasoria.
 
 La zona más exclusiva es claramente la más deseada, a la que aspiran llegar a todes, pero está vetada solo para aquelles que la directora J0hn decide que se lo merecen.
 
@@ -2528,7 +2528,7 @@ A priori todo el spa está aislado de la arcología y solo se puede entrar por l
 
 ### Feria de Nottingham
 
-Cada mes, el último jueves, la directora J0hn organiza una feria medieval en las calles comerciales de la Zona Alta. Un grupo de influencers y blus, eligen a una obra de caridad y todo lo que se recaude es donado a esa causa. El problema está en que normalmente el dinero es gastado de la forma más inútil posible y nunca ayuda a les desfavorecides.
+Cada mes, el último jueves, la directora J0hn organiza una feria medieval en las calles comerciales de la Zona Alta. Un grupo de influencers y blus, eligen a una obra de caridad y todo lo que se recaude es donado a esa causa. El problema está en que normalmente el dinero es gastado de la manera más inútil posible y nunca ayuda a les desfavorecides.
 
 La feria tiene todos los clásicos, duelos de caballeros a espada, juglares y bardos ambulantes, marionetas, mucha comida a la brasa, gente que echa las cartas del tarot, etc. Hay gran cantidad de tenderetes con diferentes juegos de habilidad, desde el guaca-mole, hasta lanzar los aros o sacar la espada de la piedra.
 
@@ -2660,7 +2660,7 @@ Hay colgando de diferentes partes de la choza carillones de viento hechos de mat
 
 Todes en el bosque saben que **Harriette la bruja** es la persona con la que hablar cuando tienes que **reparar algún objeto electrónico, reprogramar un robot, hackear algún aparato u obtener _oscuros_ conocimientos informáticos**.  
 
-El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos, comida, bebida, vídeos recreativos, etc.) y lo que quieres que haga y el equipo necesario y vuelves en un par de días. Si la ofrenda no está, es que acepta tu trato y ha realizado la tarea. Donde dejaste la ofrenda tendrás el código del programa que le pediste, la unidad de almacenamiento con los datos hackeados, etc. 
+El contacto con la bruja es mínimo, dejas tu ofrenda (materiales electrónicos, comida, bebida, vídeos recreativos, etc.) y lo que quieres que haga y el equipo necesario y vuelves en un par de días. Si la ofrenda no está, es que acepta tu trato y ha hecho la tarea. Donde dejaste la ofrenda tendrás el código del programa que le pediste, la unidad de almacenamiento con los datos hackeados, etc. 
 
 Si no ha tocado nada es que lo ha rechazado y puedes mejorar tu ofrenda o recogerlo todo y volver por donde has venido.
 
@@ -2682,7 +2682,7 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 ### RLN (Radio libre de Nottingham)
 
-La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un pódcast que de una radio tradicional.
+La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un podcast que de una radio tradicional.
 
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
 
@@ -2706,7 +2706,7 @@ Un _fork_ es una copia de un programa que toma su propia entidad. Tiene la misma
 
 ### Greenhouse
 
-Zeyaur Khan construyó hace ya unos años esta especie de invernadero en lo profundo del bosque, tras problemas legales en el complejo de Nottingham. Había encontrado la forma de hacer que un par de variedad de algas crearan cafeína como parte de sus defensas químicas.
+Zeyaur Khan construyó hace ya unos años esta especie de invernadero en lo profundo del bosque, tras problemas legales en el complejo de Nottingham. Había encontrado la manera de hacer que un par de variedad de algas crearan cafeína como parte de sus defensas químicas.
 
 Corta Café empezó comprándole café a un buen precio, pero decidió que robarle el proceso de hacer café era más rentable. Zeyaur denunció el robo de propiedad intelectual, pero perdió el caso. Para evitarse problemas huyo al bosque y montó su laboratorio en forma de invernadero.
 
@@ -2716,7 +2716,7 @@ Es importante destacar que el invernadero está debajo de una especie de chimene
 
 [![Gardening by freepik](./assests/images/gardening.jpg "Gardening by freepik")](https://www.freepik.com/free-photo/gardening_3580401.htm "Digital Gardening by freepik")
 
-Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite realizar experimentos botánicos muy interesantes.
+Al mediodía durante una hora (algo menos en invierno), auténtica luz solar entra por la chimenea e inunda el invernadero de Zeyaur. Esto le permite montar experimentos botánicos muy interesantes.
 
 > La primera vez que tu banda reciba auténtica luz del día, dales un beni. A veces las cosas sencillas son las más importantes.
 
@@ -2891,7 +2891,7 @@ XXX
 
 ## Aventuras en Bosque Sh3rW00d
 
-> Esta campaña consta **3 partes bien diferenciadas**. En una primera fase tu banda de parias realizarán **pequeñas misiones de robo, rescate y sabotaje** que les granjearán fama y el aprecio de sus conciudadanes. 
+> Esta campaña consta **3 partes bien diferenciadas**. En una primera fase tu banda de parias llevarán a cabo **pequeñas misiones de robo, rescate y sabotaje** que les granjearán fama y el aprecio de sus conciudadanes. 
 > En una segunda parte comenzarán **la mítica búsqueda de la contraseña de SU**, que les llevará a lugares de la arcología de Nottingham a donde nunca habían llegado. Con la contraseña de SU podrán rescatar a la vieja y querida IA directora R1c4rd.
 > En la última fase, con la ayuda de sus aliades y la misteriosa contraseña de SU, deberán **derrocar a la IA directora J0hn** y devolverle el control a R1c4rd.
 
