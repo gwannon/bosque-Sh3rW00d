@@ -1212,13 +1212,12 @@ XXX
 
 **Jerga:** XXX
 
-XXX
+Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvagaurdas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas. El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
-El problema de este hackeo es que hay que hacerlo desde dentro del ascensor.
+* Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
+* Puedes bloquear las puertas encerrando dentro a sus pasajeres y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
 
-* Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. XXX
-* Puedes bloquear las puertas encerrando dentro a sus pasajeres. XXX
-* XXX
+* Puedes dejar ciertos programas preparados, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
 
 ### Dominar climatización
 
@@ -1288,6 +1287,9 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
 |Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
 |Dominar puertas|Veterane, Controlar puertas|XXX|
+
+|Hackeo|Requisitos|Descripción|
+|---|---|---|
 |Dominar vigilancia|Heróique, Controlar vigilancia|XXX|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 
@@ -3103,7 +3105,7 @@ Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombr
 
 XXX
 
-Otro de los álteregos de Mariam es un encapuchado que se ha ofrecido como campeón de personas indefensas que habían aceptado duelos de _blus_ e _influencers_ abusones. Se presenta con ropa de corte militar y una sudadera de camuflaje con gran capucha que esconde su cara y por ahora ha salido victoriosa, que no ilesa de todos esos duelos. 
+Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campeón de personas indefensas que habían aceptado duelos de _blus_ e _influencers_ abusones. Se presenta con ropa de corte militar y una sudadera de camuflaje con gran capucha que esconde su cara y por ahora ha salido victoriosa, que no ilesa de todos esos duelos. 
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4

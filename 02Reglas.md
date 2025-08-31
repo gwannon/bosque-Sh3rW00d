@@ -705,13 +705,14 @@ XXX
 
 **Jerga:** XXX
 
-XXX
+Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvagaurdas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas. El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
-El problema de este hackeo es que hay que hacerlo desde dentro del ascensor.
+* Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
+* Puedes bloquear las puertas encerrando dentro a sus pasajeres y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
 
-* Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. XXX
-* Puedes bloquear las puertas encerrando dentro a sus pasajeres. XXX
-* XXX
+\sp
+
+* Puedes dejar ciertos programas preparados, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
 
 ### Dominar climatización
 
@@ -720,8 +721,6 @@ El problema de este hackeo es que hay que hacerlo desde dentro del ascensor.
 **Jerga:** ¡Dale caña a la ventilación!
 
 XXX
-
-\sp
 
 * Puedes poner los ventiladores a tal velocidad, más allá de lo seguro, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * XXX
@@ -765,11 +764,11 @@ De alguna manera desconocida (y a discreción de ti como DJ) te registras en el 
 
 Te permite hacer todo lo que marcan los **hackeos anteriores con un bono de +4** y solo otra persona con este hackeo puede deshacer tu hackeo.
 
+\sp
+
 Por ejemplo, si como superusuarie desactivas una puerta automática solo volverá a funcionar si otro superusuarie lo vuelve activar superando tu tirada de Electrónica o a malas reemplazando toda la puerta por una nueva.
 
 > Este hackeo debe ser enseñado por otro superusuarie y que se sepa solo les instaladores (y solo les dé mayor nivel) lo conocían.
-
-\sp
 
 \sinc
 
@@ -787,6 +786,15 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
 |Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
 |Dominar puertas|Veterane, Controlar puertas|XXX|
+
+\conc
+
+\sp
+
+\sinc
+
+|Hackeo|Requisitos|Descripción|
+|---|---|---|
 |Dominar vigilancia|Heróique, Controlar vigilancia|XXX|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 
