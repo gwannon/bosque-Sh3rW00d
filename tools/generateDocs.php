@@ -9,6 +9,11 @@ use FastVolt\Helper\Markdown;
 
 $md = file_get_contents(__DIR__ . "/../bosque-Sh3rW00d.md");
 
+$md = preg_replace_callback("/\|([0-9a-zA-Z]*)\.md\|/", function($matches) {
+  $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".md"); 
+  return $matches[0];
+}, $md);
+
 file_put_contents(__DIR__ . "/../Accbosque-Sh3rW00d.md", str_replace(["\n\n\n\n", "\n\n\n\n", "\n\n\n", "\n\n\n\n", "\n\n\n\n", "\n\n\n"], "\n\n", str_replace(["\n\n\sp", "\n\n\sc", "\n\n\sinc", "\n\n\conc", "\n\n&nbsp;"], "", $md)));
 
 

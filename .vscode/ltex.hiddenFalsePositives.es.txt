@@ -38,3 +38,44 @@
 {"rule":"SINGLE_CHARACTER","sentence":"^\\QMike Grauer 1980s shopping mall, water fountain, p By Mackingster\\E$"}
 {"rule":"PREP_VERB","sentence":"^\\QLa historia de Tuck es que uno de los primeros trabajos fue de mono en un reel de une influencer y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos.\\E$"}
 {"rule":"AGREEMENT_DET_ADJ","sentence":"^\\QCafé Corta es quizás el café más chic de la arcología. Todos los blus de más alto rango vienen a relajarse al Corta tras sus estresantes jornadas laborales, tomando una taza de café expreso.\\E$"}
+{"rule":"REAL","sentence":"^\\QDurante las noches de mercadillo se puede tirar Pasillear para encontrar cualquier tipo de producto a un 40/50% de su precio real.\\E$"}
+{"rule":"FORM","sentence":"^\\QPedro se está enriqueciendo a gran velocidad y ha empezado a formar un pequeño grupo mafioso que está empezando a tontear con otras formas de crimen organizado.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QDigámoslo así, la directora J0hn tiene cierto TOC con el censo de la arcología y quiere estar seguro de que tiene los datos más precisos y actualizados sobre la población actual.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVending Machine By burningmonk\\E$"}
+{"rule":"FABRIC","sentence":"^\\QLa fábrica funciona 24 horas en turnos de 8 horas y la IA alcaide suele evitar que los miembros de bandas u otras organizaciones sindicales estén juntos lo mínimo posible con rotaciones de los turnos de trabajo.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QComo se ha dicho, las maquinas casi ni se usan, pero hay que reponerlas, limpiarlas y arreglarlas, así que Lady Marian, con apoyo popular y tras varias manifestaciones y bastantes actos de vandalismo contra las máquinas de vending, consiguió que les preses no violentes pudieran elegir pagar sus deudas trabajando como reponedores de las máquinas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMike Grauer 1980s shopping mall, water fountain, p By Mackingster\\E$"}
+{"rule":"PRESENT","sentence":"^\\QDe hecho, alguna vez se ha intentado mover el concurso de tiro del día de la primera piedra (que se celebra de normal en la Plaza Mayor) y no ha tenido ningún éxito, ya que el público quería estar presente y vibrar con la competición.\\E$"}
+{"rule":"FORM","sentence":"^\\QNo hay espacio para el público, que solo asiste de forma virtual.\\E$"}
+{"rule":"FORM","sentence":"^\\QTambién puedes alquilar de forma alegal la cámara a una persona con un abono de temporada.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QLos pasteles de Hassan pueden ser un regalo perfecto para congraciarte con las madres de tu futura pareja o para conseguir el favor de une blus con el que vas a firmar un contrato.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QLa Plaza Mayor es la estancia abierta más grande de la arcología aun así no será mayor que un campo de fútbol actual.\\E$"}
+{"rule":"FABRIC","sentence":"^\\QCómo ya hemos dicho están las fábricas, los talleres, las tiendas y las tabernas y restaurantes.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QPero de vez en cuando se vuelven extremadamente violentos, nunca hacen contacto físico, pero dan buenos sustos.\\E$"}
+{"rule":"REAL","sentence":"^\\QEstá aprendiendo a crear robots increíblemente reales, tratando de superar el «valle inquietante» y a la vez estudiar como hacerlos más terribles e intimidantes.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSerán quienes derroten a los sheriffs de Nottingham en singular duelo.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSerán quienes ganen el concurso de tiro con arco.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSerán quienes enamoren a Lady Marian.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QEn definitiva, elles serán Robin Hood y correrán sus aventuras y realizarán sus legendarias hazañas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QConcept of SciFi Coridor 1920x1080 By Igor-Esaulov\\E$"}
+{"rule":"FORM","sentence":"^\\QLas siguientes reglas te permiten crear espacios de forma rápida y sencilla donde poder situar las escenas de tus aventuras.\\E$"}
+{"rule":"FORM","sentence":"^\\QPodrás elegir el tipo de espacio y su tamaño y obtendrás su forma, sus salidas, su contenido, elementos de seguridad, etc.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstablecer el tamaño (d8)\nEstablecer la forma (d8).\\E$"}
+{"rule":"RENTABLE","sentence":"^\\QCorta Café empezó comprándole café a un buen precio, pero decidió que robarle el proceso de hacer café era más rentable.\\E$"}
+{"rule":"FORM","sentence":"^\\QPara evitarse problemas huyo al bosque y montó su laboratorio en forma de invernadero.\\E$"}
+{"rule":"ABBREVIATION","sentence":"^\\QVertical shaft (Bottomless Pit, Black Snake Avenue, Mammoth Cave, Kentucky, USA) 3 - James St. JohnSeguir\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QTodes en el bosque saben que Harriette la bruja es la persona con la que hablar cuando tienes que reparar algún objeto electrónico, reprogramar un robot, hackear algún aparato u obtener oscuros conocimientos informáticos.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QCuando no está despotricando de la directora J0hn puede estar haciendo cualquier cosa, desde dar una receta de plumcake o leer poesía, hasta explicar física cuántica o estar una hora haciendo ruidos de pedos o hablando solo con la «i».\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QEs una IA y, por tanto, no tiene cuerpo físico.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QLa población actual del GR es de unos 5.000 boskis y hay gente llegando todos los días.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEs por eso que se estableció en la zona actual que era la zona en la que trabajaban cuando tuvieron que irse.\\E$"}
+{"rule":"FORM","sentence":"^\\QPero las nuevas generaciones traen también sus cápsulas personalizadas impresas en 3D (forma de gato, de micrófono, de pikachumon, etc.), tiras LED, mini reproductores de música, imágenes holográficas, etc.\\E$"}
+{"rule":"FORM","sentence":"^\\Qd10 Forma del espacio\\E$"}
+{"rule":"FORM","sentence":"^\\Q1-2 Cuadrado, pon los grupos pegados por el lado más largo\n3-4 Pasillo, pon los grupos pegados por el lado más corto\n5 Forma de T, el grupo de menor tamaño forma la cabeza de la T\n6 Forma de L, el grupo de menor tamaño forma el pie de la L\n7 Forma de +, se pierde espacio al sobreponerse un grupo sobre otro en el centro\n8-9 Cuadrado con huecos, pon los grupos pegados por el lado más largo y desplaza uno de ellos siguiendo la unión tantas casillas como su lado corto\n10 Pasillo con esquina, pon los grupos pegados por el lado más largo y desplaza uno de ellos siguiendo la unión hasta que solo queden unidas tantas casillas como su lado corto\\E$"}
+{"rule":"FORM","sentence":"^\\QAdemás, el aire es ionizado de forma que se eliminan todos los olores.\\E$"}
+{"rule":"FORM","sentence":"^\\QAdemás, el aire es ionizado, de forma que se eliminan todos los olores.\\E$"}
+{"rule":"FORM","sentence":"^\\QFormas de espacios\\E$"}
+{"rule":"FORM","sentence":"^\\QPortar armas o actuar de forma violenta dentro de la zona de seguridad del refugio, supone que los robots atacarán sin cuartel a les intruses.\\E$"}
+{"rule":"FORM","sentence":"^\\QSi no tienes forma de ganarte la vida, se puede trabajar en los invernaderos y recibir parte de la producción para tu consumo.\\E$"}
+{"rule":"FORM","sentence":"^\\QEl correccional consta de 4 plantas que fueron aisladas del exterior de forma que no hay salidas al exterior más que la entrada peatonal y la carga y descarga.\\E$"}
+{"rule":"FORM","sentence":"^\\QEs una zona pintada de verde en forma circular donde puede haber unas 200/250 personas sin apretujarse mucho.\\E$"}
