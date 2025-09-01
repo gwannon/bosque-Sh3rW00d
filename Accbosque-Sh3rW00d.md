@@ -1172,15 +1172,13 @@ XXX
 
 **Jerga:** Kilovatio-hora, Light my fire
 
-XXX
-
-Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero controlando las luces de emergencia y similar.
+Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero controlando las luces de emergencia y similar. Además se pueden conseguir nuevos efectos que permiten usar la iluminación a tu favor sobre todo en situaciones de combate. 
 
 * Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
 * XXX
 * XXX
 
-**Avances:** 1 avance por cada más objetivo extra.
+**Avances:** 1 avance por cada objetivo extra.
 
 ### Controlar climatización
 
@@ -1215,8 +1213,8 @@ XXX
 Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvaguardas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas. El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
 * Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
-* Puedes bloquear las puertas encerrando dentro a sus pasajeres y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
 
+* Puedes bloquear las puertas encerrando dentro a sus pasajeres y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
 * Puedes dejar ciertos programas preparados, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
 
 ### Dominar climatización
@@ -1249,7 +1247,7 @@ XXX
 
 **Jerga:** Hablar con el gran hermano, El ojo que todo lo ve
 
-XXX
+Dominar los sistemas de vigilancia, mediante órdenes verbales y gestuales, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo, desde borrar las grabaciones de una cámara a ponerla en bucle o mostrar el contenido de otra cámara.
 
 * XXX
 * XXX
@@ -1281,16 +1279,16 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Controlar realidad aumentada|Novate|Controlar la información pública que la realidad aumentada proporciona|
 |Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
 |Controlar ascensor|Experimentade, Llamar ascensor|XXX|
-|Dominar iluminación|Experimentade, Controlar iluminación|XXX|
+|Dominar iluminación|Experimentade, Controlar iluminación|Permite controlar las luces de emergencia y similar y conseguir nuevos efectos que te benefician en situaciones de combate. |
 |Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
 |Dominar ascensor|Veterane, Controlar ascensor|Saltarse las salvaguardas de seguridad y de funcionamiento de un ascensor|
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
-|Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
-|Dominar puertas|Veterane, Controlar puertas|XXX|
 
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
-|Dominar vigilancia|Heróique, Controlar vigilancia|XXX|
+|Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
+|Dominar puertas|Veterane, Controlar puertas|XXX|
+|Dominar vigilancia|Heróique, Controlar vigilancia|Dominar los sistemas de vigilancia, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 
 ## Otros sistemas
