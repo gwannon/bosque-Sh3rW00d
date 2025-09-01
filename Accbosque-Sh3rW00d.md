@@ -1170,7 +1170,7 @@ XXX
 
 **Requisitos:** Experimentade, Controlar iluminación
 
-**Jerga:** XXX
+**Jerga:** Kilovatio-hora, Light my fire
 
 XXX
 
@@ -1186,7 +1186,7 @@ Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero 
 
 **Requisitos:** Experimentade
 
-**Jerga:** XXX
+**Jerga:** Se acerca el invierno, Hazte un Elsa
 
 XXX
 
@@ -1212,7 +1212,7 @@ XXX
 
 **Jerga:** XXX
 
-Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvagaurdas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas. El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
+Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvaguardas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas. El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
 * Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
 * Puedes bloquear las puertas encerrando dentro a sus pasajeres y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
@@ -1235,7 +1235,7 @@ XXX
 
 **Requisitos:** Veterane, Controlar puertas
 
-**Jerga:** XXX
+**Jerga:** Maestro de las llaves, Guardián de las puertas 
 
 XXX
 
@@ -1247,7 +1247,7 @@ XXX
 
 **Requisitos:** Heróique, Controlar vigilancia
 
-**Jerga:** XXX
+**Jerga:** Hablar con el gran hermano, El ojo que todo lo ve
 
 XXX
 
@@ -1283,7 +1283,7 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Controlar ascensor|Experimentade, Llamar ascensor|XXX|
 |Dominar iluminación|Experimentade, Controlar iluminación|XXX|
 |Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
-|Dominar ascensor|Veterane, Controlar ascensor|XXX|
+|Dominar ascensor|Veterane, Controlar ascensor|Saltarse las salvaguardas de seguridad y de funcionamiento de un ascensor|
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
 |Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
 |Dominar puertas|Veterane, Controlar puertas|XXX|

@@ -663,7 +663,7 @@ XXX
 
 **Requisitos:** Experimentade, Controlar iluminación
 
-**Jerga:** XXX
+**Jerga:** Kilovatio-hora, Light my fire
 
 XXX
 
@@ -679,7 +679,7 @@ Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero 
 
 **Requisitos:** Experimentade
 
-**Jerga:** XXX
+**Jerga:** Se acerca el invierno, Hazte un Elsa
 
 XXX
 
@@ -730,7 +730,7 @@ XXX
 
 **Requisitos:** Veterane, Controlar puertas
 
-**Jerga:** XXX
+**Jerga:** Maestro de las llaves, Guardián de las puertas 
 
 XXX
 
@@ -742,7 +742,7 @@ XXX
 
 **Requisitos:** Heróique, Controlar vigilancia
 
-**Jerga:** XXX
+**Jerga:** Hablar con el gran hermano, El ojo que todo lo ve
 
 XXX
 
