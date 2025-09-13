@@ -2,7 +2,7 @@
 
 \sinc
 
-## Aventuras en Bosque Sh3rW00d
+## Aventuras en Nottingham
 
 > Esta campaña consta **3 partes bien diferenciadas**. En una primera fase tu banda de parias llevarán a cabo **pequeñas misiones de robo, rescate y sabotaje** que les granjearán fama y el aprecio de sus conciudadanes. 
 > En una segunda parte comenzarán **la mítica búsqueda de la contraseña de SU**, que les llevará a lugares de la arcología de Nottingham a donde nunca habían llegado. Con la contraseña de SU podrán rescatar a la vieja y querida IA directora R1c4rd.
@@ -235,3 +235,40 @@ La cantante e influencer Helen Aim ha sido secuestrada en pleno directo por unos
 ```
 
 XXX
+
+***
+
+# 3|Ͻíl0go **Epílogo**
+
+XXX
+
+## Atribuciones
+
+Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros que hay en este documento.
+
+### Fuentes
+
+The FontStruction [“Medieval Pixel”](https://fontstruct.com/fontstructions/show/640368) by “Goatmeal” is licensed under a [Creative Commons Attribution Non-commercial No Derivatives license](http://creativecommons.org/licenses/by-nc-nd/3.0/).
+
+### Imágenes
+
+No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo.
+
+* [Portada del libro por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-tree-creative-electronics-concept-poster-vector-illustration_4348098.htm) en Freepik
+* [Silueta arquere encapuchade por Majal Jubanic](https://majaljubanic.com/robin-hood-poster)
+* [Contraportada del libro por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm) en Freepik
+* [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
+* [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
+
+***
+
+**Aventuras en Bosque Sh3rW00d creado por [Gwannon](https://gwannon.com/)**
+
+XXX
+
+Este libro contiene:
+
+1. 1 aventura larga en formato Plot Points para disfrutar plenamente de esta ambientación.
+2. Varias aventuras cortas de 1 o 2 sesiones.
+
+Para jugar esta ambientación solo necesitas el Manual Básico de Savage Worlds Edición Aventura y el libro de ambientación de [Bosque Sh3rW00d](http://bosque.gwannon.com/pdf/).

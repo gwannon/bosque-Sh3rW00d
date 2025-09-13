@@ -590,6 +590,40 @@ section:nth-of-type(9) h1 {
 }
 
 section:nth-of-type(10) h1 {
+  background-image: url('../images/3152762.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  color: var(--yellow-color);
+}
+
+section:nth-of-type(11) h1,
+#AventurasBosque-Sh3rW00d section:nth-of-type(5) h1 {
+  background-image: url('../images/epilogo.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+  background-color: #001607;
+}
+
+section:last-of-type {
+  background-color: #001607;
+  background-image: url(../images/4664.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 80% auto;
+}
+
+section:last-of-type * {
+  color: var(--yellow-color);
+}
+
+section:last-of-type ol > li:before {
+  background-color: var(--yellow-color);
+  color: var(--black-color);
+}
+
+#AventurasBosque-Sh3rW00d section:nth-of-type(4) h1 {
   background-image: url('../images/591.jpg');
   background-repeat: no-repeat;
   background-position: top center;
@@ -602,29 +636,6 @@ section:nth-of-type(10) h1 {
   flex-wrap: wrap;
   justify-content: flex-end;
   padding-left: 80px;
-}
-
-section:nth-of-type(11) h1 {
-  background-image: url('../images/3152762.jpg');
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
-  background-color: #001607;
-}
-
-section:nth-of-type(12) h1 {
-  background-image: url('../images/epilogo.jpg');
-  background-repeat: no-repeat;
-  background-position: bottom center;
-  background-size: cover;
-  color: var(--yellow-color);
-}
-
-section:last-of-type {
-  background-image: url(../images/4664.png);
-  background-repeat: no-repeat;
-  background-position: bottom right;
-  background-size: 80% auto;
 }
 
 /* Paginación */

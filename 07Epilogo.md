@@ -73,7 +73,7 @@ Como proyecto Creative Commons pasamos a atribuir todo el contenido de terceros 
 
 ### Fuentes
 
-The FontStruction “Medieval Pixel” (https://fontstruct.com/fontstructions/show/640368) by “Goatmeal” is licensed under a Creative Commons Attribution Non-commercial No Derivatives license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
+The FontStruction [“Medieval Pixel”](https://fontstruct.com/fontstructions/show/640368) by “Goatmeal” is licensed under a [Creative Commons Attribution Non-commercial No Derivatives license](http://creativecommons.org/licenses/by-nc-nd/3.0/).
 
 ### Imágenes
 
@@ -91,7 +91,6 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 \sc
 
 * [Portada Personas por Freepik](https://www.freepik.com/free-vector/abstract-green-pixel-rain-background_6082050.htm) en Freepik
-* [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
 * [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
 
 \sp

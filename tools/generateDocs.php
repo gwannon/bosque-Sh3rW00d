@@ -1,20 +1,20 @@
 <?php
 
 require __DIR__ . '/../vendor/autoload.php';
-include(__DIR__ ."/config.php");
+include(__DIR__ ."/config".$argv[1].".php");
 
 /* Generamos el HTML */
 /* -------------------------------------------------------------- */
 use FastVolt\Helper\Markdown;
 
-$md = file_get_contents(__DIR__ . "/../bosque-Sh3rW00d.md");
+$md = file_get_contents(__DIR__ . "/../".$argv[1].".md");
 
 $md = preg_replace_callback("/\|([0-9a-zA-Z]*)\.md\|/", function($matches) {
   $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".md"); 
   return $matches[0];
 }, $md);
 
-file_put_contents(__DIR__ . "/../Accbosque-Sh3rW00d.md", str_replace(["\n\n\n\n", "\n\n\n\n", "\n\n\n", "\n\n\n\n", "\n\n\n\n", "\n\n\n"], "\n\n", str_replace(["\n\n\sp", "\n\n\sc", "\n\n\sinc", "\n\n\conc", "\n\n&nbsp;"], "", $md)));
+file_put_contents(__DIR__ . "/../Acc".$argv[1].".md", str_replace(["\n\n\n\n", "\n\n\n\n", "\n\n\n", "\n\n\n\n", "\n\n\n\n", "\n\n\n"], "\n\n", str_replace(["\n\n\sp", "\n\n\sc", "\n\n\sinc", "\n\n\conc", "\n\n&nbsp;"], "", $md)));
 
 
 $mkd = Markdown::new();
@@ -35,7 +35,7 @@ $html = str_replace("<table>", "<div><table>", $html);
 $html = str_replace("</table>", "</table></div>", $html); 
 $html = str_replace("<p><strong>Semilla de aventura:</strong>", "<p class=\"seed\"><strong>Semilla de aventura:</strong>", $html);
 
-file_put_contents(__DIR__ . "/../index.html", $html);
+file_put_contents(__DIR__ . "/../".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
@@ -50,7 +50,7 @@ $metas .= "InfoValue: ".$tags['KEYWORDS']."\n\n";
 /* -------------------------------------------------------------- */
 $doc = new DOMDocument();
 $internalErrors = libxml_use_internal_errors(true);
-$doc->loadHTMLFile(__DIR__ . "/../index.html");
+$doc->loadHTMLFile(__DIR__ . "/../".$argv[1].".html");
 $body = $doc->getElementsByTagName('body');
 $body = $body->item(0);
 $json = [];
@@ -106,6 +106,8 @@ foreach ($json as $item) {
 }
 $html = str_replace("|INDICE|", $indice, $html);
 
+$html = str_replace("|BODY|", $argv[1], $html);
+
 $counter = 2;
 $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
   global $counter;
@@ -115,7 +117,7 @@ $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
   return $matches[0];
 }, $html);
 
-file_put_contents(__DIR__ . "/../index.html", $html);
+file_put_contents(__DIR__ . "/../".$argv[1].".html", $html);
 file_put_contents(__DIR__ . "/../metas.txt", $metas);
 
 /* LIBs */
