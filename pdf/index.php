@@ -2,7 +2,7 @@
 
 date_default_timezone_set("Europe/Madrid");
 
-$filename = __DIR__."/../bosque-Sh3rW00d.pdf";
+$filename = __DIR__."/../Bosque-Sh3rW00d.pdf";
 
 //Define header information
 header('Content-Description: File Transfer');
