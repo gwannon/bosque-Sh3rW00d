@@ -3179,7 +3179,7 @@ Vale, he mentido. Sí quiero dejar fuera a alguien, a la gente que le molesta el
 
 Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento.
 
-Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
+Si voy a meterle muchas horas a esta ambientación quiero hacerlo con un RPG que me sea fácil y familiar.
 
 ### Participar en el proyecto
 
@@ -3234,7 +3234,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 ## Otros proyectos que te pueden interesar
 
-Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño. Recordad que para poder jugarlas necesitaréis el Manual Básico de Savage Worlds Edición Aventura.
+Si os ha gustado esta ambientación podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño. Recordad que para poder jugarlas necesitaréis el Manual Básico de Savage Worlds Edición Aventura.
 
 [![OPERACIÓN: Tras el mundo perdido](./assests/images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
 

@@ -2,7 +2,8 @@
 
 date_default_timezone_set("Europe/Madrid");
 
-$filename = __DIR__."/../Bosque-Sh3rW00d.pdf";
+if (isset($_REQUEST['lang']) && $_REQUEST['lang'] == 'aventuras') $filename = __DIR__."/../AventurasBosque-Sh3rW00d.pdf";
+else $filename = __DIR__."/../Bosque-Sh3rW00d.pdf";
 
 //Define header information
 header('Content-Description: File Transfer');

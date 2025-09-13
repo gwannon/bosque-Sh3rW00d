@@ -260,6 +260,32 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
 * [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
 
+\sp
+
+\sinc
+
+## Otros proyectos que te pueden interesar
+
+Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño. Recordad que para poder jugarlas necesitaréis el Manual Básico de Savage Worlds Edición Aventura.
+
+[![OPERACIÓN: Tras el mundo perdido](./assests/images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
+
+**[OPERACIÓN: Tras el mundo perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)**
+
+\conc
+
+[![¡Arrr! Cthulhu](./assests/images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
+
+**[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu](https://arrrcthulhu.com/pdf/)**
+
+[![Mil y Un Ghūles](./assests/images/1001ghules.jpg "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")](https://1001ghules.gwannon.com/pdf/ "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")
+
+**[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)**
+
+\sp
+
+&nbsp;
+
 ***
 
 **Aventuras en Bosque Sh3rW00d creado por [Gwannon](https://gwannon.com/)**
