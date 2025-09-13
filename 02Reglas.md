@@ -587,9 +587,9 @@ Mediante una mezcla de movimientos captados por los sensores de la iluminación 
 
 [![Hacker By cyberaeon](./assests/images/hacker_by_cyberaeon_d9qk9bk-375w-2x.jpg "Hacker By cyberaeon")](https://www.deviantart.com/cyberaeon/art/Hacker-588810800 "Hacker By cyberaeon")
 
-* Puedes inutilizar la iluminación haciendo que se quede **encendida o apagada durante la duración del hackeo**.
-* Poner las luces en **modo estroboscópico**, lo que supone **-1 a todas las tiradas de habilidad que exijan la vista** como disparar o buscar algo.
-* Poner las luces en **modo _random_** de forma que se **enciendan o apaguen al azar** cada turno (par se apagan, impar se encienden).
+* Puedes inutilizar la iluminación de una sala haciendo que se quede **encendida o apagada durante la duración del hackeo**.
+* Poner las luces de una habitación en **modo estroboscópico**, lo que supone **-1 a todas las tiradas de habilidad que exijan la vista** como disparar o buscar algo.
+* Poner las luces de una habitación en **modo _random_** de forma que se **enciendan o apaguen al azar** cada turno (par se apagan, impar se encienden).
 
 ### Controlar pantallas
 
@@ -601,9 +601,7 @@ Les instaladores escondían sus propios modos de funcionamiento en menús secret
 
 * Puedes **encender y apagar pantallas** y también **programar** su encendido y apagado.
 * Puedes **poner mensajes simples y estáticos** en las pantallas.
-* Puedes programar la sobrecarga de una pantalla de forma que salten chispas y se queme. El tiempo máximo de programación es de 4 turnos a no ser que gastes avances. Funcionaría como Truco, donde tu adversarie deberá tirar Astucia contra tu tirada de Electrónica. 
-
-**Avances:** 1 avance por cada pantalla adicional.
+* Puedes programar la sobrecarga de una pantalla de forma que salten chispas y se queme. El tiempo máximo de programación es de 4 turnos a no ser que gastes avances. Funcionaría como Truco, donde tu adversarie deberá tirar Astucia contra tu tirada de Electrónica. 1 avance por cada pantalla adicional que se vea afectada por el truco.
 
 ### Llamar ascensor
 
@@ -665,13 +663,11 @@ XXX
 
 **Jerga:** Kilovatio-hora, Light my fire
 
-Usando este hackeo se pueden hacer las cosas que en Controlar Iluminación pero controlando las luces de emergencia y similar. Además se pueden conseguir nuevos efectos que permiten usar la iluminación a tu favor sobre todo en situaciones de combate. 
+ Con este hackeo se pueden conseguir nuevos efectos que permiten usar la iluminación a tu favor sobre todo en situaciones de combate. 
 
+* Usando este hackeo se pueden hacer los hackeos de Controlar Iluminación pero controlando las luces de emergenciay de seguridad y similar.
 * Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
-* XXX
-* XXX
-
-**Avances:** 1 avance por cada objetivo extra.
+* Sobrecalentar un grupo de luces y hacerlas explotar. Toda persona adyacente a un foco recibe 1d6 daño debido a la explosión y los cristales rotos.1 avance por cada objetivo/grupo de luces extra. No se puede sobrecalentar un grupo de iluminación ya sobrecalentado.
 
 ### Controlar climatización
 

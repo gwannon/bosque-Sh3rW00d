@@ -20,36 +20,37 @@ Como siempre se dice la talla de tus heroines la marcan sus villanos.
 
 Tu banda de proscrites tendrá que enfrentarte con todo tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines _influencers_, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarrecompensas de fuera del complejo que atrapan o matan personas por dinero.
 
-### Sheriffs
+### Sheriffs #
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** XXX
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d4, Fuerza d12, Vigor d12
+* **Habilidades:** Atletismo, d6, Disparar d8, Electronica d6, Intimidar d6, Notar d10, Pelear d8
 
 \sp
 
-* **Paso:** X; **Parada:** X; **Dureza:** X
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+* **Paso:** 6; **Parada:** 6; **Dureza:** 15 (6)
 * **Capacidades especiales:**
+  * **Armadura +6:** Blindaje de acero fantasma.
+  * **Conexión con la red:** Tiene los hackeos básicos, Controlar pantallas, Controlar iluminación, Llamar ascensor, Controlar realidad aumentada. Puede usar los hackeos automáticamente tomándose un 4 en vez de tirar Electrónica.
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
-* **Equipo:** XXX
+  * **Tamaño +1:** Son ligeramente más grandes que un ser humano.
+* **Equipo:** Cinchas de detención, Porra extensible (FUE + d6), Desert Eagle (.50) si está misión.
 
 ### Ayudante de sheriffs
 
 Estas versiones inferiores de los sheriffs son usadas como ayudantes de estos. Acompañan a los sheriffs como apoyo de combate y hacen trabajos menores como control de masas, cacheos, protección de zonas, etc. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** XXX
-* **Paso:** X; **Parada:** X; **Dureza:** X
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo, d6, Disparar d6, Electronica d4, Intimidar d6, Notar d10, Pelear d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 9 (3)
 * **Capacidades especiales:**
+  * **Armadura +3:** Blindaje de acero fantasma.
+  * **Conexión con la red:** Tiene un hackeo básico, puede elegir entre Controlar pantallas, Controlar iluminación, Llamar ascensor o Controlar realidad aumentada según las tareas que se le vayan a asignar. Puede usar los hackeos automáticamente tomándose un 4 en vez de tirar Electrónica.
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
-* **Equipo:** XXX
+* **Equipo:** Material para el trabajo al que han sido asignados, Porra extensible (FUE + d6)
 
 ### Alto influencer
 
@@ -72,8 +73,12 @@ XXX
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Ciberimplantes:** XXX
 * **Desventajas:** XXX
+
+\sp
+
 * **Ventajas:** XXX
 * **Equipo:** XXX
+
 
 ### Blus de alto rango
 
@@ -86,8 +91,6 @@ XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
-
-\sp
 
 ### Asesores de blus
 
@@ -113,8 +116,6 @@ XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
-\sc
-
 \sp
 
 \sinc
@@ -131,65 +132,68 @@ En esta ambientación los robots no son personajes carismáticos, charlatanes y 
 
 ### Animal animatrónico
 
-XXX
+Como parte de una campaña de mejora de la opinión pública, la directora J0hn creó un zoo de animales animatrónicos. Los **animales animatrónicos son sobre todo terrestres y carnívoros** como grandes felinos y **herbívoros muy agresivos** como jabalíes. No es normal que escapen del zoo, pero podría darse el caso de que fueran robados y reprogramados.  
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** XXX
-* **Paso:** X; **Parada:** X; **Dureza:** X
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+Coge las estadísticas del animal y añádele estas capacidades especiales:
+
 * **Capacidades especiales:**
-  * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
-* **Equipo:** XXX
+  * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+
+\sc
+
+  * **Armadura (+1 a +4):** Sus partes metálicas les dan entre +1 y +4 de armadura.
 
 ### Limpiador
 
-XXX
+Estas grandes cajas con ruedas tienen una serie de juegos de cepillos, aspiradoras y chorros de agua a presión que les permiten limpiar suelos, techos y paredes.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** XXX
-* **Paso:** X; **Parada:** X; **Dureza:** X
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+No son ni muy listos ni muy diestros. De hecho, no pueden subir o bajar escalones, pero no descansan nunca y su base de datos es una fuente de información muy interesante, ya que recogen todo tipo de información de las calles por las que se mueven que luego procesa para maximizar su rendimiento y limpiar más eficientemente. 
+
+De hecho, algo que no es de dominio público es que sus creadores metieron de los mejores procesadores del mercado en su diseño y pueden ser muy útiles en caso de tener que manejar ingentes cantidades de información.
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Notar d8, Pelear d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 6
 * **Capacidades especiales:**
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
+  * **Base de datos:** Si consigues una de sus unidades de almacenamiento y la puedes procesar obtienes un +2 al buscar información de la zona en la que limpia.
+
+\sp
+* **Capacidades especiales:**
   * **Impávido:** Es inmune al miedo e Intimidar.
-  * **Tamaño (-2):** Modificar al atacarlo -2. Son pequeños robots que se dedican a limpiar suelos, paredes y techos.
-  * **Trepamuros:** Se mueven a paso 6 por paredes y techos y pueden incluso correr.
 * **Equipo:** Depósitos con diferentes productos de limpieza, ácidos, desengrasantes, etc.
 
 ### Cargador
 
-XXX
+Estos robots con forma cuadrúpeda de gran tamaño pueden subir y bajar escaleras y moverse sin problema por todo el complejo cargando en su lomo grandes cantidades de material o arrastrando pesadas carretas. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** XXX
-* **Paso:** X; **Parada:** X; **Dureza:** X
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+Debido a su gran tamaño también ser usados como parapetos en caso de combate.
 
-\sp
-
+* **Atributos:** Agilidad d4, Astucia d4, Espíritu d4, Fuerza d12, Vigor d6
+* **Habilidades:** Atletismo d6, Notar d6, Pelear d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 8
 * **Capacidades especiales:**
+  * **Capacidad de carga:** Su capacidad es muy superior a la normal y debes multiplicar por 10 los kilos que necesita por su fuerza para estar sobrecargado. Ignora si los objetos son voluminosos para estar sobrecargado. Pueden elevar las carga por encima de su tamaño sin problema.
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
+  * **Tamaño (+3):** Son robots de gran tamaño que se dedican a mover carga por todo el complejo.
+
+\sc
 
 ### Comadrejas
 
 Esto pequeños robots son alargados como comadrejas, aunque más grandes, se encargan de moverse por tuberías y conductos para limpiarlos y retirar todo tipo de restos que pudieran atascar el conducto. No es un enemigo problemático a no ser que tengas que enfrentarte a ella mientras te arrastras por un conducto.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** XXX
-* **Paso:** X; **Parada:** X; **Dureza:** X
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+* **Atributos:** Agilidad d6, Astucia d4, Espíritu d4, Fuerza d4, Vigor d4
+* **Habilidades:** Atletismo d8, Notar d6, Pelear d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 4
 * **Capacidades especiales:**
+  * **Escurridizo:** Puede reconfigurarse y alargarse y colarse por agujeros por los que solo entrarían criaturas de tamaño -4.
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño (-1):** Puede moverse sin problemas por tubos de ventilación y otros conductos grandes.
-
-\sc
+  * **Trepamuros:** Se mueven a paso 6 por paredes y techos y pueden incluso correr.
 
 \sp
 
