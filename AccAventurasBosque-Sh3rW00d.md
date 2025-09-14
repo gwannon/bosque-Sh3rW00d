@@ -216,8 +216,7 @@ The FontStruction [“Medieval Pixel”](https://fontstruct.com/fontstructions/s
 
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo.
 
-* [Portada del libro por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-tree-creative-electronics-concept-poster-vector-illustration_4348098.htm) en Freepik
-* [Silueta arquere encapuchade por Majal Jubanic](https://majaljubanic.com/robin-hood-poster)
+* [Portada del libro por starline](https://www.freepik.com/free-vector/blue-digital-technology-background_842671.htm) en Freepik
 * [Contraportada del libro por Harryarts](https://www.freepik.com/free-vector/white-background-circuit-design_958585.htm) en Freepik
 * [Portada Aventuras por macrovector_official](https://www.freepik.com/free-vector/computer-circuit-board-hand-shape-creative-technology-poster-vector-illustration_4348099.htm) en Freepik
 * [Portada Epílogo](https://www.deviantart.com/phracker/art/Edge-Noise-924955740) Edge Noise By [Phracker](https://www.deviantart.com/phracker/) Creative Commons Attribution-NonCommercial 3.0 License
