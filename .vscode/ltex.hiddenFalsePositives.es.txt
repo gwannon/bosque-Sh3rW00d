@@ -93,3 +93,4 @@
 {"rule":"SEPARADO","sentence":"^\\Q|07Epilogo.md|\\E$"}
 {"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QPortada Personas por Freepik en Freepik\nPortada Epílogo Edge Noise By Phracker Creative Commons Attribution-NonCommercial 3.0 License\\E$"}
 {"rule":"FORM","sentence":"^\\QEn caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCinchas de detención, Porra extensible (FUE + d6), Desert Eagle (.50) si está misión.\\E$"}

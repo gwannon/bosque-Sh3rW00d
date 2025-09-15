@@ -665,7 +665,7 @@ XXX
 
  Con este hackeo se pueden conseguir nuevos efectos que permiten usar la iluminación a tu favor sobre todo en situaciones de combate. 
 
-* Usando este hackeo se pueden hacer los hackeos de Controlar Iluminación pero controlando las luces de emergenciay de seguridad y similar.
+* Usando este hackeo se pueden hacer los hackeos de Controlar Iluminación pero controlando las luces de emergencia y de seguridad y similar.
 * Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
 * Sobrecalentar un grupo de luces y hacerlas explotar. Toda persona adyacente a un foco recibe 1d6 daño debido a la explosión y los cristales rotos.1 avance por cada objetivo/grupo de luces extra. No se puede sobrecalentar un grupo de iluminación ya sobrecalentado.
 

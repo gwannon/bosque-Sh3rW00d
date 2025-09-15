@@ -20,7 +20,7 @@ Como siempre se dice la talla de tus heroines la marcan sus villanos.
 
 Tu banda de proscrites tendrá que enfrentarte con todo tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines _influencers_, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarrecompensas de fuera del complejo que atrapan o matan personas por dinero.
 
-### Sheriffs #
+### Sheriffs &#35;
 
 XXX
 
@@ -36,7 +36,7 @@ XXX
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño +1:** Son ligeramente más grandes que un ser humano.
-* **Equipo:** Cinchas de detención, Porra extensible (FUE + d6), Desert Eagle (.50) si está misión.
+* **Equipo:** Cinchas de detención, Porra extensible (FUE + d6), Desert Eagle (.50) si está en misión.
 
 ### Ayudante de sheriffs
 
@@ -166,7 +166,7 @@ De hecho, algo que no es de dominio público es que sus creadores metieron de lo
 
 ### Cargador
 
-Estos robots con forma cuadrúpeda de gran tamaño pueden subir y bajar escaleras y moverse sin problema por todo el complejo cargando en su lomo grandes cantidades de material o arrastrando pesadas carretas. 
+Estos robots cuadrúpedos de gran tamaño pueden subir y bajar escaleras y moverse sin problema por todo el complejo cargando en su lomo grandes cantidades de material o arrastrando pesadas carretas. 
 
 Debido a su gran tamaño también ser usados como parapetos en caso de combate.
 
