@@ -94,3 +94,8 @@
 {"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QPortada Personas por Freepik en Freepik\nPortada Epílogo Edge Noise By Phracker Creative Commons Attribution-NonCommercial 3.0 License\\E$"}
 {"rule":"FORM","sentence":"^\\QEn caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCinchas de detención, Porra extensible (FUE + d6), Desert Eagle (.50) si está misión.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWesker By MonkeyMu\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMaintenance EotV Art By Igor-Esaulov\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QLa moneda oficial es el crédito de la compañía, aunque no existe moneda física de ella.\\E$"}
+{"rule":"SENTENCE","sentence":"^\\QLa sentencia de muerte se ejecuta por la horca en un cadalso construido ex profeso en la Plaza Mayor para que sea visto por todo el mundo.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QLos robos y atracos son también realizados por boskis, pero estos tratan de centrarlos en conseguir materiales y equipo que no pueden conseguir de normal.\\E$"}

@@ -667,7 +667,7 @@ XXX
 
 * Usando este hackeo se pueden hacer los hackeos de Controlar Iluminación pero controlando las luces de emergencia y de seguridad y similar.
 * Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
-* Sobrecalentar un grupo de luces y hacerlas explotar. Toda persona adyacente a un foco recibe 1d6 daño debido a la explosión y los cristales rotos.1 avance por cada objetivo/grupo de luces extra. No se puede sobrecalentar un grupo de iluminación ya sobrecalentado.
+* **Sobrecalentar un grupo de luces y hacerlas explotar.** Toda persona adyacente a un foco recibe 1d6 daño debido a la explosión y los cristales rotos.1 avance por cada objetivo/grupo de luces extra. No se puede sobrecalentar un grupo de iluminación ya sobrecalentado.
 
 ### Controlar climatización
 
@@ -701,12 +701,12 @@ XXX
 
 Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvaguardas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas. El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
-* Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
+* Puedes **desactivar los frenos de seguridad de un ascensor y dejarlo caer.** Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
 
 \sp
 
-* Puedes bloquear las puertas encerrando dentro a sus pasajeres y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
-* Puedes dejar ciertos programas preparados, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
+* Puedes **bloquear las puertas encerrando dentro a sus pasajeres** y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
+* Puedes **dejar ciertos programas preparados**, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
 
 ### Dominar climatización
 
@@ -716,7 +716,7 @@ Una combinación de botones del panel interno de la caja del ascensor, te permit
 
 XXX
 
-* Puedes poner los ventiladores a tal velocidad, más allá de lo seguro, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
+* Puedes poner los **ventiladores a tal velocidad, más allá de lo seguro**, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * XXX
 * XXX
 
@@ -728,9 +728,9 @@ XXX
 
 XXX
 
+* Usando este hackeo se pueden hacer los **hackeos de Controlar puertas pero controlando las puertas de seguridad con cerraduras**, o sensores biométricos.
 * XXX
-* XXX
-* XXX
+* Puedes **dejar ciertos programas preparados**, de manera que la puerta solo se activa frente a determinados gestos o colores, siempre emita fallos extraños o deje de funcionar para ciertas personas.
 
 ### Dominar vigilancia
 
@@ -788,7 +788,7 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
 |Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
-|Dominar puertas|Veterane, Controlar puertas|XXX|
+|Dominar puertas|Veterane, Controlar puertas|Controlas puertas de seguridad y con cerraduras así como anulas sus sensores o programas ciertas rutinas|
 |Dominar vigilancia|Heróique, Controlar vigilancia|Dominar los sistemas de vigilancia, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 

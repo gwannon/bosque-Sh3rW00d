@@ -260,43 +260,51 @@ Las IA son algo muy normal en Nottingham. De hecho, la IA J0hn controla muchísi
 
 Las inteligencias artificiales son un elemento muy importante en esta ambientación al girar casi sus los elementos alrededor de las dos IA directoras, la bondadosa R1c4rd y la malvada J0hn. Pero hay otras IA con sus historias y su importancia en la historia como Al1enOR, Alfonse o Baris, todas ellas con su idiosincrasia y su historia para meterlas en tus aventuras. 
 
-XXX
+> En principio, las IA no son personajes jugables, pero si quieres aceptar el reto puede ser muy interesante para tu mesa.
 
 En general podemos decir que existen tres tipos de IA, las dedicadas, las dedicadas avanzadas y las polivalentes. Cada tipo tiene sus características y sus capacidades.
 
 ### IA dedicadas
 
-Las IA dedicadas son IA que solo tiene una función, todo su poder de procesamiento se divide en una sola tarea. Puede tener un gran poder de proceso de solo hacer una tarea. Por ejemplo, la IA de los ascensores y escaleras mecánicas de una zona controla muchos elementos muy importantes, pero solo controla ese elemento, con lo que no se ha desarrollado otras partes de su inteligencia. Por dejarlo claro, solo sabe de administrar los turboascensores, no le preguntes de nada más. 
+Las IA dedicadas son IA que solo tiene una función, todo su poder de procesamiento se divide en una sola tarea. Puede tener un gran poder de proceso, pero solo sabe hacer una tarea. Por ejemplo, la IA de los ascensores y escaleras mecánicas de una zona controla muchos elementos muy importantes, pero solo controla ese elemento, con lo que no se ha desarrollado otras partes de su inteligencia. Por dejarlo claro, solo sabe de administrar los turboascensores, no le preguntes de nada más. 
 
-Una IA dedicada médica podría buscar posibles cánceres en las radiografías de les pacientes. Solo daría resultados de detectado o no cáncer. 
+Una IA dedicada médica podría buscar posibles cánceres en las radiografías de les pacientes. Solo daría resultados de cáncer positivo o negativo, no tendría capacidad de dar un tratamiento. 
 
-XXX
+La mayoría de ellas no tienen capacidad de comunicación, salvo el sistema para meter datos/consultas/programación como un micrófono o un teclado y otro para dar los resultados como una pantalla, un mensaje o incluso algún tipo de piloto luminoso.
+
+\sp
 
 ### IA dedicadas avanzadas
 
 Las IA dedicadas avanzadas son IA más avanzadas que las anteriores, pero siguen trabajando sobre un solo elemento. Una IA dedicada avanzada podría no solo gestionar los ascensores, sino también prever posibles aglomeraciones por información que recibe como eventos deportivos y buscar soluciones.
 
-\sp
-
 Siguiendo con IA médica anterior, una IA dedicada avanzada médica podría diagnosticar muchos tipos de enfermedades y también dar tratamientos más adecuados.
 
-XXX
+A diferencia de las dedicadas cuentas con sistemas de comunicación mucho más avanzado, normalmente pueden interactuar de forma verbal, pero siguen siendo muy limitados, no pudiendo salirse del tema al que están dedicados. Las más modernas tienen incluso un interfaz visual aunque es limitado porque no saben transmitir emociones. Solo son caras amables en una pantalla.
 
 ### IA polivalentes
 
 Son las IA que pueden manejar dos o más actividades y normalmente una de esas actividades es relacionarse con humanos. En el ejemplo del médico podríamos hablar de una IA capaz de hacer diagnósticos de todo tipo de enfermedades físicas y mentales, dar un tratamiento y además poder por ejemplo, dar buenas y malas noticias a les pacientes o llevar una sesión de terapia psicológica.
 
-XXX
+Las IA polivalentes empiezan a parecerse a las IA que conocemos de películas y libros de ciencia ficción. Podrían pasar el test de Turing y pasar por humanos, incluso tienen personalidades definidas básicas. Pueden ser alegres y positivas, bromistas, mentirosas o hurañas y siempre refunfuñando, pero esa personalidad nunca va a cambiar.
+
+Pueden relacionarse con los humanos mediante interfaces visuales y verbales y pueden entender las emociones humanas y expresar algunas básicas como alegría o enfado. Al funcionar sobre varios sistemas pueden moverse por todo Nottingham y seguir a tu mesa. Quizás hablen a través del sistema de comunicación de los ascensores, luego por la megafonía de los pasillos y, por último, aparezcan en las pantallas de tu habitáculo. 
+
+Las IA polivalentes son autoconscientes y con instinto de supervivencia así que como los humanos harán lo que sea por seguir con viva, pero también podrían sacrificarse por un bien mayor.
+
+Tienen capacidades de aprendizaje limitadas y normalmente limitadas a sus áreas de conocimiento.
 
 ### Las directoras
 
-Las directoras podemos considerarlas auténticas IA, son IA polivalentes que controlan muchos elementos (urbanismo, política, contabilidad, marketing, etc.) y pueden relacionarse cara a cara con humanos. Pero a diferencia de las polivalentes han sido alimentadas petabytes de información más o menos interesante para llevar a cabo sus tareas.
+Las directoras podemos considerarlas auténticas IA, son IA polivalentes que controlan muchos elementos (urbanismo, política, contabilidad, marketing, etc.) y pueden relacionarse cara a cara con humanos. Pero a diferencia de las polivalentes han sido alimentadas con petabytes de información más o menos interesante para llevar a cabo sus tareas.
 
-Digamos que las directoras son IA polivalentes con conocimientos y experiencia de la que aprenden. Si reseteamos a una directora y la dejamos sin recuerdos y conocimientos volvemos a tener una IA polivalente.
+Digamos que las directoras son IA polivalentes con conocimientos y experiencia de la que aprenden. Si reseteamos a una directora y la dejamos sin recuerdos y conocimientos volvemos a tener una IA polivalente con mucho que aprender.
+
+\sp
+
+Las directoras podemos considerarlas plenamente humanas, autoconscientes, con emociones complejas y cambiantes y como tienen capacidad de aprendizaje, pueden cambiar su personalidad con el tiempo y por la acción de sus experiencias.
 
 XXX
-
-\sc
 
 #### Las instancias
 

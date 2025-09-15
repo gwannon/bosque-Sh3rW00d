@@ -70,7 +70,7 @@ Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers
 
 Ellos establecen las modas, lo que es _cool_ y lo que no, lo que se debe hacer y lo que no y, al final, lo que está bien y lo que está mal.
 
-Además, señalan a los disidentes y los excluyen socialmente, de forma que sus acciones y proclamas contra el sistema son muchas veces rechazadas, desacreditadas y olvidadas.
+Además, señalan a los disidentes y los excluyen socialmente, de manera que sus acciones y proclamas contra el sistema son muchas veces rechazadas, desacreditadas y olvidadas.
 
 También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
 
@@ -1172,9 +1172,9 @@ XXX
 
  Con este hackeo se pueden conseguir nuevos efectos que permiten usar la iluminación a tu favor sobre todo en situaciones de combate. 
 
-* Usando este hackeo se pueden hacer los hackeos de Controlar Iluminación pero controlando las luces de emergenciay de seguridad y similar.
+* Usando este hackeo se pueden hacer los hackeos de Controlar Iluminación pero controlando las luces de emergencia y de seguridad y similar.
 * Hacer que las luces sigan un objetivo, **iluminando u oscureciendo la zona donde está el objetivo**. Esto afecta a la visibilidad del objetivo tanto en combate como en sigilo.
-* Sobrecalentar un grupo de luces y hacerlas explotar. Toda persona adyacente a un foco recibe 1d6 daño debido a la explosión y los cristales rotos.1 avance por cada objetivo/grupo de luces extra. No se puede sobrecalentar un grupo de iluminación ya sobrecalentado.
+* **Sobrecalentar un grupo de luces y hacerlas explotar.** Toda persona adyacente a un foco recibe 1d6 daño debido a la explosión y los cristales rotos.1 avance por cada objetivo/grupo de luces extra. No se puede sobrecalentar un grupo de iluminación ya sobrecalentado.
 
 ### Controlar climatización
 
@@ -1208,10 +1208,10 @@ XXX
 
 Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvaguardas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas. El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
-* Puedes desactivar los frenos de seguridad de un ascensor y dejarlo caer. Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
+* Puedes **desactivar los frenos de seguridad de un ascensor y dejarlo caer.** Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
 
-* Puedes bloquear las puertas encerrando dentro a sus pasajeres y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
-* Puedes dejar ciertos programas preparados, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
+* Puedes **bloquear las puertas encerrando dentro a sus pasajeres** y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
+* Puedes **dejar ciertos programas preparados**, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
 
 ### Dominar climatización
 
@@ -1221,7 +1221,7 @@ Una combinación de botones del panel interno de la caja del ascensor, te permit
 
 XXX
 
-* Puedes poner los ventiladores a tal velocidad, más allá de lo seguro, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
+* Puedes poner los **ventiladores a tal velocidad, más allá de lo seguro**, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * XXX
 * XXX
 
@@ -1233,9 +1233,9 @@ XXX
 
 XXX
 
+* Usando este hackeo se pueden hacer los **hackeos de Controlar puertas pero controlando las puertas de seguridad con cerraduras**, o sensores biométricos.
 * XXX
-* XXX
-* XXX
+* Puedes **dejar ciertos programas preparados**, de manera que la puerta solo se activa frente a determinados gestos o colores, siempre emita fallos extraños o deje de funcionar para ciertas personas.
 
 ### Dominar vigilancia
 
@@ -1283,7 +1283,7 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
 |Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
-|Dominar puertas|Veterane, Controlar puertas|XXX|
+|Dominar puertas|Veterane, Controlar puertas|Controlas puertas de seguridad y con cerraduras así como anulas sus sensores o programas ciertas rutinas|
 |Dominar vigilancia|Heróique, Controlar vigilancia|Dominar los sistemas de vigilancia, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 
@@ -1573,17 +1573,17 @@ Las IA son algo muy normal en Nottingham. De hecho, la IA J0hn controla muchísi
 
 Las inteligencias artificiales son un elemento muy importante en esta ambientación al girar casi sus los elementos alrededor de las dos IA directoras, la bondadosa R1c4rd y la malvada J0hn. Pero hay otras IA con sus historias y su importancia en la historia como Al1enOR, Alfonse o Baris, todas ellas con su idiosincrasia y su historia para meterlas en tus aventuras. 
 
-XXX
+> En principio, las IA no son personajes jugables, pero si quieres aceptar el reto puede ser muy interesante para tu mesa.
 
 En general podemos decir que existen tres tipos de IA, las dedicadas, las dedicadas avanzadas y las polivalentes. Cada tipo tiene sus características y sus capacidades.
 
 ### IA dedicadas
 
-Las IA dedicadas son IA que solo tiene una función, todo su poder de procesamiento se divide en una sola tarea. Puede tener un gran poder de proceso de solo hacer una tarea. Por ejemplo, la IA de los ascensores y escaleras mecánicas de una zona controla muchos elementos muy importantes, pero solo controla ese elemento, con lo que no se ha desarrollado otras partes de su inteligencia. Por dejarlo claro, solo sabe de administrar los turboascensores, no le preguntes de nada más. 
+Las IA dedicadas son IA que solo tiene una función, todo su poder de procesamiento se divide en una sola tarea. Puede tener un gran poder de proceso, pero solo sabe hacer una tarea. Por ejemplo, la IA de los ascensores y escaleras mecánicas de una zona controla muchos elementos muy importantes, pero solo controla ese elemento, con lo que no se ha desarrollado otras partes de su inteligencia. Por dejarlo claro, solo sabe de administrar los turboascensores, no le preguntes de nada más. 
 
-Una IA dedicada médica podría buscar posibles cánceres en las radiografías de les pacientes. Solo daría resultados de detectado o no cáncer. 
+Una IA dedicada médica podría buscar posibles cánceres en las radiografías de les pacientes. Solo daría resultados de cáncer positivo o negativo, no tendría capacidad de dar un tratamiento. 
 
-XXX
+La mayoría de ellas no tienen capacidad de comunicación, salvo el sistema para meter datos/consultas/programación como un micrófono o un teclado y otro para dar los resultados como una pantalla, un mensaje o incluso algún tipo de piloto luminoso.
 
 ### IA dedicadas avanzadas
 
@@ -1591,19 +1591,27 @@ Las IA dedicadas avanzadas son IA más avanzadas que las anteriores, pero siguen
 
 Siguiendo con IA médica anterior, una IA dedicada avanzada médica podría diagnosticar muchos tipos de enfermedades y también dar tratamientos más adecuados.
 
-XXX
+A diferencia de las dedicadas cuentas con sistemas de comunicación mucho más avanzado, normalmente pueden interactuar de forma verbal, pero siguen siendo muy limitados, no pudiendo salirse del tema al que están dedicados. Las más modernas tienen incluso un interfaz visual aunque es limitado porque no saben transmitir emociones. Solo son caras amables en una pantalla.
 
 ### IA polivalentes
 
 Son las IA que pueden manejar dos o más actividades y normalmente una de esas actividades es relacionarse con humanos. En el ejemplo del médico podríamos hablar de una IA capaz de hacer diagnósticos de todo tipo de enfermedades físicas y mentales, dar un tratamiento y además poder por ejemplo, dar buenas y malas noticias a les pacientes o llevar una sesión de terapia psicológica.
 
-XXX
+Las IA polivalentes empiezan a parecerse a las IA que conocemos de películas y libros de ciencia ficción. Podrían pasar el test de Turing y pasar por humanos, incluso tienen personalidades definidas básicas. Pueden ser alegres y positivas, bromistas, mentirosas o hurañas y siempre refunfuñando, pero esa personalidad nunca va a cambiar.
+
+Pueden relacionarse con los humanos mediante interfaces visuales y verbales y pueden entender las emociones humanas y expresar algunas básicas como alegría o enfado. Al funcionar sobre varios sistemas pueden moverse por todo Nottingham y seguir a tu mesa. Quizás hablen a través del sistema de comunicación de los ascensores, luego por la megafonía de los pasillos y, por último, aparezcan en las pantallas de tu habitáculo. 
+
+Las IA polivalentes son autoconscientes y con instinto de supervivencia así que como los humanos harán lo que sea por seguir con viva, pero también podrían sacrificarse por un bien mayor.
+
+Tienen capacidades de aprendizaje limitadas y normalmente limitadas a sus áreas de conocimiento.
 
 ### Las directoras
 
-Las directoras podemos considerarlas auténticas IA, son IA polivalentes que controlan muchos elementos (urbanismo, política, contabilidad, marketing, etc.) y pueden relacionarse cara a cara con humanos. Pero a diferencia de las polivalentes han sido alimentadas petabytes de información más o menos interesante para llevar a cabo sus tareas.
+Las directoras podemos considerarlas auténticas IA, son IA polivalentes que controlan muchos elementos (urbanismo, política, contabilidad, marketing, etc.) y pueden relacionarse cara a cara con humanos. Pero a diferencia de las polivalentes han sido alimentadas con petabytes de información más o menos interesante para llevar a cabo sus tareas.
 
-Digamos que las directoras son IA polivalentes con conocimientos y experiencia de la que aprenden. Si reseteamos a una directora y la dejamos sin recuerdos y conocimientos volvemos a tener una IA polivalente.
+Digamos que las directoras son IA polivalentes con conocimientos y experiencia de la que aprenden. Si reseteamos a una directora y la dejamos sin recuerdos y conocimientos volvemos a tener una IA polivalente con mucho que aprender.
+
+Las directoras podemos considerarlas plenamente humanas, autoconscientes, con emociones complejas y cambiantes y como tienen capacidad de aprendizaje, pueden cambiar su personalidad con el tiempo y por la acción de sus experiencias.
 
 XXX
 
@@ -1776,7 +1784,7 @@ Como siempre se dice la talla de tus heroines la marcan sus villanos.
 
 Tu banda de proscrites tendrá que enfrentarte con todo tipo de villanos desde los sheriffs, insensibles robots humanoides caza criminales, hasta ladines _influencers_, capaces de poner a la gente de Nottingham en tu contra. Sin olvidarnos de _blus_ que piensan que pueden comprar a cualquiera con su dinero o cazarrecompensas de fuera del complejo que atrapan o matan personas por dinero.
 
-### Sheriffs #
+### Sheriffs &#35;
 
 XXX
 
@@ -1790,7 +1798,7 @@ XXX
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño +1:** Son ligeramente más grandes que un ser humano.
-* **Equipo:** Cinchas de detención, Porra extensible (FUE + d6), Desert Eagle (.50) si está misión.
+* **Equipo:** Cinchas de detención, Porra extensible (FUE + d6), Desert Eagle (.50) si está en misión.
 
 ### Ayudante de sheriffs
 
@@ -1907,7 +1915,7 @@ De hecho, algo que no es de dominio público es que sus creadores metieron de lo
 
 ### Cargador
 
-Estos robots con forma cuadrúpeda de gran tamaño pueden subir y bajar escaleras y moverse sin problema por todo el complejo cargando en su lomo grandes cantidades de material o arrastrando pesadas carretas. 
+Estos robots cuadrúpedos de gran tamaño pueden subir y bajar escaleras y moverse sin problema por todo el complejo cargando en su lomo grandes cantidades de material o arrastrando pesadas carretas. 
 
 Debido a su gran tamaño también ser usados como parapetos en caso de combate.
 
@@ -3257,6 +3265,7 @@ Bosque Sh3rW00d es una ambientación CiberPunk para Savage Worlds Edición Avent
 Este libro contiene:
 
 1. Una ambientación que mezcla el Ciberpunk con las historias de Robin Hood. Con descripciones de personas, eventos y lugares a partir de las cuales crear tus propios relatos salvajes.
-2. Reglas para crear personajes, montones localizaciones, equipo único, un sistema sencillo de ciberimplantes, enemigos de todo tipo y personajes importantes de la arcología de Nottingham.
+2. Reglas para crear personajes, montones localizaciones, equipo único, un sistema sencillo de ciberimplantes y hackeo.
+3. Bestiario de enemigos de todo tipo desde humano a robots e IA y los personajes más importantes de la arcología de Nottingham.
 
 Para jugar esta ambientación solo necesitas el Manual Básico de Savage Worlds Edición Aventura.
