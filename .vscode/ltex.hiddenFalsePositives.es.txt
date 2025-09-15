@@ -80,3 +80,16 @@
 {"rule":"FORM","sentence":"^\\QEl correccional consta de 4 plantas que fueron aisladas del exterior de forma que no hay salidas al exterior más que la entrada peatonal y la carga y descarga.\\E$"}
 {"rule":"FORM","sentence":"^\\QEs una zona pintada de verde en forma circular donde puede haber unas 200/250 personas sin apretujarse mucho.\\E$"}
 {"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QPortada del libro por macrovector_official en Freepik\nSilueta arquere encapuchade por Majal Jubanic\nContraportada del libro por Harryarts en Freepik\nPortada 4rc0l061a de Nottingham por starline en Freepik\nPortada Historia Futuristic Circuit Texture By madragonn Creative Commons Attribution 3.0 License\nPortada Cibernia por pvproductions en Freepik\nPortada Directorio por starline en Freepik\nPortada Bestiario por malikadesign en Freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThe FontStruction “Medieval Pixel” by “Goatmeal” is licensed under a Creative Commons Attribution Non-commercial No Derivatives license.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPortada del libro por starline en Freepik\nSilueta ejecutive con corona por callmetak\nContraportada del libro por Harryarts en Freepik\nPortada Aventuras por macrovector_official en Freepik\nPortada Epílogo Edge Noise By Phracker Creative Commons Attribution-NonCommercial 3.0 License\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QPortada del libro por starline en Freepik\nSilueta ejecutive con corona por callmetak\nContraportada del libro por Harryarts en Freepik\nPortada Aventuras por macrovector_official en Freepik\nPortada Epílogo Edge Noise By Phracker Creative Commons Attribution-NonCommercial 3.0 License\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|00Arcologia.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|01Historia.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|02Reglas.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|03Cibernia.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|04Bestiario.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|05Directorio.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|06Personas.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|07Epilogo.md|\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QPortada Personas por Freepik en Freepik\nPortada Epílogo Edge Noise By Phracker Creative Commons Attribution-NonCommercial 3.0 License\\E$"}
+{"rule":"FORM","sentence":"^\\QEn caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.\\E$"}
