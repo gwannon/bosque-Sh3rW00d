@@ -99,3 +99,5 @@
 {"rule":"PHYSICIAN","sentence":"^\\QLa moneda oficial es el crédito de la compañía, aunque no existe moneda física de ella.\\E$"}
 {"rule":"SENTENCE","sentence":"^\\QLa sentencia de muerte se ejecuta por la horca en un cadalso construido ex profeso en la Plaza Mayor para que sea visto por todo el mundo.\\E$"}
 {"rule":"REALIZE","sentence":"^\\QLos robos y atracos son también realizados por boskis, pero estos tratan de centrarlos en conseguir materiales y equipo que no pueden conseguir de normal.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QLos oscuros callejones de Nottingham están llenas de este tipo de personajes.\\E$"}
+{"rule":"FUTURO_SUBJ_IND","sentence":"^\\QEstamos hablando desde la persona que le trae el café a le blus de alto rango como su secretareis hasta sus entrenadores personales y sus dietistas.\\E$"}

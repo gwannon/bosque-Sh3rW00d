@@ -36,7 +36,7 @@ XXX
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño +1:** Son ligeramente más grandes que un ser humano.
-* **Equipo:** Cinchas de detención, Porra extensible (FUE + d6), Desert Eagle (.50) si está en misión.
+* **Equipo:** Cinchas de detención, porra extensible (FUE + d6), Desert Eagle (.50) si está en misión.
 
 ### Ayudante de sheriffs
 
@@ -50,7 +50,7 @@ Estas versiones inferiores de los sheriffs son usadas como ayudantes de estos. A
   * **Conexión con la red:** Tiene un hackeo básico, puede elegir entre Controlar pantallas, Controlar iluminación, Llamar ascensor o Controlar realidad aumentada según las tareas que se le vayan a asignar. Puede usar los hackeos automáticamente tomándose un 4 en vez de tirar Electrónica.
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
-* **Equipo:** Material para el trabajo al que han sido asignados, Porra extensible (FUE + d6)
+* **Equipo:** Material para el trabajo al que han sido asignados, porra extensible (FUE + d6)
 
 ### Alto influencer
 
@@ -59,10 +59,12 @@ XXX
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
-* **Ciberimplantes:** Elegir 1: XXX
+* **Ciberimplantes:** Elegir 1: Cibercuerdas vocales (Interpretar), Modulador de voz (Provocar), Modificaciones estéticas (Persuadir), Cirugía estética (Atractive)
 * **Desventajas:** XXX
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Equipo de grabación de gran calidad, ropas caras y a la moda y joyas de gran valor
+
+\sp
 
 ### Bajo influencer
 
@@ -71,11 +73,8 @@ XXX
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
-* **Ciberimplantes:** Elegir 1: XXX
-* **Desventajas:** XXX
-
-\sp
-
+* **Ciberimplantes:** Elegir 1: Modificaciones estéticas (Persuadir), Cirugía estética (Atractive), Base de datos musical/teatral (Interpretar)
+* **Desventajas:** Equipo de grabación de baja calidad, ropas con apariencia de caras y bisutería que parece de gran valor
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -90,11 +89,11 @@ XXX
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Ropas caras ejecutivas y complementos de gran valor como relojes, gafas de sol o gemelos de oro
 
 ### Asesores de blus
 
-XXX
+Estamos hablando desde la persona que le trae el café a le blus de alto rango como su secretareis hasta sus entrenadores personales y sus dietistas. Siempre van a su lado a la espera para cumplir sus órdenes, deseos o caprichos
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
@@ -102,7 +101,7 @@ XXX
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Ropas ejecutivas sobrias, maletín con documentación y ordenador portátil/tablet
 
 ### Cazarrecompensas
 
@@ -114,7 +113,7 @@ XXX
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Cinchas de detención, porra extensible (FUE + d6)
 
 \sp
 
@@ -217,7 +216,7 @@ Estamos hablando desde electricistes o albañiles hasta profesiones muy especial
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Latrocinio d4, Notar d4, Ordenadores d6, Pelear d4, Reparar d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ciberimplantes:** Elegir 1: Sensores de diagnóstico(Reparar), Base de datos de electrónica (Electrónica), 	Entrada I/O intracerebral (Ordenadoress)
+* **Ciberimplantes:** Elegir 1: Sensores de diagnóstico(Reparar), Base de datos de electrónica (Electrónica), Entrada I/O intracerebral (Ordenadores)
 * **Desventajas:** Elegir 1 o más: Avariciose (Mayor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
 * **Ventajas:** Elegir 1 o más: Mr. Arreglalotodo, Persona de recursos
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
@@ -235,16 +234,16 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 * **Ventajas:** Elegir 1: Carismátique, Famose, Atractive
 * **Equipo:** Ropas vistosas, instrumento musical, herramientas relacionadas con su arte
 
+\sp
+
 ### Cientifique
 
 Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde físiques, químiques, biólogues, etc. Siempre con batas blancas en impolutos laboratorios llenos de equipo de investigación. 
 
-\sp
-
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d8, Conocimientos Generales d8, Electrónica d6, Idioma inglés d8, Notar d8, Ordenadores d6, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ciberimplantes:** Elegir 1: Base de datos científica (Ciencias), Sensores multiespectro (Ciencias), Entrada I/O intracerebral (ORdenadores)
+* **Ciberimplantes:** Elegir 1: Base de datos científica (Ciencias), Sensores multiespectro (Ciencias), Entrada I/O intracerebral (Ordenadores)
 * **Desventajas:** Elegir 1 (Avergonzado, Despistado, Fobia, Patoso)
 * **Ventajas:** Elegir 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
 * **Equipo:** Equipo científico adecuado a su especialidad, ordenador portátil o tableta de datos
@@ -273,6 +272,8 @@ Estamos hablando de chupatintas que están detrás de un mostrador gestionando a
 * **Ventajas:** Elegir 1 o más: Alcurnia, Callejear, Responsable, Rique
 * **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
 
+\sp
+
 ### Mercadere
 
 Vamos desde dependientes de tienda hasta taberneres o vendedores de comida callejera y toda la estructura de gente que trabaja en las grandes empresas comerciales, desde almaceneres hasta transportistas. Puedes gastar un par de puntos de habilidad en especializarles.
@@ -281,23 +282,23 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d8, Pelear d4, Pasillear d6, Ordenadores d4, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
 * **Ciberimplantes:** Elegir 1: Modificaciones estéticas (Persuadir), Sensores de diagnóstico (Reparar), Telemetría ocular (Notar)
-
-\sp
-
 * **Desventajas:** Elegir 1 o más: Avariciose (Mayor), Bocazas (Menor), Caute (Menor), Habito (Mayor, Alcoholismo)
 * **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alcurnia, Rique
 **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
-
-[![Implacable By Fernand0FC](./assests/images/implacable_by_fernand0fc_dcqnvuh-pre.jpg "Implacable By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Implacable-770378489 "Implacable By Fernand0FC")
 
 ### Pandillere
 
 Estes criminales menores pueblan los callejones de la zona baja dando golpes menores o juntándose para enfrentarse a bandas rivales o dar golpes más grandes. Solo el grupo puede hacerlos peligrosos para tus proscrites.
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
+
+\sc
+
+[![Implacable By Fernand0FC](./assests/images/implacable_by_fernand0fc_dcqnvuh-pre.jpg "Implacable By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Implacable-770378489 "Implacable By Fernand0FC")
+
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Ciberimplantes:** Elegir 1: XXX
+* **Ciberimplantes:** Elegir 1: Reemplazos musculares (FUE), Inyector de adrenalina (FUE), Nudillos metálicos (Gorila), HUB de puntería (Disparar)
 * **Desventajas:** Buscado (Menor, por delitos menores), Elegir 1 o más: Avaricioso (Mayor), Canalla (Menor), Feo (Menor), Habito (Mayor, Algaína)
 * **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Navaja (FUE+d4), stick de hockey con clavos (FUE+d4+1)
