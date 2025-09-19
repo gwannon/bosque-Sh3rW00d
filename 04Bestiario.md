@@ -59,7 +59,7 @@ XXX
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
-* **Ciberimplantes:** XXX
+* **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -71,7 +71,7 @@ XXX
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
-* **Ciberimplantes:** XXX
+* **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 
 \sp
@@ -87,7 +87,7 @@ XXX
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
-* **Ciberimplantes:** XXX
+* **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -99,7 +99,7 @@ XXX
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
-* **Ciberimplantes:** XXX
+* **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -111,7 +111,7 @@ XXX
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
-* **Ciberimplantes:** XXX
+* **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -217,9 +217,9 @@ Estamos hablando desde electricistes o albañiles hasta profesiones muy especial
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Latrocinio d4, Notar d4, Ordenadores d6, Pelear d4, Reparar d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ciberimplantes:** XXX
-* **Desventajas:** Elige 1 o más: Avariciose (Mayor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
-* **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Persona de recursos
+* **Ciberimplantes:** Elegir 1: Sensores de diagnóstico(Reparar), Base de datos de electrónica (Electrónica), 	Entrada I/O intracerebral (Ordenadoress)
+* **Desventajas:** Elegir 1 o más: Avariciose (Mayor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
+* **Ventajas:** Elegir 1 o más: Mr. Arreglalotodo, Persona de recursos
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
 ### Artiste
@@ -229,7 +229,8 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Electrónica d4, Humanidades d6, Idioma Inglés d8, Interpretación d8, Notar d6, Ordenadores d4, Persuadir d6, Sigilo d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ciberimplantes:** XXX
+* **Ciberimplantes:** Elegir 1: Cibercuerdas vocales (Interpretar), Base de datos musical/teatral (Interpretar), Base de datos de historia y arte
+ (Humanidades)
 * **Desventajas:** Elegir 1: Hábito (menor alcohol, marihuana, etc.), Curiose, Coje, Patose
 * **Ventajas:** Elegir 1: Carismátique, Famose, Atractive
 * **Equipo:** Ropas vistosas, instrumento musical, herramientas relacionadas con su arte
@@ -243,9 +244,9 @@ Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde f�
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d8, Conocimientos Generales d8, Electrónica d6, Idioma inglés d8, Notar d8, Ordenadores d6, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ciberimplantes:** XXX
-* **Desventajas:** Elige 1 (Avergonzado, Despistado, Fobia, Patoso)
-* **Ventajas:** Elige 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
+* **Ciberimplantes:** Elegir 1: Base de datos científica (Ciencias), Sensores multiespectro (Ciencias), Entrada I/O intracerebral (ORdenadores)
+* **Desventajas:** Elegir 1 (Avergonzado, Despistado, Fobia, Patoso)
+* **Ventajas:** Elegir 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
 * **Equipo:** Equipo científico adecuado a su especialidad, ordenador portátil o tableta de datos
 
 ### Delincuente de los bajos fondos
@@ -255,9 +256,9 @@ Los oscuros callejones de Nottingham están llenas de este tipo de personajes. T
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Ciberimplantes:** XXX
-* **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Algaína), Manco (Mayor), Mudo (Mayor)
-* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alijos
+* **Ciberimplantes:** Elegir 1: Reemplazos musculares (FUE), Inyector de adrenalina (FUE),	Placas dermales (VIG), Nudillos metálicos (Gorila)
+* **Desventajas:** Buscado (Mayor, por robos), Elegir 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Algaína), Manco (Mayor), Mudo (Mayor)
+* **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Stick de hockey (FUE+d4), Tirachinas
 
 ### Funcionarie
@@ -267,9 +268,9 @@ Estamos hablando de chupatintas que están detrás de un mostrador gestionando a
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
-* **Ciberimplantes:** XXX
-* **Desventajas:** Elige 1 o más: Avariciose (Mayor), Bocazas (Menor), Habito (Menor)
-* **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rique
+* **Ciberimplantes:** Elegir 1: Entrada I/O intracerebral (Ordenadores), HUB de información (Investigar), Telemetría ocular (Notar)
+* **Desventajas:** Elegir 1 o más: Avariciose (Mayor), Bocazas (Menor), Habito (Menor)
+* **Ventajas:** Elegir 1 o más: Alcurnia, Callejear, Responsable, Rique
 * **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
 
 ### Mercadere
@@ -279,12 +280,12 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d8, Pelear d4, Pasillear d6, Ordenadores d4, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
-* **Ciberimplantes:** XXX
+* **Ciberimplantes:** Elegir 1: Modificaciones estéticas (Persuadir), Sensores de diagnóstico (Reparar), Telemetría ocular (Notar)
 
 \sp
 
-* **Desventajas:** Elige 1 o más: Avariciose (Mayor), Bocazas (Menor), Caute (Menor), Habito (Mayor, Alcoholismo)
-* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alcurnia, Rique
+* **Desventajas:** Elegir 1 o más: Avariciose (Mayor), Bocazas (Menor), Caute (Menor), Habito (Mayor, Alcoholismo)
+* **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alcurnia, Rique
 **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
 [![Implacable By Fernand0FC](./assests/images/implacable_by_fernand0fc_dcqnvuh-pre.jpg "Implacable By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Implacable-770378489 "Implacable By Fernand0FC")
@@ -296,7 +297,7 @@ Estes criminales menores pueblan los callejones de la zona baja dando golpes men
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Ciberimplantes:** XXX
-* **Desventajas:** Buscado (Menor, por delitos menores), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Feo (Menor), Habito (Mayor, Algaína)
-* **Ventajas:** Elige 1 o más: Intimidadore, Callejear, Alijos
+* **Ciberimplantes:** Elegir 1: XXX
+* **Desventajas:** Buscado (Menor, por delitos menores), Elegir 1 o más: Avaricioso (Mayor), Canalla (Menor), Feo (Menor), Habito (Mayor, Algaína)
+* **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Navaja (FUE+d4), stick de hockey con clavos (FUE+d4+1)

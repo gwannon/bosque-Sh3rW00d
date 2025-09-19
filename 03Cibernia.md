@@ -150,7 +150,7 @@ Los implantes ilegales no pueden ser instalados en sitios normales y tendrás qu
 |Ciberimplantes|Puntos|Legal|Descripción|
 |---|---|---|---|
 |Apostar|1|Sí|Calculadora cerebral de probabilidades|
-|Ciencias|1|Sí|Base de datos científica|
+|Ciencias|1|Sí|Base de datos científica, Sensores multiespectro|
 |Conducir|1|Sí|Ciberconexión a vehículo|
 
 \conc
