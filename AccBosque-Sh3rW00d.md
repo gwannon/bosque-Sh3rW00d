@@ -1846,7 +1846,7 @@ XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -1858,7 +1858,7 @@ Estamos hablando desde la persona que le trae el café a le blus de alto rango c
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ordenadores d6, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
