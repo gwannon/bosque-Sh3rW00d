@@ -171,12 +171,12 @@ Los implantes ilegales no pueden ser instalados en sitios normales y tendrás qu
 |Medicina|1|Sí|Sensores médicos avanzados|
 |Notar|1|Sí|Telemetría ocular|
 |Ordenadores|1|Sí|Entrada I/O intracerebral|
+|Pasillear|1|Sí|Sensores magneto-eléctricos, base de datos urbanística|
 |Pelear|1|No|Ordenador de combate|
 |Persuadir|1|Sí|Modificaciones estéticas|
 |Provocar|1|Sí|Modulador de voz|
 |Reparar|1|Sí|Sensores de diagnóstico|
 |Sigilo|1|Sí|Generador de ruido blanco|
-|Supervivencia|1|Sí|Estación meteorológica|
 |Tácticas|1|Sí|IA de tácticas|
 
 &nbsp;

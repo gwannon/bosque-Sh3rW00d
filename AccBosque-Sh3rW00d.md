@@ -1508,12 +1508,12 @@ Los implantes ilegales no pueden ser instalados en sitios normales y tendrás qu
 |Medicina|1|Sí|Sensores médicos avanzados|
 |Notar|1|Sí|Telemetría ocular|
 |Ordenadores|1|Sí|Entrada I/O intracerebral|
+|Pasillear|1|Sí|Sensores magneto-eléctricos, base de datos urbanística|
 |Pelear|1|No|Ordenador de combate|
 |Persuadir|1|Sí|Modificaciones estéticas|
 |Provocar|1|Sí|Modulador de voz|
 |Reparar|1|Sí|Sensores de diagnóstico|
 |Sigilo|1|Sí|Generador de ruido blanco|
-|Supervivencia|1|Sí|Estación meteorológica|
 |Tácticas|1|Sí|IA de tácticas|
 
 ### Listas de CI que permiten ventajas
@@ -1791,7 +1791,7 @@ Estos robots humanoides con apariencia de «Terminators» son la mano ejecutora 
 Son instancias menores de la propia directora J0hn, pero lo suficientemente poderosos para ser un enemigo implacable del que es mejor huir que enfrentarse a ellos.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d4, Fuerza d12, Vigor d12
-* **Habilidades:** Atletismo, d6, Disparar d8, Electronica d6, Intimidar d6, Notar d10, Pelear d8
+* **Habilidades:** Atletismo, d6, Disparar d8, Electronica d6, Intimidar d6, Notar d10, Ordenadores d10, Pelear d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 15 (6)
 * **Capacidades especiales:**
   * **Armadura +6:** Blindaje de acero fantasma.
@@ -1799,54 +1799,54 @@ Son instancias menores de la propia directora J0hn, pero lo suficientemente pode
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño +1:** Son ligeramente más grandes que un ser humano.
-* **Equipo:** Cinchas de detención, porra extensible (FUE + d6), Desert Eagle (.50) si está en misión.
+* **Equipo:** Cinchas de detención, porra extensible (FUE + d4), Desert Eagle (.50) si está en misión.
 
 ### Ayudante de sheriffs
 
 Estas versiones inferiores de los sheriffs son usadas como ayudantes de estos. Acompañan a los sheriffs como apoyo de combate y hacen trabajos menores como control de masas, cacheos, protección de zonas, etc. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo, d6, Disparar d6, Electronica d4, Intimidar d6, Notar d10, Pelear d6
+* **Habilidades:** Atletismo, d6, Disparar d6, Electronica d4, Intimidar d6, Notar d10, Ordenadores d8, Pelear d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 9 (3)
 * **Capacidades especiales:**
   * **Armadura +3:** Blindaje de acero fantasma.
   * **Conexión con la red:** Tiene un hackeo básico, puede elegir entre Controlar pantallas, Controlar iluminación, Llamar ascensor o Controlar realidad aumentada según las tareas que se le vayan a asignar. Puede usar los hackeos automáticamente tomándose un 4 en vez de tirar Electrónica.
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
-* **Equipo:** Material para el trabajo al que han sido asignados, porra extensible (FUE + d6)
+* **Equipo:** Material para el trabajo al que han sido asignados, porra extensible (FUE + d4)
 
 ### Alto influencer
 
 Esta cúpula de Influencers adictos a la directora J0hn marcan la vida de los _notis_. Dominan la opinión pública del complejo, marcan las modas, establecen que mola y que no mola, etc. Pero su mayor poder es el señalamiento público, quien elles marcan es acosade, humillade y seguramente desterrade al bosque.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d12, Fuerza d6, Vigor d6
+* **Habilidades:** Apostar d8, Atletismo d6, Conocimientos Generales d8, Humanidades d8, Idioma Inglés d8, Interpretar d12, Ordenadores d6, Notar d6, Pelear d6, Persuadir d10, Sigilo d4
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
 
 * **Ciberimplantes:** Elegir 1: Cibercuerdas vocales (Interpretar), Modulador de voz (Provocar), Modificaciones estéticas (Persuadir), Cirugía estética (Atractive)
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+* **Desventajas:** Elegir 1: Avariciose (Mayor), Bocazas (Menor), Canalle (Menor), Caute (Menor)
+* **Ventajas:** Famoso, elegir 1: Atractive, Carismátique, Coraje líquido, Rique
 * **Equipo:** Equipo de grabación de gran calidad, ropas caras y a la moda y joyas de gran valor
 
 ### Bajo influencer
 
 Estes aspirantes a estrellas de las redes andan a la búsqueda de nuevas historias con los que contentar a sus poques followers. No paran de moverse por toda la ciudad a la búsqueda de algo jugoso que contar o en sus improvisados estudios tratando de conseguir el viral que los sacará de su mediocridad. Suelen trabajar para influencers de mayor poder contándoles los chismes y secretos que descubren a la espera de que les un poco de su fama y prestigio.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Interpretación d8, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d6
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: Modificaciones estéticas (Persuadir), Cirugía estética (Atractive), Base de datos musical/teatral (Interpretar)
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+* **Desventajas:** Elegir 1: Hábito (menor alcohol, drogas sintéticas, etc.), Curiose, Feo (Menor), Manque
+* **Ventajas:** Elegir 2: Carismátique, Famose, Guape
 * **Equipo:** Equipo de grabación de baja calidad, ropas con apariencia de caras y bisutería que parece de gran valor
 
 ### Blus de alto rango
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** X; **Dureza:** X
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -1856,9 +1856,9 @@ XXX
 
 Estamos hablando desde la persona que le trae el café a le blus de alto rango como su secretareis hasta sus entrenadores personales y sus dietistas. Siempre van a su lado a la espera para cumplir sus órdenes, deseos o caprichos
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ordenadores d6, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** X; **Dureza:** X
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -1866,15 +1866,14 @@ Estamos hablando desde la persona que le trae el café a le blus de alto rango c
 
 ### Cazarrecompensas
 
-XXX
-
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
-* **Ciberimplantes:** Elegir 1: XXX
-* **Desventajas:** XXX
-* **Ventajas:** XXX
-* **Equipo:** Cinchas de detención, porra extensible (FUE + d6)
+Haya donde hay proscrites y forajides aparecen cazarrecompensas que trabajan a sueldo de los poderes opresores. Su trabajo es cazar a los fugados y traerlos a la justicia de la directora J0hn. No creen en la justicia, ni en las leyes, solo en las recompensas y en gastarlas a la noche.
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d6, Disparar d8, Idioma Inglés d6, Intimidar d8, Latrocinio d6, Notar d6, Ordenadores d6, Pasillear d8, Pelear d8, Sigilo d8
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Ciberimplantes:** Elegir 1: Reemplazos musculares (FUE), Inyector de adrenalina (FUE), Nudillos metálicos (Gorila), HUB de puntería (Disparar)
+* **Desventajas:** Elige 1 o más: Avariciose (Mayor), Canalle (Menor), Feo (Menor), Habito (Mayor, Alcoholismo),
+* **Ventajas:** Callejear, elegir 1 o más: Alijos, Bloqueo, Mandíbula de hierro, Nervios de acero, Reflejos de combate, Soldade
+* **Equipo:** Cinchas de detención, porra extensible (FUE + d4), machete (FUE+d6)
 
 ## Robots
 
@@ -1959,7 +1958,7 @@ Estamos hablando desde electricistes o albañiles hasta profesiones muy especial
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Latrocinio d4, Notar d4, Ordenadores d6, Pelear d4, Reparar d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ciberimplantes:** Elegir 1: Sensores de diagnóstico(Reparar), Base de datos de electrónica (Electrónica), Entrada I/O intracerebral (Ordenadores)
+* **Ciberimplantes:** Elegir 1: Sensores de diagnóstico (Reparar), Base de datos de electrónica (Electrónica), Entrada I/O intracerebral (Ordenadores)
 * **Desventajas:** Elegir 1 o más: Avariciose (Mayor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
 * **Ventajas:** Elegir 1 o más: Mr. Arreglalotodo, Persona de recursos
 * **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
@@ -1985,8 +1984,8 @@ Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde f�
 * **Habilidades:** Atletismo d4, Ciencias d8, Conocimientos Generales d8, Electrónica d6, Idioma inglés d8, Notar d8, Ordenadores d6, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: Base de datos científica (Ciencias), Sensores multiespectro (Ciencias), Entrada I/O intracerebral (Ordenadores)
-* **Desventajas:** Elegir 1 (Avergonzado, Despistado, Fobia, Patoso)
-* **Ventajas:** Elegir 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
+* **Desventajas:** Elegir 1: Avergonzade, Despistade, Fobia, Patose
+* **Ventajas:** Elegir 1: Persona de recursos, Mr. Arreglalotodo, Investigadore, McGyver
 * **Equipo:** Equipo científico adecuado a su especialidad, ordenador portátil o tableta de datos
 
 ### Delincuente de los bajos fondos
@@ -1997,7 +1996,7 @@ Los oscuros callejones de Nottingham están llenas de este tipo de personajes. T
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: Reemplazos musculares (FUE), Inyector de adrenalina (FUE),	Placas dermales (VIG), Nudillos metálicos (Gorila)
-* **Desventajas:** Buscado (Mayor, por robos), Elegir 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Algaína), Manco (Mayor), Mudo (Mayor)
+* **Desventajas:** Buscado (Mayor, por robos), Elegir 1 o más: Avaricioso (Mayor), Canalle (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Algaína), Manco (Mayor), Mudo (Mayor)
 * **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Stick de hockey (FUE+d4), Tirachinas
 
@@ -2036,7 +2035,7 @@ Estes criminales menores pueblan los callejones de la zona baja dando golpes men
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: Reemplazos musculares (FUE), Inyector de adrenalina (FUE), Nudillos metálicos (Gorila), HUB de puntería (Disparar)
-* **Desventajas:** Buscado (Menor, por delitos menores), Elegir 1 o más: Avaricioso (Mayor), Canalla (Menor), Feo (Menor), Habito (Mayor, Algaína)
+* **Desventajas:** Buscado (Menor, por delitos menores), Elegir 1 o más: Avaricioso (Mayor), Canalle (Menor), Feo (Menor), Habito (Mayor, Algaína)
 * **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Navaja (FUE+d4), stick de hockey con clavos (FUE+d4+1)
 
@@ -2912,9 +2911,9 @@ XXX
 
 Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campeón de personas indefensas que habían aceptado duelos de _blus_ e _influencers_ abusones. Se presenta con ropa de corte militar y una sudadera de camuflaje con gran capucha que esconde su cara y por ahora ha salido victoriosa, que no ilesa de todos esos duelos. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -2927,9 +2926,9 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -2942,9 +2941,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -2957,9 +2956,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -2972,9 +2971,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -2987,9 +2986,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -3002,9 +3001,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** Micrófono inalámbrico de calidad con carcasa vintage, ropa ajustada y sexy, pero que permite moverse y bailar
@@ -3019,9 +3018,9 @@ XXX
 
 > Se cuenta que Mamá Claire puede leer tu futuro en el gumbo, te echa una ración en tu plato y lee el gumbo. Es por ello que Mamá Claire tiene Ocultismo, por si quieres que les haga una predicción.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ocultismo d8,Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -3034,9 +3033,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -3049,9 +3048,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -3064,9 +3063,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
@@ -3077,9 +3076,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -3119,9 +3118,9 @@ XXX
 
 > Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** X; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
