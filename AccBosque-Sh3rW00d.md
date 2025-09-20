@@ -1786,11 +1786,12 @@ Tu banda de proscrites tendrá que enfrentarte con todo tipo de villanos desde l
 
 ### Sheriffs &#35;
 
-XXX
+Estos robots humanoides con apariencia de «Terminators» son la mano ejecutora de la directora J0hn. Buscan cualquier de chispa de insurrección y acaban con ella expeditivamente. 
+
+Son instancias menores de la propia directora J0hn, pero lo suficientemente poderosos para ser un enemigo implacable del que es mejor huir que enfrentarse a ellos.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d4, Fuerza d12, Vigor d12
 * **Habilidades:** Atletismo, d6, Disparar d8, Electronica d6, Intimidar d6, Notar d10, Pelear d8
-
 * **Paso:** 6; **Parada:** 6; **Dureza:** 15 (6)
 * **Capacidades especiales:**
   * **Armadura +6:** Blindaje de acero fantasma.
@@ -1816,11 +1817,12 @@ Estas versiones inferiores de los sheriffs son usadas como ayudantes de estos. A
 
 ### Alto influencer
 
-XXX
+Esta cúpula de Influencers adictos a la directora J0hn marcan la vida de los _notis_. Dominan la opinión pública del complejo, marcan las modas, establecen que mola y que no mola, etc. Pero su mayor poder es el señalamiento público, quien elles marcan es acosade, humillade y seguramente desterrade al bosque.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
+
 * **Ciberimplantes:** Elegir 1: Cibercuerdas vocales (Interpretar), Modulador de voz (Provocar), Modificaciones estéticas (Persuadir), Cirugía estética (Atractive)
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -1828,15 +1830,15 @@ XXX
 
 ### Bajo influencer
 
-XXX
+Estes aspirantes a estrellas de las redes andan a la búsqueda de nuevas historias con los que contentar a sus poques followers. No paran de moverse por toda la ciudad a la búsqueda de algo jugoso que contar o en sus improvisados estudios tratando de conseguir el viral que los sacará de su mediocridad. Suelen trabajar para influencers de mayor poder contándoles los chismes y secretos que descubren a la espera de que les un poco de su fama y prestigio.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** X; **Parada:** X; **Dureza:** X
 * **Ciberimplantes:** Elegir 1: Modificaciones estéticas (Persuadir), Cirugía estética (Atractive), Base de datos musical/teatral (Interpretar)
-* **Desventajas:** Equipo de grabación de baja calidad, ropas con apariencia de caras y bisutería que parece de gran valor
+* **Desventajas:** XXX
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Equipo de grabación de baja calidad, ropas con apariencia de caras y bisutería que parece de gran valor
 
 ### Blus de alto rango
 
