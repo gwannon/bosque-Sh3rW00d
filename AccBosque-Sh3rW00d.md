@@ -20,13 +20,15 @@ En estas aventuras **tu mesa tomará el papel de proscrites y bandides de buen c
 
 ### Nottingham
 
-Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. Aunque, a priori pueda parecer un lugar donde vivir, es más bien una inmensa fábrica donde la compañía exprime todo lo que puede a sus habitantes.
+Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. Aunque, a priori pueda parecer un lugar donde vivir y trabajar, es más bien una inmensa máquina donde la compañía exprime todo lo que puede a sus habitantes.
 
-XXX
+Nottingham está en decadencia, tanto estructural, como económica y social. Estructural porque lleva siglos sin un mantenimiento adecuado, además de no haber sido rematado adecuadamente. Economicamente porque ha perdido capacidad de producción, principalmente de comida en las piscifactorías del Trent. Por último, socialmente ya que está al borde de la rebelión.
 
 ### El bosque de Sh3rW00d
 
-El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal.
+El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. También dejaron vigas, las tuberías de agua, luz y datos, pero sin estar rematados.
+
+Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos y resto de elementos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal. 
 
 XXX
 
@@ -62,7 +64,15 @@ El término _blus_ viene de «blue», azul. Los _blus_ eran trabajadores de alto
 
 Los blus son principalmente personal directivo de la compañía que se encarga de dar forma y ejecutar las órdenes de las directoras a través de sus puestos directivos en las diferentes industrias del complejo. Cobran mucho y viven en la zona alta en grandes espacios. No suelen mezclarse con el resto de _notis_, de hecho sus relaciones suelen ser muy endogámicas.
 
-Hay una especie de _blus_ menores, más cercanos a los _curris_, pero muchas veces igual de clasistas o más. Son personas que ocupan cargos intermedios en la compañía o tienen negocios florecientes que la compañía todavía no ha absorbido. Muchos de ellos son trepas esperando a su oportunidad para convertirse en grandes _blus_ y, por supuesto, harán lo que sea por ascender socialmente. Cuando decimos lo que sea, es lo que sea, engañar, intimidar, amenazar, falsificar pruebas, falso testimonio, etc.
+Desde pequeño se les educa para ser blus. De hecho, normalmente heredan el puesto de sus progenitores, ya que J0hn considera que en cierta medida algo genético y educativo en ello. Un blus debe salir de familias de blus y ser educado desde la cuna como blus por otros blus.
+
+Su principal problema es que la mayoría nunca han pisado la zona de baja de la ciudad, solo conocen la vida en las zonas altas, viven en su torre de marfil. Solo algunos se atreven a pisar los sucios callejones de las zonas más pobres del complejo como Lady Marian.
+
+Hay una especie de _blus_ menores, más cercanos a los _curris_, pero muchas veces igual de clasistas o más. 
+
+Son personas que ocupan cargos intermedios en la compañía o tienen negocios florecientes que la compañía todavía no ha absorbido. Muchos de ellos son trepas esperando a su oportunidad para convertirse en grandes _blus_ y, por supuesto, harán lo que sea por ascender socialmente. Cuando decimos lo que sea, es lo que sea, engañar, intimidar, amenazar, falsificar pruebas, falso testimonio, etc.
+
+[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073 "Guitable By gigiEDT")
 
 ### Influencers (Iglesia)
 
@@ -74,23 +84,21 @@ Además, señalan a los disidentes y los excluyen socialmente, de manera que sus
 
 También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
 
-[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073 "Guitable By gigiEDT")
-
 Aunque muchos de les _influencers_ se nombran a sí mismos como creadores de muchas de las modas del complejo, lo normal es que en realidad copien esos movimientos estéticos y ridiculicen a aquellos que tratan de demostrar el origen real de esas modas.
-
-[![Maintenance EotV Art By Igor-Esaulov](./assests/images/maintenance_eotv_art_by_igor_esaulov_db764s8-fullview.jpg "Maintenance EotV Art By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Maintenance-EotV-Art-677171384 "Maintenance EotV Art By Igor-Esaulov")
 
 ### Curris (Campesinado)
 
 Les _curris_, casi lo más bajo de la pirámide social de Nottingham, son explotades por la compañía, la directora J0hn y sus _blus_ y ridiculizades y manipulades por _influencers_ para que sigan con sus denigrantes y anodinas vidas día tras día. 
 
-Si solo se dedican a trabajar sin levantar la cabeza, solo les espera miseria y desesperación. Si intentan luchar por sus derechos y por mejoras sociales, son apaleados sin piedad por los sheriffs y encerrados.
+[![Maintenance EotV Art By Igor-Esaulov](./assests/images/maintenance_eotv_art_by_igor_esaulov_db764s8-fullview.jpg "Maintenance EotV Art By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Maintenance-EotV-Art-677171384 "Maintenance EotV Art By Igor-Esaulov")
 
-Al final mucho terminan cayendo al otro lado de la ley y buscando una nueva oportunidad en el bosque como proscrites.
+Si solo se dedican a trabajar sin levantar la cabeza, solo les espera miseria y desesperación. 
+
+Si intentan luchar por sus derechos y por mejoras sociales, son apaleados sin piedad por los sheriffs y encerrados. Al final mucho terminan cayendo al otro lado de la ley y buscando una nueva oportunidad en el bosque como proscrites.
 
 ### Boskis (Fuera de la ley)
 
-Siempre que hay un sistema hay gente que se queda fuera o prefiere salirle. Estos son les _boskis_, les proscrites fuera de la ley que viven en el Bosque de Sh3rW00d.
+Siempre que hay un sistema hay gente que se queda fuera o prefiere salirse. Estos son les _boskis_, les proscrites fuera de la ley que viven en el Bosque de Sh3rW00d.
 
 Aunque la inmensa mayoría de los _boskis_ son de origen humilde y de bajos estratos sociales, principalmente _curris_, también puedes _blus_ e _influencers_ caídes en desgracia.
 
@@ -539,7 +547,7 @@ Sea como sea, aquí tienes **algunas ideas** que puedes usar.
 La «primera piedra» de la arcología conocida como Nottingham se colocó hace ya unos 200 años.
 ```
 
-En realidad nunca se puso una primera piedra, sino que todo empezó con un gigantesco pozo perforado en la roca en el que se vertieron toneladas y toneladas de nanitos constructores. Les instaladores lanzaron sus programas de construcción y los nanitos empezaron a construir el complejo usando los materiales que se les suministraban y XXX
+En realidad nunca se puso una primera piedra, sino que todo empezó con un gigantesco pozo perforado en la roca en el que se vertieron toneladas y toneladas de nanitos constructores. Les instaladores lanzaron sus programas de construcción y los nanitos empezaron a construir el complejo usando los materiales que se les suministraban o que sacaban de los terrenos colindantes del pozo como chatarra o basura.
 
 XXX
 
@@ -551,6 +559,12 @@ Y de repente les instaladores fueron desapareciendo y ese misterio perdura hasta
 
 La misteriosa desaparición de les instaladores supone el fin del crecimiento de la arcología. Pocas cosas nuevas se han construido desde entonces, solo se han hecho mantenimientos de lo que dejaron estas extrañas figuras casi mitológicas.
 
+Se desconoce la razón de la desaparición de les instaladores, pero está claro que dejaron su trabajo sin hacer, ya que hay toda una parte de la arcología sin terminar, el llamado bosque Sh3rw00d. 
+
+Otra prueba la desaparición rápida y forzosa de les instaladores es que no se llevaron todos los nanitos. Grupos de ellos quedaron abandonados en el complejo sin una programación clara, simplemente los dejaron ahí como quien hace las maletas rápidamente en un hotel y se olvida algo encima de la cama.
+
+Mientras que algunos parece que se dedican a cierto mantenimiento, otros repiten una y otra vez la misma tarea y los grupos que quedaron en el bosque podríamos decir que «mutaron» su programación y ahora están convirtiendo toda esa zona en un área vegetal.
+
 XXX
 
 ## La dirección de R1c4rd
@@ -559,7 +573,7 @@ XXX
 … cómo, a nuestro parecer, cualquiera tiempo pasado fue mejor. _Coplas a la muerte de su padre, de Jorge Manrique_
 ```
 
-La dirección de la directora R1c4rd es considerada por todos los contrarios a la directora J0hn como los _buenos viejos tiempos_. Todo era mejor, todo era nuevo, todo era más bonito o por lo menos así lo cuentan los más viejos del complejo.
+La dirección de la directora R1c4rd es considerada por todos los contrarios a la directora J0hn como los _buenos viejos tiempos_. Todo era mejor, todo era nuevo, todo era más bonito o por lo menos así lo cuentan los más viejos del complejo. Sin embargo, la era de la directora de R1c4rd también tuvo sus sombras, aunque nada parecido a la tiranía de la directora J0hn.
 
 XXX
 
@@ -1842,11 +1856,11 @@ Estes aspirantes a estrellas de las redes andan a la búsqueda de nuevas histori
 
 ### Blus de alto rango
 
-XXX
+Estos altos ejecutivos de la corporación trabajan para cumplir y dar forma a los deseos y las ideas de la directora J0hn. Es difícil verlos fuera de la zona alta o de los edificios oficiales de la corporación y cuando lo hacen van protegidos por sus guardaespaldas y con un séquito de asesores y blus menores atendiendo todas sus peticiones y mandatos.
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Ciencias d6, Conocimientos Generales d10, Humanidades d6, Idioma Inglés d10, Intimidar d8, Notar d6, Ordenadores d6, Persuadir d8, Sigilo d4, Tácticas d6
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -1856,9 +1870,10 @@ XXX
 
 Estamos hablando desde la persona que le trae el café a le blus de alto rango como su secretareis hasta sus entrenadores personales y sus dietistas. Siempre van a su lado a la espera para cumplir sus órdenes, deseos o caprichos
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ordenadores d6, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4 Vigor d6
+
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Ordenadores d6, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX

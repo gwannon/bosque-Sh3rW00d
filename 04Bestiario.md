@@ -82,11 +82,11 @@ Estes aspirantes a estrellas de las redes andan a la búsqueda de nuevas histori
 
 ### Blus de alto rango
 
-XXX
+Estos altos ejecutivos de la corporación trabajan para cumplir y dar forma a los deseos y las ideas de la directora J0hn. Es difícil verlos fuera de la zona alta o de los edificios oficiales de la corporación y cuando lo hacen van protegidos por sus guardaespaldas y con un séquito de asesores y blus menores atendiendo todas sus peticiones y mandatos.
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Ciencias d6, Conocimientos Generales d10, Humanidades d6, Idioma Inglés d10, Intimidar d8, Notar d6, Ordenadores d6, Persuadir d8, Sigilo d4, Tácticas d6
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -96,15 +96,17 @@ XXX
 
 Estamos hablando desde la persona que le trae el café a le blus de alto rango como su secretareis hasta sus entrenadores personales y sus dietistas. Siempre van a su lado a la espera para cumplir sus órdenes, deseos o caprichos
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ordenadores d6, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4 Vigor d6
+
+\sp
+
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Ordenadores d6, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** Ropas ejecutivas sobrias, maletín con documentación y ordenador portátil/tablet
 
-\sp
 
 ### Cazarrecompensas
 

@@ -24,17 +24,19 @@ En estas aventuras **tu mesa tomará el papel de proscrites y bandides de buen c
 
 ### Nottingham
 
-Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. Aunque, a priori pueda parecer un lugar donde vivir, es más bien una inmensa fábrica donde la compañía exprime todo lo que puede a sus habitantes.
+Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. Aunque, a priori pueda parecer un lugar donde vivir y trabajar, es más bien una inmensa máquina donde la compañía exprime todo lo que puede a sus habitantes.
 
-XXX
+Nottingham está en decadencia, tanto estructural, como económica y social. Estructural porque lleva siglos sin un mantenimiento adecuado, además de no haber sido rematado adecuadamente. Economicamente porque ha perdido capacidad de producción, principalmente de comida en las piscifactorías del Trent. Por último, socialmente ya que está al borde de la rebelión.
 
 ### El bosque de Sh3rW00d
 
-El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal.
-
-XXX
+El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. También dejaron vigas, las tuberías de agua, luz y datos, pero sin estar rematados.
 
 \sp
+
+Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos y resto de elementos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal. 
+
+XXX
 
 ### Las directoras
 
@@ -76,13 +78,21 @@ El término _blus_ viene de «blue», azul. Los _blus_ eran trabajadores de alto
 
 Los blus son principalmente personal directivo de la compañía que se encarga de dar forma y ejecutar las órdenes de las directoras a través de sus puestos directivos en las diferentes industrias del complejo. Cobran mucho y viven en la zona alta en grandes espacios. No suelen mezclarse con el resto de _notis_, de hecho sus relaciones suelen ser muy endogámicas.
 
-Hay una especie de _blus_ menores, más cercanos a los _curris_, pero muchas veces igual de clasistas o más. Son personas que ocupan cargos intermedios en la compañía o tienen negocios florecientes que la compañía todavía no ha absorbido. Muchos de ellos son trepas esperando a su oportunidad para convertirse en grandes _blus_ y, por supuesto, harán lo que sea por ascender socialmente. Cuando decimos lo que sea, es lo que sea, engañar, intimidar, amenazar, falsificar pruebas, falso testimonio, etc.
+Desde pequeño se les educa para ser blus. De hecho, normalmente heredan el puesto de sus progenitores, ya que J0hn considera que en cierta medida algo genético y educativo en ello. Un blus debe salir de familias de blus y ser educado desde la cuna como blus por otros blus.
+
+Su principal problema es que la mayoría nunca han pisado la zona de baja de la ciudad, solo conocen la vida en las zonas altas, viven en su torre de marfil. Solo algunos se atreven a pisar los sucios callejones de las zonas más pobres del complejo como Lady Marian.
+
+Hay una especie de _blus_ menores, más cercanos a los _curris_, pero muchas veces igual de clasistas o más. 
+
+\sp
+
+Son personas que ocupan cargos intermedios en la compañía o tienen negocios florecientes que la compañía todavía no ha absorbido. Muchos de ellos son trepas esperando a su oportunidad para convertirse en grandes _blus_ y, por supuesto, harán lo que sea por ascender socialmente. Cuando decimos lo que sea, es lo que sea, engañar, intimidar, amenazar, falsificar pruebas, falso testimonio, etc.
+
+[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073 "Guitable By gigiEDT")
 
 ### Influencers (Iglesia)
 
 Dentro del sistema neofeudal que rige la arcología, hay un grupo de Influencers adictos a la directora J0hn que marcan la vida de los _notis_. 
-
-\sp
 
 Ellos establecen las modas, lo que es _cool_ y lo que no, lo que se debe hacer y lo que no y, al final, lo que está bien y lo que está mal.
 
@@ -90,27 +100,25 @@ Además, señalan a los disidentes y los excluyen socialmente, de manera que sus
 
 También son usados como una forma de ocultar los fallos y errores de la compañía, desviando la opinión pública hacia temas intrascendentes y vacuos.
 
-[![Guitable By gigiEDT](./assests/images/guitable_by_gigiedt_de5r8ch-414w-2x.jpg "Guitable By gigiEDT")](https://www.deviantart.com/gigiedt/art/Guitable-856195073 "Guitable By gigiEDT")
-
 Aunque muchos de les _influencers_ se nombran a sí mismos como creadores de muchas de las modas del complejo, lo normal es que en realidad copien esos movimientos estéticos y ridiculicen a aquellos que tratan de demostrar el origen real de esas modas.
-
-[![Maintenance EotV Art By Igor-Esaulov](./assests/images/maintenance_eotv_art_by_igor_esaulov_db764s8-fullview.jpg "Maintenance EotV Art By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Maintenance-EotV-Art-677171384 "Maintenance EotV Art By Igor-Esaulov")
 
 ### Curris (Campesinado)
 
 Les _curris_, casi lo más bajo de la pirámide social de Nottingham, son explotades por la compañía, la directora J0hn y sus _blus_ y ridiculizades y manipulades por _influencers_ para que sigan con sus denigrantes y anodinas vidas día tras día. 
 
-Si solo se dedican a trabajar sin levantar la cabeza, solo les espera miseria y desesperación. Si intentan luchar por sus derechos y por mejoras sociales, son apaleados sin piedad por los sheriffs y encerrados.
+[![Maintenance EotV Art By Igor-Esaulov](./assests/images/maintenance_eotv_art_by_igor_esaulov_db764s8-fullview.jpg "Maintenance EotV Art By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Maintenance-EotV-Art-677171384 "Maintenance EotV Art By Igor-Esaulov")
 
-Al final mucho terminan cayendo al otro lado de la ley y buscando una nueva oportunidad en el bosque como proscrites.
+Si solo se dedican a trabajar sin levantar la cabeza, solo les espera miseria y desesperación. 
+
+\sp
+
+Si intentan luchar por sus derechos y por mejoras sociales, son apaleados sin piedad por los sheriffs y encerrados. Al final mucho terminan cayendo al otro lado de la ley y buscando una nueva oportunidad en el bosque como proscrites.
 
 ### Boskis (Fuera de la ley)
 
-Siempre que hay un sistema hay gente que se queda fuera o prefiere salirle. Estos son les _boskis_, les proscrites fuera de la ley que viven en el Bosque de Sh3rW00d.
+Siempre que hay un sistema hay gente que se queda fuera o prefiere salirse. Estos son les _boskis_, les proscrites fuera de la ley que viven en el Bosque de Sh3rW00d.
 
 Aunque la inmensa mayoría de los _boskis_ son de origen humilde y de bajos estratos sociales, principalmente _curris_, también puedes _blus_ e _influencers_ caídes en desgracia.
-
-\sp
 
 Podemos tener boskis de primera generación, es decir que nacieron en el complejo (y tienen un insertado en su cuerpo un HUB de conexión) o de segunda generación, conocidos como nacides libres, porque nacieron en el bosque no tienen el HUB de conexión.
 
@@ -120,11 +128,11 @@ Los _boskis_ tienen un dicho que explica su forma de pensar _En el bosque tienes
 
 Como ya hemos dicho, por encima de todos los grupos anteriores, incluso los _boskis_, está la compañía que rige los destino de todes elles y la IA directora que rige el complejo por designio de la compañía como si de una reina se tratara. 
 
+\sc
+
 La compañía es un ente abstracto en esta ambientación que no tiene ni nombre, pero que puedes llamarla como quieras. Todo es de la compañía, todo lo decide la compañía y todo está pensado para conseguir beneficio para la compañía. 
 
 La mano ejecutora de la compañía es la IA directora. J0hn, la actual IA directora, toma todas sus decisiones teniendo en mente esta simple regla «No importa la gente, solo los beneficios de la compañía».
-
-\sc
 
 \sp
 

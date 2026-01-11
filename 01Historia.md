@@ -10,7 +10,7 @@
 La «primera piedra» de la arcología conocida como Nottingham se colocó hace ya unos 200 años.
 ```
 
-En realidad nunca se puso una primera piedra, sino que todo empezó con un gigantesco pozo perforado en la roca en el que se vertieron toneladas y toneladas de nanitos constructores. Les instaladores lanzaron sus programas de construcción y los nanitos empezaron a construir el complejo usando los materiales que se les suministraban y XXX
+En realidad nunca se puso una primera piedra, sino que todo empezó con un gigantesco pozo perforado en la roca en el que se vertieron toneladas y toneladas de nanitos constructores. Les instaladores lanzaron sus programas de construcción y los nanitos empezaron a construir el complejo usando los materiales que se les suministraban o que sacaban de los terrenos colindantes del pozo como chatarra o basura.
 
 XXX
 
@@ -30,6 +30,12 @@ Y de repente les instaladores fueron desapareciendo y ese misterio perdura hasta
 
 La misteriosa desaparición de les instaladores supone el fin del crecimiento de la arcología. Pocas cosas nuevas se han construido desde entonces, solo se han hecho mantenimientos de lo que dejaron estas extrañas figuras casi mitológicas.
 
+Se desconoce la razón de la desaparición de les instaladores, pero está claro que dejaron su trabajo sin hacer, ya que hay toda una parte de la arcología sin terminar, el llamado bosque Sh3rw00d. 
+
+Otra prueba la desaparición rápida y forzosa de les instaladores es que no se llevaron todos los nanitos. Grupos de ellos quedaron abandonados en el complejo sin una programación clara, simplemente los dejaron ahí como quien hace las maletas rápidamente en un hotel y se olvida algo encima de la cama.
+
+Mientras que algunos parece que se dedican a cierto mantenimiento, otros repiten una y otra vez la misma tarea y los grupos que quedaron en el bosque podríamos decir que «mutaron» su programación y ahora están convirtiendo toda esa zona en un área vegetal.
+
 XXX
 
 \sc
@@ -46,7 +52,7 @@ XXX
 … cómo, a nuestro parecer, cualquiera tiempo pasado fue mejor. _Coplas a la muerte de su padre, de Jorge Manrique_
 ```
 
-La dirección de la directora R1c4rd es considerada por todos los contrarios a la directora J0hn como los _buenos viejos tiempos_. Todo era mejor, todo era nuevo, todo era más bonito o por lo menos así lo cuentan los más viejos del complejo.
+La dirección de la directora R1c4rd es considerada por todos los contrarios a la directora J0hn como los _buenos viejos tiempos_. Todo era mejor, todo era nuevo, todo era más bonito o por lo menos así lo cuentan los más viejos del complejo. Sin embargo, la era de la directora de R1c4rd también tuvo sus sombras, aunque nada parecido a la tiranía de la directora J0hn.
 
 XXX
 
