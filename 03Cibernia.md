@@ -373,7 +373,7 @@ XXX
 XXX
 ```
 
-Para empezar es importante diferenciar la realidad virtual y la realidad aumentada. XXX
+Para empezar es importante diferenciar la realidad virtual y la realidad aumentada. La principal diferencia es que la realidad aumentada trabaja sobre la realidad añadiendo nuevos elementos, mientras que la realidad virtual crea una nueva realidad completamente nueva.
 
 XXX
 
