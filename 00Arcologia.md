@@ -40,7 +40,7 @@ XXX
 
 ### Las directoras
 
-Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. XXX
+Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. Las diferencias claras entre ellas es como consideran cuál es la forma más óptima de maximizar los beneficio para la empresa
 
 XXX
 
@@ -591,7 +591,7 @@ XXX
 La vida para les habitantes del bosque es un tanto diferente al del resto de los notis. Con los años han desarrollado una cultura, unas creencias y una forma de vida diferentes a las de sus vecines del lado legal de la vida.
 ```
 
-Las dos palabras que mejor definen la vida en el bosque son libertad y bien común. Eres libre de hacer lo que quieras y trabajas por el bien común. casi todos les habitantes del bosque saben como es vivir en el complejo bajo el yugo de la directora J0hn y la compañía y saben que no quieren eso. XXX
+Las dos palabras que mejor definen la vida en el bosque son libertad y bien común. Eres libre de hacer lo que quieras y trabajas por el bien común. Casi todos les habitantes del bosque saben como es vivir en el complejo bajo el yugo de la directora J0hn y la compañía y saben que no quieren eso.
 
 XXX
 

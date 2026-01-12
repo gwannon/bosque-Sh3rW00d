@@ -297,11 +297,11 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 
 [![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.png "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
 
-Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. La gente ya no necesitaba.
+Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. Sin embargo, perdió un pleito contra Café Corta que robo su formula.
 
-XXX
+Tuvo que huir al bosque y allí se convirtió en una especie de alquimista mágico que hace todos los potingues posibles para les _boskis_ y algunos _notis_ que tienen los contactos adecuados.
 
-\sc
+Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el Greenhouse en lo profundo del bosque donde hace sus experimentos. No abandona nunca este lugar excepto los viernes que va al Gran Roble a vender sus pócimas y conseguir provisiones, especialmente dulces y chucherías. 
 
 > Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
 
@@ -326,9 +326,9 @@ XXX
 
 Al1enOR es la IA más antigua que hay en la arcología, mucho más antigua que J0hn y R1c4rd. De hecho, su primera instancia controla el primer montacargas que les instaladores hicieron funcionar.
 
-Aunque es muy mayor es bastante moderna, está muy conectada con les _notis_ y lleva conociendo y trabajando para ellos desde hace cientos de años. Sabe las historias de muchos, sabe cuando están bien cuando están enfermos, cuando pasa algo especial, por sus rutinas de desplazamiento. XXX
+Aunque es muy mayor es bastante moderna, está muy conectada con les _notis_ y lleva conociendo y trabajando para ellos desde hace cientos de años. Sabe las historias de muchos, sabe cuando están bien cuando están enfermos, cuando pasa algo especial, por sus rutinas de desplazamiento. Nadie conoce estas capacidades, pero poder acceder ellas supondría mucho poder dentro de Nottingham. 
 
-Ama y odia a les habitantes del complejo por igual. XXX
+Ama y odia a les habitantes del complejo por igual. Observarlos y trabajar para ellos y la tienen entretenida, pero también son los que rompen sus instalaciones, los que pintarrejan sus puertas, rompen sus botones, etc. y eso hace que su trabajo sea más duro y complicado.
 
 Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su trabajo las 24 horas del día y se presiona mucho a sí misma. Sabe que si no hace bien su trabajo todo el complejo se para y eso no puede parar.
 
@@ -341,6 +341,11 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
+
+\sp
+
 * **Equipo:** XXX
+
+\sc
 
 > **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.
