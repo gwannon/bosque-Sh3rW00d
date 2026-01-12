@@ -1206,7 +1206,7 @@ XXX
 
 **Requisitos:** Veterane, Controlar pantallas, Controlar realidad aumentada
 
-**Jerga:** XXX
+**Jerga:** El ojo que todo lo ve, El gran hermano
 
 XXX
 
@@ -1218,13 +1218,12 @@ XXX
 
 **Requisitos:** Veterane, Controlar ascensor
 
-**Jerga:** XXX
+**Jerga:** Grandes éxitos de la música de ascensor
 
 Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvaguardas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas. El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
 * Puedes **desactivar los frenos de seguridad de un ascensor y dejarlo caer.** Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
-
-* Puedes **bloquear las puertas encerrando dentro a sus pasajeres** y evitando que entren dentro. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen.
+* Puedes **bloquear las puertas encerrando dentro a sus pasajeres** y evitando que entren desde fuera. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen. Puede ponerlo en movimiento para que sea más difícil acceder a él desde el techo.
 * Puedes **dejar ciertos programas preparados**, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
 
 ### Dominar climatización
@@ -1288,14 +1287,15 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Llamar ascensor|Novate|Robar el ascensor a otras personas o mandarlo a un extremo de su ruta|
 |Controlar realidad aumentada|Novate|Controlar la información pública que la realidad aumentada proporciona|
 |Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
-|Controlar ascensor|Experimentade, Llamar ascensor|XXX|
+|Controlar ascensor|Experimentade, Llamar ascensor|Te permite hacer cosas con el ascensor que sus salvaguardas normales no permiten, pero siempre desde dentro de él.|
+\conc
+
+|Hackeo|Requisitos|Descripción|
+|---|---|---|
 |Dominar iluminación|Experimentade, Controlar iluminación|Permite controlar las luces de emergencia y similar y conseguir nuevos efectos que te benefician en situaciones de combate. |
 |Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
 |Dominar ascensor|Veterane, Controlar ascensor|Saltarse las salvaguardas de seguridad y de funcionamiento de un ascensor|
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
-
-|Hackeo|Requisitos|Descripción|
-|---|---|---|
 |Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
 |Dominar puertas|Veterane, Controlar puertas|Controlas puertas de seguridad y con cerraduras así como anulas sus sensores o programas ciertas rutinas|
 |Dominar vigilancia|Heróique, Controlar vigilancia|Dominar los sistemas de vigilancia, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo|
