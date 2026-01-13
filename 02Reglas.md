@@ -876,4 +876,12 @@ Si alguien tiene una pifia en disparar hiere a su objetivo (tirada de daño real
 
 ### Hackear sistemas
 
-XXX
+La opción de hackear sistemas tradicional de otros juegos ciberpunk/futurista siempre está disponible, pero ese no es el espíritu de esta ambientación.
+
+Por un lado, el toque Robin Hood del juego no quiere que el pirata informático que has contratado en la DarkWeb se cuele por la red y consiga los archivos que buscáis. Lo que se busca es que te aprendas un código secreto que te ha dado el pirata y lo uses para atravesar puertas de seguridad, llegues hasta el ordenador central y saques la info en una unidad de memoria.
+
+Por otro lado, la idea de esta ambientación es convertir el «hacking» en un sistema de magia muy sencillo con pequeños hechizos útiles en combate, persecuciones, infiltraciones y demás y darle un barniz informático/ciberpunk.
+
+Piensa que poner unas escaleras automáticas en sentido contrario para que tus perseguidores no puedan seguirte, es lo mismo que hacer crecer plantas mágicas que dificulten que tus perseguidores te sigan. O no ser detectado por cámaras de seguridad no deja de ser una forma de invisibilidad.
+
+> Si quieres implementar el hackeo clásico, Savage Worlds tiene diferentes manuales como Interface 3.0 o la Guía de Ciencia Ficción que te pueden ayudar en ese aspecto.
