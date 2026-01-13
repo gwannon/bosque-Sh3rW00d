@@ -543,6 +543,8 @@ XXX
 
 En los últimos años, ha habido un auge de las pandillas para ocupar el agujero de poder que han supuesto la desaparición de las organizaciones mafiosas.
 
+Podrías pensar que las mafias han sido sustituidas por la misma mierda con otro nombre, pero hay una importante diferencia. Mientras que las guerras entre mafiosos tenían un objetivo económico (te mato y me quedo tu territorio para ganar más dinero) y eran actos quirúrgicos, las peleas entre bandas son enfrentamientos violentos y sangrientos por controlar un territorio sin un objetivo claro. Eres mi enemigo y debo acabar contigo y luego si eso venderé mis drogas en tus calles. 
+
 XXX
 
 \sp

@@ -884,4 +884,8 @@ Por otro lado, la idea de esta ambientación es convertir el «hacking» en un s
 
 Piensa que poner unas escaleras automáticas en sentido contrario para que tus perseguidores no puedan seguirte, es lo mismo que hacer crecer plantas mágicas que dificulten que tus perseguidores te sigan. O no ser detectado por cámaras de seguridad no deja de ser una forma de invisibilidad.
 
+\sp
+
 > Si quieres implementar el hackeo clásico, Savage Worlds tiene diferentes manuales como Interface 3.0 o la Guía de Ciencia Ficción que te pueden ayudar en ese aspecto.
+
+\sc
