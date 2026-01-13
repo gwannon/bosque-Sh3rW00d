@@ -268,13 +268,15 @@ XXX
 
 [![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
-Alfonse es una IA tremendamente interesante. Por un lado, es el único locutor de la RLN y por otro es un fork de la directora R1c4rd, una especie de hije bastarde. XXX
-
-XXX
+Alfonse es una IA tremendamente interesante. Por un lado, es el único locutor de la RLN y por otro es un fork de la directora R1c4rd, una especie de hije bastarde. No está claro su origen, tal vez sea una copia de seguridad robada, un fork de R1c4rd que hizo de si misma para ver como sería si no hubiera sido una IA directora o tan solo una broma de les programadores que crearon a R1c4rd.
 
 Alfonse se encuentra distribuido entre un primer wifi que hay el bosque y los wifis piratas que hay por todo el complejo. Su capacidad de procesamiento crece o merma según aumentan los wifis piratas. De hecho, es más lista y anticapitalista según tiene más wifis piratas.
 
-En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido, Alfonse pierde mucha capacidad de proceso y se nota en sus programas. De hecho, la lectura de fanfics marca sus momentos peores.    
+No sabe que es un fork de R1c4rd, pero cuando consigue gran poder de procesamiento debido a los wifis (y se acerca al nivel de procesamiento de una IA directora) empieza a tener ideas raras sobre mejoras urbanísticas, recaudación de impuestos y procesos burocráticos.
+
+En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido, Alfonse pierde mucha capacidad de proceso y se nota en sus programas. De hecho, la lectura de fanfics marca sus momentos peores.
+
+Cuando su nivel de procesamiento esta en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adorán con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
 
 * **Atributos:** Astucia dX, Espíritu dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
@@ -283,11 +285,14 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
-* **Equipo:** XXX
-
-> **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry White, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo dirás chaladuras y propondras planes muy locos.
 
 \sp
+
+* **Equipo:** XXX
+
+\sc
+
+> **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry White, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo dirás chaladuras y propondras planes muy locos.
 
 \sinc
 
@@ -305,6 +310,8 @@ Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el 
 
 > Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
 
+\sp
+
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
@@ -313,8 +320,6 @@ Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el 
 * **Equipo:** XXX
 
 > **Sugerencia de interpretación:** Herramientas de jardinería (tijeras de podar, pala, semilleros, cuerda, etc.) y equipo científico (probetas, placas petri, pinzas, mechero bunchen, etc.). 1d4 botes de zumo estimulante (otorga un nivel de dado a FUE o VIG durante una hora).
-
-\sp
 
 \sinc
 
@@ -334,6 +339,8 @@ Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su tr
 
 El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
+\sp
+
 * **Atributos:** Astucia dX, Espíritu dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
 * **Desventajas:** XXX
@@ -341,11 +348,8 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
-
-\sp
-
 * **Equipo:** XXX
 
-\sc
-
 > **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.
+
+\sc

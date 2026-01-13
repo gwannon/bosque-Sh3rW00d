@@ -63,6 +63,8 @@ Esta cúpula de Influencers adictos a la directora J0hn marcan la vida de los _n
 
 \sp
 
+[![Citizens and Scoundrels 9 by Jenna Fingers](./assests/images/Citizens%20and%20Scoundrels%209.jpg "Citizens and Scoundrels 9 by Jenna Fingers")](https://jennafiggers.itch.io/ "Citizens and Scoundrels 9 by Jenna Fingers")
+
 * **Ciberimplantes:** Elegir 1: Cibercuerdas vocales (Interpretar), Modulador de voz (Provocar), Modificaciones estéticas (Persuadir), Cirugía estética (Atractive)
 * **Desventajas:** Elegir 1: Avariciose (Mayor), Bocazas (Menor), Canalle (Menor), Caute (Menor)
 * **Ventajas:** Famoso, elegir 1: Atractive, Carismátique, Coraje líquido, Rique
@@ -89,6 +91,9 @@ Estos altos ejecutivos de la corporación trabajan para cumplir y dar forma a lo
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
+
+\sp
+
 * **Ventajas:** XXX
 * **Equipo:** Ropas caras ejecutivas y complementos de gran valor como relojes, gafas de sol o gemelos de oro
 
@@ -97,9 +102,6 @@ Estos altos ejecutivos de la corporación trabajan para cumplir y dar forma a lo
 Estamos hablando desde la persona que le trae el café a le blus de alto rango como su secretareis hasta sus entrenadores personales y sus dietistas. Siempre van a su lado a la espera para cumplir sus órdenes, deseos o caprichos
 
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4 Vigor d6
-
-\sp
-
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Ordenadores d6, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: XXX
@@ -107,10 +109,14 @@ Estamos hablando desde la persona que le trae el café a le blus de alto rango c
 * **Ventajas:** XXX
 * **Equipo:** Ropas ejecutivas sobrias, maletín con documentación y ordenador portátil/tablet
 
-
 ### Cazarrecompensas
 
 Haya donde hay proscrites y forajides aparecen cazarrecompensas que trabajan a sueldo de los poderes opresores. Su trabajo es cazar a los fugados y traerlos a la justicia de la directora J0hn. No creen en la justicia, ni en las leyes, solo en las recompensas y en gastarlas a la noche.
+
+\sc
+
+[![Citizens and Scoundrels 16 by Jenna Fingers](./assests/images/Citizens%20and%20Scoundrels%2016.jpg "Citizens and Scoundrels 16 by Jenna Fingers")](https://jennafiggers.itch.io/ "Citizens and Scoundrels 16 by Jenna Fingers")
+
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d6, Disparar d8, Idioma Inglés d6, Intimidar d8, Latrocinio d6, Notar d6, Ordenadores d6, Pasillear d8, Pelear d8, Sigilo d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
@@ -118,8 +124,6 @@ Haya donde hay proscrites y forajides aparecen cazarrecompensas que trabajan a s
 * **Desventajas:** Elige 1 o más: Avariciose (Mayor), Canalle (Menor), Feo (Menor), Habito (Mayor, Alcoholismo),
 * **Ventajas:** Callejear, elegir 1 o más: Alijos, Bloqueo, Mandíbula de hierro, Nervios de acero, Reflejos de combate, Soldade
 * **Equipo:** Cinchas de detención, porra extensible (FUE + d4), machete (FUE+d6)
-
-\sc
 
 \sp
 
@@ -242,6 +246,8 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 
 \sp
 
+[![Citizens and Scoundrels 15 by Jenna Fingers](./assests/images/Citizens%20and%20Scoundrels%2015.jpg "Citizens and Scoundrels 15 by Jenna Fingers")](https://jennafiggers.itch.io/ "Citizens and Scoundrels 15 by Jenna Fingers")
+
 ### Cientifique
 
 Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde físiques, químiques, biólogues, etc. Siempre con batas blancas en impolutos laboratorios llenos de equipo de investigación. 
@@ -273,12 +279,13 @@ Estamos hablando de chupatintas que están detrás de un mostrador gestionando a
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
+
+\sp
+
 * **Ciberimplantes:** Elegir 1: Entrada I/O intracerebral (Ordenadores), HUB de información (Investigar), Telemetría ocular (Notar)
 * **Desventajas:** Elegir 1 o más: Avariciose (Mayor), Bocazas (Menor), Habito (Menor)
 * **Ventajas:** Elegir 1 o más: Alcurnia, Callejear, Responsable, Rique
 * **Equipo:** Objetos de burócrata como tarjetas de acceso, claves electrónicas, sellos electrónicos
-
-\sp
 
 ### Mercadere
 
@@ -292,19 +299,21 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alcurnia, Rique
 **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
+[![Implacable By Fernand0FC](./assests/images/implacable_by_fernand0fc_dcqnvuh-pre.jpg "Implacable By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Implacable-770378489 "Implacable By Fernand0FC")
+
 ### Pandillere
 
 Estes criminales menores pueblan los callejones de la zona baja dando golpes menores o juntándose para enfrentarse a bandas rivales o dar golpes más grandes. Solo el grupo puede hacerlos peligrosos para tus proscrites.
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
-
-\sc
-
-[![Implacable By Fernand0FC](./assests/images/implacable_by_fernand0fc_dcqnvuh-pre.jpg "Implacable By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Implacable-770378489 "Implacable By Fernand0FC")
-
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: Reemplazos musculares (FUE), Inyector de adrenalina (FUE), Nudillos metálicos (Gorila), HUB de puntería (Disparar)
 * **Desventajas:** Buscado (Menor, por delitos menores), Elegir 1 o más: Avaricioso (Mayor), Canalle (Menor), Feo (Menor), Habito (Mayor, Algaína)
+
+\sp
+
 * **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Navaja (FUE+d4), stick de hockey con clavos (FUE+d4+1)
+
+\sc

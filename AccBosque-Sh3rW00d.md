@@ -461,6 +461,8 @@ XXX
 
 En los últimos años, ha habido un auge de las pandillas para ocupar el agujero de poder que han supuesto la desaparición de las organizaciones mafiosas.
 
+Podrías pensar que las mafias han sido sustituidas por la misma mierda con otro nombre, pero hay una importante diferencia. Mientras que las guerras entre mafiosos tenían un objetivo económico (te mato y me quedo tu territorio para ganar más dinero) y eran actos quirúrgicos, las peleas entre bandas son enfrentamientos violentos y sangrientos por controlar un territorio sin un objetivo claro. Eres mi enemigo y debo acabar contigo y luego si eso venderé mis drogas en tus calles. 
+
 XXX
 
 ## Les instaladores
@@ -1845,6 +1847,8 @@ Esta cúpula de Influencers adictos a la directora J0hn marcan la vida de los _n
 * **Habilidades:** Apostar d8, Atletismo d6, Conocimientos Generales d8, Humanidades d8, Idioma Inglés d8, Interpretar d12, Ordenadores d6, Notar d6, Pelear d6, Persuadir d10, Sigilo d4
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 
+[![Citizens and Scoundrels 9 by Jenna Fingers](./assests/images/Citizens%20and%20Scoundrels%209.jpg "Citizens and Scoundrels 9 by Jenna Fingers")](https://jennafiggers.itch.io/ "Citizens and Scoundrels 9 by Jenna Fingers")
+
 * **Ciberimplantes:** Elegir 1: Cibercuerdas vocales (Interpretar), Modulador de voz (Provocar), Modificaciones estéticas (Persuadir), Cirugía estética (Atractive)
 * **Desventajas:** Elegir 1: Avariciose (Mayor), Bocazas (Menor), Canalle (Menor), Caute (Menor)
 * **Ventajas:** Famoso, elegir 1: Atractive, Carismátique, Coraje líquido, Rique
@@ -1871,6 +1875,7 @@ Estos altos ejecutivos de la corporación trabajan para cumplir y dar forma a lo
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: XXX
 * **Desventajas:** XXX
+
 * **Ventajas:** XXX
 * **Equipo:** Ropas caras ejecutivas y complementos de gran valor como relojes, gafas de sol o gemelos de oro
 
@@ -1879,7 +1884,6 @@ Estos altos ejecutivos de la corporación trabajan para cumplir y dar forma a lo
 Estamos hablando desde la persona que le trae el café a le blus de alto rango como su secretareis hasta sus entrenadores personales y sus dietistas. Siempre van a su lado a la espera para cumplir sus órdenes, deseos o caprichos
 
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4 Vigor d6
-
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Ordenadores d6, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: XXX
@@ -1890,6 +1894,9 @@ Estamos hablando desde la persona que le trae el café a le blus de alto rango c
 ### Cazarrecompensas
 
 Haya donde hay proscrites y forajides aparecen cazarrecompensas que trabajan a sueldo de los poderes opresores. Su trabajo es cazar a los fugados y traerlos a la justicia de la directora J0hn. No creen en la justicia, ni en las leyes, solo en las recompensas y en gastarlas a la noche.
+
+[![Citizens and Scoundrels 16 by Jenna Fingers](./assests/images/Citizens%20and%20Scoundrels%2016.jpg "Citizens and Scoundrels 16 by Jenna Fingers")](https://jennafiggers.itch.io/ "Citizens and Scoundrels 16 by Jenna Fingers")
+
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d6, Disparar d8, Idioma Inglés d6, Intimidar d8, Latrocinio d6, Notar d6, Ordenadores d6, Pasillear d8, Pelear d8, Sigilo d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
@@ -1999,6 +2006,8 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 * **Ventajas:** Elegir 1: Carismátique, Famose, Atractive
 * **Equipo:** Ropas vistosas, instrumento musical, herramientas relacionadas con su arte
 
+[![Citizens and Scoundrels 15 by Jenna Fingers](./assests/images/Citizens%20and%20Scoundrels%2015.jpg "Citizens and Scoundrels 15 by Jenna Fingers")](https://jennafiggers.itch.io/ "Citizens and Scoundrels 15 by Jenna Fingers")
+
 ### Cientifique
 
 Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde físiques, químiques, biólogues, etc. Siempre con batas blancas en impolutos laboratorios llenos de equipo de investigación. 
@@ -2030,6 +2039,7 @@ Estamos hablando de chupatintas que están detrás de un mostrador gestionando a
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
+
 * **Ciberimplantes:** Elegir 1: Entrada I/O intracerebral (Ordenadores), HUB de información (Investigar), Telemetría ocular (Notar)
 * **Desventajas:** Elegir 1 o más: Avariciose (Mayor), Bocazas (Menor), Habito (Menor)
 * **Ventajas:** Elegir 1 o más: Alcurnia, Callejear, Responsable, Rique
@@ -2047,18 +2057,18 @@ Vamos desde dependientes de tienda hasta taberneres o vendedores de comida calle
 * **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alcurnia, Rique
 **Equipo:** Herramienta afilada (FUE+d4), herramientas de su oficio, ropa de trabajo
 
+[![Implacable By Fernand0FC](./assests/images/implacable_by_fernand0fc_dcqnvuh-pre.jpg "Implacable By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Implacable-770378489 "Implacable By Fernand0FC")
+
 ### Pandillere
 
 Estes criminales menores pueblan los callejones de la zona baja dando golpes menores o juntándose para enfrentarse a bandas rivales o dar golpes más grandes. Solo el grupo puede hacerlos peligrosos para tus proscrites.
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
-
-[![Implacable By Fernand0FC](./assests/images/implacable_by_fernand0fc_dcqnvuh-pre.jpg "Implacable By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Implacable-770378489 "Implacable By Fernand0FC")
-
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d6, Electrónica d6, Idioma Inglés d6, Intimidar d6, Latrocinio d6, Notar d6, Pasillear d6, Pelear d6, Ordenadores d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: Reemplazos musculares (FUE), Inyector de adrenalina (FUE), Nudillos metálicos (Gorila), HUB de puntería (Disparar)
 * **Desventajas:** Buscado (Menor, por delitos menores), Elegir 1 o más: Avaricioso (Mayor), Canalle (Menor), Feo (Menor), Habito (Mayor, Algaína)
+
 * **Ventajas:** Elegir 1 o más: Intimidadore, Callejear, Alijos
 * **Equipo:** Navaja (FUE+d4), stick de hockey con clavos (FUE+d4+1)
 
@@ -3112,13 +3122,15 @@ XXX
 
 [![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
-Alfonse es una IA tremendamente interesante. Por un lado, es el único locutor de la RLN y por otro es un fork de la directora R1c4rd, una especie de hije bastarde. XXX
-
-XXX
+Alfonse es una IA tremendamente interesante. Por un lado, es el único locutor de la RLN y por otro es un fork de la directora R1c4rd, una especie de hije bastarde. No está claro su origen, tal vez sea una copia de seguridad robada, un fork de R1c4rd que hizo de si misma para ver como sería si no hubiera sido una IA directora o tan solo una broma de les programadores que crearon a R1c4rd.
 
 Alfonse se encuentra distribuido entre un primer wifi que hay el bosque y los wifis piratas que hay por todo el complejo. Su capacidad de procesamiento crece o merma según aumentan los wifis piratas. De hecho, es más lista y anticapitalista según tiene más wifis piratas.
 
-En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido, Alfonse pierde mucha capacidad de proceso y se nota en sus programas. De hecho, la lectura de fanfics marca sus momentos peores.    
+No sabe que es un fork de R1c4rd, pero cuando consigue gran poder de procesamiento debido a los wifis (y se acerca al nivel de procesamiento de una IA directora) empieza a tener ideas raras sobre mejoras urbanísticas, recaudación de impuestos y procesos burocráticos.
+
+En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido, Alfonse pierde mucha capacidad de proceso y se nota en sus programas. De hecho, la lectura de fanfics marca sus momentos peores.
+
+Cuando su nivel de procesamiento esta en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adorán con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
 
 * **Atributos:** Astucia dX, Espíritu dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
@@ -3127,6 +3139,7 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
+
 * **Equipo:** XXX
 
 > **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry White, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo dirás chaladuras y propondras planes muy locos.
@@ -3173,7 +3186,6 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
-
 * **Equipo:** XXX
 
 > **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.
