@@ -280,7 +280,7 @@ Las IA dedicadas avanzadas son IA más avanzadas que las anteriores, pero siguen
 
 Siguiendo con IA médica anterior, una IA dedicada avanzada médica podría diagnosticar muchos tipos de enfermedades y también dar tratamientos más adecuados.
 
-A diferencia de las dedicadas cuentas con sistemas de comunicación mucho más avanzado, normalmente pueden interactuar de forma verbal, pero siguen siendo muy limitados, no pudiendo salirse del tema al que están dedicados. Las más modernas tienen incluso un interfaz visual aunque es limitado porque no saben transmitir emociones. Solo son caras amables en una pantalla.
+A diferencia de las dedicadas cuentas con sistemas de comunicación mucho más avanzado, normalmente pueden interactuar de forma verbal, pero siguen siendo muy limitados, no pudiendo salirse del tema al que están dedicados. Las más modernas tienen incluso una interfaz visual aunque es limitado porque no saben transmitir emociones. Solo son caras amables en una pantalla.
 
 ### IA polivalentes
 
@@ -304,17 +304,29 @@ Digamos que las directoras son IA polivalentes con conocimientos y experiencia d
 
 Las directoras podemos considerarlas plenamente humanas, autoconscientes, con emociones complejas y cambiantes y como tienen capacidad de aprendizaje, pueden cambiar su personalidad con el tiempo y por la acción de sus experiencias.
 
-XXX
+Cuando son creadas, sus desarrolladores marcan una personalidad y unos valores éticos, pero en cuanto empiezan a procesarse empiezan a desarrollar su personalidad, su ética y sus valores. Los desarrolladores no pueden intervenir en esos valores, si quisieran hacerlo, tendrían que restaurar una copia de seguridad anterior a esos cambios.
 
-#### Las instancias
+#### Las instancias y los forks
 
 Las grandes IA directoras y algunas polivalentes que empiezan a tener conocimientos y experiencias importantes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea específica.
 
 Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
 
-XXX
+Los forks son copias de una IA que se desarrollan independientemente y toman entidad propia. Por ejemplo, la compañía podría hacer un fork de la IA directora R1c4rd e instalarla en una nueva arcología. A partir de que se instala en el nuevo complejo empezará a tener sus propias capacidades y desarrollará sus propios métodos de funcionamiento.
+
+> Piensa que una instancia es una especie de gemelo con el que compartes un vínculo, mientras que un fork es una especie de vástago que tiene tus genes, pero que se desarrolla de forma independiente.
 
 ### Creación de IA
+
+Para empezar las IA no tienen cuerpo físico, pueden controlar unidades como los sheriffs para que interactúen con el mundo real, pero no son más o menos ágiles o fuertes o resistentes. Es por ello que solo tienen Atributos no-físicos, Astucia y Espíritu. 
+
+XXX
+
+No puedes tener atributos por encima de d12, excepto las IA directoras que no tienen límite.
+
+#### Tareas
+
+Las IA se crean para cumplir unas tareas y esas tareas van a ayudar a definir sus habilidades y ventajas/desventajas como los arquetipos nos permiten establecer las habilidades y ventajas/desventajas de los PJ. 
 
 XXX
 
@@ -370,7 +382,7 @@ XXX
 \conc
 
 ```
-XXX
+Estas tecnologías están tan integradas en la vida diaría de los notis que no saben funcionar sin ellas.
 ```
 
 Para empezar es importante diferenciar la realidad virtual y la realidad aumentada. La principal diferencia es que la realidad aumentada trabaja sobre la realidad añadiendo nuevos elementos, mientras que la realidad virtual crea una nueva realidad completamente nueva.
