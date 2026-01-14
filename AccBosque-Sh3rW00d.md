@@ -1856,7 +1856,7 @@ Esta cúpula de Influencers adictos a la directora J0hn marcan la vida de los _n
 
 ### Bajo influencer
 
-Estes aspirantes a estrellas de las redes andan a la búsqueda de nuevas historias con los que contentar a sus poques followers. No paran de moverse por toda la ciudad a la búsqueda de algo jugoso que contar o en sus improvisados estudios tratando de conseguir el viral que los sacará de su mediocridad. Suelen trabajar para influencers de mayor poder contándoles los chismes y secretos que descubren a la espera de que les un poco de su fama y prestigio.
+Estes aspirantes a estrellas de las redes andan a la búsqueda de nuevas historias con los que contentar a sus escases followers. No paran de moverse por toda la ciudad a la búsqueda de algo jugoso que contar o en sus improvisados estudios tratando de conseguir el viral que los sacará de su mediocridad. Suelen trabajar para influencers de mayor poder contándoles los chismes y secretos que descubren a la espera de que les un poco de su fama y prestigio.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Interpretación d8, Notar d6, Ordenadores d6, Persuadir d6, Sigilo d6
@@ -1873,10 +1873,10 @@ Estos altos ejecutivos de la corporación trabajan para cumplir y dar forma a lo
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d6, Conocimientos Generales d10, Humanidades d6, Idioma Inglés d10, Intimidar d8, Notar d6, Ordenadores d6, Persuadir d8, Sigilo d4, Tácticas d6
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ciberimplantes:** Elegir 1: XXX
-* **Desventajas:** XXX
 
-* **Ventajas:** XXX
+* **Ciberimplantes:** Elegir 2: Modulador de voz (Intimidar, Provocar), Modificaciones estéticas (Persuadir), IA de tácticas (Tácticas), Ordenador táctico (Calculadore)
+* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Hábito (Mayor, Alcoholismo)
+* **Ventajas:** Necesarie para la compañía, Alcurnia, Rico
 * **Equipo:** Ropas caras ejecutivas y complementos de gran valor como relojes, gafas de sol o gemelos de oro
 
 ### Asesores de blus
@@ -1884,11 +1884,11 @@ Estos altos ejecutivos de la corporación trabajan para cumplir y dar forma a lo
 Estamos hablando desde la persona que le trae el café a le blus de alto rango como su secretareis hasta sus entrenadores personales y sus dietistas. Siempre van a su lado a la espera para cumplir sus órdenes, deseos o caprichos
 
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4 Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Ordenadores d6, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
-* **Ciberimplantes:** Elegir 1: XXX
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d8, Ciencias/Humanidades (igual que su jefe), Idioma Inglés d8, Notar d4, Ordenadores d6, Pasillear d6, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Ciberimplantes:** Elegir 1: Telemetría ocular(Notar), Base de datos urbanística (Pasillear), Base de datos científica (Ciencias), Base de datos de historia y arte (Humanidades)
+* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Hábito (Menor)
+* **Ventajas:** Elegir 2 Conexiones (asesores de blus, bajos fondos, bajos influencers, zona media, zona baja)
 * **Equipo:** Ropas ejecutivas sobrias, maletín con documentación y ordenador portátil/tablet
 
 ### Cazarrecompensas
@@ -1902,6 +1902,7 @@ Haya donde hay proscrites y forajides aparecen cazarrecompensas que trabajan a s
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ciberimplantes:** Elegir 1: Reemplazos musculares (FUE), Inyector de adrenalina (FUE), Nudillos metálicos (Gorila), HUB de puntería (Disparar)
 * **Desventajas:** Elige 1 o más: Avariciose (Mayor), Canalle (Menor), Feo (Menor), Habito (Mayor, Alcoholismo),
+
 * **Ventajas:** Callejear, elegir 1 o más: Alijos, Bloqueo, Mandíbula de hierro, Nervios de acero, Reflejos de combate, Soldade
 * **Equipo:** Cinchas de detención, porra extensible (FUE + d4), machete (FUE+d6)
 
@@ -1922,7 +1923,6 @@ Coge las estadísticas del animal y añádele estas capacidades especiales:
 * **Capacidades especiales:**
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-
   * **Armadura (+1 a +4):** Sus partes metálicas les dan entre +1 y +4 de armadura.
 
 ### Limpiador
@@ -1936,10 +1936,10 @@ De hecho, algo que no es de dominio público es que sus creadores metieron de lo
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Notar d8, Pelear d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 6
+
 * **Capacidades especiales:**
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Base de datos:** Si consigues una de sus unidades de almacenamiento y la puedes procesar obtienes un +2 al buscar información de la zona en la que limpia.
-* **Capacidades especiales:**
   * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** Depósitos con diferentes productos de limpieza, ácidos, desengrasantes, etc.
 

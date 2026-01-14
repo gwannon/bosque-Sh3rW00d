@@ -89,11 +89,11 @@ Estos altos ejecutivos de la corporación trabajan para cumplir y dar forma a lo
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d6, Conocimientos Generales d10, Humanidades d6, Idioma Inglés d10, Intimidar d8, Notar d6, Ordenadores d6, Persuadir d8, Sigilo d4, Tácticas d6
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ciberimplantes:** Elegir 2: Modulador de voz (Intimidar, Provocar), Modificaciones estéticas (Persuadir), IA de tácticas (Tácticas), Ordenador táctico (Calculadore)
-* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Hábito (Mayor, Alcoholismo)
 
 \sp
 
+* **Ciberimplantes:** Elegir 2: Modulador de voz (Intimidar, Provocar), Modificaciones estéticas (Persuadir), IA de tácticas (Tácticas), Ordenador táctico (Calculadore)
+* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Hábito (Mayor, Alcoholismo)
 * **Ventajas:** Necesarie para la compañía, Alcurnia, Rico
 * **Equipo:** Ropas caras ejecutivas y complementos de gran valor como relojes, gafas de sol o gemelos de oro
 
@@ -106,14 +106,12 @@ Estamos hablando desde la persona que le trae el café a le blus de alto rango c
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ciberimplantes:** Elegir 1: Telemetría ocular(Notar), Base de datos urbanística (Pasillear), Base de datos científica (Ciencias), Base de datos de historia y arte (Humanidades)
 * **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Hábito (Menor)
-* **Ventajas:** XXX
+* **Ventajas:** Elegir 2 Conexiones (asesores de blus, bajos fondos, bajos influencers, zona media, zona baja)
 * **Equipo:** Ropas ejecutivas sobrias, maletín con documentación y ordenador portátil/tablet
 
 ### Cazarrecompensas
 
 Haya donde hay proscrites y forajides aparecen cazarrecompensas que trabajan a sueldo de los poderes opresores. Su trabajo es cazar a los fugados y traerlos a la justicia de la directora J0hn. No creen en la justicia, ni en las leyes, solo en las recompensas y en gastarlas a la noche.
-
-\sc
 
 [![Citizens and Scoundrels 16 by Jenna Fingers](./assests/images/Citizens%20and%20Scoundrels%2016.jpg "Citizens and Scoundrels 16 by Jenna Fingers")](https://jennafiggers.itch.io/ "Citizens and Scoundrels 16 by Jenna Fingers")
 
@@ -122,10 +120,11 @@ Haya donde hay proscrites y forajides aparecen cazarrecompensas que trabajan a s
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ciberimplantes:** Elegir 1: Reemplazos musculares (FUE), Inyector de adrenalina (FUE), Nudillos metálicos (Gorila), HUB de puntería (Disparar)
 * **Desventajas:** Elige 1 o más: Avariciose (Mayor), Canalle (Menor), Feo (Menor), Habito (Mayor, Alcoholismo),
-* **Ventajas:** Callejear, elegir 1 o más: Alijos, Bloqueo, Mandíbula de hierro, Nervios de acero, Reflejos de combate, Soldade
-* **Equipo:** Cinchas de detención, porra extensible (FUE + d4), machete (FUE+d6)
 
 \sp
+
+* **Ventajas:** Callejear, elegir 1 o más: Alijos, Bloqueo, Mandíbula de hierro, Nervios de acero, Reflejos de combate, Soldade
+* **Equipo:** Cinchas de detención, porra extensible (FUE + d4), machete (FUE+d6)
 
 \sinc
 
@@ -148,9 +147,6 @@ Coge las estadísticas del animal y añádele estas capacidades especiales:
 * **Capacidades especiales:**
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
-
-\sc
-
   * **Armadura (+1 a +4):** Sus partes metálicas les dan entre +1 y +4 de armadura.
 
 ### Limpiador
@@ -164,12 +160,12 @@ De hecho, algo que no es de dominio público es que sus creadores metieron de lo
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Notar d8, Pelear d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 6
+
+\sp
+
 * **Capacidades especiales:**
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Base de datos:** Si consigues una de sus unidades de almacenamiento y la puedes procesar obtienes un +2 al buscar información de la zona en la que limpia.
-
-\sp
-* **Capacidades especiales:**
   * **Impávido:** Es inmune al miedo e Intimidar.
 * **Equipo:** Depósitos con diferentes productos de limpieza, ácidos, desengrasantes, etc.
 
@@ -187,8 +183,6 @@ Debido a su gran tamaño también ser usados como parapetos en caso de combate.
   * **Constructo:** +2 a recuperarse del aturdimiento. Ignora 1 punto de penalización por heridas. No respira y es inmune a enfermedades y venenos. Curación con habilidad Reparar.
   * **Impávido:** Es inmune al miedo e Intimidar.
   * **Tamaño (+3):** Son robots de gran tamaño que se dedican a mover carga por todo el complejo.
-
-\sc
 
 ### Comadrejas
 
