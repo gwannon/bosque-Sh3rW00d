@@ -315,12 +315,19 @@ Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, e
 Los forks son copias de una IA que se desarrollan independientemente y toman entidad propia. Por ejemplo, la compañía podría hacer un fork de la IA directora R1c4rd e instalarla en una nueva arcología. A partir de que se instala en el nuevo complejo empezará a tener sus propias capacidades y desarrollará sus propios métodos de funcionamiento.
 
 > Piensa que una instancia es una especie de gemelo con el que compartes un vínculo, mientras que un fork es una especie de vástago que tiene tus genes, pero que se desarrolla de forma independiente.
+### Hackeos frente a IA
+
+Los hackeos de los instaladores están instalados más profundamente en el código de la arcología con lo que siempre prevalecen frente a las órdenes que de una IA. Por mucho que una IA quiera abrir la puerta de un ascensor, si ha sido cerrada con un hackeo no se podrá abrir. Como se dice en las reglas de hackeo, **solo un hackeo puede contrarrestar a otro hackeo**.
+
+Además, no son rastreables por las IA, no dejan registros, no activan disparadores, etc. Como mucho pueden ser detectados como bugs, caídas del sistema o fallos técnicos físicos, pero nunca con precisión y sabiendo a ciencia cierta que ha pasado. Es como si tuviera en un picor en la espalda, pero no puede llegar a rascarse.
 
 ### Creación de IA
 
 Para empezar las IA no tienen cuerpo físico, pueden controlar unidades como los sheriffs para que interactúen con el mundo real, pero no son más o menos ágiles o fuertes o resistentes. Es por ello que solo tienen Atributos no-físicos, Astucia y Espíritu. 
 
 XXX
+
+\sp
 
 No puedes tener atributos por encima de d12, excepto las IA directoras que no tienen límite.
 
@@ -329,6 +336,10 @@ No puedes tener atributos por encima de d12, excepto las IA directoras que no ti
 Las IA se crean para cumplir unas tareas y esas tareas van a ayudar a definir sus habilidades y ventajas/desventajas como los arquetipos nos permiten establecer las habilidades y ventajas/desventajas de los PJ. 
 
 XXX
+
+#### Áreas de actuación
+
+Las IA no tienen equipo, **tienen áreas de actuación**, elementos sobre los que tienen control y que pueden usar físicamente en el mundo real. Por ejemplo la IA que controla la prisión, puede controlar las alarmas, abrir y cerrar puertas, activar los ascensores, cortar la luz, pero no podrá mover algo de sitio a no ser que entre su ámbito tenga algún tipo de robot que pueda hacer ese trabajo. 
 
 \sp
 

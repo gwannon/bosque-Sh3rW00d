@@ -1648,6 +1648,11 @@ Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, e
 Los forks son copias de una IA que se desarrollan independientemente y toman entidad propia. Por ejemplo, la compañía podría hacer un fork de la IA directora R1c4rd e instalarla en una nueva arcología. A partir de que se instala en el nuevo complejo empezará a tener sus propias capacidades y desarrollará sus propios métodos de funcionamiento.
 
 > Piensa que una instancia es una especie de gemelo con el que compartes un vínculo, mientras que un fork es una especie de vástago que tiene tus genes, pero que se desarrolla de forma independiente.
+### Hackeos frente a IA
+
+Los hackeos de los instaladores están instalados más profundamente en el código de la arcología con lo que siempre prevalecen frente a las órdenes que de una IA. Por mucho que una IA quiera abrir la puerta de un ascensor, si ha sido cerrada con un hackeo no se podrá abrir. Como se dice en las reglas de hackeo, **solo un hackeo puede contrarrestar a otro hackeo**.
+
+Además, no son rastreables por las IA, no dejan registros, no activan disparadores, etc. Como mucho pueden ser detectados como bugs, caídas del sistema o fallos técnicos físicos, pero nunca con precisión y sabiendo a ciencia cierta que ha pasado. Es como si tuviera en un picor en la espalda, pero no puede llegar a rascarse.
 
 ### Creación de IA
 
@@ -1662,6 +1667,10 @@ No puedes tener atributos por encima de d12, excepto las IA directoras que no ti
 Las IA se crean para cumplir unas tareas y esas tareas van a ayudar a definir sus habilidades y ventajas/desventajas como los arquetipos nos permiten establecer las habilidades y ventajas/desventajas de los PJ. 
 
 XXX
+
+#### Áreas de actuación
+
+Las IA no tienen equipo, **tienen áreas de actuación**, elementos sobre los que tienen control y que pueden usar físicamente en el mundo real. Por ejemplo la IA que controla la prisión, puede controlar las alarmas, abrir y cerrar puertas, activar los ascensores, cortar la luz, pero no podrá mover algo de sitio a no ser que entre su ámbito tenga algún tipo de robot que pueda hacer ese trabajo. 
 
 ## Nanotecnología
 
@@ -2957,7 +2966,7 @@ XXX
 Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campeón de personas indefensas que habían aceptado duelos de _blus_ e _influencers_ abusones. Se presenta con ropa de corte militar y una sudadera de camuflaje con gran capucha que esconde su cara y por ahora ha salido victoriosa, que no ilesa de todos esos duelos. 
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -2972,7 +2981,7 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -2987,7 +2996,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3002,7 +3011,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3017,7 +3026,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3032,7 +3041,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3047,7 +3056,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3064,7 +3073,7 @@ XXX
 > Se cuenta que Mamá Claire puede leer tu futuro en el gumbo, te echa una ración en tu plato y lee el gumbo. Es por ello que Mamá Claire tiene Ocultismo, por si quieres que les haga una predicción.
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Ocultismo d8,Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Ocultismo d8,Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3079,7 +3088,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3094,7 +3103,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3109,7 +3118,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3122,7 +3131,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3142,17 +3151,17 @@ No sabe que es un fork de R1c4rd, pero cuando consigue gran poder de procesamien
 
 En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido, Alfonse pierde mucha capacidad de proceso y se nota en sus programas. De hecho, la lectura de fanfics marca sus momentos peores.
 
-Cuando su nivel de procesamiento esta en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adorán con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
+Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adoran con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
 
-* **Atributos:** Astucia dX, Espíritu dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Atributos:** Astucia dXXX, Espíritu dXXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
 
-* **Equipo:** XXX
+* **Área de actuación:** XXX
 
 > **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry White, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo dirás chaladuras y propondras planes muy locos.
 
@@ -3160,7 +3169,7 @@ Cuando su nivel de procesamiento esta en unos niveles normales, tenemos al locut
 
 [![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.png "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
 
-Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. Sin embargo, perdió un pleito contra Café Corta que robo su formula.
+Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. Sin embargo, perdió un pleito contra Café Corta que robo su fórmula.
 
 Tuvo que huir al bosque y allí se convirtió en una especie de alquimista mágico que hace todos los potingues posibles para les _boskis_ y algunos _notis_ que tienen los contactos adecuados.
 
@@ -3169,7 +3178,7 @@ Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el 
 > Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -3193,14 +3202,14 @@ Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su tr
 
 El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
-* **Atributos:** Astucia dX, Espíritu dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dX, Idioma Inglés dX, Notar d4, Persuadir d4, Sigilo d4
+* **Atributos:** Astucia dXXX, Espíritu dXXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
-* **Equipo:** XXX
+* **Área de actuación:** XXX
 
 > **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.
 
