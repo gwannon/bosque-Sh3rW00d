@@ -1680,7 +1680,7 @@ La nanotecnología es una de las fuerzas creadoras más importantes de bosque Sh
 
 Les instaladores eran sus grandes maestros y cuantos ellos se fueron sus inmensos conocimientos en nanotecnología y la casi totalidad de los nanobots que había en Nottingham desaparecieron con elles.
 
-### La arcología y Nottingham
+### La arcología de Nottingham
 
 XXX
 
@@ -1714,6 +1714,20 @@ Estas tecnologías están tan integradas en la vida diaría de los notis que no 
 ```
 
 Para empezar es importante diferenciar la realidad virtual y la realidad aumentada. La principal diferencia es que la realidad aumentada trabaja sobre la realidad añadiendo nuevos elementos, mientras que la realidad virtual crea una nueva realidad completamente nueva.
+
+Otra diferencia significativa es la capacidad de procesamiento que exige. Mientras que el HUB de conexión de une _noti_ puede procesar la información de la aumentada, para la realidad virtual necesitas equipos externos con su propia fuente de alimentación y conexión.
+
+### Realidad aumentada
+
+La realidad aumentada ofrece una capa extra de información sobre la realidad. Por ejemplo, mostrándonos unas flechas de colores en nuestra retina que nos indica la ruta que debemos tomar para llegar al destino seleccionado o mostrando el precio y las características de los productos de una tienda.
+
+La realidad aumentada está distribuida, no está almacenada en nuestro HUB de conexión o en un gran ordenador central, sino que cada lugar de la arcología tiene sus propios datos y al acercarnos los descargamos y procesamos. Si tuvieran almacenado en nuestro HUB de conexión, toda la información aumentada el HUB tendría el tamaño de un melón y no sería implantable. 
+
+Cada vez que entras en una tienda te descargas su catálogo y puedes identificar los productos y ver sus precios o estás en una reunión puedes descargarte las personas que están a su alrededor y una serie de datos públicos sobre ellas que sus HUB de conexión ofrecen públicamente.
+
+Los hackeos de los instaladores se aprovechan de estas descargas continuas de contenidos de los dispositivos de realidad aumentada para quitar información y poner información extra y/o falsa. De esta forma puedes engañar a la gente que está acostumbrada a que la realidad aumentada no le mienta.
+
+### Realidad virtual
 
 XXX
 
