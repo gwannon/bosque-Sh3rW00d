@@ -130,7 +130,7 @@ Los implantes pueden ser considerados legales o ilegales. Los legales puedes lle
 
 En muchas ambientaciones los implantes de Armadura serían ilegales, pero une policíe podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
 
-Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo postapocalíptico realmente no importaría si son legales o no.
+Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo post-apocalíptico realmente no importaría si son legales o no.
 
 Los implantes ilegales no pueden ser instalados en sitios normales y tendrás que recurrir a doctores sin licencia o de la mafia. En el bosque hay gente capaz de instalarte implantes legales e ilegales, pero normalmente deberás conseguirlos y llevárselos para que te los instalen.
 
@@ -306,15 +306,20 @@ Las directoras podemos considerarlas plenamente humanas, autoconscientes, con em
 
 Cuando son creadas, sus desarrolladores marcan una personalidad y unos valores éticos, pero en cuanto empiezan a procesarse empiezan a desarrollar su personalidad, su ética y sus valores. Los desarrolladores no pueden intervenir en esos valores, si quisieran hacerlo, tendrían que restaurar una copia de seguridad anterior a esos cambios.
 
-#### Las instancias y los forks
+### Las instancias y los forks
 
 Las grandes IA directoras y algunas polivalentes que empiezan a tener conocimientos y experiencias importantes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea específica.
 
 Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
 
-Los forks son copias de una IA que se desarrollan independientemente y toman entidad propia. Por ejemplo, la compañía podría hacer un fork de la IA directora R1c4rd e instalarla en una nueva arcología. A partir de que se instala en el nuevo complejo empezará a tener sus propias capacidades y desarrollará sus propios métodos de funcionamiento.
+Los _forks_ son copias de una IA que se desarrollan independientemente y toman entidad propia. Por ejemplo, la compañía podría hacer un fork de la IA directora R1c4rd e instalarla en una nueva arcología. A partir de que se instala en el nuevo complejo empezará a tener sus propias capacidades y desarrollará sus propios métodos de funcionamiento.
 
 > Piensa que una instancia es una especie de gemelo con el que compartes un vínculo, mientras que un fork es una especie de vástago que tiene tus genes, pero que se desarrolla de forma independiente.
+
+#### Crear instancias
+
+XXX
+
 ### Hackeos frente a IA
 
 Los hackeos de los instaladores están instalados más profundamente en el código de la arcología con lo que siempre prevalecen frente a las órdenes que de una IA. Por mucho que una IA quiera abrir la puerta de un ascensor, si ha sido cerrada con un hackeo no se podrá abrir. Como se dice en las reglas de hackeo, **solo un hackeo puede contrarrestar a otro hackeo**.
@@ -456,7 +461,7 @@ No vas rápido, ni haciendo acrobacias, simplemente haces tu ruta habitual, anda
 
 #### Mouseguard
 
-Esta empresa de robots tiene una flotilla de minirobots, llamados mouses o ratones, que se mueven por todo el complejo por pasillos de servicio, conductos, tuberías, etc. para hacer envíos. Solo llevan info en unidades de almacenamiento, no llevan objetos grandes.
+Esta empresa de robots tiene una flotilla de minirobots, llamados _mouses_ o ratones, que se mueven por todo el complejo por pasillos de servicio, conductos, tuberías, etc. para hacer envíos. Solo llevan info en unidades de almacenamiento, no llevan objetos grandes.
 
 Su estrategia es moverse por rutas alternativas que no pueden usar los humanos. No son vistos ni detectados y, por tanto, no pueden ser interceptados y su información robada. Además, la IA que controla las rutas y nunca las repite. No le importa usar rutas larguísimas, el robot no tiene un horario de trabajo, así que tenerlos dando vueltas es una opción. 
 

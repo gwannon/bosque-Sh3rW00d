@@ -278,17 +278,19 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 
 Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adoran con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
 
-* **Atributos:** Astucia dXXX, Espíritu dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Atributos:** Astucia d8, Espíritu d12
+* **Habilidades:** Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Capacidades especiales:**
+  * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
-  * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
 
 \sp
 
-* **Área de actuación:** XXX
+* **Capacidades especiales:**
+  * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
+* **Área de actuación:** A diferencias de otras IA su radio lo que hace es poder actuar sobre sus oyentes, en vez de mirar los sensores y cámaras de los sistemas que controla, puede hacer llamamientos a sus radioyentes y pedirles información y favores y estos tratarán de ayudar en la medida de lo posible.
 
 \sc
 
@@ -343,15 +345,18 @@ Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su tr
 
 El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
-* **Atributos:** Astucia dXXX, Espíritu dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Atributos:** Astucia d12, Espíritu d6
+* **Habilidades:** Conocimientos Generales d12, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
-* **Área de actuación:** XXX
-
-> **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.
+  * **Predicción de rutinas:** Si quiere y le caes bien, puede darte una predicción sobre algún tipo de suceso en el futuro cercano a partir del estudio de los patrones y las rutinas de la gente de Nottingham durante siglos. No es muy precisa, no puede darte hora y persona, pero puede darte ideas generales, como un _blus_ vaa tener un accidente o va a haber revueltas en la Plaza Mayor. 
+  * **Bancos de memoria:** Si quiere y le caes bien, puede darte información sobre sucesos que hayan sucedido desde que fue iniciada hace ya 200 años. Tienen que ser cosas públicas no pueden darte información de sucesos ocurridos en espacios privados. 
 
 \sc
+
+* **Área de actuación:** Ascensores, montacargas, puertas, escaleras automáticas, cintas transportadoras etc. del sistema público de transporte. Esto incluye también todo tipo de sensores, cámaras, micrófonos, etc. que estos tengan.
+
+> **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.

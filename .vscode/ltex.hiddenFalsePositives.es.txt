@@ -103,3 +103,4 @@
 {"rule":"FUTURO_SUBJ_IND","sentence":"^\\QEstamos hablando desde la persona que le trae el café a le blus de alto rango como su secretareis hasta sus entrenadores personales y sus dietistas.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCitizens and Scoundrels 15 by Jenna Fingers\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCitizens and Scoundrels 9 by Jenna Fingers\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1920x1080 Wallpaper Desktop By siulzz\\E$"}

@@ -1501,7 +1501,7 @@ Los implantes pueden ser considerados legales o ilegales. Los legales puedes lle
 
 En muchas ambientaciones los implantes de Armadura serían ilegales, pero une policíe podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
 
-Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo postapocalíptico realmente no importaría si son legales o no.
+Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo post-apocalíptico realmente no importaría si son legales o no.
 
 Los implantes ilegales no pueden ser instalados en sitios normales y tendrás que recurrir a doctores sin licencia o de la mafia. En el bosque hay gente capaz de instalarte implantes legales e ilegales, pero normalmente deberás conseguirlos y llevárselos para que te los instalen.
 
@@ -1639,15 +1639,20 @@ Las directoras podemos considerarlas plenamente humanas, autoconscientes, con em
 
 Cuando son creadas, sus desarrolladores marcan una personalidad y unos valores éticos, pero en cuanto empiezan a procesarse empiezan a desarrollar su personalidad, su ética y sus valores. Los desarrolladores no pueden intervenir en esos valores, si quisieran hacerlo, tendrían que restaurar una copia de seguridad anterior a esos cambios.
 
-#### Las instancias y los forks
+### Las instancias y los forks
 
 Las grandes IA directoras y algunas polivalentes que empiezan a tener conocimientos y experiencias importantes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea específica.
 
 Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
 
-Los forks son copias de una IA que se desarrollan independientemente y toman entidad propia. Por ejemplo, la compañía podría hacer un fork de la IA directora R1c4rd e instalarla en una nueva arcología. A partir de que se instala en el nuevo complejo empezará a tener sus propias capacidades y desarrollará sus propios métodos de funcionamiento.
+Los _forks_ son copias de una IA que se desarrollan independientemente y toman entidad propia. Por ejemplo, la compañía podría hacer un fork de la IA directora R1c4rd e instalarla en una nueva arcología. A partir de que se instala en el nuevo complejo empezará a tener sus propias capacidades y desarrollará sus propios métodos de funcionamiento.
 
 > Piensa que una instancia es una especie de gemelo con el que compartes un vínculo, mientras que un fork es una especie de vástago que tiene tus genes, pero que se desarrolla de forma independiente.
+
+#### Crear instancias
+
+XXX
+
 ### Hackeos frente a IA
 
 Los hackeos de los instaladores están instalados más profundamente en el código de la arcología con lo que siempre prevalecen frente a las órdenes que de una IA. Por mucho que una IA quiera abrir la puerta de un ascensor, si ha sido cerrada con un hackeo no se podrá abrir. Como se dice en las reglas de hackeo, **solo un hackeo puede contrarrestar a otro hackeo**.
@@ -1761,7 +1766,7 @@ No vas rápido, ni haciendo acrobacias, simplemente haces tu ruta habitual, anda
 
 #### Mouseguard
 
-Esta empresa de robots tiene una flotilla de minirobots, llamados mouses o ratones, que se mueven por todo el complejo por pasillos de servicio, conductos, tuberías, etc. para hacer envíos. Solo llevan info en unidades de almacenamiento, no llevan objetos grandes.
+Esta empresa de robots tiene una flotilla de minirobots, llamados _mouses_ o ratones, que se mueven por todo el complejo por pasillos de servicio, conductos, tuberías, etc. para hacer envíos. Solo llevan info en unidades de almacenamiento, no llevan objetos grandes.
 
 Su estrategia es moverse por rutas alternativas que no pueden usar los humanos. No son vistos ni detectados y, por tanto, no pueden ser interceptados y su información robada. Además, la IA que controla las rutas y nunca las repite. No le importa usar rutas larguísimas, el robot no tiene un horario de trabajo, así que tenerlos dando vueltas es una opción. 
 
@@ -3167,15 +3172,17 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 
 Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adoran con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
 
-* **Atributos:** Astucia dXXX, Espíritu dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Atributos:** Astucia d8, Espíritu d12
+* **Habilidades:** Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Capacidades especiales:**
+  * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
-  * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
 
-* **Área de actuación:** XXX
+* **Capacidades especiales:**
+  * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
+* **Área de actuación:** A diferencias de otras IA su radio lo que hace es poder actuar sobre sus oyentes, en vez de mirar los sensores y cámaras de los sistemas que controla, puede hacer llamamientos a sus radioyentes y pedirles información y favores y estos tratarán de ayudar en la medida de lo posible.
 
 > **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry White, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo dirás chaladuras y propondras planes muy locos.
 
@@ -3216,14 +3223,17 @@ Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su tr
 
 El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
-* **Atributos:** Astucia dXXX, Espíritu dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Atributos:** Astucia d12, Espíritu d6
+* **Habilidades:** Conocimientos Generales d12, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
-* **Área de actuación:** XXX
+  * **Predicción de rutinas:** Si quiere y le caes bien, puede darte una predicción sobre algún tipo de suceso en el futuro cercano a partir del estudio de los patrones y las rutinas de la gente de Nottingham durante siglos. No es muy precisa, no puede darte hora y persona, pero puede darte ideas generales, como un _blus_ vaa tener un accidente o va a haber revueltas en la Plaza Mayor. 
+  * **Bancos de memoria:** Si quiere y le caes bien, puede darte información sobre sucesos que hayan sucedido desde que fue iniciada hace ya 200 años. Tienen que ser cosas públicas no pueden darte información de sucesos ocurridos en espacios privados. 
+
+* **Área de actuación:** Ascensores, montacargas, puertas, escaleras automáticas, cintas transportadoras etc. del sistema público de transporte. Esto incluye también todo tipo de sensores, cámaras, micrófonos, etc. que estos tengan.
 
 > **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.
 
