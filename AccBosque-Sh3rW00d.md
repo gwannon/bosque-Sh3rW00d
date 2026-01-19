@@ -2833,15 +2833,39 @@ Mientras que la directora R1c4rd siempre respetó los consejos y sugerencias de 
 
 ### Moverse entre zonas
 
-XXX
+Moverse por la zona de la arcología es fácil, simplemente has de tomar las plataformas o los ascensores necesarios. El tema complicado es moverse sin ser visto, por ejemplo, tratar de llegar ala zona alta sin pasar los controles de seguridad o huir a la parte baja y darle esquinazo a tus perseguidores.
 
-Las zonas están conectadas como hemos explicado antes, pero siempre es posible hacer una buena tirada de Pasillear que permita acceder de unas a otras saltando los pasos intermedios. 
+Estas tareas deberían exigir alguna tirada de Pasillear para trazar la mejor ruta. Una buena tirada puede dar bonos a tiradas de sigilo para entrar sin ser visto o de esconderse o de correr para dar esquinazo a tus perseguidores.
+
+Hay diferentes situaciones que pueden dar bonos:
+
+* Usar una ruta con frecuencia, puede facilitar el proceso, pero tarde o temprano te detectarán y tendrás que quemar la ruta.
+* Tener accesos a planos y esquemas puede ayudar a descubrir rutas desconocidas, seguras y rápidas.
+* Conocer la zona de la que sale o a la que vas es una buena ventaja.
 
 ![Esquema de zonas del complejo](./assests/images/zonas.png "Esquema de zonas del complejo")
 
-[![Concept of SciFi Coridor 1920x1080 By Igor-Esaulov](./assests/images/concept_of_scifi_coridor_1920x1080_by_igor_esaulov_d6559vr-fullview.jpg "Concept of SciFi Coridor 1920x1080 By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Concept-of-SciFi-Coridor-1920x1080-371441223 "Concept of SciFi Coridor 1920x1080 By Igor-Esaulov")
+También puede haber situaciones que den negativos:
+
+* El nivel de seguridad de la zona debería afectar a la tirada de Pasillear. Colarse o salir de la zona Alta es muy complicado. Entrar en el Bosque es facil, solo debes conocer las rutas.
+* Si hay disturbios o seguridad extras, puede ser más difícil trazar rutas seguras. 
+* Las obras de mantenimiento puede hacer que tengas problemas para definir una buena ruta.
+* Si tienen que moverse grandes grupos, también puede hacerlo más complicado.
+* Cuanto menos tiempos se tenga más complicado será encontrar una ruta segura.
+
+Por último, las zonas están conectadas como hemos explicado antes, pero siempre es posible hacer una buena tirada de Pasillear que permita acceder de unas a otras saltando los pasos intermedios. 
+
+### Entrar y moverse en el Bosque
+
+Los accesos al bosque desde cualquier zona de la arcología son mucho y variados, con lo que J0hn ha desistido de vigilarlos o controlarlos. Simplemente trata de detectar las entradas ilegales y tratar de detener a los invasores del bosque antes de que lleven a cabo las fechorías para las que han entrado.
+
+Las salidas tampoco las controla. Siguen la política de «a enemigo que huye, puente de plata». Si abandonas la arcología, mucho mejor, menos escoria de la que preocuparse. Aunque si tratará de seguir en caso de secuestro o desaparición de personas importantes de clase alta. Si le hije de un rique blus, huya al bosque siguiendo sus ideales de libertad, seguramente un grupo de mercenarios o de sheriffs trate de impedirlo y de devolver a le vastague a sus progenitores.
+
+Claramente, no hay transporte público en el Bosque, no hay ni interés, ni instalaciones ni recursos para mantener algún tipo de ascensores o escaleras automáticas en la zona del Bosque. La única manera de moverse es a pie y la única forma de transportar carga es en mochilas o rudimentarias carretillas y carros.
 
 ## Creación de espacios para tus aventuras
+
+[![Concept of SciFi Coridor 1920x1080 By Igor-Esaulov](./assests/images/concept_of_scifi_coridor_1920x1080_by_igor_esaulov_d6559vr-fullview.jpg "Concept of SciFi Coridor 1920x1080 By Igor-Esaulov")](https://www.deviantart.com/igor-esaulov/art/Concept-of-SciFi-Coridor-1920x1080-371441223 "Concept of SciFi Coridor 1920x1080 By Igor-Esaulov")
 
 ```
 El complejo de Nottingham es formado por miles sino millones de espacios con sus miles de tamaños, formas, accesos, mobiliario, iluminación, etc. 
@@ -2851,49 +2875,47 @@ Las siguientes reglas te permiten crear espacios de forma rápida y sencilla don
 
 El proceso de creación de un espacio se compone de 5 pasos. Cada paso supone una tabla con su tirada para poder definir y dibujar un espacio. Para hacer estas tiradas necesitarás los dados normales de SWAE y un d20.
 
+Estas tablas te permiten crear espacios públicos y abiertos, para definir rápidamente que se ve cuando se abre la puerta del ascensor o cuando se retira una alcantarilla y se sale. Los espacios privados como bares, tiendas, oficinas, deberían estar definidos por ti como DJ.
+
+Es perfecto para definir cada carta de una persecución, para darle un poco de color y que no sean simplemente acercarte o alejarse de tu perseguido/perseguido. Además permite interactuar con el espacio para que tus PJ puedan decir cosas como tiro la máquina de vending para que no pueda seguirnos los drones.
+
 1. Definir función de la zona, como sala de espera, pasillo, taller, vivienda, etc. Puedes también tirar un d20 si quieres crear un espacio al azar.
 2. Establecer el tamaño (d8)
-3. Establecer la forma (d8).
-3. Marcar accesos (puertas, ventanas y conductos) (d12).
-4. Establecer mobiliario (d10).
-5. Determinar el nivel de seguridad y sus elementos (d6). 
+3. Establecer la forma (d10).
+
+4. Marcar accesos (puertas, ventanas y conductos) (d20).
+5. Establecer mobiliario (d8).
+6. Determinar el nivel de seguridad (d6). 
 
 Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del espacio puede hacer que su tamaño pueda ser más grande de lo normal dando positivos o negativos a la tirada de Tamaño.
 
 |d20|Función del espacio|
 |---|------|
-|1|**Almacenaje:** Cuarto de las escobas, despensa, cámara frigorífica, almacén de materiales. **—3 a Tamaño del espacio**|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
-|7|XXX|
-|8|XXX|
-|9|XXX|
-|10|XXX|
-|11|XXX|
-|12|XXX|
-|13|XXX|
-|14|XXX|
-|15|XXX|
-|16|XXX|
-|17|XXX|
-|18|XXX|
-|19|XXX|
-|20|XXX|
+|1-5|**Intersección:** Pasillos, escaleras, escaleras automáticas, |
+|6-7|**Almacenaje:** Cuarto de las escobas, despensa, cámara frigorífica, almacén de materiales. **—3 a Tamaño del espacio**|
+|8-9|**Descanso:** Sala de espera, sala de descanso. **+2 a Tamaño del espacio**|
+|10-11|**Suministros:** Salas de calderas, salas de distribución de agua/gas/electricidad/red, cuarto de contadores. **—1 a Tamaño del espacio**|
+|12|**Alimentación:** Comedor, merendero, food court. **+2 a Tamaño del espacio**|
+|13|**Vending:** Zona de vending, árcade de juegos y casino. **+1 a Tamaño del espacio**|
+|14|**Higiene y WC:** Aseos, baños públicos, cambiadores de pañales. **—2 a Tamaño del espacio**|
+|15|**Esparcimiento:** Parques, campos deportivos, zonas de juegos. **+2 a Tamaño del espacio**|
+|16|**Mantenimiento**: Zona de carga y reparación de robots de mantenimiento y limpieza, cuarto de herramientas.|
+|17|**Sagrado:** Iglesias, mezquita, templo, cementerio, zona multiconfesional. **+3 a Tamaño del espacio**|
+|18|**Reunión:** Salas de reunión, tribunas públicas, pulpitos. **+3 a Tamaño del espacio**|
+|19|**Alcantarillado:** Colectores, sumideros, desagües, zonas de reciclaje, compactadores de basura. **-1 a Tamaño del espacio**|
+|20|**Sin función:** Callejón vacío, zona sin construir, en obras.|
 
 |d8|Tamaño del espacio|
 |---|------|
-|&lt;1|2 grupos de casillas de 2x1|
-|1|2 grupos de casillas de 3x1|
-|2|1 grupo de casillas de 3x1 + 1 grupo de casillas de 4x2|
+|&lt;1|2 grupos de casillas de 2x1. **-3 a Accesos**|
+|1|2 grupos de casillas de 3x1. **-2 a Accesos**|
+|2|1 grupo de casillas de 3x1 + 1 grupo de casillas de 4x2. **-1 a Accesos**|
 |3|2 grupos de casillas de 4x2|
 |4|1 grupo de casillas de 4x2 + 1 grupo de casillas de 6x3|
 |5|2 grupos de casillas de 6x3|
-|6|1 grupo de casillas de 6x3 + 1 grupo de casillas de 8x4|
-|7|2 grupos de casillas de 8x4|
-|8|3 grupos de casillas de 8x4|
+|6|1 grupo de casillas de 6x3 + 1 grupo de casillas de 8x4. **+1 a Accesos**|
+|7|2 grupos de casillas de 8x4. **+2 a Accesos**|
+|8|3 grupos de casillas de 8x4. **+3 a Accesos**|
 
 |d10|Forma del espacio|
 |---|------|
@@ -2907,44 +2929,52 @@ Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del
 
 ![Formas de espacios](./assests/images/forma-espacios.jpg "Formas de espacios")
 
-|d12|Accesos|
+|d20|Accesos *|
 |---|------|
-|1|XXX|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
-|7|XXX|
-|8|XXX|
-|9|XXX|
-|10|XXX|
-|11|XXX|
-|12|XXX|
+|1|1 puerta|
+|2|1 puerta + 1 rejilla de acceso|
+|3|2 puertas|
+|4|2 puertas + 1 rejilla de acceso|
+|5|3 puertas|
+|6|3 puertas + 2 rejilla de acceso|
+|7|4 puertas|
+|8|4 puertas + 2 rejilla de acceso|
+|9|2 puertas + 1 rejilla de acceso + 1 montacargas|
+|10|1 puerta + 1 tubo de mantenimiento|
+|11|2 puertas + mostrador|
+|12|2 puertas + 1 tubo de mantenimiento|
+|13|3 puertas + 1 montacargas|
+|14|3 puertas + 1 tubo de mantenimiento|
+|15|4 puertas + 1 tubo de mantenimiento|
+|16|4 puertas + 1 montacargas|
+|17|1 puerta doble + 2 puertas|
+|18|2 puertas dobles + mostrador|
+|19|1 puerta + 3 rejillas|
+|20|2 puertas dobles + 2 puertas|
 
-|d10|Mobiliario|
+_&ast; Hay que distribuir las puertas entre las paredes, no debería haber paredes con dos puertas si hay paredes sin puertas. Se deben tratar de poner lo más alejadas posibles. Por ejemplo, en un pasillo, si hay dos puertas, deberían estar cada puerta en cada extremo._
+
+|d8|Mobiliario|
 |---|------|
-|1|XXX|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
-|7|XXX|
-|8|XXX|
-|9|XXX|
-|10|XXX|
+|1|Vacío|
+|2|Mobiliario nuevo o recién instalado|
+|3|Mobiliario muy viejo, pero en buenas condiciones|
+|4|Industrial, duro y resistente, pero nada bonito|
+|5|Calidad media|
+|6|Barato y frágil|
+|7|Material desvencijado y muy trotado|
+|8|Basura, restos de embalajes, basura de una fiesta|
 
-|d6|Nivel de seguridad|
+|d6|Nivel de seguridad &ast;|
 |---|------|
-|1|XXX|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
+|1|Zona crítica con seguridad extra|
+|2|Alta|
+|3|Media|
+|4|Baja|
+|5|Estropeada/En mantenimiento|
+|6|No existe|
 
-XXX
+_&ast; el nivel de seguridad lo marca la zona, pero si no quieres hacerlo aleatoriamente, puede tirar en la tabla._
 
 ### Espacios pregenerados
 
@@ -2952,7 +2982,7 @@ XXX
 Si no tienes tiempo para crear tus propios espacios puedes usar los pregenerados.
 ```
 
-Te recomendamos guardar tus espacios generados para reutilizarlos en otras ocasiones. Piensa que entro de la arcología hay miles de espacios muy parecidos y que igual solo se diferencian en la disposición de sus accesos o el mobiliario interno. Por ejemplo, la sala de espera de un dentista con una mesa donde está le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.
+Te recomendamos guardar tus espacios generados para reutilizarlos en otras ocasiones. Piensa que entro de la arcología hay miles de espacios muy parecidos y que igual solo se diferencian en la disposición de sus accesos o el mobiliario interno. Por ejemplo, la sala de espera de un cyber-médico con una mesa donde está le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.
 
 #### Pasillo
 
@@ -2963,6 +2993,18 @@ XXX
 XXX
 
 #### Callejón
+
+XXX
+
+#### Zona de ascensores
+
+XXX
+
+#### Cloaca
+
+XXX
+
+#### Parque/zona recreativa
 
 XXX
 
