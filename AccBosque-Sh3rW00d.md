@@ -28,6 +28,8 @@ Nottingham está en decadencia, tanto estructural, como económica y social. Est
 
 El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. También dejaron vigas, las tuberías de agua, luz y datos, pero sin estar rematados.
 
+[![Pulsating neon lines in darkness abstract purple light by pvproductions](./assests/images/pulsating-neon-lines-darkness-abstract-purple-light.jpg "Pulsating neon lines in darkness abstract purple light by pvproductions")](https://www.freepik.com/free-photo/pulsating-neon-lines-darkness-abstract-purple-light_423230986.htm "Pulsating neon lines in darkness abstract purple light by pvproductions")
+
 Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos y resto de elementos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal. 
 
 XXX

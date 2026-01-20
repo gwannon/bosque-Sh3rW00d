@@ -34,6 +34,9 @@ El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcol
 
 \sp
 
+[![Pulsating neon lines in darkness abstract purple light by pvproductions](./assests/images/pulsating-neon-lines-darkness-abstract-purple-light.jpg "Pulsating neon lines in darkness abstract purple light by pvproductions")](https://www.freepik.com/free-photo/pulsating-neon-lines-darkness-abstract-purple-light_423230986.htm "Pulsating neon lines in darkness abstract purple light by pvproductions")
+
+
 Las columnas de color marrón parecen los troncos de árboles y nanitos de construcción han ido creando sobre ellos y resto de elementos extrañas estructuras de material orgánico que le dan aún más aspecto vegetal. 
 
 XXX
@@ -44,6 +47,8 @@ Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea
 
 XXX
 
+\sc
+
 #### Directora J0hn y sus sheriffs
 
 XXX
@@ -53,8 +58,6 @@ XXX
 La directora R1c4rd es la anterior IA de Nottingham que fue trasladada al departamento de armamentística de la compañía. Se dice que era, a diferencia de la directora J0hn, justa y magnánima con les _notis_. Se recuerda con cariño los años de dirección de R1c4rd y se sueña con su regreso cuando ya no sea necesaria en el departamento bélico de la compañía.
 
 XXX
-
-\sc
 
 \sp
 
