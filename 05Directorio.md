@@ -735,7 +735,7 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 ### RLN (Radio libre de Nottingham)
 
-La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un podcast que de una radio tradicional.
+La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un pódcast que de una radio tradicional.
 
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
 
@@ -819,7 +819,7 @@ Mientras que la directora R1c4rd siempre respetó los consejos y sugerencias de 
 
 ### Moverse entre zonas
 
-Moverse por la zona de la arcología es fácil, simplemente has de tomar las plataformas o los ascensores necesarios. El tema complicado es moverse sin ser visto, por ejemplo, tratar de llegar ala zona alta sin pasar los controles de seguridad o huir a la parte baja y darle esquinazo a tus perseguidores.
+Moverse por la zona de la arcología es fácil, simplemente has de tomar las plataformas o los ascensores necesarios. El tema complicado es moverse sin ser visto, por ejemplo, tratar de llegar a la zona alta sin pasar los controles de seguridad o huir a la parte baja y darle esquinazo a tus perseguidores.
 
 Estas tareas deberían exigir alguna tirada de Pasillear para trazar la mejor ruta. Una buena tirada puede dar bonos a tiradas de sigilo para entrar sin ser visto o de esconderse o de correr para dar esquinazo a tus perseguidores.
 
@@ -833,7 +833,7 @@ Hay diferentes situaciones que pueden dar bonos:
 
 También puede haber situaciones que den negativos:
 
-* El nivel de seguridad de la zona debería afectar a la tirada de Pasillear. Colarse o salir de la zona Alta es muy complicado. Entrar en el Bosque es facil, solo debes conocer las rutas.
+* El nivel de seguridad de la zona debería afectar a la tirada de Pasillear. Colarse o salir de la zona Alta es muy complicado. Entrar en el Bosque es fácil, solo debes conocer las rutas.
 * Si hay disturbios o seguridad extras, puede ser más difícil trazar rutas seguras. 
 * Las obras de mantenimiento puede hacer que tengas problemas para definir una buena ruta.
 * Si tienen que moverse grandes grupos, también puede hacerlo más complicado.
@@ -847,7 +847,7 @@ Por último, las zonas están conectadas como hemos explicado antes, pero siempr
 
 Los accesos al bosque desde cualquier zona de la arcología son mucho y variados, con lo que J0hn ha desistido de vigilarlos o controlarlos. Simplemente trata de detectar las entradas ilegales y tratar de detener a los invasores del bosque antes de que lleven a cabo las fechorías para las que han entrado.
 
-Las salidas tampoco las controla. Siguen la política de «a enemigo que huye, puente de plata». Si abandonas la arcología, mucho mejor, menos escoria de la que preocuparse. Aunque si tratará de seguir en caso de secuestro o desaparición de personas importantes de clase alta. Si le hije de un rique blus, huya al bosque siguiendo sus ideales de libertad, seguramente un grupo de mercenarios o de sheriffs trate de impedirlo y de devolver a le vastague a sus progenitores.
+Las salidas tampoco las controla. Siguen la política de «a enemigo que huye, puente de plata». Si abandonas la arcología, mucho mejor, menos escoria de la que preocuparse. Aunque sí tratará de seguir en caso de secuestro o desaparición de personas importantes de clase alta. Si le hije de un rique blus, huya al bosque siguiendo sus ideales de libertad, seguramente un grupo de mercenarios o de sheriffs trate de impedirlo y de devolver a le vastague a sus progenitores.
 
 Claramente, no hay transporte público en el Bosque, no hay ni interés, ni instalaciones ni recursos para mantener algún tipo de ascensores o escaleras automáticas en la zona del Bosque. La única manera de moverse es a pie y la única forma de transportar carga es en mochilas o rudimentarias carretillas y carros.
 
@@ -873,7 +873,7 @@ El proceso de creación de un espacio se compone de 5 pasos. Cada paso supone un
 
 Estas tablas te permiten crear espacios públicos y abiertos, para definir rápidamente que se ve cuando se abre la puerta del ascensor o cuando se retira una alcantarilla y se sale. Los espacios privados como bares, tiendas, oficinas, deberían estar definidos por ti como DJ.
 
-Es perfecto para definir cada carta de una persecución, para darle un poco de color y que no sean simplemente acercarte o alejarse de tu perseguido/perseguido. Además permite interactuar con el espacio para que tus PJ puedan decir cosas como tiro la máquina de vending para que no pueda seguirnos los drones.
+Es perfecto para definir cada carta de una persecución, para darle un poco de color y que no sean simplemente acercarte o alejarse de tu perseguido/perseguido. Además, permite interactuar con el espacio para que tus PJ puedan decir cosas como tiro la máquina de vending para que no pueda seguirnos los drones.
 
 1. Definir función de la zona, como sala de espera, pasillo, taller, vivienda, etc. Puedes también tirar un d20 si quieres crear un espacio al azar.
 2. Establecer el tamaño (d8)
@@ -1002,7 +1002,7 @@ _&ast; el nivel de seguridad lo marca la zona, pero si no quieres hacerlo aleato
 Si no tienes tiempo para crear tus propios espacios puedes usar los pregenerados.
 ```
 
-Te recomendamos guardar tus espacios generados para reutilizarlos en otras ocasiones. Piensa que entro de la arcología hay miles de espacios muy parecidos y que igual solo se diferencian en la disposición de sus accesos o el mobiliario interno. Por ejemplo, la sala de espera de un cyber-médico con una mesa donde está le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.
+Te recomendamos guardar tus espacios generados para reutilizarlos en otras ocasiones. Piensa que entro de la arcología hay miles de espacios muy parecidos y que igual solo se diferencian en la disposición de sus accesos o el mobiliario interno. Por ejemplo, la sala de espera de une ciber-médique con una mesa donde está le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.
 
 \sp
 
