@@ -677,8 +677,6 @@ Si no has caído bajo el influjo de la compañía y sus tretas, seguramente haya
 
 > Elige un hackeo que tenga como requisito Novate de la lista de hackeos de les instaladores, si no has elegido ninguno de los ciberimplantes que te ofrece la compañía.
 
-Los grupos _underground_ de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las máquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como «A» por «4» o «S» por «$», de forma que las máquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
-
 ## Arquetipos
 
 ```
@@ -2178,7 +2176,7 @@ En este taller desocupado puedes encontrar todo tipo de dianas y obstáculos y v
 
 Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas (y algunos el arco) es casi una filosofía de vida y como si de monjes shaolin se tratará entrenan día y noche para hacer los más increíbles tiros. El tiro con tiragomas es, además, para muches de elles un método de meditación e iluminación.
 
-Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
+Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas y el arco. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y el arco y no enseñará su estilo de combate a personajes de dudosa reputación.
 
 > Por unos **500 dólares en alijos** (que serán usados en mejorar el campo de tiro) y dos semanas de entrenamiento intensivo, mejorarás el valor de Disparar de le PJ en **un nivel de dado cuando combatas con tirachinas o arco** (puedes entrenar varias veces, pero con diferente arma). Tu valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
 
@@ -2192,7 +2190,7 @@ Cada viernes hay timbas de cartas sin límite que empiezan con el glitch de noch
 
 La clientela es muy variada, desde trabajadores de la algafactoría, hasta influencers atraídos por las emociones de participar en timbas de póker ilegales y de quizás ver algún criminal e incluso hacerse un reel con alguno de ellos. 
 
-Estas historias son difundidas por Esther, dueña del bar. Es cierto que alguna ocasión algún forajide famoso ha pasado la mona en el suelo del bar, pero no es algo muy común.
+Estas historias de forajidos son difundidas por Esther, dueña del bar. Es cierto que alguna ocasión algún forajide famoso ha pasado la mona en el suelo del bar, pero no es algo muy común.
 
 Las visitas de los sheriffs son frecuentes con lo que es un lugar a evitar, si eres un profugue de la ley.
 
@@ -2769,7 +2767,7 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 ### RLN (Radio libre de Nottingham)
 
-La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un podcast que de una radio tradicional.
+La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un pódcast que de una radio tradicional.
 
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
 
@@ -2839,7 +2837,7 @@ Mientras que la directora R1c4rd siempre respetó los consejos y sugerencias de 
 
 ### Moverse entre zonas
 
-Moverse por la zona de la arcología es fácil, simplemente has de tomar las plataformas o los ascensores necesarios. El tema complicado es moverse sin ser visto, por ejemplo, tratar de llegar ala zona alta sin pasar los controles de seguridad o huir a la parte baja y darle esquinazo a tus perseguidores.
+Moverse por la zona de la arcología es fácil, simplemente has de tomar las plataformas o los ascensores necesarios. El tema complicado es moverse sin ser visto, por ejemplo, tratar de llegar a la zona alta sin pasar los controles de seguridad o huir a la parte baja y darle esquinazo a tus perseguidores.
 
 Estas tareas deberían exigir alguna tirada de Pasillear para trazar la mejor ruta. Una buena tirada puede dar bonos a tiradas de sigilo para entrar sin ser visto o de esconderse o de correr para dar esquinazo a tus perseguidores.
 
@@ -2853,7 +2851,7 @@ Hay diferentes situaciones que pueden dar bonos:
 
 También puede haber situaciones que den negativos:
 
-* El nivel de seguridad de la zona debería afectar a la tirada de Pasillear. Colarse o salir de la zona Alta es muy complicado. Entrar en el Bosque es facil, solo debes conocer las rutas.
+* El nivel de seguridad de la zona debería afectar a la tirada de Pasillear. Colarse o salir de la zona Alta es muy complicado. Entrar en el Bosque es fácil, solo debes conocer las rutas.
 * Si hay disturbios o seguridad extras, puede ser más difícil trazar rutas seguras. 
 * Las obras de mantenimiento puede hacer que tengas problemas para definir una buena ruta.
 * Si tienen que moverse grandes grupos, también puede hacerlo más complicado.
@@ -2865,7 +2863,7 @@ Por último, las zonas están conectadas como hemos explicado antes, pero siempr
 
 Los accesos al bosque desde cualquier zona de la arcología son mucho y variados, con lo que J0hn ha desistido de vigilarlos o controlarlos. Simplemente trata de detectar las entradas ilegales y tratar de detener a los invasores del bosque antes de que lleven a cabo las fechorías para las que han entrado.
 
-Las salidas tampoco las controla. Siguen la política de «a enemigo que huye, puente de plata». Si abandonas la arcología, mucho mejor, menos escoria de la que preocuparse. Aunque si tratará de seguir en caso de secuestro o desaparición de personas importantes de clase alta. Si le hije de un rique blus, huya al bosque siguiendo sus ideales de libertad, seguramente un grupo de mercenarios o de sheriffs trate de impedirlo y de devolver a le vastague a sus progenitores.
+Las salidas tampoco las controla. Siguen la política de «a enemigo que huye, puente de plata». Si abandonas la arcología, mucho mejor, menos escoria de la que preocuparse. Aunque sí tratará de seguir en caso de secuestro o desaparición de personas importantes de clase alta. Si le hije de un rique blus, huya al bosque siguiendo sus ideales de libertad, seguramente un grupo de mercenarios o de sheriffs trate de impedirlo y de devolver a le vastague a sus progenitores.
 
 Claramente, no hay transporte público en el Bosque, no hay ni interés, ni instalaciones ni recursos para mantener algún tipo de ascensores o escaleras automáticas en la zona del Bosque. La única manera de moverse es a pie y la única forma de transportar carga es en mochilas o rudimentarias carretillas y carros.
 
@@ -2883,7 +2881,7 @@ El proceso de creación de un espacio se compone de 5 pasos. Cada paso supone un
 
 Estas tablas te permiten crear espacios públicos y abiertos, para definir rápidamente que se ve cuando se abre la puerta del ascensor o cuando se retira una alcantarilla y se sale. Los espacios privados como bares, tiendas, oficinas, deberían estar definidos por ti como DJ.
 
-Es perfecto para definir cada carta de una persecución, para darle un poco de color y que no sean simplemente acercarte o alejarse de tu perseguido/perseguido. Además permite interactuar con el espacio para que tus PJ puedan decir cosas como tiro la máquina de vending para que no pueda seguirnos los drones.
+Es perfecto para definir cada carta de una persecución, para darle un poco de color y que no sean simplemente acercarte o alejarse de tu perseguido/perseguido. Además, permite interactuar con el espacio para que tus PJ puedan decir cosas como tiro la máquina de vending para que no pueda seguirnos los drones.
 
 1. Definir función de la zona, como sala de espera, pasillo, taller, vivienda, etc. Puedes también tirar un d20 si quieres crear un espacio al azar.
 2. Establecer el tamaño (d8)
@@ -2988,7 +2986,7 @@ _&ast; el nivel de seguridad lo marca la zona, pero si no quieres hacerlo aleato
 Si no tienes tiempo para crear tus propios espacios puedes usar los pregenerados.
 ```
 
-Te recomendamos guardar tus espacios generados para reutilizarlos en otras ocasiones. Piensa que entro de la arcología hay miles de espacios muy parecidos y que igual solo se diferencian en la disposición de sus accesos o el mobiliario interno. Por ejemplo, la sala de espera de un cyber-médico con una mesa donde está le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.
+Te recomendamos guardar tus espacios generados para reutilizarlos en otras ocasiones. Piensa que entro de la arcología hay miles de espacios muy parecidos y que igual solo se diferencian en la disposición de sus accesos o el mobiliario interno. Por ejemplo, la sala de espera de une ciber-médique con una mesa donde está le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.
 
 #### Pasillo
 
@@ -3035,7 +3033,7 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales d10, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (Mayor, tiene un alterego encaapuchado que ayuda a los necesitados)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3048,9 +3046,9 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3063,9 +3061,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3078,9 +3076,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3093,9 +3091,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3108,9 +3106,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3123,9 +3121,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Micrófono inalámbrico de calidad con carcasa vintage, ropa ajustada y sexy, pero que permite moverse y bailar.
 
@@ -3140,9 +3138,9 @@ XXX
 > Se cuenta que Mamá Claire puede leer tu futuro en el gumbo, te echa una ración en tu plato y lee el gumbo. Es por ello que Mamá Claire tiene Ocultismo, por si quieres que les haga una predicción.
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Ocultismo d8,Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ocultismo d8, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3155,13 +3153,13 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
-> **Sugerencia de interpretación:** Ropas simples, arco recurvo y una sola flecha que lanza y recoge todo el rato.
+> **Sugerencia de interpretación:** Ropas simples, tirachinas de madera auténtica, arco recurvo y una sola flecha que lanza y recoge todo el rato.
 
 ## Esther, tabernera del Albión &#35;
 
@@ -3170,9 +3168,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3185,9 +3183,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
 
@@ -3198,10 +3196,13 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (Mayor, es la última instaladora que queda)
 * **Ventajas:** XXX
+* **Capacidades especiales:**
+  * **Última instaladora:** Sabe todos los hackeos que pidan nivel veterane o inferior. Por desgracia no conoce la clave de root, pero podría tener pistas.  
+  * **Longevidad:** Como sus compañeres instaladores tiene una increíble longevidad.
 * **Equipo:** XXX
 
 > **Sugerencia de interpretación:** XXX
@@ -3221,8 +3222,8 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adoran con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
 
 * **Atributos:** Astucia d8, Espíritu d12
-* **Habilidades:** Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4
-* **Desventajas:** XXX
+* **Habilidades:** Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4
+* **Desventajas:** XXX, Secreto (Mayor, es un fork de la directora R1c4rd)
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
@@ -3246,12 +3247,12 @@ Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el 
 
 > Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
-* **Ventajas:** XXX
-* **Equipo:** XXX
+* **Atributos:** Agilidad d4, Astucia d12, Espíritu d4, Fuerza d6, Vigor d4
+* **Habilidades:** Atletismo d4, Ciencias d12, Conocimientos Generales d12, Electrónica d8, Investigar d8, Humanidades d6, Idioma Inglés d12, Medicina d8, Notar d4, Ordenadores d8, Persuadir d4, Reparar d6, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 4
+* **Desventajas:** Cobarde, Despistado (Mayor), Apocado (Mayor), Fobia social (Mayor), Secreto (Menor, era un importante científico que desarrollo un sistema para sacar cafeína de las algas)
+* **Ventajas:** Alijos, Erudito (Ciencias), Afortunado, Acaparador
+* **Equipo:** Maletín con diferentes pócimas, material de laboratorio como hisopos o tiras de papel tornasol, guantes de goma y pinzas de laboratorio
 
 > **Sugerencia de interpretación:** Herramientas de jardinería (tijeras de podar, pala, semilleros, cuerda, etc.) y equipo científico (probetas, placas petri, pinzas, mechero bunchen, etc.). 1d4 botes de zumo estimulante (otorga un nivel de dado a FUE o VIG durante una hora).
 
@@ -3272,15 +3273,14 @@ Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su tr
 El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
 * **Atributos:** Astucia d12, Espíritu d6
-* **Habilidades:** Conocimientos Generales d12, Idioma Inglés dXXX, Notar d4, Persuadir d4
-* **Desventajas:** XXX
+* **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
   * **Predicción de rutinas:** Si quiere y le caes bien, puede darte una predicción sobre algún tipo de suceso en el futuro cercano a partir del estudio de los patrones y las rutinas de la gente de Nottingham durante siglos. No es muy precisa, no puede darte hora y persona, pero puede darte ideas generales, como un _blus_ va a tener un accidente o va a haber revueltas en la Plaza Mayor. 
   * **Bancos de memoria:** Si quiere y le caes bien, puede darte información sobre sucesos que hayan sucedido desde que fue iniciada hace ya 200 años. Tienen que ser cosas públicas no pueden darte información de sucesos ocurridos en espacios privados. 
-
 * **Área de actuación:** Ascensores, montacargas, puertas, escaleras automáticas, cintas transportadoras etc. del sistema público de transporte. Esto incluye también todo tipo de sensores, cámaras, micrófonos, etc. que estos tengan.
 
 > **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.

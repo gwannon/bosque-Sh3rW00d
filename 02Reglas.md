@@ -54,6 +54,8 @@ Los secretos es algo muy común entre les personajes de las historias de Robin H
 
 Los ciberimplantes son algo normal entre les _notis_, sobre todo desde que la compañía ofrece implantes gratis para mejorar tu productividad. La compañía solo financia implantes legales y que estén relacionados con la profesión de su empleade.
 
+\sc
+
 > Opcionalmente, puedes tener un **implante cualquier tipo, pero solo de valor 1 y legal**.
 
 [![Fork Bomb (one dark) By fuzzyfox0](./assests/images/fork_bomb__one_dark__by_fuzzyfox0_dbhsi7i-fullview.jpg "Fork Bomb (one dark) By fuzzyfox0")](https://www.deviantart.com/fuzzyfox0/art/Fork-Bomb-one-dark-695011374 "Fork Bomb (one dark) By fuzzyfox0")
@@ -63,8 +65,6 @@ Los ciberimplantes son algo normal entre les _notis_, sobre todo desde que la co
 Si no has caído bajo el influjo de la compañía y sus tretas, seguramente hayas aprendido algún hackeo de les instaladores.
 
 > Elige un hackeo que tenga como requisito Novate de la lista de hackeos de les instaladores, si no has elegido ninguno de los ciberimplantes que te ofrece la compañía.
-
-Los grupos _underground_ de Nottingham usan un lenguaje escrito llamado Leet que busca complicar a las máquinas el reconocimiento de textos. Se intercambian caracteres por otros de forma similar como «A» por «4» o «S» por «$», de forma que las máquinas tengan problemas al leerlo, pero tú puedes interpretarlo fácilmente.
 
 \sp
 

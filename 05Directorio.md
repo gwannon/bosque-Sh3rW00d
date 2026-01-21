@@ -70,7 +70,7 @@ En este taller desocupado puedes encontrar todo tipo de dianas y obstáculos y v
 
 Para algunas de las personas que asisten a este pequeño campo de tiro el tirachinas (y algunos el arco) es casi una filosofía de vida y como si de monjes shaolin se tratará entrenan día y noche para hacer los más increíbles tiros. El tiro con tiragomas es, además, para muches de elles un método de meditación e iluminación.
 
-Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y no enseñará su estilo de combate a personajes de dudosa reputación.
+Gus, el primer tirador de la escuela, es un maestro _zen_ del disparo de tirachinas y el arco. Con los años ha desarrollado un código ético y moral que ha fusionado con la destreza con el tirachinas y el arco y no enseñará su estilo de combate a personajes de dudosa reputación.
 
 \sp
 
@@ -86,7 +86,7 @@ Cada viernes hay timbas de cartas sin límite que empiezan con el glitch de noch
 
 La clientela es muy variada, desde trabajadores de la algafactoría, hasta influencers atraídos por las emociones de participar en timbas de póker ilegales y de quizás ver algún criminal e incluso hacerse un reel con alguno de ellos. 
 
-Estas historias son difundidas por Esther, dueña del bar. Es cierto que alguna ocasión algún forajide famoso ha pasado la mona en el suelo del bar, pero no es algo muy común.
+Estas historias de forajidos son difundidas por Esther, dueña del bar. Es cierto que alguna ocasión algún forajide famoso ha pasado la mona en el suelo del bar, pero no es algo muy común.
 
 Las visitas de los sheriffs son frecuentes con lo que es un lugar a evitar, si eres un profugue de la ley.
 

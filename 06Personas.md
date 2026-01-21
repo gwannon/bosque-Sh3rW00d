@@ -21,7 +21,7 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales d10, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (Mayor, tiene un alterego encaapuchado que ayuda a los necesitados)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -40,9 +40,9 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -61,9 +61,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -82,9 +82,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -103,9 +103,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -124,9 +124,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -145,9 +145,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Micrófono inalámbrico de calidad con carcasa vintage, ropa ajustada y sexy, pero que permite moverse y bailar.
 
@@ -168,9 +168,9 @@ XXX
 > Se cuenta que Mamá Claire puede leer tu futuro en el gumbo, te echa una ración en tu plato y lee el gumbo. Es por ello que Mamá Claire tiene Ocultismo, por si quieres que les haga una predicción.
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Ocultismo d8,Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ocultismo d8, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -189,13 +189,13 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
-> **Sugerencia de interpretación:** Ropas simples, arco recurvo y una sola flecha que lanza y recoge todo el rato.
+> **Sugerencia de interpretación:** Ropas simples, tirachinas de madera auténtica, arco recurvo y una sola flecha que lanza y recoge todo el rato.
 
 \sp
 
@@ -210,9 +210,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -231,9 +231,9 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
 
@@ -250,10 +250,13 @@ XXX
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (Mayor, es la última instaladora que queda)
 * **Ventajas:** XXX
+* **Capacidades especiales:**
+  * **Última instaladora:** Sabe todos los hackeos que pidan nivel veterane o inferior. Por desgracia no conoce la clave de root, pero podría tener pistas.  
+  * **Longevidad:** Como sus compañeres instaladores tiene una increíble longevidad.
 * **Equipo:** XXX
 
 > **Sugerencia de interpretación:** XXX
@@ -279,8 +282,8 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adoran con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
 
 * **Atributos:** Astucia d8, Espíritu d12
-* **Habilidades:** Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4
-* **Desventajas:** XXX
+* **Habilidades:** Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4
+* **Desventajas:** XXX, Secreto (Mayor, es un fork de la directora R1c4rd)
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
@@ -314,12 +317,12 @@ Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el 
 
 \sp
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
-* **Ventajas:** XXX
-* **Equipo:** XXX
+* **Atributos:** Agilidad d4, Astucia d12, Espíritu d4, Fuerza d6, Vigor d4
+* **Habilidades:** Atletismo d4, Ciencias d12, Conocimientos Generales d12, Electrónica d8, Investigar d8, Humanidades d6, Idioma Inglés d12, Medicina d8, Notar d4, Ordenadores d8, Persuadir d4, Reparar d6, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 4
+* **Desventajas:** Cobarde, Despistado (Mayor), Apocado (Mayor), Fobia social (Mayor), Secreto (Menor, era un importante científico que desarrollo un sistema para sacar cafeína de las algas)
+* **Ventajas:** Alijos, Erudito (Ciencias), Afortunado, Acaparador
+* **Equipo:** Maletín con diferentes pócimas, material de laboratorio como hisopos o tiras de papel tornasol, guantes de goma y pinzas de laboratorio
 
 > **Sugerencia de interpretación:** Herramientas de jardinería (tijeras de podar, pala, semilleros, cuerda, etc.) y equipo científico (probetas, placas petri, pinzas, mechero bunchen, etc.). 1d4 botes de zumo estimulante (otorga un nivel de dado a FUE o VIG durante una hora).
 
@@ -331,32 +334,31 @@ Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el 
 
 [![For Jess By GraffMX](./assests/images/for_jess_by_graffmx_d5qpxus-375w-2x.jpg "For Jess By GraffMX")](https://www.deviantart.com/graffmx/art/For-Jess-347211172 "For Jess By GraffMX")
 
+\sc
+
 Al1enOR es la IA más antigua que hay en la arcología, mucho más antigua que J0hn y R1c4rd. De hecho, su primera instancia controla el primer montacargas que les instaladores hicieron funcionar.
 
 Aunque es muy mayor es bastante moderna, está muy conectada con les _notis_ y lleva conociendo y trabajando para ellos desde hace cientos de años. Sabe las historias de muchos, sabe cuando están bien cuando están enfermos, cuando pasa algo especial, por sus rutinas de desplazamiento. Nadie conoce estas capacidades, pero poder acceder ellas supondría mucho poder dentro de Nottingham.
 
 También lleva en Nottingham desde el principio por lo que es una base de datos muy interesante de acontecimientos pasados, el problema es que siempre es desde el punto de vista del transporte y, por tanto, la información que puede darte debe ser filtrada e interpretada.
 
+\sp
+
 Ama y odia a les habitantes del complejo por igual. Observarlos y trabajar para ellos y la tienen entretenida, pero también son los que rompen sus instalaciones, los que pintarrajean sus puertas, rompen sus botones, etc. y eso hace que su trabajo sea más duro y complicado.
 
 Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su trabajo las 24 horas del día y se presiona mucho a sí misma. Sabe que si no hace bien su trabajo todo el complejo se para y eso no puede parar.
 
-\sp
-
 El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
 * **Atributos:** Astucia d12, Espíritu d6
-* **Habilidades:** Conocimientos Generales d12, Idioma Inglés dXXX, Notar d4, Persuadir d4
-* **Desventajas:** XXX
+* **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
+* **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
   * **Predicción de rutinas:** Si quiere y le caes bien, puede darte una predicción sobre algún tipo de suceso en el futuro cercano a partir del estudio de los patrones y las rutinas de la gente de Nottingham durante siglos. No es muy precisa, no puede darte hora y persona, pero puede darte ideas generales, como un _blus_ va a tener un accidente o va a haber revueltas en la Plaza Mayor. 
   * **Bancos de memoria:** Si quiere y le caes bien, puede darte información sobre sucesos que hayan sucedido desde que fue iniciada hace ya 200 años. Tienen que ser cosas públicas no pueden darte información de sucesos ocurridos en espacios privados. 
-
-\sc
-
 * **Área de actuación:** Ascensores, montacargas, puertas, escaleras automáticas, cintas transportadoras etc. del sistema público de transporte. Esto incluye también todo tipo de sensores, cámaras, micrófonos, etc. que estos tengan.
 
 > **Sugerencia de interpretación:** Estás muy estresada, habla rápido, mira el reloj y trata de evitar todo tipo de conversación trivial. No tienes tiempo para trivialidades, tienes mucho trabajo que hacer y mucho que controlar.
