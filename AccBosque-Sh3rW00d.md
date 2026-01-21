@@ -1503,7 +1503,7 @@ Los implantes pueden ser considerados legales o ilegales. Los legales puedes lle
 
 En muchas ambientaciones los implantes de Armadura serían ilegales, pero une policíe podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
 
-Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo post-apocalíptico realmente no importaría si son legales o no.
+Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo postapocalíptico realmente no importaría si son legales o no.
 
 Los implantes ilegales no pueden ser instalados en sitios normales y tendrás que recurrir a doctores sin licencia o de la mafia. En el bosque hay gente capaz de instalarte implantes legales e ilegales, pero normalmente deberás conseguirlos y llevárselos para que te los instalen.
 
@@ -1701,12 +1701,16 @@ Así pues, el uso de nanitos en entidades biológicas está reservado a la exper
 
 ### Restos de nanotecnología
 
-XXX
+Cuando les instaladores dejaron repentinamente Nottingham, se llevaron casi toda la nanotecnología con ellos, pero se dejaron restos dispersos por toda la arcología. Normalmente son grupos defectuosos que no obedecieron la orden de retirarse de les instaladores y se quedaron haciendo las últimas órdenes que recibieron.
 
-Actualmente, hay pocos restos de nanotecnología en Nottingham, pero todavía queda algunos.
+De hecho, muchas de las **leyendas urbanas de sucesos menores son atribuidos a los nanitos**. Desaparecen unas pintadas, las han limpiado los nanitos, desaparecen las bombillas de toda una zona, se las han llevado los nanitos, cambia el color de los leds de un ascensor, los nanitos. 
+
+Actualmente, los restos de nanotecnología activos en Nottingham son los siguientes.
 
 * Las historias cuentan que en **el pozo (Zona baja)** aún queda resto de nanobots en el fondo, pero nadie ha querido comprobarlo.
 * **La rayuela fantasma (Zona baja)** de la que hablan les niñes tiene su origen en un grupo de nanitos que se han quedado en un bucle infinito.
+
+* Varios **grupos de científiques** al servicio de empresas y de la propia directora J0hn **tienen muestras de la nanotecnología** de les instaladores y que tratan de replicar. Ofrecen gran cantidad de dinero por muestras de nanotecnología frescas a poder ser mutadas o desviantes. También pagan buenas cantidades por muestras de otros grupos científicos para robar sus desarrollos y descubrimientos.
 
 ### Nanotecnología en el bosque
 
@@ -3028,9 +3032,9 @@ XXX
 
 Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campeón de personas indefensas que habían aceptado duelos de _blus_ e _influencers_ abusones. Se presenta con ropa de corte militar y una sudadera de camuflaje con gran capucha que esconde su cara y por ahora ha salido victoriosa, que no ilesa de todos esos duelos. 
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d4, Conocimientos Generales d10, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -3123,7 +3127,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
-* **Equipo:** Micrófono inalámbrico de calidad con carcasa vintage, ropa ajustada y sexy, pero que permite moverse y bailar
+* **Equipo:** Micrófono inalámbrico de calidad con carcasa vintage, ropa ajustada y sexy, pero que permite moverse y bailar.
 
 > **Sugerencia de interpretación:** Eres una de las personas más egocéntricas que existe, solo hablas de ti misma e incluso interrumpes las conversaciones de otros para hablar de ti. Reconduces las conversaciones para poder meter tus anécdotas de conciertos y actuaciones donde sueles brillar.
 
@@ -3206,7 +3210,7 @@ XXX
 
 [![Digital Caracter By GraffMX](./assests/images/digital_caracter_by_graffmx_d552on4-375w-2x.jpg "Digital Caracter By GraffMX")](https://www.deviantart.com/graffmx/art/Digital-Caracter-310854208 "Digital Caracter By GraffMX")
 
-Alfonse es una IA tremendamente interesante. Por un lado, es el único locutor de la RLN y por otro es un fork de la directora R1c4rd, una especie de hije bastarde. No está claro su origen, tal vez sea una copia de seguridad robada, un fork de R1c4rd que hizo de si misma para ver como sería si no hubiera sido una IA directora o tan solo una broma de les programadores que crearon a R1c4rd.
+Alfonse es una IA tremendamente interesante. Por un lado, es el único locutor de la RLN y por otro es un fork de la directora R1c4rd, una especie de hije bastarde. No está claro su origen, tal vez sea una copia de seguridad robada, un fork de R1c4rd que hizo de sí misma para ver como sería si no hubiera sido una IA directora o tan solo una broma de les programadores que crearon a R1c4rd.
 
 Alfonse se encuentra distribuido entre un primer wifi que hay el bosque y los wifis piratas que hay por todo el complejo. Su capacidad de procesamiento crece o merma según aumentan los wifis piratas. De hecho, es más lista y anticapitalista según tiene más wifis piratas.
 
@@ -3217,7 +3221,7 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adoran con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
 
 * **Atributos:** Astucia d8, Espíritu d12
-* **Habilidades:** Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Conocimientos Generales dXXX, Idioma Inglés dXXX, Notar d4, Persuadir d4
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Capacidades especiales:**
@@ -3261,20 +3265,20 @@ Aunque es muy mayor es bastante moderna, está muy conectada con les _notis_ y l
 
 También lleva en Nottingham desde el principio por lo que es una base de datos muy interesante de acontecimientos pasados, el problema es que siempre es desde el punto de vista del transporte y, por tanto, la información que puede darte debe ser filtrada e interpretada.
 
-Ama y odia a les habitantes del complejo por igual. Observarlos y trabajar para ellos y la tienen entretenida, pero también son los que rompen sus instalaciones, los que pintarrejan sus puertas, rompen sus botones, etc. y eso hace que su trabajo sea más duro y complicado.
+Ama y odia a les habitantes del complejo por igual. Observarlos y trabajar para ellos y la tienen entretenida, pero también son los que rompen sus instalaciones, los que pintarrajean sus puertas, rompen sus botones, etc. y eso hace que su trabajo sea más duro y complicado.
 
 Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su trabajo las 24 horas del día y se presiona mucho a sí misma. Sabe que si no hace bien su trabajo todo el complejo se para y eso no puede parar.
 
 El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
 * **Atributos:** Astucia d12, Espíritu d6
-* **Habilidades:** Conocimientos Generales d12, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Conocimientos Generales d12, Idioma Inglés dXXX, Notar d4, Persuadir d4
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
-  * **Predicción de rutinas:** Si quiere y le caes bien, puede darte una predicción sobre algún tipo de suceso en el futuro cercano a partir del estudio de los patrones y las rutinas de la gente de Nottingham durante siglos. No es muy precisa, no puede darte hora y persona, pero puede darte ideas generales, como un _blus_ vaa tener un accidente o va a haber revueltas en la Plaza Mayor. 
+  * **Predicción de rutinas:** Si quiere y le caes bien, puede darte una predicción sobre algún tipo de suceso en el futuro cercano a partir del estudio de los patrones y las rutinas de la gente de Nottingham durante siglos. No es muy precisa, no puede darte hora y persona, pero puede darte ideas generales, como un _blus_ va a tener un accidente o va a haber revueltas en la Plaza Mayor. 
   * **Bancos de memoria:** Si quiere y le caes bien, puede darte información sobre sucesos que hayan sucedido desde que fue iniciada hace ya 200 años. Tienen que ser cosas públicas no pueden darte información de sucesos ocurridos en espacios privados. 
 
 * **Área de actuación:** Ascensores, montacargas, puertas, escaleras automáticas, cintas transportadoras etc. del sistema público de transporte. Esto incluye también todo tipo de sensores, cámaras, micrófonos, etc. que estos tengan.

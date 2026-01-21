@@ -130,7 +130,7 @@ Los implantes pueden ser considerados legales o ilegales. Los legales puedes lle
 
 En muchas ambientaciones los implantes de Armadura serían ilegales, pero une policíe podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
 
-Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo post-apocalíptico realmente no importaría si son legales o no.
+Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo postapocalíptico realmente no importaría si son legales o no.
 
 Los implantes ilegales no pueden ser instalados en sitios normales y tendrás que recurrir a doctores sin licencia o de la mafia. En el bosque hay gente capaz de instalarte implantes legales e ilegales, pero normalmente deberás conseguirlos y llevárselos para que te los instalen.
 
@@ -376,16 +376,24 @@ Así pues, el uso de nanitos en entidades biológicas está reservado a la exper
 
 ### Restos de nanotecnología
 
-XXX
+Cuando les instaladores dejaron repentinamente Nottingham, se llevaron casi toda la nanotecnología con ellos, pero se dejaron restos dispersos por toda la arcología. Normalmente son grupos defectuosos que no obedecieron la orden de retirarse de les instaladores y se quedaron haciendo las últimas órdenes que recibieron.
 
-Actualmente, hay pocos restos de nanotecnología en Nottingham, pero todavía queda algunos.
+De hecho, muchas de las **leyendas urbanas de sucesos menores son atribuidos a los nanitos**. Desaparecen unas pintadas, las han limpiado los nanitos, desaparecen las bombillas de toda una zona, se las han llevado los nanitos, cambia el color de los leds de un ascensor, los nanitos. 
+
+Actualmente, los restos de nanotecnología activos en Nottingham son los siguientes.
 
 * Las historias cuentan que en **el pozo (Zona baja)** aún queda resto de nanobots en el fondo, pero nadie ha querido comprobarlo.
 * **La rayuela fantasma (Zona baja)** de la que hablan les niñes tiene su origen en un grupo de nanitos que se han quedado en un bucle infinito.
 
+\sp
+
+* Varios **grupos de científiques** al servicio de empresas y de la propia directora J0hn **tienen muestras de la nanotecnología** de les instaladores y que tratan de replicar. Ofrecen gran cantidad de dinero por muestras de nanotecnología frescas a poder ser mutadas o desviantes. También pagan buenas cantidades por muestras de otros grupos científicos para robar sus desarrollos y descubrimientos.
+
 ### Nanotecnología en el bosque
 
 XXX
+
+\sc
 
 \sp
 
