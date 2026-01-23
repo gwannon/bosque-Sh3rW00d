@@ -106,3 +106,5 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1920x1080 Wallpaper Desktop By siulzz\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPulsating neon lines in darkness abstract purple light by pvproductions\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFor Jess By GraffMX\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFork Bomb (one dark) By fuzzyfox0\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRollerblade By HikaReki\\E$"}

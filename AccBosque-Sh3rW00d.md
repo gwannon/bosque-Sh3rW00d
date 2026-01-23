@@ -767,7 +767,7 @@ Te debes a tu juramento hipocrático, que está por encima de cualquier otra cos
 
 Dentro de este arquetipo se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.
 
-Tu medio siempre será _underground_, fuera de los canales oficiales que están pagados por la directora J0hn. Escribes en su blog, hablas en un pódcast o lanzas a la red todo tipo de videos.
+Tu medio siempre será _underground_, fuera de los canales oficiales que están pagados por la directora J0hn. Escribes en su blog, hablas en un podcast o lanzas a la red todo tipo de videos.
 
 Sabes que el escándalo y el morbo vende y es la única manera de que tu contenido se viralice. Por eso siempre rodeas a tus denuncias de una capa de periodismo amarillo.
 
@@ -1172,13 +1172,13 @@ Este hackeo **vale para puertas simples**. Aquellas con cerraduras, sensores bio
 
 **Requisitos:** Experimentade, Llamar ascensor
 
-**Jerga:** XXX
+**Jerga:** Maldita música de ascensor
 
-XXX
+Permite hacer cosas con los montacargas, ascensores y escaleras mecánicas fuera de su programación normal, pero sin salirse de sus parámetros de seguridad.
 
-* XXX
-* XXX
-* XXX
+* **Acelerar/decelerar las velocidad de montacargas, ascensores** y escaleras mecánicas dentro de unos parámetros seguros.
+* **Parar en mitad de pisos** de manera que se pueda acceder a conductos y pasillos de servicios que estén en esas alturas.
+* **Aumentar los valores de seguridad de manera que sean más restrictivos.** Por ejemplo, bajar el límite de peso máximo para que solo puede usarlo un sheriff en vez de dos. 
 
 ### Dominar iluminación
 
@@ -1222,11 +1222,13 @@ XXX
 
 **Jerga:** Grandes éxitos de la música de ascensor
 
-Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvaguardas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas. El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
+Una combinación de botones del panel interno de la caja del ascensor, te permite saltarte las salvaguardas de seguridad y de funcionamiento de un ascensor, desde soltar los frenos a trabar las puertas.
+
+El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
 * Puedes **desactivar los frenos de seguridad de un ascensor y dejarlo caer.** Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
 * Puedes **bloquear las puertas encerrando dentro a sus pasajeres** y evitando que entren desde fuera. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen. Puede ponerlo en movimiento para que sea más difícil acceder a él desde el techo.
-* Puedes **dejar ciertos programas preparados**, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
+* Puedes **dejar ciertos programas preparados**, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o siempre se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
 
 ### Dominar climatización
 
