@@ -562,7 +562,7 @@ XXX
 Les instaladores son el elemento místico que hay toda historía medieval. Les druides de las antiguas leyendas que viven en lo profundo de los bosque ofreciendo su poder y sabiduría a les heroines.
 ```
 
-Les instaladores son les constructores primigenies de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 80 años y no se sabe por qué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
+Les instaladores son les constructores primigenies de Nottingham que abandonaron la arcología antes de terminarla, como demuestra la existencia del bosque. La compañía se los llevó de Nottingham hace ya 180 años y no se sabe por qué, pero no es raro encontrar su tecnología, que, aun teniendo muchos años de antigüedad, es todavía muy superior y es muy apreciada y codiciada.
 
 [![Nanitesn By kcajd](./assests/images/nanites_by_kcajd_de9caux-pre.png "Nanitesn By kcajd")](https://www.deviantart.com/kcajd/art/Nanites-862216953 "Nanitesn By kcajd")
 
