@@ -727,15 +727,17 @@ XXX
 
 **Jerga:** Maestro de las llaves, Guardián de las puertas 
 
-XXX
+Ninguna puerta está a salvo de tus hackeos. Solo puertas desconectadas la red o con componente mecánicos como llaves o combinaciones, podrían darte problemas. Al ser de tan baja tecnología no pueden ser hackeadas. 
 
 * Usando este hackeo se pueden hacer los **hackeos de Controlar puertas pero controlando las puertas de seguridad con cerraduras**, o sensores biométricos.
-* XXX
 * Puedes **dejar ciertos programas preparados**, de manera que la puerta solo se activa frente a determinados gestos o colores, siempre emita fallos extraños o deje de funcionar para ciertas personas.
+* Puedes **afectar a varias puertas de la estancia**, de manera que interactúen entre ellas. Si se abre una se abren otras, si se cierra una se cierran todas.
 
 ### Dominar vigilancia
 
 **Requisitos:** Heróique, Controlar vigilancia
+
+\sp
 
 **Jerga:** Hablar con el gran hermano, El ojo que todo lo ve
 
@@ -744,8 +746,6 @@ Dominar los sistemas de vigilancia, mediante órdenes verbales y gestuales, perm
 * XXX
 * XXX
 * XXX
-
-\sp
 
 ### Clave de superusuarie
 
@@ -773,8 +773,6 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Controlar iluminación|Novate|Encender y apagar luces y otros efectos simples|
 |Llamar ascensor|Novate|Robar el ascensor a otras personas o mandarlo a un extremo de su ruta|
 |Controlar realidad aumentada|Novate|Controlar la información pública que la realidad aumentada proporciona|
-|Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
-|Controlar ascensor|Experimentade, Llamar ascensor|Te permite hacer cosas con el ascensor que sus salvaguardas normales no permiten, pero siempre desde dentro de él.|
 \conc
 
 \sp
@@ -783,6 +781,8 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
+|Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
+|Controlar ascensor|Experimentade, Llamar ascensor|Te permite hacer cosas con el ascensor que sus salvaguardas normales no permiten, pero siempre desde dentro de él.|
 |Dominar iluminación|Experimentade, Controlar iluminación|Permite controlar las luces de emergencia y similar y conseguir nuevos efectos que te benefician en situaciones de combate. |
 |Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
 |Dominar ascensor|Veterane, Controlar ascensor|Saltarse las salvaguardas de seguridad y de funcionamiento de un ascensor|
