@@ -1689,7 +1689,13 @@ Les instaladores eran sus grandes maestros y cuantos ellos se fueron sus inmenso
 
 ### La arcología de Nottingham
 
-XXX
+Como todo el mundo sabe en Nottingham, el lugar donde viven fue creado con nanotecnología hace 200 años. Los nanitos, dirigidos por les instaladores, crearon la gigantesca arcología de Nottingham. Hicieron los cimientos, las paredes, las ventanas, las columnas, suelos y techos, pero también el cableado de electricidad y datos de luz y datos, la fontanería, los ascensores, las escaleras normales y mecánicas, ... todo y a compañía lo fue llenando de lo único que no podían hacer los nanitos de seres humanos que nacieran, vivieran, murieran y sobre todo trabajaran y generaran beneficios. 
+
+Les instaladores excavaron un gigantesco agujero que llenaron de plasma de nanitos y empezaron a programarlos. Estos fueron cogiendo las materias primas que les proporcionaban y fueron levantando la gigantesca arcología de Nottingham. En unos meses ya había zonas habitables y en unos pocos años la gran mayoría del proyecto estaba acabada. Aún se puede visitar el agujero original, el conocido como «El pozo», en la parte baja de Nottingham.
+
+Con la marcha de les instaladores el proyecto quedo parado, pero quedó una inmensa zona de la que solo se había construido los cimientos, sin datos, sin cañerías sin ascensores. Esa zona fue clausurada y durante muchos años nadie se preocupó por ella.
+
+Es importante destacar que desde la marcha de les instaladores, no se han creado nuevas zonas, solo se ha mantenido como se ha podido las zonas que ya habían creado. Es decir que la mayoría de las estructuras de la arcología tienen unos 180 años y han tenido un mantenimiento en muchos casos deficientes. Así que la arcología aún se mantiene, pero o les instaladores vuelven a terminar su trabajo o la compañía deberá terminar por abandonar el complejo.
 
 ### Nanotecnología y seres vivos
 

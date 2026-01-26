@@ -362,7 +362,13 @@ Les instaladores eran sus grandes maestros y cuantos ellos se fueron sus inmenso
 
 ### La arcología de Nottingham
 
-XXX
+Como todo el mundo sabe en Nottingham, el lugar donde viven fue creado con nanotecnología hace 200 años. Los nanitos, dirigidos por les instaladores, crearon la gigantesca arcología de Nottingham. Hicieron los cimientos, las paredes, las ventanas, las columnas, suelos y techos, pero también el cableado de electricidad y datos de luz y datos, la fontanería, los ascensores, las escaleras normales y mecánicas, ... todo y a compañía lo fue llenando de lo único que no podían hacer los nanitos de seres humanos que nacieran, vivieran, murieran y sobre todo trabajaran y generaran beneficios. 
+
+Les instaladores excavaron un gigantesco agujero que llenaron de plasma de nanitos y empezaron a programarlos. Estos fueron cogiendo las materias primas que les proporcionaban y fueron levantando la gigantesca arcología de Nottingham. En unos meses ya había zonas habitables y en unos pocos años la gran mayoría del proyecto estaba acabada. Aún se puede visitar el agujero original, el conocido como «El pozo», en la parte baja de Nottingham.
+
+Con la marcha de les instaladores el proyecto quedo parado, pero quedó una inmensa zona de la que solo se había construido los cimientos, sin datos, sin cañerías sin ascensores. Esa zona fue clausurada y durante muchos años nadie se preocupó por ella.
+
+Es importante destacar que desde la marcha de les instaladores, no se han creado nuevas zonas, solo se ha mantenido como se ha podido las zonas que ya habían creado. Es decir que la mayoría de las estructuras de la arcología tienen unos 180 años y han tenido un mantenimiento en muchos casos deficientes. Así que la arcología aún se mantiene, pero o les instaladores vuelven a terminar su trabajo o la compañía deberá terminar por abandonar el complejo.
 
 ### Nanotecnología y seres vivos
 
@@ -370,7 +376,7 @@ Un hecho importante a tener en cuenta es que los nanitos no entienden a los sere
 
 Por decirlo de forma sencilla, cuando construyen una casa, la casa no se queja, ni está todo el rato moviéndose y cambiando de tamaño y forma y si lo hace es dentro de un entorno controlable. 
 
-\sc
+\sp
 
 Así pues, el uso de nanitos en entidades biológicas está reservado a la experimentación en laboratorios y todavía no habido grandes avances en esta tecnología. Salvo cosas muy puntuales como reparación de huesos o estimular de ciertas glándulas. En ambos casos los nanorobots solo tienen una única tarea y es muy simple, con lo que no les genera gran problema.
 
@@ -384,16 +390,11 @@ Actualmente, los restos de nanotecnología activos en Nottingham son los siguien
 
 * Las historias cuentan que en **el pozo (Zona baja)** aún queda resto de nanobots en el fondo, pero nadie ha querido comprobarlo.
 * **La rayuela fantasma (Zona baja)** de la que hablan les niñes tiene su origen en un grupo de nanitos que se han quedado en un bucle infinito.
-
-\sp
-
 * Varios **grupos de científiques** al servicio de empresas y de la propia directora J0hn **tienen muestras de la nanotecnología** de les instaladores y que tratan de replicar. Ofrecen gran cantidad de dinero por muestras de nanotecnología frescas a poder ser mutadas o desviantes. También pagan buenas cantidades por muestras de otros grupos científicos para robar sus desarrollos y descubrimientos.
 
 ### Nanotecnología en el bosque
 
 XXX
-
-\sc
 
 \sp
 
