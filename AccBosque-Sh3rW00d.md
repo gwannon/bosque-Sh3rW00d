@@ -1479,7 +1479,7 @@ Instalar implantes puede variar de unas horas a dos o tres días (uno de cirugí
 
 En caso de necesitar cirugía, **cualquier persona con Medicina y Reparar d8 o más podrá instalarlos**. Normalmente, puede haber pequeños chiringuitos en la zona baja de dudosa reputación donde te los pueden instalar o lujosos centros donde tomas un caro café mientras te reemplazan tu brazo por uno cibernético.
 
-> El tiempo de instalación de un ciberimplantes y si necesitan o no cirugía queda a tu discreción. Ajustalo a tu historia y tu mesa, aunque lo normal es que cuantos más puntos, más tiempo necesite. 1 punto medio día, 2 puntos un día, 3 puntos dos días, 4 puntos tres días, etc. Recuerda que los implantes se consiguen con avances, así que simplemente los obtienen al gastar el avance. La duración del proceso y la forma de instalarlo es por darle un poco de historia y trasfondo a un elemento tan interesante y llamativo.
+> El tiempo de instalación de un ciberimplantes y si necesitan o no cirugía queda a tu discreción. Ajústalo a tu historia y tu mesa, aunque lo normal es que cuantos más puntos, más tiempo necesite. 1 punto medio día, 2 puntos un día, 3 puntos dos días, 4 puntos tres días, etc. Recuerda que los implantes se consiguen con avances, así que simplemente los obtienen al gastar el avance. La duración del proceso y la forma de instalarlo es por darle un poco de historia y trasfondo a un elemento tan interesante y llamativo.
 
 ### Quitarse implantes
 
@@ -1501,7 +1501,7 @@ Los implantes pueden ser considerados legales o ilegales. Los legales puedes lle
 
 En muchas ambientaciones los implantes de Armadura serían ilegales, pero une policíe podría tenerlos como forma de defensa cuando patrulla y estarle permitido por la ley.
 
-Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo postapocalíptico realmente no importaría si son legales o no.
+Con cada lista de ciberimplantes planteamos si es legal, tómalo como una guía más que como una regla. En un ambiente civilizado las armas naturales serían ilegales, mientras que en un mundo post-apocalíptico realmente no importaría si son legales o no.
 
 Los implantes ilegales no pueden ser instalados en sitios normales y tendrás que recurrir a doctores sin licencia o de la mafia. En el bosque hay gente capaz de instalarte implantes legales e ilegales, pero normalmente deberás conseguirlos y llevárselos para que te los instalen.
 
@@ -1739,7 +1739,7 @@ La realidad aumentada está distribuida, no está almacenada en nuestro HUB de c
 
 Cada vez que entras en una tienda te descargas su catálogo y puedes identificar los productos y ver sus precios o estás en una reunión puedes descargarte las personas que están a su alrededor y una serie de datos públicos sobre ellas que sus HUB de conexión ofrecen públicamente.
 
-Los hackeos de los instaladores se aprovechan de estas descargas continuas de contenidos de los dispositivos de realidad aumentada para quitar información y poner información extra y/o falsa. De esta forma puedes engañar a la gente que está acostumbrada a que la realidad aumentada no le mienta.
+Los hackeos de los instaladores se aprovechan de estas descargas continuas de contenidos de los dispositivos de realidad aumentada para quitar información y poner información extra y/o falsa. De esta manera puedes engañar a la gente que está acostumbrada a que la realidad aumentada no le mienta.
 
 ### Realidad virtual
 
