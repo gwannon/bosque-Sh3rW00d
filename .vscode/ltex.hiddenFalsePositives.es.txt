@@ -108,3 +108,20 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFor Jess By GraffMX\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFork Bomb (one dark) By fuzzyfox0\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRollerblade By HikaReki\\E$"}
+{"rule":"AGREEMENT_DET_ADJ","sentence":"^\\QLas instalaciones del Corta Café, una cafetera express con capacidad para 16 tazas al mismo tiempo y chorro de vapor, una moledora de algas cafeteras, las tablets para pedir y las cámaras y los sensores.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QComedor, merendero, food court.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstablecer el tamaño (d8)\nEstablecer la forma (d10).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPor ejemplo, la sala de espera de une ciber-médique con una mesa donde está le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QPor ejemplo, la sala de espera de une ciber-médique con una mesa donde está le recepcioniste, puede usarse como una oficina municipal donde esperar tu turno para entregar algún formulario burocrático.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q◼▢▢▢▢▢◼br◼▢▢▢▢▢◼\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\Q◼br       ▢br◼▢▢▢◼br       ▢br       ◼\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q◼br       ▢br◼▢▢▢◼br       ▢br       ◼\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢▢◼br▢▢▢◼br▢▢br◼◼\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢▢▢▢▢◼br▢▢▢▢▢▢◼\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢◼◼◼▢▢br▢▢▢▢▢▢▢br◼▢▢▢▢▢◼br▢▢▢▢▢▢▢\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢▢▢◼br▢▢▢▢◼br▢▢br▢▢▢▢◼br▢▢▢▢◼\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\Q▢▢br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br          ▢▢\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br          ▢▢\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢▢◼▢▢▢br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br▢▢▢◼▢▢▢\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢▢▢▢br◼▢▢▢◼br▢▢▢▢▢br◼▢▢▢◼br▢▢▢▢▢\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢▢▢▢▢▢br▢🟏▢▢▢🟏▢br▢▢▢▢▢▢▢br▢🟏▢▢▢🟏▢br▢▢▢▢▢▢▢\\E$"}

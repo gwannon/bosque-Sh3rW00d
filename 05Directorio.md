@@ -736,7 +736,7 @@ Cualquier robot que se acerque a la casa de la bruja es infectado por lo nanitos
 
 ### RLN (Radio libre de Nottingham)
 
-La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un pódcast que de una radio tradicional.
+La RLN es una radio pirata que emite desde el bosque Sh3rW00d a todo complejo a través de un sistema wifi pirata. En realidad está más cerca de un podcast que de una radio tradicional.
 
 **Alfonse es el único locutor de la RLN** y se pasa 24 horas hablando de todo tipo de temas, pero la política local de Nottingham es uno de sus temas preferidos. Es claramente anticapitalista y muy muy de izquierdas, siendo muy crítico con la compañía y la directora J0hn. De ahí que los sheriffs le busquen para arrestarle.
 
@@ -850,7 +850,7 @@ Los accesos al bosque desde cualquier zona de la arcología son mucho y variados
 
 Las salidas tampoco las controla. Siguen la política de «a enemigo que huye, puente de plata». Si abandonas la arcología, mucho mejor, menos escoria de la que preocuparse. Aunque sí tratará de seguir en caso de secuestro o desaparición de personas importantes de clase alta. Si le hije de un rique blus, huya al bosque siguiendo sus ideales de libertad, seguramente un grupo de mercenarios o de sheriffs trate de impedirlo y de devolver a le vastague a sus progenitores.
 
-Claramente, no hay transporte público en el Bosque, no hay ni interés, ni instalaciones ni recursos para mantener algún tipo de ascensores o escaleras automáticas en la zona del Bosque. La única manera de moverse es a pie y la única forma de transportar carga es en mochilas o rudimentarias carretillas y carros.
+Claramente, no hay transporte público en el Bosque, no hay ni interés, ni instalaciones ni recursos para mantener algún tipo de ascensores o escaleras automáticas en la zona del Bosque. La única manera de moverse es a pie y la única manera de transportar carga es en mochilas o rudimentarias carretillas y carros.
 
 \sc
 
@@ -898,12 +898,12 @@ Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del
 |10-11|**Suministros:** Salas de calderas, salas de distribución de agua/gas/electricidad/red, cuarto de contadores. **—1 a Tamaño del espacio**|
 |12|**Alimentación:** Comedor, merendero, food court. **+2 a Tamaño del espacio**|
 |13|**Vending:** Zona de vending, árcade de juegos y casino. **+1 a Tamaño del espacio**|
-|14|**Higiene y WC:** Aseos, baños públicos, cambiadores de pañales. **—2 a Tamaño del espacio**|
+|14|**Higiene y aseo:** Aseos, baños públicos, cambiadores de pañales. **—2 a Tamaño del espacio**|
 |15|**Esparcimiento:** Parques, campos deportivos, zonas de juegos. **+2 a Tamaño del espacio**|
 |16|**Mantenimiento**: Zona de carga y reparación de robots de mantenimiento y limpieza, cuarto de herramientas.|
 |17|**Sagrado:** Iglesias, mezquita, templo, cementerio, zona multiconfesional. **+3 a Tamaño del espacio**|
 |18|**Reunión:** Salas de reunión, tribunas públicas, pulpitos. **+3 a Tamaño del espacio**|
-|19|**Alcantarillado:** Colectores, sumideros, desagües, zonas de reciclaje, compactadores de basura. **-1 a Tamaño del espacio**|
+|19|**Alcantarillado:** Colectores, sumideros, desagües, zonas de reciclaje, compactadores de basura. **—1 a Tamaño del espacio**|
 |20|**Sin función:** Callejón vacío, zona sin construir, en obras.|
 
 \conc
@@ -914,9 +914,9 @@ Diferentes pasos pueden modificar otros pasos, así por ejemplo, la función del
 
 |d8|Tamaño del espacio|
 |---|------|
-|&lt;1|2 grupos de casillas de 2x1. **-3 a Accesos**|
-|1|2 grupos de casillas de 3x1. **-2 a Accesos**|
-|2|1 grupo de casillas de 3x1 + 1 grupo de casillas de 4x2. **-1 a Accesos**|
+|&lt;1|2 grupos de casillas de 2x1. **—3 a Accesos**|
+|1|2 grupos de casillas de 3x1. **—2 a Accesos**|
+|2|1 grupo de casillas de 3x1 + 1 grupo de casillas de 4x2. **—1 a Accesos**|
 |3|2 grupos de casillas de 4x2|
 |4|1 grupo de casillas de 4x2 + 1 grupo de casillas de 6x3|
 |5|2 grupos de casillas de 6x3|
@@ -1007,26 +1007,50 @@ Te recomendamos guardar tus espacios generados para reutilizarlos en otras ocasi
 
 \sp
 
-#### Pasillo
+▢ Espacio vacío | ◼ Puerta | 🟏 Columna
 
-XXX
+#### Pasillo estrecho
 
-#### Descansillo
+◼▢▢▢▢▢◼
 
-XXX
+#### Pasillo amplio
+
+◼▢▢▢▢▢◼[br]◼▢▢▢▢▢◼
+
+#### Intersección de pasillo
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼[br]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▢[br]◼▢▢▢◼[br]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▢[br]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼
+
+#### Pasillo en L
+
+▢▢▢◼[br]▢▢▢◼[br]▢▢[br]◼◼
 
 #### Callejón
 
-XXX
+▢▢▢▢▢▢◼[br]▢▢▢▢▢▢◼
 
-#### Zona de ascensores
+#### Sala de espera
 
-XXX
+▢▢◼◼◼▢▢[br]▢▢▢▢▢▢▢[br]◼▢▢▢▢▢◼[br]▢▢▢▢▢▢▢
+
+\sc
+
+#### Descansillo
+
+▢▢▢▢◼[br]▢▢▢▢◼[br]▢▢[br]▢▢▢▢◼[br]▢▢▢▢◼
 
 #### Cloaca
 
-XXX
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▢▢[br]◼▢▢▢▢▢◼[br]◼▢▢▢▢▢◼[br]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▢▢
 
 #### Parque/zona recreativa
 
-XXX
+▢▢▢◼▢▢▢[br]◼▢▢▢▢▢◼[br]◼▢▢▢▢▢◼[br]◼▢▢▢▢▢◼[br]◼▢▢▢▢▢◼[br]▢▢▢◼▢▢▢
+
+#### Zona de ascensores
+
+▢▢▢▢▢[br]◼▢▢▢◼[br]▢▢▢▢▢[br]◼▢▢▢◼[br]▢▢▢▢▢
+
+#### Zona del bosque
+
+▢▢▢▢▢▢▢[br]▢🟏▢▢▢🟏▢[br]▢▢▢▢▢▢▢[br]▢🟏▢▢▢🟏▢[br]▢▢▢▢▢▢▢
