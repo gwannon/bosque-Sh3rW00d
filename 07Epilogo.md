@@ -40,6 +40,12 @@ Si voy a meterle muchas horas a esta ambientación quiero hacerlo con un RPG que
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://gwannon.com) y hablamos.
 
+### Si eres un fascista, háztelo mirar
+
+Estas palabras de Sirio Sesenra me representan y por eso las transcribo aquí.
+
+> Si eres una persona fascista, homófoba, lesbófoba, tránsfoba o racista te suplico que dejes este libro en el primer lugar que encuentres a mano y te vayas a buscar alguna consulta psicológica donde te ayuden a ser buena persona, alejándote del rol hasta lograr ese objetivo. **> **Por:** [Sirio Sesenra](https://bsky.app/profile/ssesenra.bsky.social) - Técnicas, consejos y trucos para jugar a rol 
+
 \sc
 
 ## Glosario de términos

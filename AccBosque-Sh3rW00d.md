@@ -1196,10 +1196,10 @@ Permite hacer cosas con los montacargas, ascensores y escaleras mecánicas fuera
 
 **Jerga:** Se acerca el invierno, Hazte un Elsa
 
-XXX
+Mediante interacciones con paneles de control de climatización o interactuando directamente con sus elementos como ventiladores, sensores de temperatura/humedad, puedes controlar la climatización de una habitación.
 
-* XXX
-* XXX
+* En general puedes hacer que la sala en la que estes los **sistemas de climatización se enciendan o se apaguen** cuando quieras o ante cierto tipo de gatillo como temperatura, humedad, número de personas en la habitación, etc. Pero siempre dentro de los parámetros normales y seguros de la climatización.
+* Puedes **inutilizar los sensores termográficos** de una sala subiendo o bajando la temperatura de la sala, sin que los sensores de seguridad se den cuenta de que la climatización está funcionando erróneamente.
 * XXX
 
 ### Controlar vigilancia
@@ -1234,11 +1234,11 @@ El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
 **Jerga:** ¡Dale caña a la ventilación!
 
-XXX
+Esta versión avanzada de Controlar Climatización, permite principalmente saltarse los niveles de seguridad de los aparatos de climatación y también permite usarlo durante el combate.
 
+* Puedes hacer las mismas acciones que con **Controlar Climatización pero saltándote los límites de seguridad** de la climatización y forzando sus límites. Aun así la climatización nunca podrá hacer daño a les ocupantes de la habitación, pero puedes intentar hacer algún tipo de truco como encender un ventilador para que distraiga a un oponente.
 * Puedes poner los **ventiladores a tal velocidad, más allá de lo seguro**, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
-* XXX
-* XXX
+* Puedes **controlar climatizaciones** en lugares especiales **con medias extras de seguridad** como salas de servidores refrigeradas.
 
 ### Dominar puertas
 
@@ -1288,10 +1288,6 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Controlar iluminación|Novate|Encender y apagar luces y otros efectos simples|
 |Llamar ascensor|Novate|Robar el ascensor a otras personas o mandarlo a un extremo de su ruta|
 |Controlar realidad aumentada|Novate|Controlar la información pública que la realidad aumentada proporciona|
-\conc
-
-|Hackeo|Requisitos|Descripción|
-|---|---|---|
 |Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
 |Controlar ascensor|Experimentade, Llamar ascensor|Te permite hacer cosas con el ascensor que sus salvaguardas normales no permiten, pero siempre desde dentro de él.|
 |Dominar iluminación|Experimentade, Controlar iluminación|Permite controlar las luces de emergencia y similar y conseguir nuevos efectos que te benefician en situaciones de combate. |
@@ -1300,6 +1296,10 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
 |Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
 |Dominar puertas|Veterane, Controlar puertas|Controlas puertas de seguridad y con cerraduras así como anulas sus sensores o programas ciertas rutinas|
+\conc
+
+|Hackeo|Requisitos|Descripción|
+|---|---|---|
 |Dominar vigilancia|Heróique, Controlar vigilancia|Dominar los sistemas de vigilancia, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 
@@ -3350,6 +3350,12 @@ Si voy a meterle muchas horas a esta ambientación quiero hacerlo con un RPG que
 ### Participar en el proyecto
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en BlueSky a [@Gwannon](https://gwannon.com) y hablamos.
+
+### Si eres un fascista, háztelo mirar
+
+Estas palabras de Sirio Sesenra me representan y por eso las transcribo aquí.
+
+> Si eres una persona fascista, homófoba, lesbófoba, tránsfoba o racista te suplico que dejes este libro en el primer lugar que encuentres a mano y te vayas a buscar alguna consulta psicológica donde te ayuden a ser buena persona, alejándote del rol hasta lograr ese objetivo. **> **Por:** [Sirio Sesenra](https://bsky.app/profile/ssesenra.bsky.social) - Técnicas, consejos y trucos para jugar a rol 
 
 ## Glosario de términos
 
