@@ -288,7 +288,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 **Aventuras en Bosque Sh3rW00d creado por [Gwannon](https://gwannon.com/)**
 
-XXX
+Aquí encontrarás una gran variedad de aventuras para poder jugar en la ambientación Bosque Sh3rW00d para el sistema Savage Worlds. Desde fugas de la cárcel a golpes y robos a concursos de tirachinas y duelos contra los sheriffs de la arcología de Nottingham.
 
 Este libro contiene:
 
