@@ -318,7 +318,15 @@ Los _forks_ son copias de una IA que se desarrollan independientemente y toman e
 
 #### Crear instancias
 
-XXX
+Las IA tienen la capacidad de hacer instancias suyas. Cada instancia creada come recursos de procesamiento a la IA original con lo que cada nueva instancia supone un -1 a todas las tiradas de todas las instancias y de la IA principal.
+
+Una IA que genera dos instancias tiene un -3 a todas sus instancias, pero puede trabajas en 3 tareas a la vez o hacer una tarea el triple de rápida. De hecho, las instancias pueden ayudarse entre ellas como si fueran personajes diferentes, siguiendo las reglas de ayuda del manual básico.
+
+> Una IA no puede tantas instancias como su Astucia/2. Es decir una IA de Astucia 8, puede crear hasta 4 instancias y tendría un negativo de -5.
+
+Tanto crear una instancia como reintegrarla en tu sistema solo exigen una turno, pero si se quieren aprovechar los datos y experiencias que ha podido extraer la instancia mientras ha sido independiente debe pasar una tirada de Espíritu. En caso de fallarla, el trabajo realizado por la instancia no se pierde, pero los datos y experiencias que pudiera haber conseguido si se pierden.
+
+\sp
 
 ### Hackeos frente a IA
 
@@ -330,11 +338,9 @@ Además, no son rastreables por las IA, no dejan registros, no activan disparado
 
 Para empezar las IA no tienen cuerpo físico, pueden controlar unidades como los sheriffs para que interactúen con el mundo real, pero no son más o menos ágiles o fuertes o resistentes. Es por ello que solo tienen Atributos no-físicos, Astucia y Espíritu. 
 
-\sp
-
 En consecuencia, tampoco pueden tener ventajas y desventajas físicas no habilidades basadas en atributos físicos. Hay muchas ventajas que piden habilidades y/o atributos físicas, así que estás ventajas están fuera de su alcance.
 
-Las desventajas ya están menos claras, pero siempre que no afecten al cuerpo físico pueden ser elegibles. Una IA puede ser envidiosa, vaga, sanguinaria, etc. pero no peude ser ciega o coja o ser lenta en combate.
+Las desventajas ya están menos claras, pero siempre que no afecten al cuerpo físico pueden ser elegibles. Una IA puede ser envidiosa, vaga, sanguinaria, etc. pero no puede ser ciega o coja o ser lenta en combate.
 
 No puedes tener atributos por encima de d12, excepto las IA directoras que no tienen límite.
 
@@ -346,9 +352,9 @@ Una IA que gestiona una cafetería tendría como tareas cosas como hacer miles d
 
 También debería tener habilidades como Reparar para el mantenimiento del local y volvemos a Humanidades para llevar la contabilidad y el almacén del local y está claro que debe saber hacer miles de tipos de café.
 
-\sc
-
 > A nivel de juego, las tareas además de servir de guía para definir las habilidades y ventajas/desventajas que debiera tener una IA, les permite hacer ciertas no cubiertas directamente por habilidades sin necesidad de tirada y por tanto sin fallo. La IA barista del ejemplo anterior, no necesita tirar para hacer un buen café y siempre lo va a hacer bien, para ello la programaron. Quizás si se enfrenta a une jugadore en un concurso de café quizás tendría que hacer una tirada enfrentada y siempre lo hará con 1d12+1 (es decir que mejor que une humane normal).
+
+\sp
 
 #### Áreas de actuación
 
@@ -357,6 +363,8 @@ Las IA no tienen equipo, **tienen áreas de actuación**, elementos sobre los qu
 #### IA como comodines
 
 Todas las IA que crees se deben considerarse comodines al crearlas, es decir tienen 3 benis al principio de cada sesión, usan dado salvaje y deberían poder soportar 3 heridas. Como no tienen cuerpo físico, las heridas no son importantes.
+
+\sc
 
 \sp
 
@@ -460,7 +468,7 @@ A diferencia de la realidad aumentada cuyas bases estaban desarrolladas e implem
 
 La forma de interferir en ellos sería siguiendo el hackeo tradicional o aplicando ingeniería social para robar las claves de acceso a estos servidores.
 
-Fuera de los entornos blus no hay posibilidad de usar RV, pero según algunes de les buscadores de la contraseña de SU **les instaladores tenían acceso a su propio sistema de RV** donde diseñaban los niveles de la arcología que luego mandaban a los nanitos para que lo construyeran. Les buscadores que siguen está teoría se dedican a buscar los servidores de RV de les instaladores como una forma de encontrar su camino a su deseada contraseña SU.
+Fuera de los entornos blus no hay posibilidad de usar RV, pero según algunes de les buscadores de la contraseña de SU **les instaladores tenían acceso a su propio sistema de RV** donde diseñaban los niveles de la arcología que luego mandaban a los nanitos para que lo construyeran. Les buscadores que siguen está teoría se dedican a buscar los servidores de RV de les instaladores como una manera de encontrar su camino a su deseada contraseña SU.
 
 \sc
 
