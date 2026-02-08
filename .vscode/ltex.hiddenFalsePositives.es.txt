@@ -128,3 +128,8 @@
 {"rule":"PHYSICIAN","sentence":"^\\QLa realidad virtual (RV)crea realidades donde la gente se mueve e interactúa y no tiene nada que ver con la realidad física que les rodea.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEso haría que seguramente que tenga habilidades como Humanidades y Conocimientos Generales para poder hablar con los clientes y ventajas como Carísimátique para caerles bien y que vuelvan.\\E$"}
 {"rule":"REAL","sentence":"^\\QLas IA no tienen equipo, tienen áreas de actuación, elementos sobre los que tienen control y que pueden usar físicamente en el mundo real.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QTu principal problema es que tus actos, sin una figura carismática que te dirija, muchas veces no son más que simples gamberradas.\\E$"}
+{"rule":"FORM","sentence":"^\\QEste arquetipo refleja todo tipo de personajes que llevan la confrontación contra la compañía a las calles, no solo en forma de grafitis.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QDentro de este arquetipo se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWoman passenger at railway station, board with departure routes by kroshka__nastya\\E$"}
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QSi quieres implementar el hackeo clásico, Savage Worlds tiene diferentes manuales como Interface 3.0 o la Guía de Ciencia Ficción que te pueden ayudar en ese aspecto.\\E$"}

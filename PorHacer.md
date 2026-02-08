@@ -1,31 +1,3 @@
-### Controlar vigilancia
-
-**Requisitos:** Veterane, Controlar pantallas, Controlar realidad aumentada
-
-**Jerga:** El ojo que todo lo ve, El gran hermano
-
-XXX
-
-* Permite **cambiar los parámetros generales de funcionamiento, pero nunca se podrá interferir en sus funciones principales** o apagarla. Si una cámara tarda 5 segundos en girar 180 grados para controlar un pasillo puedes hacer que tarde más dándote tiempo a moverte por una zona del pasillo mientras vigila la otra parte. En general puedes hacer cosas para que las tiradas de sigilo o atletismo para evitar la seguridad tenga un +2 o y también un -1 si quieres que otros tengan problemas al saltarse la seguridad.
-* XXX
-* XXX
-
----
-
-### Dominar vigilancia
-
-**Requisitos:** Heróique, Controlar vigilancia
-
-**Jerga:** Hablar con el gran hermano, El ojo que todo lo ve
-
-Dominar los sistemas de vigilancia, mediante órdenes verbales y gestuales, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo, desde borrar las grabaciones de una cámara a ponerla en bucle o mostrar el contenido de otra cámara.
-
-* XXX
-* XXX
-* XXX
-
----
-
 ### Las instancias y los forks
 
 Las grandes IA directoras y algunas polivalentes que empiezan a tener conocimientos y experiencias importantes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea específica.

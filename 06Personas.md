@@ -21,7 +21,7 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales d10, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
-* **Desventajas:** XXX, Secreto (Mayor, tiene un alterego encaapuchado que ayuda a los necesitados)
+* **Desventajas:** XXX, Secreto (Mayor, tiene un alterego encapuchado que ayuda a los necesitados)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -84,7 +84,7 @@ XXX
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** XXX, Secreto (Menor, es el hermanastro de uno de les jugadores y le tiene bastante ojeriza)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -233,7 +233,7 @@ XXX
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** XXX, Secreto (Mayor, compra y vende productos ilegales o prohibidos)
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
 
@@ -353,7 +353,7 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 
 * **Atributos:** Astucia d12, Espíritu d6
 * **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** XXX, Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen)
 * **Ventajas:** XXX
 * **Tareas:** XXX
 * **Capacidades especiales:**

@@ -1176,7 +1176,7 @@ Este hackeo **vale para puertas simples**. Aquellas con cerraduras, sensores bio
 
 Permite hacer cosas con los montacargas, ascensores y escaleras mecánicas fuera de su programación normal, pero sin salirse de sus parámetros de seguridad.
 
-* **Acelerar/decelerar las velocidad de montacargas, ascensores** y escaleras mecánicas dentro de unos parámetros seguros.
+* **Acelerar/desacelerar la velocidad de montacargas, ascensores** y escaleras mecánicas dentro de unos parámetros seguros.
 * **Parar en mitad de pisos** de manera que se pueda acceder a conductos y pasillos de servicios que estén en esas alturas.
 * **Aumentar los valores de seguridad de manera que sean más restrictivos.** Por ejemplo, bajar el límite de peso máximo para que solo puede usarlo un sheriff en vez de dos. 
 
@@ -1211,11 +1211,11 @@ Mediante interacciones con paneles de control de climatización o interactuando 
 
 **Jerga:** El ojo que todo lo ve, El gran hermano
 
-XXX
+Mejorando tus hackeos que te permiten controlar la realidad aumentada y las pantallas puedes empezar a hackear los sistemas de seguridad. No tienes grandes permisos de acceso, pero los suficientes para ayudarte a saltarte los controles de seguridad de diferentes instalaciones.
 
 * Permite **cambiar los parámetros generales de funcionamiento, pero nunca se podrá interferir en sus funciones principales** o apagarla. Si una cámara tarda 5 segundos en girar 180 grados para controlar un pasillo puedes hacer que tarde más dándote tiempo a moverte por una zona del pasillo mientras vigila la otra parte. En general puedes hacer cosas para que las tiradas de sigilo o atletismo para evitar la seguridad tenga un +2 o y también un -1 si quieres que otros tengan problemas al saltarse la seguridad.
-* XXX
-* XXX
+* Puedes **pedirle al sistema de seguridad que te ofrezca datos** como grabaciones, registros de acceso, pero sin poder modificarlos o borrarlos de ninguna manera.
+* Puedes hacer que **envíen demasiadas señales a les vigilantes o demasiadas pocas**, pero no puedes **cortarlas o cambiarlas**. Con ello puedes atraer a les vigilantes o hacer que vayan a otros sitios en vez de a donde estás tú.
 
 ### Dominar ascensor
 
@@ -1228,8 +1228,9 @@ Una combinación de botones del panel interno de la caja del ascensor, te permit
 El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
 * Puedes **desactivar los frenos de seguridad de un ascensor y dejarlo caer.** Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
+
 * Puedes **bloquear las puertas encerrando dentro a sus pasajeres** y evitando que entren desde fuera. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen. Puede ponerlo en movimiento para que sea más difícil acceder a él desde el techo.
-* Puedes **dejar ciertos programas preparados**, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o siempre se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
+* Puedes **dejar ciertos programas preparados**, de manera que el ascensor vaya superlento, no permita acceder a cierto piso o siempre se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
 
 ### Dominar climatización
 
@@ -1237,10 +1238,10 @@ El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
 **Jerga:** ¡Dale caña a la ventilación!
 
-Esta versión avanzada de Controlar Climatización, permite principalmente saltarse los niveles de seguridad de los aparatos de climatación y también permite usarlo durante el combate.
+Esta versión avanzada de Controlar Climatización, permite principalmente saltarse los niveles de seguridad de los aparatos de climatización y también permite usarlo durante el combate.
 
 * Puedes hacer las mismas acciones que con **Controlar Climatización pero saltándote los límites de seguridad** de la climatización y forzando sus límites. Aun así la climatización nunca podrá hacer daño a les ocupantes de la habitación, pero puedes intentar hacer algún tipo de truco como encender un ventilador para que distraiga a un oponente o generar hielo para que la gente resbale.
-* Puedes poner los **ventiladores a tal velocidad, más allá de lo seguro**, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
+* Puedes poner los **ventiladores a tal velocidad, más allá de lo seguro**, de manera que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * Puedes **controlar climatizaciones** en lugares especiales **con medias extras de seguridad** como salas de servidores refrigeradas.
 
 ### Dominar puertas
@@ -1263,9 +1264,9 @@ Ninguna puerta está a salvo de tus hackeos. Solo puertas desconectadas la red o
 
 Dominar los sistemas de vigilancia, mediante órdenes verbales y gestuales, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo, desde borrar las grabaciones de una cámara a ponerla en bucle o mostrar el contenido de otra cámara.
 
-* XXX
-* XXX
-* XXX
+* Puedes **apagar los sistemas de seguridad, encenderlos, hacer que varien sus rutinas o que pasen de ti**, tienes control total sobre ellos.
+* No solamente puedes accederá los **datos de los sistemas de vigilancia**, sino que puedes **introducir nuevos, cambiar los que hay o directamente borrarlos**.
+* Puedes hacer que los **sistemas contesten a otros usuarios con los mensajes que quieras**, como que todo está tranquilo, mientras tú haces lo que te da la gana o que emitan imágenes en bucle para que les humanes vigilantes no detecten nada.
 
 ### Clave de superusuarie
 
@@ -1289,19 +1290,19 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |---|---|---|
 |Controlar pantallas|Novate|Encender y apagar pantallas y poner mensajes simples|
 |Controlar iluminación|Novate|Encender y apagar luces y otros efectos simples|
-|Llamar ascensor|Novate|Robar el ascensor a otras personas o mandarlo a un extremo de su ruta|
-|Controlar realidad aumentada|Novate|Controlar la información pública que la realidad aumentada proporciona|
-|Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
-|Controlar ascensor|Experimentade, Llamar ascensor|Te permite hacer cosas con el ascensor que sus salvaguardas normales no permiten, pero siempre desde dentro de él.|
 \conc
 
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
+|Llamar ascensor|Novate|Robar el ascensor a otras personas o mandarlo a un extremo de su ruta|
+|Controlar realidad aumentada|Novate|Controlar la información pública que la realidad aumentada proporciona|
+|Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
+|Controlar ascensor|Experimentade, Llamar ascensor|Te permite hacer cosas con el ascensor que sus salvaguardas normales no permiten, pero siempre desde dentro de él.|
 |Dominar iluminación|Experimentade, Controlar iluminación|Permite controlar las luces de emergencia y similar y conseguir nuevos efectos que te benefician en situaciones de combate. |
 |Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
 |Dominar ascensor|Veterane, Controlar ascensor|Saltarse las salvaguardas de seguridad y de funcionamiento de un ascensor|
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
-|Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
+|Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|Puedes empezar a controlar los sistemas de vigilancia, pero sin demasiados permisos.|
 |Dominar puertas|Veterane, Controlar puertas|Controlas puertas de seguridad y con cerraduras así como anulas sus sensores o programas ciertas rutinas|
 |Dominar vigilancia|Heróique, Controlar vigilancia|Dominar los sistemas de vigilancia, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
@@ -3087,7 +3088,7 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales d10, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
-* **Desventajas:** XXX, Secreto (Mayor, tiene un alterego encaapuchado que ayuda a los necesitados)
+* **Desventajas:** XXX, Secreto (Mayor, tiene un alterego encapuchado que ayuda a los necesitados)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3132,7 +3133,7 @@ XXX
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** XXX, Secreto (Menor, es el hermanastro de uno de les jugadores y le tiene bastante ojeriza)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
@@ -3239,7 +3240,7 @@ XXX
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** XXX, Secreto (Mayor, compra y vende productos ilegales o prohibidos)
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
 
@@ -3329,7 +3330,7 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 
 * **Atributos:** Astucia d12, Espíritu d6
 * **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** XXX, Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen)
 * **Ventajas:** XXX
 * **Tareas:** XXX
 * **Capacidades especiales:**
