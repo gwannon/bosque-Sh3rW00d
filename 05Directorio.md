@@ -621,6 +621,7 @@ En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a par
 * **Habilidades:** Conocimientos generales d12+4, Humanidades d6, Investigar d8, Notar d6, Persuadir d8
 * **Desventajas:** Obligaciones (mayor, trabaja 24 horas al día en Café Corta)
 * **Ventajas:** Carismática
+* **Tareas:** Hacer café, Gestionar un establecimiento, Tratar con los clientes
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales.
   * **Instancias:** Baris puede crear instancias suyas siguiendo las reglas de instancias.

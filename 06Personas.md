@@ -285,6 +285,7 @@ Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locu
 * **Habilidades:** Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4
 * **Desventajas:** XXX, Secreto (Mayor, es un fork de la directora R1c4rd)
 * **Ventajas:** XXX
+* **Tareas:** XXX
 * **Capacidades especiales:**
   * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
@@ -354,6 +355,7 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 * **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
+* **Tareas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.

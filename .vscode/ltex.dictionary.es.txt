@@ -591,3 +591,5 @@ mouses
 científiques
 desviantes
 termográficos
+ápticos
+RV

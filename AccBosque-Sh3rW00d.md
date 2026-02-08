@@ -1166,6 +1166,8 @@ Este hackeo **vale para puertas simples**. Aquellas con cerraduras, sensores bio
 * **Mover la posición del sensor de movimiento:** Puede usarse para hacer que la puerta se abra solo si detecta cierta circunstancia, por ejemplo si subimos el sensor solo detectará figura altas y no abrirá para los robots pequeños de reparto. Esto solo funciona para un sensor y cada puerta tiene dos sensores uno a cada lado. Si queremos cambiar ambos sensores habrá que hacer el hackeo dos veces, uno en cada lado de la puerta.
 * **Desactivar el control de entrada y salida:** las puertas más simples controlan solo la entrada y salida de personas para temas de aforo y cuando han sido dichos accesos. Se puede desactivar y volver a activar el control de acceso de persona de forma que no que registrada ni los accesos. Por ejemplo, se podrían desactivar el control de acceso de una puerta, salir por ella y volver al de un rato y activarla de nuevo.  Para el sistema durante ese tiempo no habría habido ningún movimiento.
 
+[![Woman passenger at railway station, board with departure routes by kroshka__nastya](./assests/images/woman-passenger-railway-station-board-with-departure-routes.jpg "Woman passenger at railway station, board with departure routes by kroshka__nastya")](https://www.freepik.com/free-photo/woman-passenger-railway-station-board-with-departure-routes_13723157.htm "Woman passenger at railway station, board with departure routes by kroshka__nastya")
+
 ### Controlar ascensor
 
 **Requisitos:** Experimentade, Llamar ascensor
@@ -1199,8 +1201,9 @@ Permite hacer cosas con los montacargas, ascensores y escaleras mecánicas fuera
 Mediante interacciones con paneles de control de climatización o interactuando directamente con sus elementos como ventiladores, sensores de temperatura/humedad, puedes controlar la climatización de una habitación.
 
 * En general puedes hacer que la sala en la que estes los **sistemas de climatización se enciendan o se apaguen** cuando quieras o ante cierto tipo de gatillo como temperatura, humedad, número de personas en la habitación, etc. Pero siempre dentro de los parámetros normales y seguros de la climatización.
-* Puedes **inutilizar los sensores termográficos** de una sala subiendo o bajando la temperatura de la sala, sin que los sensores de seguridad se den cuenta de que la climatización está funcionando erróneamente.
-* XXX
+
+* Puedes **inutilizar los sensores termográficos** de una sala subiendo o bajando la temperatura de la sala, sin que los sensores de seguridad se den cuenta de que la climatización está funcionando erróneamente. Aun así otros sensores seguirán funcionando sin problema.
+* Pueden afectar a les humanes y los aparatos que haya en el habitáculo, de muchas maneras. Ya hemos visto que se pueden aumentar la temperatura o bajarla, hasta hacer que se esté incómodo, pero también se puede bajar la humedad para hacer que se sequen las cosas (y hacer cecina casera) o que se humedezcan las cosas y se estropeen los equipos eléctricos con pocos días.
 
 ### Controlar vigilancia
 
@@ -1210,7 +1213,7 @@ Mediante interacciones con paneles de control de climatización o interactuando 
 
 XXX
 
-* XXX
+* Permite **cambiar los parámetros generales de funcionamiento, pero nunca se podrá interferir en sus funciones principales** o apagarla. Si una cámara tarda 5 segundos en girar 180 grados para controlar un pasillo puedes hacer que tarde más dándote tiempo a moverte por una zona del pasillo mientras vigila la otra parte. En general puedes hacer cosas para que las tiradas de sigilo o atletismo para evitar la seguridad tenga un +2 o y también un -1 si quieres que otros tengan problemas al saltarse la seguridad.
 * XXX
 * XXX
 
@@ -1236,7 +1239,7 @@ El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 
 Esta versión avanzada de Controlar Climatización, permite principalmente saltarse los niveles de seguridad de los aparatos de climatación y también permite usarlo durante el combate.
 
-* Puedes hacer las mismas acciones que con **Controlar Climatización pero saltándote los límites de seguridad** de la climatización y forzando sus límites. Aun así la climatización nunca podrá hacer daño a les ocupantes de la habitación, pero puedes intentar hacer algún tipo de truco como encender un ventilador para que distraiga a un oponente.
+* Puedes hacer las mismas acciones que con **Controlar Climatización pero saltándote los límites de seguridad** de la climatización y forzando sus límites. Aun así la climatización nunca podrá hacer daño a les ocupantes de la habitación, pero puedes intentar hacer algún tipo de truco como encender un ventilador para que distraiga a un oponente o generar hielo para que la gente resbale.
 * Puedes poner los **ventiladores a tal velocidad, más allá de lo seguro**, de forma que el viento que se genere afecte a la precisión de los disparos. Todas las personas dentro de la zona de climatización tendrán que pasar una tirada de FUE o tendrán un -2 al disparar.
 * Puedes **controlar climatizaciones** en lugares especiales **con medias extras de seguridad** como salas de servidores refrigeradas.
 
@@ -1290,16 +1293,16 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Controlar realidad aumentada|Novate|Controlar la información pública que la realidad aumentada proporciona|
 |Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
 |Controlar ascensor|Experimentade, Llamar ascensor|Te permite hacer cosas con el ascensor que sus salvaguardas normales no permiten, pero siempre desde dentro de él.|
+\conc
+
+|Hackeo|Requisitos|Descripción|
+|---|---|---|
 |Dominar iluminación|Experimentade, Controlar iluminación|Permite controlar las luces de emergencia y similar y conseguir nuevos efectos que te benefician en situaciones de combate. |
 |Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
 |Dominar ascensor|Veterane, Controlar ascensor|Saltarse las salvaguardas de seguridad y de funcionamiento de un ascensor|
 |Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
 |Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
 |Dominar puertas|Veterane, Controlar puertas|Controlas puertas de seguridad y con cerraduras así como anulas sus sensores o programas ciertas rutinas|
-\conc
-
-|Hackeo|Requisitos|Descripción|
-|---|---|---|
 |Dominar vigilancia|Heróique, Controlar vigilancia|Dominar los sistemas de vigilancia, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 
@@ -1663,19 +1666,29 @@ Además, no son rastreables por las IA, no dejan registros, no activan disparado
 
 Para empezar las IA no tienen cuerpo físico, pueden controlar unidades como los sheriffs para que interactúen con el mundo real, pero no son más o menos ágiles o fuertes o resistentes. Es por ello que solo tienen Atributos no-físicos, Astucia y Espíritu. 
 
-XXX
+En consecuencia, tampoco pueden tener ventajas y desventajas físicas no habilidades basadas en atributos físicos. Hay muchas ventajas que piden habilidades y/o atributos físicas, así que estás ventajas están fuera de su alcance.
+
+Las desventajas ya están menos claras, pero siempre que no afecten al cuerpo físico pueden ser elegibles. Una IA puede ser envidiosa, vaga, sanguinaria, etc. pero no peude ser ciega o coja o ser lenta en combate.
 
 No puedes tener atributos por encima de d12, excepto las IA directoras que no tienen límite.
 
 #### Tareas
 
-Las IA se crean para cumplir unas tareas y esas tareas van a ayudar a definir sus habilidades y ventajas/desventajas como los arquetipos nos permiten establecer las habilidades y ventajas/desventajas de los PJ. 
+Las IA se crean para cumplir unas tareas y esas tareas van a ayudar a definir sus habilidades y ventajas/desventajas como los arquetipos nos permiten establecer las habilidades y ventajas/desventajas de los PJ.
 
-XXX
+Una IA que gestiona una cafetería tendría como tareas cosas como hacer miles de clases de café, gestionar un establecimiento de bebidas e interactuar con los clientes. Eso haría que seguramente que tenga habilidades como Humanidades y Conocimientos Generales para poder hablar con los clientes y ventajas como Carísimátique para caerles bien y que vuelvan.
+
+También debería tener habilidades como Reparar para el mantenimiento del local y volvemos a Humanidades para llevar la contabilidad y el almacén del local y está claro que debe saber hacer miles de tipos de café.
+
+> A nivel de juego, las tareas además de servir de guía para definir las habilidades y ventajas/desventajas que debiera tener una IA, les permite hacer ciertas no cubiertas directamente por habilidades sin necesidad de tirada y por tanto sin fallo. La IA barista del ejemplo anterior, no necesita tirar para hacer un buen café y siempre lo va a hacer bien, para ello la programaron. Quizás si se enfrenta a une jugadore en un concurso de café quizás tendría que hacer una tirada enfrentada y siempre lo hará con 1d12+1 (es decir que mejor que une humane normal).
 
 #### Áreas de actuación
 
 Las IA no tienen equipo, **tienen áreas de actuación**, elementos sobre los que tienen control y que pueden usar físicamente en el mundo real. Por ejemplo la IA que controla la prisión, puede controlar las alarmas, abrir y cerrar puertas, activar los ascensores, cortar la luz, pero no podrá mover algo de sitio a no ser que entre su ámbito tenga algún tipo de robot que pueda hacer ese trabajo. 
+
+#### IA como comodines
+
+Todas las IA que crees se deben considerarse comodines al crearlas, es decir tienen 3 benis al principio de cada sesión, usan dado salvaje y deberían poder soportar 3 heridas. Como no tienen cuerpo físico, las heridas no son importantes.
 
 ## Nanotecnología
 
@@ -1743,7 +1756,23 @@ Los hackeos de los instaladores se aprovechan de estas descargas continuas de co
 
 ### Realidad virtual
 
-XXX
+La realidad virtual (RV) crea realidades simuladas donde la gente se mueve e interactúa y no tiene nada que ver con la realidad física que les rodea. Normalmente la gran cantidad de recursos que exige la RV hace que solo las grandes empresas y la gente rica pueda acceder a ella. También exige equipo especial (gafas y trajes ápticos), pero la inmersión es total abandonando la realidad y entrando totalmente en la realidad virtual.
+
+Normalmente **se deja para reuniones de grandes blues**, o sesiones con la propia directora J0hn donde la directora se aparece con su propio avatar humano. Normalmente, son lujosas salas de reunión con grandes ventanales y vistas a impresionantes paisajes naturales, quizás selvas, inmensas praderas o impresionantes cataratas.
+
+Además de reuniones, se puede usar de manera lúdica como fiestas virtuales, pero normalmente solo los altos blues e influencers tienen acceso a esos eventos virtuales.
+
+[![stealth.net By redheadsoldier](./assests/images/stealth_net_by_redheadsoldier_dbmfbca-414w-2x.jpg "stealth.net By redheadsoldier")](https://www.deviantart.com/redheadsoldier/art/stealth-net-702794026 "stealth.net By redheadsoldier")
+
+Los **blues de menor nivel pueden tener acceso** a esas salas de reuniones para hablar con otros o a sus puestos de trabajo para hacer su trabajo desde casa, pero no se gastan recursos en su desarrollo y procesos y suelen ser anodinos, simples y estáticos. Hablamos de habitáculos sin personalización ni ventanas con texturas simples y muy poca interacción solamente unos pocos elementos.
+
+No está demostrado científicamente (o se ha ocultado a propósito), pero se sabe comenta que pasar muchas horas en un RV tan simple y con tan poca interacción pueden generar estrés y desarrollar problemas mentales a largo plazo.
+
+A diferencia de la realidad aumentada cuyas bases estaban desarrolladas e implementadas por les instaladores, la RV tiene sus propios sistemas y servidores y están a salvo de los hackeos.
+
+La forma de interferir en ellos sería siguiendo el hackeo tradicional o aplicando ingeniería social para robar las claves de acceso a estos servidores.
+
+Fuera de los entornos blus no hay posibilidad de usar RV, pero según algunes de les buscadores de la contraseña de SU **les instaladores tenían acceso a su propio sistema de RV** donde diseñaban los niveles de la arcología que luego mandaban a los nanitos para que lo construyeran. Les buscadores que siguen está teoría se dedican a buscar los servidores de RV de les instaladores como una forma de encontrar su camino a su deseada contraseña SU.
 
 ## Información y mensajería
 
@@ -2672,6 +2701,7 @@ En poco tiempo, por ejemplo, **podría hacer predicciones macroeconómicas a par
 * **Habilidades:** Conocimientos generales d12+4, Humanidades d6, Investigar d8, Notar d6, Persuadir d8
 * **Desventajas:** Obligaciones (mayor, trabaja 24 horas al día en Café Corta)
 * **Ventajas:** Carismática
+* **Tareas:** Hacer café, Gestionar un establecimiento, Tratar con los clientes
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales.
   * **Instancias:** Baris puede crear instancias suyas siguiendo las reglas de instancias.
@@ -3249,6 +3279,7 @@ Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locu
 * **Habilidades:** Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4
 * **Desventajas:** XXX, Secreto (Mayor, es un fork de la directora R1c4rd)
 * **Ventajas:** XXX
+* **Tareas:** XXX
 * **Capacidades especiales:**
   * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
@@ -3300,6 +3331,7 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 * **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
+* **Tareas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.

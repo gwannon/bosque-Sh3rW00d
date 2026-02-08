@@ -125,3 +125,6 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢▢◼▢▢▢br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br▢▢▢◼▢▢▢\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢▢▢▢br◼▢▢▢◼br▢▢▢▢▢br◼▢▢▢◼br▢▢▢▢▢\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q▢▢▢▢▢▢▢br▢🟏▢▢▢🟏▢br▢▢▢▢▢▢▢br▢🟏▢▢▢🟏▢br▢▢▢▢▢▢▢\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QLa realidad virtual (RV)crea realidades donde la gente se mueve e interactúa y no tiene nada que ver con la realidad física que les rodea.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEso haría que seguramente que tenga habilidades como Humanidades y Conocimientos Generales para poder hablar con los clientes y ventajas como Carísimátique para caerles bien y que vuelvan.\\E$"}
+{"rule":"REAL","sentence":"^\\QLas IA no tienen equipo, tienen áreas de actuación, elementos sobre los que tienen control y que pueden usar físicamente en el mundo real.\\E$"}

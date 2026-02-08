@@ -645,6 +645,8 @@ Este hackeo **vale para puertas simples**. Aquellas con cerraduras, sensores bio
 
 \sp
 
+[![Woman passenger at railway station, board with departure routes by kroshka__nastya](./assests/images/woman-passenger-railway-station-board-with-departure-routes.jpg "Woman passenger at railway station, board with departure routes by kroshka__nastya")](https://www.freepik.com/free-photo/woman-passenger-railway-station-board-with-departure-routes_13723157.htm "Woman passenger at railway station, board with departure routes by kroshka__nastya")
+
 ### Controlar ascensor
 
 **Requisitos:** Experimentade, Llamar ascensor
@@ -678,8 +680,11 @@ Permite hacer cosas con los montacargas, ascensores y escaleras mecánicas fuera
 Mediante interacciones con paneles de control de climatización o interactuando directamente con sus elementos como ventiladores, sensores de temperatura/humedad, puedes controlar la climatización de una habitación.
 
 * En general puedes hacer que la sala en la que estes los **sistemas de climatización se enciendan o se apaguen** cuando quieras o ante cierto tipo de gatillo como temperatura, humedad, número de personas en la habitación, etc. Pero siempre dentro de los parámetros normales y seguros de la climatización.
-* Puedes **inutilizar los sensores termográficos** de una sala subiendo o bajando la temperatura de la sala, sin que los sensores de seguridad se den cuenta de que la climatización está funcionando erróneamente.
-* XXX
+
+\sp
+
+* Puedes **inutilizar los sensores termográficos** de una sala subiendo o bajando la temperatura de la sala, sin que los sensores de seguridad se den cuenta de que la climatización está funcionando erróneamente. Aun así otros sensores seguirán funcionando sin problema.
+* Pueden afectar a les humanes y los aparatos que haya en el habitáculo, de muchas maneras. Ya hemos visto que se pueden aumentar la temperatura o bajarla, hasta hacer que se esté incómodo, pero también se puede bajar la humedad para hacer que se sequen las cosas (y hacer cecina casera) o que se humedezcan las cosas y se estropeen los equipos eléctricos con pocos días.
 
 ### Controlar vigilancia
 
@@ -687,11 +692,9 @@ Mediante interacciones con paneles de control de climatización o interactuando 
 
 **Jerga:** El ojo que todo lo ve, El gran hermano
 
-\sp
-
 XXX
 
-* XXX
+* Permite **cambiar los parámetros generales de funcionamiento, pero nunca se podrá interferir en sus funciones principales** o apagarla. Si una cámara tarda 5 segundos en girar 180 grados para controlar un pasillo puedes hacer que tarde más dándote tiempo a moverte por una zona del pasillo mientras vigila la otra parte. En general puedes hacer cosas para que las tiradas de sigilo o atletismo para evitar la seguridad tenga un +2 o y también un -1 si quieres que otros tengan problemas al saltarse la seguridad.
 * XXX
 * XXX
 
@@ -708,6 +711,8 @@ El problema de este hackeo es que **hay que hacerlo desde dentro del ascensor**.
 * Puedes **desactivar los frenos de seguridad de un ascensor y dejarlo caer.** Estando dentro el ascensor no es muy normal quitar los frenos, pero puede despistar a otras personas dentro del ascensor con la caída o incluso golpear a alguien o algo que esté subiendo por el hueco del turboascensor.
 * Puedes **bloquear las puertas encerrando dentro a sus pasajeres** y evitando que entren desde fuera. De esta manera puedes convertir la caja del ascensor como una zona segura donde descansar y evitar que te ataquen. Puede ponerlo en movimiento para que sea más difícil acceder a él desde el techo.
 * Puedes **dejar ciertos programas preparados**, de forma que el ascensor vaya superlento, no permita acceder a cierto piso o siempre se abra en todos los pisos. En estos casos el hackeo se debe hacer desde dentro, pero la programación no supone que tengas que estar en el interior mientras se lleva a cabo.
+
+\sp
 
 ### Dominar climatización
 
@@ -727,8 +732,6 @@ Esta versión avanzada de Controlar Climatización, permite principalmente salta
 
 **Jerga:** Maestro de las llaves, Guardián de las puertas 
 
-\sp
-
 Ninguna puerta está a salvo de tus hackeos. Solo puertas desconectadas la red o con componente mecánicos como llaves o combinaciones, podrían darte problemas. Al ser de tan baja tecnología no pueden ser hackeadas. 
 
 * Usando este hackeo se pueden hacer los **hackeos de Controlar puertas pero controlando las puertas de seguridad con cerraduras**, o sensores biométricos.
@@ -746,6 +749,8 @@ Dominar los sistemas de vigilancia, mediante órdenes verbales y gestuales, perm
 * XXX
 * XXX
 * XXX
+
+\sp
 
 ### Clave de superusuarie
 
@@ -765,8 +770,6 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 
 > Este hackeo debe ser enseñado por otro superusuarie y que se sepa solo les instaladores (y solo les dé mayor nivel) lo conocían.
 
-\sp
-
 \sinc
 
 |Hackeo|Requisitos|Descripción|
@@ -777,12 +780,6 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 |Controlar realidad aumentada|Novate|Controlar la información pública que la realidad aumentada proporciona|
 |Controlar puertas|Experimentade|Activar y desactivar puertas automáticas y controlar sus sensores básicos|
 |Controlar ascensor|Experimentade, Llamar ascensor|Te permite hacer cosas con el ascensor que sus salvaguardas normales no permiten, pero siempre desde dentro de él.|
-|Dominar iluminación|Experimentade, Controlar iluminación|Permite controlar las luces de emergencia y similar y conseguir nuevos efectos que te benefician en situaciones de combate. |
-|Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
-|Dominar ascensor|Veterane, Controlar ascensor|Saltarse las salvaguardas de seguridad y de funcionamiento de un ascensor|
-|Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
-|Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
-|Dominar puertas|Veterane, Controlar puertas|Controlas puertas de seguridad y con cerraduras así como anulas sus sensores o programas ciertas rutinas|
 \conc
 
 \sp
@@ -791,6 +788,12 @@ Por ejemplo, si como superusuarie desactivas una puerta automática solo volver�
 
 |Hackeo|Requisitos|Descripción|
 |---|---|---|
+|Dominar iluminación|Experimentade, Controlar iluminación|Permite controlar las luces de emergencia y similar y conseguir nuevos efectos que te benefician en situaciones de combate. |
+|Controlar climatización|Experimentade|Modificar la climatización dentro de sus parámetros de seguridad|
+|Dominar ascensor|Veterane, Controlar ascensor|Saltarse las salvaguardas de seguridad y de funcionamiento de un ascensor|
+|Dominar climatización|Veterane, Controlar climatización|Modificar la climatización fuera de sus parámetros de seguridad consiguiendo por ejemplo hielo|
+|Controlar vigilancia|Veterane, Controlar pantallas, Controlar realidad aumentada|XXX|
+|Dominar puertas|Veterane, Controlar puertas|Controlas puertas de seguridad y con cerraduras así como anulas sus sensores o programas ciertas rutinas|
 |Dominar vigilancia|Heróique, Controlar vigilancia|Dominar los sistemas de vigilancia, permite acceder a funcionalidades que solo el personal de seguridad puede llevar a cabo|
 |Código Konami|Legendario, Especial|Hackeo perdido en el tiempo desde la marcha de les instaladores que te permite hacer de todo|
 

@@ -4,11 +4,9 @@
 
 **Jerga:** El ojo que todo lo ve, El gran hermano
 
-\sp
-
 XXX
 
-* XXX
+* Permite **cambiar los parámetros generales de funcionamiento, pero nunca se podrá interferir en sus funciones principales** o apagarla. Si una cámara tarda 5 segundos en girar 180 grados para controlar un pasillo puedes hacer que tarde más dándote tiempo a moverte por una zona del pasillo mientras vigila la otra parte. En general puedes hacer cosas para que las tiradas de sigilo o atletismo para evitar la seguridad tenga un +2 o y también un -1 si quieres que otros tengan problemas al saltarse la seguridad.
 * XXX
 * XXX
 
@@ -28,14 +26,28 @@ Dominar los sistemas de vigilancia, mediante órdenes verbales y gestuales, perm
 
 ---
 
-### Controlar climatización
+### Las instancias y los forks
 
-**Requisitos:** Experimentade
+Las grandes IA directoras y algunas polivalentes que empiezan a tener conocimientos y experiencias importantes pueden crear instancias suyas, versiones de ella normalmente más pequeñas que pueden ser cargadas en sistemas simples como sheriffs, sistemas de vigilancias, etc. para la realización de alguna tarea específica.
 
-**Jerga:** Se acerca el invierno, Hazte un Elsa
+Una vez terminada la tarea asignada, vuelven a fusionarse con la IA principal, entregándole toda la información y experiencia conseguida por la instancia. 
 
-Mediante interacciones con paneles de control de climatización o interactuando directamente con sus elementos como ventiladores, sensores de temperatura/humedad, puedes controlar la climatización de una habitación.
+Los _forks_ son copias de una IA que se desarrollan independientemente y toman entidad propia. Por ejemplo, la compañía podría hacer un fork de la IA directora R1c4rd e instalarla en una nueva arcología. A partir de que se instala en el nuevo complejo empezará a tener sus propias capacidades y desarrollará sus propios métodos de funcionamiento.
 
-* En general puedes hacer que la sala en la que estes los **sistemas de climatización se enciendan o se apaguen** cuando quieras o ante cierto tipo de gatillo como temperatura, humedad, número de personas en la habitación, etc. Pero siempre dentro de los parámetros normales y seguros de la climatización.
-* Puedes **inutilizar los sensores termográficos** de una sala subiendo o bajando la temperatura de la sala, sin que los sensores de seguridad se den cuenta de que la climatización está funcionando erróneamente.
-* XXX
+> Piensa que una instancia es una especie de gemelo con el que compartes un vínculo, mientras que un fork es una especie de vástago que tiene tus genes, pero que se desarrolla de forma independiente.
+
+#### Crear instancias
+
+XXX
+
+---
+
+### Creación de IA
+
+Para empezar las IA no tienen cuerpo físico, pueden controlar unidades como los sheriffs para que interactúen con el mundo real, pero no son más o menos ágiles o fuertes o resistentes. Es por ello que solo tienen Atributos no-físicos, Astucia y Espíritu. 
+
+XXX
+
+\sp
+
+No puedes tener atributos por encima de d12, excepto las IA directoras que no tienen límite.

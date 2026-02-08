@@ -330,21 +330,33 @@ Además, no son rastreables por las IA, no dejan registros, no activan disparado
 
 Para empezar las IA no tienen cuerpo físico, pueden controlar unidades como los sheriffs para que interactúen con el mundo real, pero no son más o menos ágiles o fuertes o resistentes. Es por ello que solo tienen Atributos no-físicos, Astucia y Espíritu. 
 
-XXX
-
 \sp
+
+En consecuencia, tampoco pueden tener ventajas y desventajas físicas no habilidades basadas en atributos físicos. Hay muchas ventajas que piden habilidades y/o atributos físicas, así que estás ventajas están fuera de su alcance.
+
+Las desventajas ya están menos claras, pero siempre que no afecten al cuerpo físico pueden ser elegibles. Una IA puede ser envidiosa, vaga, sanguinaria, etc. pero no peude ser ciega o coja o ser lenta en combate.
 
 No puedes tener atributos por encima de d12, excepto las IA directoras que no tienen límite.
 
 #### Tareas
 
-Las IA se crean para cumplir unas tareas y esas tareas van a ayudar a definir sus habilidades y ventajas/desventajas como los arquetipos nos permiten establecer las habilidades y ventajas/desventajas de los PJ. 
+Las IA se crean para cumplir unas tareas y esas tareas van a ayudar a definir sus habilidades y ventajas/desventajas como los arquetipos nos permiten establecer las habilidades y ventajas/desventajas de los PJ.
 
-XXX
+Una IA que gestiona una cafetería tendría como tareas cosas como hacer miles de clases de café, gestionar un establecimiento de bebidas e interactuar con los clientes. Eso haría que seguramente que tenga habilidades como Humanidades y Conocimientos Generales para poder hablar con los clientes y ventajas como Carísimátique para caerles bien y que vuelvan.
+
+También debería tener habilidades como Reparar para el mantenimiento del local y volvemos a Humanidades para llevar la contabilidad y el almacén del local y está claro que debe saber hacer miles de tipos de café.
+
+\sc
+
+> A nivel de juego, las tareas además de servir de guía para definir las habilidades y ventajas/desventajas que debiera tener una IA, les permite hacer ciertas no cubiertas directamente por habilidades sin necesidad de tirada y por tanto sin fallo. La IA barista del ejemplo anterior, no necesita tirar para hacer un buen café y siempre lo va a hacer bien, para ello la programaron. Quizás si se enfrenta a une jugadore en un concurso de café quizás tendría que hacer una tirada enfrentada y siempre lo hará con 1d12+1 (es decir que mejor que une humane normal).
 
 #### Áreas de actuación
 
 Las IA no tienen equipo, **tienen áreas de actuación**, elementos sobre los que tienen control y que pueden usar físicamente en el mundo real. Por ejemplo la IA que controla la prisión, puede controlar las alarmas, abrir y cerrar puertas, activar los ascensores, cortar la luz, pero no podrá mover algo de sitio a no ser que entre su ámbito tenga algún tipo de robot que pueda hacer ese trabajo. 
+
+#### IA como comodines
+
+Todas las IA que crees se deben considerarse comodines al crearlas, es decir tienen 3 benis al principio de cada sesión, usan dado salvaje y deberían poder soportar 3 heridas. Como no tienen cuerpo físico, las heridas no son importantes.
 
 \sp
 
@@ -428,7 +440,27 @@ Los hackeos de los instaladores se aprovechan de estas descargas continuas de co
 
 ### Realidad virtual
 
-XXX
+La realidad virtual (RV) crea realidades simuladas donde la gente se mueve e interactúa y no tiene nada que ver con la realidad física que les rodea. Normalmente la gran cantidad de recursos que exige la RV hace que solo las grandes empresas y la gente rica pueda acceder a ella. También exige equipo especial (gafas y trajes ápticos), pero la inmersión es total abandonando la realidad y entrando totalmente en la realidad virtual.
+
+Normalmente **se deja para reuniones de grandes blues**, o sesiones con la propia directora J0hn donde la directora se aparece con su propio avatar humano. Normalmente, son lujosas salas de reunión con grandes ventanales y vistas a impresionantes paisajes naturales, quizás selvas, inmensas praderas o impresionantes cataratas.
+
+Además de reuniones, se puede usar de manera lúdica como fiestas virtuales, pero normalmente solo los altos blues e influencers tienen acceso a esos eventos virtuales.
+
+\sc
+
+[![stealth.net By redheadsoldier](./assests/images/stealth_net_by_redheadsoldier_dbmfbca-414w-2x.jpg "stealth.net By redheadsoldier")](https://www.deviantart.com/redheadsoldier/art/stealth-net-702794026 "stealth.net By redheadsoldier")
+
+Los **blues de menor nivel pueden tener acceso** a esas salas de reuniones para hablar con otros o a sus puestos de trabajo para hacer su trabajo desde casa, pero no se gastan recursos en su desarrollo y procesos y suelen ser anodinos, simples y estáticos. Hablamos de habitáculos sin personalización ni ventanas con texturas simples y muy poca interacción solamente unos pocos elementos.
+
+No está demostrado científicamente (o se ha ocultado a propósito), pero se sabe comenta que pasar muchas horas en un RV tan simple y con tan poca interacción pueden generar estrés y desarrollar problemas mentales a largo plazo.
+
+A diferencia de la realidad aumentada cuyas bases estaban desarrolladas e implementadas por les instaladores, la RV tiene sus propios sistemas y servidores y están a salvo de los hackeos.
+
+\sp
+
+La forma de interferir en ellos sería siguiendo el hackeo tradicional o aplicando ingeniería social para robar las claves de acceso a estos servidores.
+
+Fuera de los entornos blus no hay posibilidad de usar RV, pero según algunes de les buscadores de la contraseña de SU **les instaladores tenían acceso a su propio sistema de RV** donde diseñaban los niveles de la arcología que luego mandaban a los nanitos para que lo construyeran. Les buscadores que siguen está teoría se dedican a buscar los servidores de RV de les instaladores como una forma de encontrar su camino a su deseada contraseña SU.
 
 \sc
 
