@@ -593,3 +593,4 @@ desviantes
 termográficos
 ápticos
 RV
+karambit

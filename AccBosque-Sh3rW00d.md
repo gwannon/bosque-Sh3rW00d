@@ -3096,7 +3096,7 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (Mayor, tiene un alterego encapuchado que ayuda a los necesitados)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Ropas sobrias pero de gran calidad y con libertad de movimientos, un arco recurvo plegado y un carcaj con 10 flechas.
 
 > **Sugerencia de interpretación:** XXX
 
@@ -3126,7 +3126,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Ropas de trabajo resistentes, un bo (vara) y herramientas de trabajo
 
 > **Sugerencia de interpretación:** XXX
 
@@ -3141,7 +3141,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX, Secreto (Menor, es el hermanastro de uno de les jugadores y le tiene bastante ojeriza)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Ropas de segunda mano muy trotadas, material para hacer grafitis, un skateboard
 
 > **Sugerencia de interpretación:** XXX
 
@@ -3154,9 +3154,9 @@ XXX
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** XXX, Secreto (Mayor, es un antiguo asesino a sueldo con cientos de muertes a su espalda)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Ropas deportivas y gafas de sol, karambit (daga), pistola de clavos
 
 > **Sugerencia de interpretación:** XXX
 
@@ -3194,18 +3194,20 @@ XXX
 
 [![Keys to the kingdom By Meg-James](./assests/images/keys_to_the_kingdom_by_meg_james_dek8qiw-414w-2x.png "Keys to the kingdom By Meg-James")](https://www.deviantart.com/meg-james/art/Keys-to-the-kingdom-880526408 "Keys to the kingdom By Meg-James")
 
-XXX
+Esta mujer mayor de descendencia jamaicana es quizás unas de las personas más buena y generosa de toda la arcología. Ella creó el gumbo eterno durante una gran hambruna y ha alimentado como ha podido a los desfavorecidos de la zona baja desde hace 15 años. Incluso se ha quitado de comer ella para alimentar a los más necesitados. 
+
+Muches cocineres e influencers gastronómiques ha intentado conseguir la receta del gumbo, pero Mamá se ha negado a darla. También le han hecho ofertas de trabajo como cocinera en casas de la zona alta y las ha declinado todas. Ella es feliz con su gente en los bajos de Nottingham.
 
 > Se cuenta que Mamá Claire puede leer tu futuro en el gumbo, te echa una ración en tu plato y lee el gumbo. Es por ello que Mamá Claire tiene Ocultismo, por si quieres que les haga una predicción.
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ocultismo d8, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** XXX, Secreto (Menor, tiene contactos con los _boskis_, de hecho el secreto de su gumbo son las verduras que los _boskis_ le consiguen)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Delantal con un bolsillo grande que contiene todo tipo de objetos de cocina y especias, gran cucharón metálico para revolver el gumbo y servirlo, machete (FUE+d6) para cortar y picar carne y verdura.
 
-> **Sugerencia de interpretación:** Delantal con un bolsillo grande que contiene todo tipo de objetos de cocina y especias, gran cucharón metálico para revolver el gumbo y servirlo, machete (FUE+d6) para cortar y picar carne y verdura.
+> **Sugerencia de interpretación:** Compórtate como esa abuela que no deja de empapuzarte de comida y de preguntarte si tienes hambre, si duermes bien, si vas bien de amores, etc. No pares de hablar soltando cotilleos y chascarrillos de los vecinos interesen o no.
 
 ## Gus, filosofo y guerrero &#35;
 
