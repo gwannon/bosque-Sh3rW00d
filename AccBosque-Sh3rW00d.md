@@ -1659,11 +1659,11 @@ Los _forks_ son copias de una IA que se desarrollan independientemente y toman e
 
 #### Crear instancias
 
-Las IA tienen la capacidad de hacer instancias suyas. Cada instancia creada come recursos de procesamiento a la IA original con lo que cada nueva instancia supone un -1 a todas las tiradas de todas las instancias y de la IA principal.
+Las IA polivalentes y superiores **tienen la capacidad de hacer instancias** suyas. Cada instancia creada come recursos de procesamiento a la IA original con lo que cada 5 instancias supone un -1 a todas las tiradas de todas las instancias y de la IA principal.
 
-Una IA que genera dos instancias tiene un -3 a todas sus instancias, pero puede trabajas en 3 tareas a la vez o hacer una tarea el triple de rápida. De hecho, las instancias pueden ayudarse entre ellas como si fueran personajes diferentes, siguiendo las reglas de ayuda del manual básico.
+Una IA que genera 10 instancias tiene un -2 a todas sus instancias (incluida la original), pero puede trabajar en 10 tareas a la vez o hacer una tarea el triple de rápida. De hecho, las instancias pueden ayudarse entre ellas como si fueran personajes diferentes, siguiendo las reglas de ayuda del manual básico.
 
-> Una IA no puede tantas instancias como su Astucia/2. Es decir una IA de Astucia 8, puede crear hasta 4 instancias y tendría un negativo de -5.
+> Una IA no puede tantas instancias como su Astucia x 5/2. Es decir una IA de Astucia 8, puede crear hasta 20 instancias y tendría un negativo de -5. Las IAs directoras sufren penalizaciones a 10 instancias.
 
 Tanto crear una instancia como reintegrarla en tu sistema solo exigen una turno, pero si se quieren aprovechar los datos y experiencias que ha podido extraer la instancia mientras ha sido independiente debe pasar una tirada de Espíritu. En caso de fallarla, el trabajo realizado por la instancia no se pierde, pero los datos y experiencias que pudiera haber conseguido si se pierden.
 
@@ -3115,7 +3115,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Un par de cocteles molotov y material para hacer otros 3 si no se lo bebe antes, nudilleras con pinchos y ropas de cuero con parches de tela y tachas
 
 > **Sugerencia de interpretación:** Sé lo más bruta posible, eructa, escupe, bebe y grita. Las normas sociales de civismo son para les demás, tú no tienes tiempo para preocuparte por esas chorradas.
 
@@ -3219,9 +3219,9 @@ Muches cocineres e influencers gastronómiques ha intentado conseguir la receta 
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -3234,9 +3234,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -3249,9 +3249,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Desventajas:** XXX, Secreto (Mayor, compra y vende productos ilegales o prohibidos)
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
@@ -3262,17 +3262,17 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX, Secreto (Mayor, es la última instaladora que queda)
+* **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d4, Vigor d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Reparar d12+2, Sigilo d4
+* **Paso:** 5; **Parada:** 4; **Dureza:** 4
+* **Desventajas:** Anciana, Secreto (Mayor, es la última instaladora que queda)
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Última instaladora:** Sabe todos los hackeos que pidan nivel veterane o inferior. Por desgracia no conoce la clave de root, pero podría tener pistas.  
   * **Longevidad:** Como sus compañeres instaladores tiene una increíble longevidad.
-* **Equipo:** XXX
+* **Equipo:** Mantas y ropa de abrigo, herramientas raras y extrañas que nadie conoce (herramientas de instaladore)
 
-> **Sugerencia de interpretación:** XXX
+> **Sugerencia de interpretación:** Habla con voz chillona y no pares de mirar a todos con los ojos entrecerrados como si los estuvieras examinando. Coge cosas de la mesa y ponlas delante tuyo formando montoncitos.
 
 ## Alfonse, locutor antisistema &#35;
 
@@ -3295,17 +3295,17 @@ Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locu
 * **Tareas:** XXX
 * **Capacidades especiales:**
   * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
-  * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
 
 * **Capacidades especiales:**
-  * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
-* **Área de actuación:** A diferencias de otras IA su radio lo que hace es poder actuar sobre sus oyentes, en vez de mirar los sensores y cámaras de los sistemas que controla, puede hacer llamamientos a sus radioyentes y pedirles información y favores y estos tratarán de ayudar en la medida de lo posible.
+  * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
+  * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias como si fuera una IA directora.
+* **Área de actuación:** A diferencias de otras IA, su radio lo que hace es poder actuar sobre sus oyentes. En vez de mirar los sensores y cámaras de los sistemas que controla, puede hacer llamamientos a sus radioyentes y pedirles información y favores y estos tratarán de ayudar en la medida de lo posible.
 
 > **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry White, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo dirás chaladuras y propondras planes muy locos.
 
 ## Zeyaur Khan, biólogo loco &#35;
 
-[![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.png "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
+[![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.jpg "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
 
 Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. Sin embargo, perdió un pleito contra Café Corta que robo su fórmula.
 
@@ -3342,12 +3342,13 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 
 * **Atributos:** Astucia d12, Espíritu d6
 * **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
-* **Desventajas:** XXX, Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen), Secreto (Mayor, conoció a les instaladores y sabe que paso con ellos, pero ha hundido todo ese conocimiento en el fondo de sus bancos de memoria)
+* **Desventajas:** Obligaciones (Mayor, dedican muchas horas al día a hacer funcionar el sistema de transporte de la arcología), Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen), Secreto (Mayor, conoció a les instaladores y sabe que paso con ellos, pero ha hundido todo ese conocimiento en el fondo de sus bancos de memoria), Suspicaz (Menor)
+
 * **Ventajas:** XXX
 * **Tareas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
-  * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
+  * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias como si fuera una IA directora.
   * **Predicción de rutinas:** Si quiere y le caes bien, puede darte una predicción sobre algún tipo de suceso en el futuro cercano a partir del estudio de los patrones y las rutinas de la gente de Nottingham durante siglos. No es muy precisa, no puede darte hora y persona, pero puede darte ideas generales, como un _blus_ va a tener un accidente o va a haber revueltas en la Plaza Mayor. 
   * **Bancos de memoria:** Si quiere y le caes bien, puede darte información sobre sucesos que hayan sucedido desde que fue iniciada hace ya 200 años. Tienen que ser cosas públicas no pueden darte información de sucesos ocurridos en espacios privados. 
 * **Área de actuación:** Ascensores, montacargas, puertas, escaleras automáticas, cintas transportadoras etc. del sistema público de transporte. Esto incluye también todo tipo de sensores, cámaras, micrófonos, etc. que estos tengan.
@@ -3413,6 +3414,7 @@ Aquí tienes un listado de términos especiales usados en esta ambientación.
 * **Fork:** copia de un software a partir de la cual se empieza a desarrollar nuevo software normalmente con capacidades diferentes del original.
 * **Glitch de la mañana:** amanecer
 * **Glitch de la noche:** anochecer
+* **Instancia:** Versiones de una IA normalmente más pequeñas que pueden ser cargadas en sistemas simples para la realización de alguna tarea específica.
 * **Notis:** ciudadanes que viven en la arcología Nottingham.
 * **Superusuarie:** también llamado _root_, se refiere en un sistema informático a le usuarie más poderose con capacidades especiales.
 

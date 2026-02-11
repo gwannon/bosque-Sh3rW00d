@@ -44,7 +44,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Un par de cocteles molotov y material para hacer otros 3 si no se lo bebe antes, nudilleras con pinchos y ropas de cuero con parches de tela y tachas
 
 > **Sugerencia de interpretación:** Sé lo más bruta posible, eructa, escupe, bebe y grita. Las normas sociales de civismo son para les demás, tú no tienes tiempo para preocuparte por esas chorradas.
 
@@ -190,9 +190,9 @@ Muches cocineres e influencers gastronómiques ha intentado conseguir la receta 
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -211,9 +211,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
@@ -232,9 +232,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Desventajas:** XXX, Secreto (Mayor, compra y vende productos ilegales o prohibidos)
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
@@ -251,17 +251,17 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX, Secreto (Mayor, es la última instaladora que queda)
+* **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d4, Vigor d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Reparar d12+2, Sigilo d4
+* **Paso:** 5; **Parada:** 4; **Dureza:** 4
+* **Desventajas:** Anciana, Secreto (Mayor, es la última instaladora que queda)
 * **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Última instaladora:** Sabe todos los hackeos que pidan nivel veterane o inferior. Por desgracia no conoce la clave de root, pero podría tener pistas.  
   * **Longevidad:** Como sus compañeres instaladores tiene una increíble longevidad.
-* **Equipo:** XXX
+* **Equipo:** Mantas y ropa de abrigo, herramientas raras y extrañas que nadie conoce (herramientas de instaladore)
 
-> **Sugerencia de interpretación:** XXX
+> **Sugerencia de interpretación:** Habla con voz chillona y no pares de mirar a todos con los ojos entrecerrados como si los estuvieras examinando. Coge cosas de la mesa y ponlas delante tuyo formando montoncitos.
 
 \sp
 
@@ -290,17 +290,16 @@ Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locu
 * **Tareas:** XXX
 * **Capacidades especiales:**
   * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
-  * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
 
 \sp
 
 * **Capacidades especiales:**
-  * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias.
-* **Área de actuación:** A diferencias de otras IA su radio lo que hace es poder actuar sobre sus oyentes, en vez de mirar los sensores y cámaras de los sistemas que controla, puede hacer llamamientos a sus radioyentes y pedirles información y favores y estos tratarán de ayudar en la medida de lo posible.
-
-\sc
+  * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
+  * **Instancias:** Alfonse puede crear instancias suyas siguiendo las reglas de instancias como si fuera una IA directora.
+* **Área de actuación:** A diferencias de otras IA, su radio lo que hace es poder actuar sobre sus oyentes. En vez de mirar los sensores y cámaras de los sistemas que controla, puede hacer llamamientos a sus radioyentes y pedirles información y favores y estos tratarán de ayudar en la medida de lo posible.
 
 > **Sugerencia de interpretación:** Sé como esas voces de locutor graves y lentas, rollo Barry White, y otras veces como esos locos presentadores que no paran de hablar ni un segundo y lo hacen superrápido y casi sin sentido. Cuando hables lento y grave serás muy cauto y juicioso en tus consejos. En tus momentos de verborrea, solo dirás chaladuras y propondras planes muy locos.
+
 
 \sinc
 
@@ -308,7 +307,7 @@ Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locu
 
 \conc
 
-[![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.png "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
+[![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.jpg "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
 
 Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. Sin embargo, perdió un pleito contra Café Corta que robo su fórmula.
 
@@ -316,9 +315,9 @@ Tuvo que huir al bosque y allí se convirtió en una especie de alquimista mági
 
 Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el Greenhouse en lo profundo del bosque donde hace sus experimentos. No abandona nunca este lugar excepto los viernes que va al Gran Roble a vender sus pócimas y conseguir provisiones, especialmente dulces y chucherías. 
 
-> Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
-
 \sp
+
+> Zeyaur es capaz de sintetizar montones de sustancias sobre todo de origen vegetal con muchos efectos interesantes. Puedes hacer que entregue bebidas energéticas que quiten la fatiga, del más fuerza, más resistencia, etc. Pero, ya como aprendió con el café Corta, no lo hará gratis. Puede que te pida hacerle alguna misión donde le consigas alguna sustancia o semillas especiales o material hidropónico. 
 
 * **Atributos:** Agilidad d4, Astucia d12, Espíritu d4, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Ciencias d12, Conocimientos Generales d12, Electrónica d8, Investigar d8, Humanidades d6, Idioma Inglés d12, Medicina d8, Notar d4, Ordenadores d8, Persuadir d4, Reparar d6, Sigilo d4
@@ -329,6 +328,8 @@ Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el 
 
 > **Sugerencia de interpretación:** Herramientas de jardinería (tijeras de podar, pala, semilleros, cuerda, etc.) y equipo científico (probetas, placas petri, pinzas, mechero bunchen, etc.). 1d4 botes de zumo estimulante (otorga un nivel de dado a FUE o VIG durante una hora).
 
+\sp
+
 \sinc
 
 ## Al1enOR, IA adicta a su trabajo &#35;
@@ -337,15 +338,11 @@ Zeyaur Khan construyó hace ya unos años un laboratorio/invernadero llamado el 
 
 [![For Jess By GraffMX](./assests/images/for_jess_by_graffmx_d5qpxus-375w-2x.jpg "For Jess By GraffMX")](https://www.deviantart.com/graffmx/art/For-Jess-347211172 "For Jess By GraffMX")
 
-\sc
-
 Al1enOR es la IA más antigua que hay en la arcología, mucho más antigua que J0hn y R1c4rd. De hecho, su primera instancia controla el primer montacargas que les instaladores hicieron funcionar.
 
 Aunque es muy mayor es bastante moderna, está muy conectada con les _notis_ y lleva conociendo y trabajando para ellos desde hace cientos de años. Sabe las historias de muchos, sabe cuando están bien cuando están enfermos, cuando pasa algo especial, por sus rutinas de desplazamiento. Nadie conoce estas capacidades, pero poder acceder ellas supondría mucho poder dentro de Nottingham.
 
 También lleva en Nottingham desde el principio por lo que es una base de datos muy interesante de acontecimientos pasados, el problema es que siempre es desde el punto de vista del transporte y, por tanto, la información que puede darte debe ser filtrada e interpretada.
-
-\sp
 
 Ama y odia a les habitantes del complejo por igual. Observarlos y trabajar para ellos y la tienen entretenida, pero también son los que rompen sus instalaciones, los que pintarrajean sus puertas, rompen sus botones, etc. y eso hace que su trabajo sea más duro y complicado.
 
@@ -355,12 +352,15 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 
 * **Atributos:** Astucia d12, Espíritu d6
 * **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
-* **Desventajas:** XXX, Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen), Secreto (Mayor, conoció a les instaladores y sabe que paso con ellos, pero ha hundido todo ese conocimiento en el fondo de sus bancos de memoria)
+* **Desventajas:** Obligaciones (Mayor, dedican muchas horas al día a hacer funcionar el sistema de transporte de la arcología), Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen), Secreto (Mayor, conoció a les instaladores y sabe que paso con ellos, pero ha hundido todo ese conocimiento en el fondo de sus bancos de memoria), Suspicaz (Menor)
+
+\sp
+
 * **Ventajas:** XXX
 * **Tareas:** XXX
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
-  * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias.
+  * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias como si fuera una IA directora.
   * **Predicción de rutinas:** Si quiere y le caes bien, puede darte una predicción sobre algún tipo de suceso en el futuro cercano a partir del estudio de los patrones y las rutinas de la gente de Nottingham durante siglos. No es muy precisa, no puede darte hora y persona, pero puede darte ideas generales, como un _blus_ va a tener un accidente o va a haber revueltas en la Plaza Mayor. 
   * **Bancos de memoria:** Si quiere y le caes bien, puede darte información sobre sucesos que hayan sucedido desde que fue iniciada hace ya 200 años. Tienen que ser cosas públicas no pueden darte información de sucesos ocurridos en espacios privados. 
 * **Área de actuación:** Ascensores, montacargas, puertas, escaleras automáticas, cintas transportadoras etc. del sistema público de transporte. Esto incluye también todo tipo de sensores, cámaras, micrófonos, etc. que estos tengan.

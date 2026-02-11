@@ -59,6 +59,7 @@ Aquí tienes un listado de términos especiales usados en esta ambientación.
 * **Fork:** copia de un software a partir de la cual se empieza a desarrollar nuevo software normalmente con capacidades diferentes del original.
 * **Glitch de la mañana:** amanecer
 * **Glitch de la noche:** anochecer
+* **Instancia:** Versiones de una IA normalmente más pequeñas que pueden ser cargadas en sistemas simples para la realización de alguna tarea específica.
 * **Notis:** ciudadanes que viven en la arcología Nottingham.
 * **Superusuarie:** también llamado _root_, se refiere en un sistema informático a le usuarie más poderose con capacidades especiales.
 

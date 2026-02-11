@@ -318,11 +318,11 @@ Los _forks_ son copias de una IA que se desarrollan independientemente y toman e
 
 #### Crear instancias
 
-Las IA tienen la capacidad de hacer instancias suyas. Cada instancia creada come recursos de procesamiento a la IA original con lo que cada nueva instancia supone un -1 a todas las tiradas de todas las instancias y de la IA principal.
+Las IA polivalentes y superiores **tienen la capacidad de hacer instancias** suyas. Cada instancia creada come recursos de procesamiento a la IA original con lo que cada 5 instancias supone un -1 a todas las tiradas de todas las instancias y de la IA principal.
 
-Una IA que genera dos instancias tiene un -3 a todas sus instancias, pero puede trabajas en 3 tareas a la vez o hacer una tarea el triple de rápida. De hecho, las instancias pueden ayudarse entre ellas como si fueran personajes diferentes, siguiendo las reglas de ayuda del manual básico.
+Una IA que genera 10 instancias tiene un -2 a todas sus instancias (incluida la original), pero puede trabajar en 10 tareas a la vez o hacer una tarea el triple de rápida. De hecho, las instancias pueden ayudarse entre ellas como si fueran personajes diferentes, siguiendo las reglas de ayuda del manual básico.
 
-> Una IA no puede tantas instancias como su Astucia/2. Es decir una IA de Astucia 8, puede crear hasta 4 instancias y tendría un negativo de -5.
+> Una IA no puede tantas instancias como su Astucia x 5/2. Es decir una IA de Astucia 8, puede crear hasta 20 instancias y tendría un negativo de -5. Las IAs directoras sufren penalizaciones a 10 instancias.
 
 Tanto crear una instancia como reintegrarla en tu sistema solo exigen una turno, pero si se quieren aprovechar los datos y experiencias que ha podido extraer la instancia mientras ha sido independiente debe pasar una tirada de Espíritu. En caso de fallarla, el trabajo realizado por la instancia no se pierde, pero los datos y experiencias que pudiera haber conseguido si se pierden.
 
