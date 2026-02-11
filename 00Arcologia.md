@@ -26,7 +26,7 @@ En estas aventuras **tu mesa tomará el papel de proscrites y bandides de buen c
 
 Nottingham es una gigantesca arcología donde viven cientos de miles de personas, creada hace más de 2 siglos por la compañía para sus empleades. Aunque, a priori pueda parecer un lugar donde vivir y trabajar, es más bien una inmensa máquina donde la compañía exprime todo lo que puede a sus habitantes.
 
-Nottingham está en decadencia, tanto estructural, como económica y social. Estructural porque lleva siglos sin un mantenimiento adecuado, además de no haber sido rematado adecuadamente. Economicamente porque ha perdido capacidad de producción, principalmente de comida en las piscifactorías del Trent. Por último, socialmente ya que está al borde de la rebelión.
+Nottingham está en decadencia, tanto estructural, como económica y social. Estructuralmente, porque lleva siglos sin un mantenimiento adecuado, además de no haber sido rematado adecuadamente. Económicamente, porque ha perdido capacidad de producción, principalmente de comida en las piscifactorías del Trent. Por último, socialmente, ya que está al borde de la rebelión.
 
 ### El bosque de Sh3rW00d
 
@@ -43,9 +43,13 @@ XXX
 
 ### Las directoras
 
-Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. Las diferencias claras entre ellas es como consideran cuál es la forma más óptima de maximizar los beneficio para la empresa
+Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. Las diferencias claras entre ellas es como consideran cuál es la forma más óptima de maximizar los beneficio para la empresa.
+
+Nottingham ha tenido dos IA directoras desde su creación, R1c4rd y J0hn, y sus «reinados» han sido totalmente diferentes.
 
 XXX
+
+Hay una tercera IA que no es directora, pero casi, que es Al1enOR. Al1enOR fue la IA más potente en los primeros días de Nottingham cuando todavía no había habitantes en Nottingham. Durante unos años mientras les instaladores montaban todas las estructuras básicas, era la IA que controlaba uno de los pocos sistemas que funciona y el más importante de la arcología, el sistema de transporte (escaleras, puertas, ascensores, montacargas, etc.). 
 
 \sc
 

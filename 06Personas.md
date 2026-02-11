@@ -355,7 +355,7 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 
 * **Atributos:** Astucia d12, Espíritu d6
 * **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
-* **Desventajas:** XXX, Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen)
+* **Desventajas:** XXX, Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen), Secreto (Mayor, conoció a les instaladores y sabe que paso con ellos, pero ha hundido todo ese conocimiento en el fondo de sus bancos de memoria)
 * **Ventajas:** XXX
 * **Tareas:** XXX
 * **Capacidades especiales:**
