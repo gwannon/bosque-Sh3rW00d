@@ -51,8 +51,6 @@ XXX
 
 Hay una tercera IA que no es directora, pero casi, que es Al1enOR. Al1enOR fue la IA más potente en los primeros días de Nottingham cuando todavía no había habitantes en Nottingham. Durante unos años mientras les instaladores montaban todas las estructuras básicas, era la IA que controlaba uno de los pocos sistemas que funciona y el más importante de la arcología, el sistema de transporte (escaleras, puertas, ascensores, montacargas, etc.). 
 
-\sc
-
 #### Directora J0hn y sus sheriffs
 
 XXX
