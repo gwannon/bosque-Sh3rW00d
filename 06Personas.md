@@ -39,9 +39,9 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d10
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 7
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Un par de cocteles molotov y material para hacer otros 3 si no se lo bebe antes, nudilleras con pinchos y ropas de cuero con parches de tela y tachas
@@ -60,12 +60,12 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza d12, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 7 (1)
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** Ropas de trabajo resistentes, un bo (vara) y herramientas de trabajo
+* **Equipo:** Ropas de trabajo resistentes (armadura 1), un bo (vara) y herramientas de trabajo
 
 > **Sugerencia de interpretación:** XXX
 
@@ -81,9 +81,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad d8, Astucia d8, Espíritu d10, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (Menor, es el hermanastro de uno de les jugadores y le tiene bastante ojeriza)
 * **Ventajas:** XXX
 * **Equipo:** Ropas de segunda mano muy trotadas, material para hacer grafitis, un skateboard
@@ -107,7 +107,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX, Secreto (Mayor, es un antiguo asesino a sueldo con cientos de muertes a su espalda)
 * **Ventajas:** XXX
-* **Equipo:** Ropas deportivas y gafas de sol, karambit (daga), pistola de clavos
+* **Equipo:** Ropas deportivas y gafas de sol, 2 karambits (daga), pistola de clavos
 
 > **Sugerencia de interpretación:** XXX
 
@@ -144,9 +144,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d12, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Interpretar d10, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Micrófono inalámbrico de calidad con carcasa vintage, ropa ajustada y sexy, pero que permite moverse y bailar.
@@ -169,10 +169,10 @@ Muches cocineres e influencers gastronómiques ha intentado conseguir la receta 
 
 > Se cuenta que Mamá Claire puede leer tu futuro en el gumbo, te echa una ración en tu plato y lee el gumbo. Es por ello que Mamá Claire tiene Ocultismo, por si quieres que les haga una predicción.
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d4, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ocultismo d8, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX, Secreto (Menor, tiene contactos con los _boskis_, de hecho el secreto de su gumbo son las verduras que los _boskis_ le consiguen)
+* **Paso:** 5; **Parada:** XXX; **Dureza:** 5
+* **Desventajas:** Anciana, Secreto (Menor, tiene contactos con los _boskis_, de hecho el secreto de su gumbo son las verduras que los _boskis_ le consiguen)
 * **Ventajas:** XXX
 * **Equipo:** Delantal con un bolsillo grande que contiene todo tipo de objetos de cocina y especias, gran cucharón metálico para revolver el gumbo y servirlo, machete (FUE+d6) para cortar y picar carne y verdura.
 
@@ -190,7 +190,7 @@ Muches cocineres e influencers gastronómiques ha intentado conseguir la receta 
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d8
+* **Atributos:** Agilidad d10, Astucia d6, Espíritu d10, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (XXX)
@@ -232,10 +232,10 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d6
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
-* **Desventajas:** XXX, Secreto (Mayor, compra y vende productos ilegales o prohibidos)
+* **Paso:** 5; **Parada:** XXX; **Dureza:** 5
+* **Desventajas:** Anciano, XXX, Secreto (Mayor, compra y vende productos ilegales o prohibidos)
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
 
