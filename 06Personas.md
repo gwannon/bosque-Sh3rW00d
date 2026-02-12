@@ -44,7 +44,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 7
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** Un par de cocteles molotov y material para hacer otros 3 si no se lo bebe antes, nudilleras con pinchos y ropas de cuero con parches de tela y tachas
+* **Equipo:** Un par de cocteles molotov y material para hacer otros 3, si no se lo bebe antes, nudilleras con pinchos y ropas de cuero con parches de tela y tachas
 
 > **Sugerencia de interpretación:** Sé lo más bruta posible, eructa, escupe, bebe y grita. Las normas sociales de civismo son para les demás, tú no tienes tiempo para preocuparte por esas chorradas.
 
@@ -60,7 +60,7 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza d12, Vigor d8
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d12, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 7 (1)
 * **Desventajas:** XXX, Secreto (XXX)
@@ -102,9 +102,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (Mayor, es un antiguo asesino a sueldo con cientos de muertes a su espalda)
 * **Ventajas:** XXX
 * **Equipo:** Ropas deportivas y gafas de sol, 2 karambits (daga), pistola de clavos
@@ -123,7 +123,7 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX, Secreto (XXX)
