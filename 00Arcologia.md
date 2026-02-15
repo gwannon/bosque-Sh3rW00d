@@ -550,7 +550,15 @@ En los últimos años, ha habido un auge de las pandillas para ocupar el agujero
 
 Podrías pensar que las mafias han sido sustituidas por la misma mierda con otro nombre, pero hay una importante diferencia. Mientras que las guerras entre mafiosos tenían un objetivo económico (te mato y me quedo tu territorio para ganar más dinero) y eran actos quirúrgicos, las peleas entre bandas son enfrentamientos violentos y sangrientos por controlar un territorio sin un objetivo claro. Eres mi enemigo y debo acabar contigo y luego si eso venderé mis drogas en tus calles. 
 
-XXX
+Una banda normalmente la forman unos 20-30 individuos, con une jefe y varies segundes y suelen tener un lugar de reunión y donde guardan su equipo y lo que roban o con lo que trafican. Pero a partir de esto no hay mucha más estructura, olvídate de libros de cuentas, de agendas, nombres y direcciones, etc. Todo esto dificulta saber cuan grande es una banda y conocer a sus miembros, que solo se identifican con los colores y los símbolos de la banda.
+
+\sp
+
+Las bandas suelen tener ciertos rituales, siendo los principales los ritos de entrada y los de elección de jefe. Pueden ser brutales con combate a muerte o palizas a los iniciados a cosas mucho más sofisticadas como votaciones o que su vidente de confianza lea las entrañas de un aparato electrónico para ver quien será el nuevo «director operativo» de la banda.
+
+La Zona Baja está dividido en territorios, cada uno controlado por una banda y las fronteras entre ellos están cambiando todo el tiempo. De hecho, los grafitis que marcan donde empieza un territorio están llenos de pintadas y repintadas con los colores de las bandas.
+
+\sc
 
 \sp
 

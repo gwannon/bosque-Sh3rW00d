@@ -469,7 +469,11 @@ En los últimos años, ha habido un auge de las pandillas para ocupar el agujero
 
 Podrías pensar que las mafias han sido sustituidas por la misma mierda con otro nombre, pero hay una importante diferencia. Mientras que las guerras entre mafiosos tenían un objetivo económico (te mato y me quedo tu territorio para ganar más dinero) y eran actos quirúrgicos, las peleas entre bandas son enfrentamientos violentos y sangrientos por controlar un territorio sin un objetivo claro. Eres mi enemigo y debo acabar contigo y luego si eso venderé mis drogas en tus calles. 
 
-XXX
+Una banda normalmente la forman unos 20-30 individuos, con une jefe y varies segundes y suelen tener un lugar de reunión y donde guardan su equipo y lo que roban o con lo que trafican. Pero a partir de esto no hay mucha más estructura, olvídate de libros de cuentas, de agendas, nombres y direcciones, etc. Todo esto dificulta saber cuan grande es una banda y conocer a sus miembros, que solo se identifican con los colores y los símbolos de la banda.
+
+Las bandas suelen tener ciertos rituales, siendo los principales los ritos de entrada y los de elección de jefe. Pueden ser brutales con combate a muerte o palizas a los iniciados a cosas mucho más sofisticadas como votaciones o que su vidente de confianza lea las entrañas de un aparato electrónico para ver quien será el nuevo «director operativo» de la banda.
+
+La Zona Baja está dividido en territorios, cada uno controlado por una banda y las fronteras entre ellos están cambiando todo el tiempo. De hecho, los grafitis que marcan donde empieza un territorio están llenos de pintadas y repintadas con los colores de las bandas.
 
 ## Les instaladores
 
@@ -3128,7 +3132,9 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d10
+Años y años de drogas han tenido efecto en el cerebro de Tuck y la verdad que ya no funciona a toda su capacidad, lo que suponen lapsus mentales, perdidas de memoria y otras secuelas mentales. Es por ello que no es conveniente darle tareas muy técnicas y precisas, es mejor ponerla en la dirección en que quieres que ataque, empujarla hacia allí y dejarla hacer lo suyo.
+
+* **Atributos:** Agilidad d8, Astucia d4, Espíritu d6, Fuerza d8, Vigor d10
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 7
 * **Desventajas:** XXX, Secreto (XXX)
@@ -3150,7 +3156,7 @@ XXX
 * **Ventajas:** XXX
 * **Equipo:** Ropas de trabajo resistentes (armadura 1), un bo (vara) y herramientas de trabajo
 
-> **Sugerencia de interpretación:** XXX
+> **Sugerencia de interpretación:** Comportate como el gigante amable que todos conocen y adorán. Habla pausado y tranquilo, sin palabras malsonantes y pidiendo las cosas por pafvor y dando las gracias. Lo improtante es que esto sea un choque cuando estes enfadado (las poquisimas veces que lo estas) y sea todo furia e ira descontrolado con golpes y gritos.
 
 ## Scarlet, famose grafitere &#35;
 
@@ -3259,7 +3265,7 @@ XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
-> **Sugerencia de interpretación:** XXX
+> **Sugerencia de interpretación:** Todo amor y simpatía, trata a la gente con apelativos como «cariñe», «amore», etc. Habla lo más dulce que puedas y no digas ningún tipo de palabrota, no es tu estilo . 
 
 ## Robert Guthrie, buhonero ambulante &#35;
 
@@ -3274,7 +3280,7 @@ XXX
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
 
-> **Sugerencia de interpretación:** XXX
+> **Sugerencia de interpretación:** Eres un vendedor nato y eso se traduce en que siempre estás gritando y llamando la atención. Eres un buhonero ambulante que no para de intentar vender sus mercancías y todo momento es un buen momento para hacer una venta. Y también negocia, te encanta negociar y todo es negociable.
 
 ## Harriette, tecnobruja del bosque &#35;
 
