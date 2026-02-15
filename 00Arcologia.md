@@ -43,13 +43,15 @@ XXX
 
 ### Las directoras
 
-Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. Las diferencias claras entre ellas es como consideran cuál es la forma más óptima de maximizar los beneficio para la empresa.
+Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. Las diferencias claras entre ellas es como consideran cuál es el método más óptimo de maximizar los beneficio para la empresa.
 
-Nottingham ha tenido dos IA directoras desde su creación, R1c4rd y J0hn, y sus «reinados» han sido totalmente diferentes.
+Nottingham ha tenido dos IA directoras desde su creación, R1c4rd y J0hn, y sus «reinados» han sido totalmente diferentes. R1c4rd siempre consideró que la manera de sacar beneficios a la arcología era tener a sus habitantes contentos, con lo que los servicios públicos y el bienestar sociales eran fundamentales dentro de sus programas y sus decisiones políticas, o eso dicen la historias que cuentan.
 
-XXX
+J0hn sucedió a R1c4rd y no está muy claro, pero cambio totalmente la manera de gobernar Nottingham, tratando de maximizar los beneficios y generar más dinero que R1c4rd. Para ello deshizo todo el sistema de bienestar y protección social de R1c4rd, ya que lo consideraba un gasto, e impuso un sistema tiránico y cruel, convirtiendo en muchos de les _notis_ en casi esclavos.
 
 Hay una tercera IA que no es directora, pero casi, que es Al1enOR. Al1enOR fue la IA más potente en los primeros días de Nottingham cuando todavía no había habitantes en Nottingham. Durante unos años mientras les instaladores montaban todas las estructuras básicas, era la IA que controlaba uno de los pocos sistemas que funciona y el más importante de la arcología, el sistema de transporte (escaleras, puertas, ascensores, montacargas, etc.). 
+
+\sp
 
 #### Directora J0hn y sus sheriffs
 
@@ -60,6 +62,8 @@ XXX
 La directora R1c4rd es la anterior IA de Nottingham que fue trasladada al departamento de armamentística de la compañía. Se dice que era, a diferencia de la directora J0hn, justa y magnánima con les _notis_. Se recuerda con cariño los años de dirección de R1c4rd y se sueña con su regreso cuando ya no sea necesaria en el departamento bélico de la compañía.
 
 XXX
+
+\sc
 
 \sp
 
@@ -470,19 +474,19 @@ La compañía tiene el control de la justicia y del sistema penal de Nottingham,
 
 La compañía tuvo que establecer una serie de leyes que regirían el funcionamiento de Nottingham cuando adquirió la concesión de construcción y explotación de esta arcología. En general las leyes son bastante normales y parecidas a las actuales, pero con cierta tendencia liberal de proteger al capital y la propiedad privada.
 
-Pero claro, este es un juego de gente fuera de la ley, así que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y John la sustituyo, esto cambió radicalmente.
+Pero claro, este es un juego de gente fuera de la ley, así que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y J0hn la sustituyo, esto cambió radicalmente.
 
-Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay es un escudo social que te pague una ayuda si te quedas sin trabajo o estás enfermo y no puedes trabajar, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabarás en prisión.
+Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay un escudo social que te pague una ayuda si te quedas sin trabajo o estás enfermo y no puedes trabajar, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabarás en prisión.
 
 Además, el sistema penal es francamente punitivista. Si eres encontrado culpable, pagarás tu deuda con la sociedad con trabajo forzado. La reinserción no está dentro de los objetivos del sistema penal.
 
 ### Fuera de la ley
 
-Una gran cantidad de les _notis_ que comenten delitos relacionados deudas e impagos suelen huir al bosque como una forma de escapar de terminar en la cárcel. Por ejemplo, si pierdes tu trabajo, es fácil que acabes viviendo en la calle lo cual te llevará a cometer más delitos y dar con tus huesos en la cárcel.
+Una gran cantidad de les _notis_ que comenten delitos relacionados deudas e impagos suelen huir al bosque como una manera de escapar de terminar en la cárcel. Por ejemplo, si pierdes tu trabajo, es fácil que acabes viviendo en la calle lo cual te llevará a cometer más delitos y dar con tus huesos en la cárcel.
 
 En vez de eso, la gente desahuciada o que no puede pagar sus deudas con la compañía cogen sus cosas y parten al bosque donde suelen acabar integrándose en comunidades de _boskis_.
 
-De hecho, les primeres _boskis_ fueron una mezcla de personas que no encajaban o estaban en contra del sistema que trataba de imponer la directora J0hn y las clases más bajas que no podían pagar rentas, impuestos e iban a acabar en la indigencia y más tarde en la calle.
+De hecho, les primeres _boskis_ fueron una mezcla de personas que no encajaban o estaban en contra del sistema que trataba de imponer la directora J0hn y las clases más bajas que no podían pagar sus alquileres, impuestos e iban a acabar en la indigencia y más tarde en la calle.
 
 ### Los juicios
 

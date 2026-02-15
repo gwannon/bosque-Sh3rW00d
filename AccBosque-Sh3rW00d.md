@@ -36,11 +36,11 @@ XXX
 
 ### Las directoras
 
-Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. Las diferencias claras entre ellas es como consideran cuál es la forma más óptima de maximizar los beneficio para la empresa.
+Las directoras son potentes IA que controlan Nottingham y tratan de que todo sea lo más beneficioso económicamente hablando para la compañía. Las diferencias claras entre ellas es como consideran cuál es el método más óptimo de maximizar los beneficio para la empresa.
 
-Nottingham ha tenido dos IA directoras desde su creación, R1c4rd y J0hn, y sus «reinados» han sido totalmente diferentes.
+Nottingham ha tenido dos IA directoras desde su creación, R1c4rd y J0hn, y sus «reinados» han sido totalmente diferentes. R1c4rd siempre consideró que la manera de sacar beneficios a la arcología era tener a sus habitantes contentos, con lo que los servicios públicos y el bienestar sociales eran fundamentales dentro de sus programas y sus decisiones políticas, o eso dicen la historias que cuentan.
 
-XXX
+J0hn sucedió a R1c4rd y no está muy claro, pero cambio totalmente la manera de gobernar Nottingham, tratando de maximizar los beneficios y generar más dinero que R1c4rd. Para ello deshizo todo el sistema de bienestar y protección social de R1c4rd, ya que lo consideraba un gasto, e impuso un sistema tiránico y cruel, convirtiendo en muchos de les _notis_ en casi esclavos.
 
 Hay una tercera IA que no es directora, pero casi, que es Al1enOR. Al1enOR fue la IA más potente en los primeros días de Nottingham cuando todavía no había habitantes en Nottingham. Durante unos años mientras les instaladores montaban todas las estructuras básicas, era la IA que controlaba uno de los pocos sistemas que funciona y el más importante de la arcología, el sistema de transporte (escaleras, puertas, ascensores, montacargas, etc.). 
 
@@ -397,19 +397,19 @@ La compañía tiene el control de la justicia y del sistema penal de Nottingham,
 
 La compañía tuvo que establecer una serie de leyes que regirían el funcionamiento de Nottingham cuando adquirió la concesión de construcción y explotación de esta arcología. En general las leyes son bastante normales y parecidas a las actuales, pero con cierta tendencia liberal de proteger al capital y la propiedad privada.
 
-Pero claro, este es un juego de gente fuera de la ley, así que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y John la sustituyo, esto cambió radicalmente.
+Pero claro, este es un juego de gente fuera de la ley, así que tiene que haber algo que te ponga al otro lado. Y esto es la destrucción por parte de la directora J0hn del escudo social que protegía a los más desvalidos y la aplicación de forma muy dura de la ley. Mientras que R1c4rd protegía a todos los _notis_, cuando esta se fue y J0hn la sustituyo, esto cambió radicalmente.
 
-Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay es un escudo social que te pague una ayuda si te quedas sin trabajo o estás enfermo y no puedes trabajar, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabarás en prisión.
+Veamos un ejemplo, la ley dice que tienes que pagar tu alquiler y si no los pagas te vas a la calle y puede que incluso acabes en la cárcel. Como no hay un escudo social que te pague una ayuda si te quedas sin trabajo o estás enfermo y no puedes trabajar, en el momento en que no puedes pagar tus deudas los sheriffs te buscarán y te llevarán a juicio, donde claramente serás encontrado culpable por no poder pagarte una buena defensa y acabarás en prisión.
 
 Además, el sistema penal es francamente punitivista. Si eres encontrado culpable, pagarás tu deuda con la sociedad con trabajo forzado. La reinserción no está dentro de los objetivos del sistema penal.
 
 ### Fuera de la ley
 
-Una gran cantidad de les _notis_ que comenten delitos relacionados deudas e impagos suelen huir al bosque como una forma de escapar de terminar en la cárcel. Por ejemplo, si pierdes tu trabajo, es fácil que acabes viviendo en la calle lo cual te llevará a cometer más delitos y dar con tus huesos en la cárcel.
+Una gran cantidad de les _notis_ que comenten delitos relacionados deudas e impagos suelen huir al bosque como una manera de escapar de terminar en la cárcel. Por ejemplo, si pierdes tu trabajo, es fácil que acabes viviendo en la calle lo cual te llevará a cometer más delitos y dar con tus huesos en la cárcel.
 
 En vez de eso, la gente desahuciada o que no puede pagar sus deudas con la compañía cogen sus cosas y parten al bosque donde suelen acabar integrándose en comunidades de _boskis_.
 
-De hecho, les primeres _boskis_ fueron una mezcla de personas que no encajaban o estaban en contra del sistema que trataba de imponer la directora J0hn y las clases más bajas que no podían pagar rentas, impuestos e iban a acabar en la indigencia y más tarde en la calle.
+De hecho, les primeres _boskis_ fueron una mezcla de personas que no encajaban o estaban en contra del sistema que trataba de imponer la directora J0hn y las clases más bajas que no podían pagar sus alquileres, impuestos e iban a acabar en la indigencia y más tarde en la calle.
 
 ### Los juicios
 
@@ -3120,8 +3120,8 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales d10, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
-* **Desventajas:** XXX, Secreto (Mayor, tiene un alterego encapuchado que ayuda a los necesitados)
-* **Ventajas:** XXX
+* **Desventajas:** Heroica, Secreto (Mayor, tiene un álterego encapuchado que ayuda a los necesitados)
+* **Ventajas:** Alcurnia, Alijos, Extremadamente Rica, XXX
 * **Equipo:** Ropas sobrias pero de gran calidad y con libertad de movimientos, un arco recurvo plegado y un carcaj con 10 flechas.
 
 > **Sugerencia de interpretación:** XXX
@@ -3152,11 +3152,11 @@ XXX
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d12, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 7 (1)
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** Heroico, Leal, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Ropas de trabajo resistentes (armadura 1), un bo (vara) y herramientas de trabajo
 
-> **Sugerencia de interpretación:** Comportate como el gigante amable que todos conocen y adorán. Habla pausado y tranquilo, sin palabras malsonantes y pidiendo las cosas por pafvor y dando las gracias. Lo improtante es que esto sea un choque cuando estes enfadado (las poquisimas veces que lo estas) y sea todo furia e ira descontrolado con golpes y gritos.
+> **Sugerencia de interpretación:** Compórtate como el gigante amable que todos conocen y adoran. Habla pausado y tranquilo, sin palabras malsonantes y pidiendo las cosas por favor y dando las gracias. Lo importante es que esto sea un choque cuando estes enfadado (las poquísimas veces que lo estas) y sea todo furia e irá descontrolada con golpes y gritos.
 
 ## Scarlet, famose grafitere &#35;
 
@@ -3167,7 +3167,7 @@ XXX
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d10, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
-* **Desventajas:** XXX, Secreto (Menor, es el hermanastro de uno de les jugadores y le tiene bastante ojeriza)
+* **Desventajas:** Bocazas, Buscado (menor, por sus daños a la propiedad y sus mensajes antisistema y contra la directora J0hn), Secreto (Menor, es el hermanastro de uno de les jugadores y le tiene bastante ojeriza)
 * **Ventajas:** XXX
 * **Equipo:** Ropas de segunda mano muy trotadas, material para hacer grafitis, un skateboard
 
@@ -3244,11 +3244,11 @@ Muches cocineres e influencers gastronómiques ha intentado conseguir la receta 
 XXX
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d10, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Disparar d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Pelear d10, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** 7; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Túnica de estilo monacal y sandalias, un arco recurvo plegado y un carcaj con 10 flechas.
 
 > **Sugerencia de interpretación:** Ropas simples, tirachinas de madera auténtica, arco recurvo y una sola flecha que lanza y recoge todo el rato.
 
@@ -3265,7 +3265,7 @@ XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
-> **Sugerencia de interpretación:** Todo amor y simpatía, trata a la gente con apelativos como «cariñe», «amore», etc. Habla lo más dulce que puedas y no digas ningún tipo de palabrota, no es tu estilo . 
+> **Sugerencia de interpretación:** Todo amor y simpatía, trata a la gente con apelativos como «cariñe», «amore», etc. Habla lo más dulce que puedas y no digas ningún tipo de palabrota, no es tu estilo. 
 
 ## Robert Guthrie, buhonero ambulante &#35;
 
@@ -3331,7 +3331,7 @@ Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locu
 
 [![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.jpg "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
 
-Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. Sin embargo, perdió un pleito contra Café Corta que robo su fórmula.
+Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa manera consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. Sin embargo, perdió un pleito contra Café Corta que robo su fórmula.
 
 Tuvo que huir al bosque y allí se convirtió en una especie de alquimista mágico que hace todos los potingues posibles para les _boskis_ y algunos _notis_ que tienen los contactos adecuados.
 

@@ -133,3 +133,36 @@
 {"rule":"NOTICE","sentence":"^\\QDentro de este arquetipo se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWoman passenger at railway station, board with departure routes by kroshka__nastya\\E$"}
 {"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QSi quieres implementar el hackeo clásico, Savage Worlds tiene diferentes manuales como Interface 3.0 o la Guía de Ciencia Ficción que te pueden ayudar en ese aspecto.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEl mundo actual\\E$"}
+{"rule":"FIGURE","sentence":"^\\QPocas cosas nuevas se han construido desde entonces, solo se han hecho mantenimientos de lo que dejaron estas extrañas figuras casi mitológicas.\\E$"}
+{"rule":"FORM","sentence":"^\\QComo ya hemos dicho, esta nueva ley supuso que montones de familias se quedaron sin su forma de vida y dio lugar a la segunda migración de notis al bosque de Sh3rW00d.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa gente que huye de Nottingham y acaba en el bosque normalmente no vuelven, ni se lo plantean de hecho ponen mucho empeño y trabajo en defender su nueva forma de vida.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSleepy Time By simoneferriero\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QEn vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente de una oficina, aunque no sean reproducciones virtuales de mucha calidad para abaratar costes.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QTodo trabajo sin componente físico o manual o que exija equipo especial (como equipo de laboratorio) se realiza por teletrabajo.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QDesde casa te colocas en tu unidad de trabajo con tus gafas de realidad virtual entras en la oficina virtual de la empresa donde realizas tus tareas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDerivates By cyberaeon\\E$"}
+{"rule":"FORM","sentence":"^\\QNormalmente, los desafíos se suelen lanzar a curris por tonterías, como una forma de humillación, sabiendo que no los aceptarán y tendrán que retractarse de la supuesta ofensa que han hecho y humillarse públicamente como cobardes devolviendo el guante.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSalt of the earth By Meg-James\\E$"}
+{"rule":"DETRAS_PX","sentence":"^\\QCoge cosas de la mesa y ponlas delante tuyo formando montoncitos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPero su mayor poder es el señalamiento público, quien elles marcan es acosade, humillade y seguramente desterrade al bosque.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QElegir 1: Avariciose (Mayor), Bocazas (Menor), Canalle (Menor), Caute (Menor)\nVentajas:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEstes aspirantes a estrellas de las redes andan a la búsqueda de nuevas historias con los que contentar a sus escases followers.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAvariciose (Mayor), Canalle (Menor), Feo (Menor), Habito (Mayor, Alcoholismo),\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCitizens and Scoundrels 16 by Jenna Fingers\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\QCloaca     ▢▢br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br          ▢▢\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCloaca     ▢▢br◼▢▢▢▢▢◼br◼▢▢▢▢▢◼br          ▢▢\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo amor y simpatía, trata a la gente con apelativos como «cariñe», «amore», etc.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSabe todos los hackeos que pidan nivel veterane o inferior.\\E$"}
+{"rule":"REAL","sentence":"^\\QDe esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEstas palabras de Sirio Sesenra me representan y por eso las transcribo aquí.\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\QIntersección de pasillo      ◼br       ▢br◼▢▢▢◼br       ▢br       ◼\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIntersección de pasillo      ◼br       ▢br◼▢▢▢◼br       ▢br       ◼\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSirio Sesenra - Técnicas, consejos y trucos para jugar a rol\\E$"}
+{"rule":"FABRIC","sentence":"^\\QDe hecho los sheriffs vigilan muy mucho los almacenes y las fábricas de productos y suministros hidropónicos porque saben que los boskis suelen atacarlos.\\E$"}
+{"rule":"FORM","sentence":"^\\QMientras que la gente mayor prefiere la comida con forma y sabor a carnes y verduras de toda la vida, para cocinarlas según las recetas de toda la vida, las nuevas generaciones están adoptando una cocina basada en las algas sin procesar o simplemente triturarlas y convertirlas en batidos de proteínas.\\E$"}
+{"rule":"MAS_BUENA","sentence":"^\\QEsta mujer mayor de descendencia jamaicana es quizás unas de las personas más buena y generosa de toda la arcología.\\E$"}
+{"rule":"REAL","sentence":"^\\QDe esa manera consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QLes notis pueden tener noticias y ver imágenes del mundo exterior y saber lo que pasa en otras arcologías, pero como en tiempos medievales, otra cosa es salir de tu condado y visitar otros lugares.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QOtra opción es que la directora J0hn te envíe fuera de Nottingham para que realices algún trabajo.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QUna banda normalmente la forman unos 20-30 individuos, con une jefe y varies segundes y suelen tener un lugar de reunión y donde guardan su equipo y lo que roban o con lo que trafican.\\E$"}

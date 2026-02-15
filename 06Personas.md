@@ -21,8 +21,8 @@ Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campe
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales d10, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
-* **Desventajas:** XXX, Secreto (Mayor, tiene un alterego encapuchado que ayuda a los necesitados)
-* **Ventajas:** XXX
+* **Desventajas:** Heroica, Secreto (Mayor, tiene un álterego encapuchado que ayuda a los necesitados)
+* **Ventajas:** Alcurnia, Alijos, Extremadamente Rica, XXX
 * **Equipo:** Ropas sobrias pero de gran calidad y con libertad de movimientos, un arco recurvo plegado y un carcaj con 10 flechas.
 
 > **Sugerencia de interpretación:** XXX
@@ -65,11 +65,11 @@ XXX
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d12, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 7 (1)
-* **Desventajas:** XXX, Secreto (XXX)
+* **Desventajas:** Heroico, Leal, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Ropas de trabajo resistentes (armadura 1), un bo (vara) y herramientas de trabajo
 
-> **Sugerencia de interpretación:** Comportate como el gigante amable que todos conocen y adorán. Habla pausado y tranquilo, sin palabras malsonantes y pidiendo las cosas por pafvor y dando las gracias. Lo improtante es que esto sea un choque cuando estes enfadado (las poquisimas veces que lo estas) y sea todo furia e ira descontrolado con golpes y gritos.
+> **Sugerencia de interpretación:** Compórtate como el gigante amable que todos conocen y adoran. Habla pausado y tranquilo, sin palabras malsonantes y pidiendo las cosas por favor y dando las gracias. Lo importante es que esto sea un choque cuando estes enfadado (las poquísimas veces que lo estas) y sea todo furia e irá descontrolada con golpes y gritos.
 
 \sp
 
@@ -86,7 +86,7 @@ XXX
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d10, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 6
-* **Desventajas:** XXX, Secreto (Menor, es el hermanastro de uno de les jugadores y le tiene bastante ojeriza)
+* **Desventajas:** Bocazas, Buscado (menor, por sus daños a la propiedad y sus mensajes antisistema y contra la directora J0hn), Secreto (Menor, es el hermanastro de uno de les jugadores y le tiene bastante ojeriza)
 * **Ventajas:** XXX
 * **Equipo:** Ropas de segunda mano muy trotadas, material para hacer grafitis, un skateboard
 
@@ -193,11 +193,11 @@ Muches cocineres e influencers gastronómiques ha intentado conseguir la receta 
 XXX
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d10, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Disparar d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Pelear d10, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** 7; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Túnica de estilo monacal y sandalias, un arco recurvo plegado y un carcaj con 10 flechas.
 
 > **Sugerencia de interpretación:** Ropas simples, tirachinas de madera auténtica, arco recurvo y una sola flecha que lanza y recoge todo el rato.
 
@@ -220,7 +220,7 @@ XXX
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
-> **Sugerencia de interpretación:** Todo amor y simpatía, trata a la gente con apelativos como «cariñe», «amore», etc. Habla lo más dulce que puedas y no digas ningún tipo de palabrota, no es tu estilo . 
+> **Sugerencia de interpretación:** Todo amor y simpatía, trata a la gente con apelativos como «cariñe», «amore», etc. Habla lo más dulce que puedas y no digas ningún tipo de palabrota, no es tu estilo. 
 
 \sp
 
@@ -289,7 +289,7 @@ Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locu
 * **Habilidades:** Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4
 * **Desventajas:** XXX, Secreto (Mayor, es un fork de la directora R1c4rd)
 * **Ventajas:** XXX
-* **Tareas:** XXX
+* **Tareas:** Hablar horas y horas, poner y mezclar música, trabajar con el sonido y la música. 
 * **Capacidades especiales:**
   * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
 
@@ -311,7 +311,7 @@ Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locu
 
 [![Inventory Shuffle By Meg-James](./assests/images/inventory_shuffle_by_meg_james_da4119z-375w-2x.jpg "Inventory Shuffle By Meg-James")](https://www.deviantart.com/meg-james/art/Inventory-Shuffle-611428535 "Inventory Shuffle By Meg-James")
 
-Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa forma consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. Sin embargo, perdió un pleito contra Café Corta que robo su fórmula.
+Zeyaur Khan es un genio de la biobotánica y su mayor logro es conseguir que las algas desarrollen cafeína como una defensa química como hace el cafeto. De esa manera consiguió desarrollar café real en las algas y, por tanto, poder producir café en el Trent. Sin embargo, perdió un pleito contra Café Corta que robo su fórmula.
 
 Tuvo que huir al bosque y allí se convirtió en una especie de alquimista mágico que hace todos los potingues posibles para les _boskis_ y algunos _notis_ que tienen los contactos adecuados.
 
@@ -359,7 +359,7 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 \sp
 
 * **Ventajas:** XXX
-* **Tareas:** XXX
+* **Tareas:** Controlar el sistema de transporte de la arcología, controlar masas, buscar rutas más eficientes.
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias como si fuera una IA directora.
