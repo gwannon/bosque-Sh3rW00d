@@ -160,7 +160,7 @@ En vez de oficinas físicas, existen oficinas virtuales que simulan el ambiente 
 
 A todos estos teletrabajadores se les llama en argot pijameres, por la broma de que están todo el día en pijama, aunque en sus versiones virtuales salgan con el apropiado uniforme de la empresa.
 
-En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de forma que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
+En el ciberpunk clásico era muy común las escenas de alienantes oficinas en las que miles de personas trabajaban en cubículos frente a ordenadores. En esta ambientación hemos introducido el concepto de teletrabajo de manera que ya no existen megaedificios en los que entran y salen miles de personas al día para trabajar en la megacorporación. Aquí cada trabajadore está en su casa aislado físicamente, pero hiperconectade y sobre todo hipervigilade vía redes.
 
 Pueden trabajar para algunas de entre los miles de minifábricas o directamente para la compañía o, incluso, ser algún tipo de profesional liberal como contable que trabaja para varias empresas.
 
@@ -3263,7 +3263,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Ropas cómodas para trabajar en la taberna, porra (FUE + d4), un par de jarras de sinterveza en cada mano.
 
 > **Sugerencia de interpretación:** Todo amor y simpatía, trata a la gente con apelativos como «cariñe», «amore», etc. Habla lo más dulce que puedas y no digas ningún tipo de palabrota, no es tu estilo. 
 
@@ -3316,7 +3316,7 @@ Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locu
 * **Habilidades:** Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4
 * **Desventajas:** XXX, Secreto (Mayor, es un fork de la directora R1c4rd)
 * **Ventajas:** XXX
-* **Tareas:** XXX
+* **Tareas:** Hablar horas y horas, poner y mezclar música, trabajar con el sonido y la música. 
 * **Capacidades especiales:**
   * **Red de wifi:** su potencia de proceso depende de la red de wifis que lo procesan. Cada vez que les jugadores interactúen con él, tira un d4. Con 1 tiene Astucia d6, con 2-3 Astucia d8 y con 4 Astucia d10. La bajada y subida de su Astucia hacen que las habilidades basadas en Astucia, también suben o bajen en la misma medida.
 
@@ -3369,7 +3369,7 @@ El problema es que todo ese estrés le empieza a pasar factura y sus instancias 
 * **Desventajas:** Obligaciones (Mayor, dedican muchas horas al día a hacer funcionar el sistema de transporte de la arcología), Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen), Secreto (Mayor, conoció a les instaladores y sabe que paso con ellos, pero ha hundido todo ese conocimiento en el fondo de sus bancos de memoria), Suspicaz (Menor)
 
 * **Ventajas:** XXX
-* **Tareas:** XXX
+* **Tareas:** Controlar el sistema de transporte de la arcología, controlar masas, buscar rutas más eficientes.
 * **Capacidades especiales:**
   * **Inteligencia artificial:** Es una IA y, por tanto, no tiene cuerpo físico. Por eso solo tiene atributos, habilidades y ventajas y desventajas mentales y sociales. 
   * **Instancias:** Al1enOR puede crear instancias suyas siguiendo las reglas de instancias como si fuera una IA directora.

@@ -218,7 +218,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 5
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** XXX
+* **Equipo:** Ropas cómodas para trabajar en la taberna, porra (FUE + d4), un par de jarras de sinterveza en cada mano.
 
 > **Sugerencia de interpretación:** Todo amor y simpatía, trata a la gente con apelativos como «cariñe», «amore», etc. Habla lo más dulce que puedas y no digas ningún tipo de palabrota, no es tu estilo. 
 

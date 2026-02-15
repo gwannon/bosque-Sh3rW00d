@@ -166,3 +166,10 @@
 {"rule":"NOTICE","sentence":"^\\QLes notis pueden tener noticias y ver imágenes del mundo exterior y saber lo que pasa en otras arcologías, pero como en tiempos medievales, otra cosa es salir de tu condado y visitar otros lugares.\\E$"}
 {"rule":"REALIZE","sentence":"^\\QOtra opción es que la directora J0hn te envíe fuera de Nottingham para que realices algún trabajo.\\E$"}
 {"rule":"PREP_VERB","sentence":"^\\QUna banda normalmente la forman unos 20-30 individuos, con une jefe y varies segundes y suelen tener un lugar de reunión y donde guardan su equipo y lo que roban o con lo que trafican.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QCarismática\nTareas:\\E$"}
+{"rule":"FORM","sentence":"^\\QLa tasa de criminalidad es bastante baja para la tremenda densidad de población del complejo de Nottingham, aun así es un problema que la directora J0hn y sus sheriffs buscan atajar de forma expeditiva.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QLa vertiente más radical y fanática del culto a les instaladores son les buscadores de la contraseña de SU que creen que les instaladores dejaron en alguna parte una contraseña de superusuarie o password de root que al usarla convertirá a les buscadores en instaladores y activará en la arcología una serie de sistemas escondidos que acabarán con el mal y las injusticias del mundo actual.\\E$"}
+{"rule":"REAL","sentence":"^\\QAunque muchos de les influencers se nombran a sí mismos como creadores de muchas de las modas del complejo, lo normal es que en realidad copien esos movimientos estéticos y ridiculicen a aquellos que tratan de demostrar el origen real de esas modas.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QJ0hn, la actual IA directora, toma todas sus decisiones teniendo en mente esta simple regla «No importa la gente, solo los beneficios de la compañía».\\E$"}
+{"rule":"REALIZE","sentence":"^\\QTodo trabajo sin componente físico o manual o que exija equipo especial (como equipo de laboratorio) se realiza por teletrabajo.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QD’hinghara DinerBy Dana-Ulama\\E$"}
