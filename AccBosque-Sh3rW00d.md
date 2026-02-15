@@ -26,7 +26,7 @@ Nottingham está en decadencia, tanto estructural, como económica y social. Est
 
 ### El bosque de Sh3rW00d
 
-El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. También dejaron vigas, las tuberías de agua, luz y datos, pero sin estar rematados.
+El bosque, cuyo primer sector tiene el código Sh3rW00d en el listado de espacios de los planos de la arcología, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. También dejaron vigas, las tuberías de agua, luz y datos, pero sin estar rematados.
 
 [![Pulsating neon lines in darkness abstract purple light by pvproductions](./assests/images/pulsating-neon-lines-darkness-abstract-purple-light.jpg "Pulsating neon lines in darkness abstract purple light by pvproductions")](https://www.freepik.com/free-photo/pulsating-neon-lines-darkness-abstract-purple-light_423230986.htm "Pulsating neon lines in darkness abstract purple light by pvproductions")
 
@@ -270,7 +270,7 @@ Todos los años, en el día en que se puso la primera piedra del complejo
 
 Hay diferentes festejos en la Plaza Mayor que empiezan con un discurso de la directora J0hn. Hay música, bailes y comida hasta bien entrada la noche.
 
-De hecho hay tradición de besarte con tu pareja cuando se va a producir el Glitch de la noche.
+De hecho hay tradición de besarte con tu pareja cuando se va a producir el Glitch de la noche (anochecer).
 
 Los locales de comida de todo el complejo ponen puestos de comida para disfrute de los paladares de les _notis_. Curiosamente, mientras que los locales más humildes suelen poner precios populares para sus clientes, los de alta gama suelen cobrar más de lo normal.
 
@@ -386,7 +386,7 @@ Las normas son las siguientes.
 * Si acepta el duelo puede **elegir el tipo (primera sangre, incapacidad o muerte) o el arma**, normalmente armas de filo, pero ha habido duelos con arcos o con sticks de hockey de pasillo.
 * El ofendido elegirá lo que no haya elegido ofensor.
 
-* El **duelo será al glitch de la mañana dentro de 3 días**, tiempo suficiente para dejar tus asuntos cerrados. Deberán presentarse con une madrine y su campeone en caso de tenerlo.
+* El **duelo será al glitch de la mañana (amanecer) dentro de 3 días**, tiempo suficiente para dejar tus asuntos cerrados. Deberán presentarse con une madrine y su campeone en caso de tenerlo.
 * Se suele llegar a un acuerdo sobre quien será el juez y normalmente se elige una IA con las capacidades mínimas para que sea jurado en un juicio.
 
 ## Leyes y justicia
@@ -490,8 +490,6 @@ XXX
 ### Los nanitos después de la marcha de les instaladores
 
 Cuando les instaladores se fueron por orden de la compañía, se llevaron los nanobots, pero no todos. Muchos de los nanitos de zonas en construcción quedaron huérfanos y sus firmwares desactualizado empezaron a fallar o a funcionar por su cuenta y siguieron construyendo ahora con materiales reciclados de origen biológico. Así es como el bosque obtuvo su nombre, al crearse estructuras orgánicas a las columnas techos, suelos y paredes del bosque.
-
-XXX
 
 ### La búsqueda de la contraseña de SU
 
@@ -1735,13 +1733,33 @@ De hecho, muchas de las **leyendas urbanas de sucesos menores son atribuidos a l
 
 Actualmente, los restos de nanotecnología activos en Nottingham son los siguientes.
 
+* Varios **grupos de científiques** al servicio de empresas y de la propia directora J0hn **tienen muestras de la nanotecnología** de les instaladores y que tratan de replicar. Ofrecen gran cantidad de dinero por muestras de nanotecnología frescas a poder ser mutadas o desviantes. También pagan buenas cantidades por muestras de otros grupos científicos para robar sus desarrollos y descubrimientos.
+
 * Las historias cuentan que en **el pozo (Zona baja)** aún queda resto de nanobots en el fondo, pero nadie ha querido comprobarlo.
 * **La rayuela fantasma (Zona baja)** de la que hablan les niñes tiene su origen en un grupo de nanitos que se han quedado en un bucle infinito.
-* Varios **grupos de científiques** al servicio de empresas y de la propia directora J0hn **tienen muestras de la nanotecnología** de les instaladores y que tratan de replicar. Ofrecen gran cantidad de dinero por muestras de nanotecnología frescas a poder ser mutadas o desviantes. También pagan buenas cantidades por muestras de otros grupos científicos para robar sus desarrollos y descubrimientos.
 
 ### Nanotecnología en el bosque
 
-XXX
+Cuando les instaladores se fueron por orden de la compañía, parte de los nanitos quedaron huérfanos en las zonas en construcción que hoy en día se conoce como el bosque. Esta nanotecnología, huérfana de sus creadores, estuvo un tiempo inactiva, hasta que pasados unos años se reactivó y empezó a trabajar de nuevo.
+
+Los nanitos empezaron a autorreproducirse para volver a tener una masa necesaria para poder empezar a crear estructuras. Sin embargo, en vez de trabajar con materia inorgánica como había trabajado hasta ahora, **empezaron a trabajar con materia orgánica que era muy abundante** en ese momento, sobre todo por la gran cantidad de vertederos ilegales que se habían formado durante esos años de inactividad en las zonas a medio construir de lo que sería un futuro el bosque.
+
+Con el nuevo material y viendo que trabajar como hasta ahora lo habían hecho no funcionaba, los nanitos **empezaron a crear estructuras menos inorgánicas y más orgánicas** con formas vegetales.
+
+Creaban refuerzos como si fueran ramas de árboles, montaban coberturas siguiendo patrones de hojas en los árboles y paredes siguiendo las estructuras de arbustos altos y enredaderas.
+
+Usando las pocas estructuras que había construidas, columnas y vigas, como base de sus desarrollos crearon un entorno muy parecido a un bosque (exactamente a **lo que habría creado un desarrollador de videojuegos pensado en un bosque**). Ahora mismo si te mueves por el bosque encontrarás árboles (todos iguales y separados entre sí a una distancia exacta de 5 metros), maleza de arbustos todos con la misma forma, hierba (muy parecida a una especie de moqueta), etc.
+
+De hecho si te fijas, no hay objetos redondos. Si algo parece redondeado, es realidad es una algo poligonal con tantos lados que a lo lejos parece circular, pero de cerca ves esa estructura poligonal perfectamente. Siguiendo el símil de los videojuegos, tendría el mismo efecto que en un videojuego al acercarte al tronco de un árbol. 
+
+Es todo un misterio la razón por la cual los nanitos del bosque hacen lo que hacen, pero hay diferentes teorías. 
+
+* La teoría más extendida es **fallo del software** que hizo que empezará a hacer las locuras que hace.
+* Les buscadores consideran que les instaladores no cometen errores, así que todo lo que hacen sus nanitos es **seguir su programación tal y como sus creadores establecieron**. Les más fanatiques de los buscadores consideran que las acciones de los nanitos son la muestra de que les instaladores y la clave de SU existen y que alguien la encontró y dio las órdenes a los nanitos de crear el bosque.
+
+* La teoría más loca, pero quizás más interesante, es que sin el control de les instaladores, **los nanitos del bosque tomaron consciencia de sí mismo** y decidieron hacer lo que están haciendo, crear un mundo vegetal en un entorno de cemento, acero y vidrio.
+
+> Los más curioso de los nanitos es que además de crear las estructuras vegetales las reforman constantemente, como si estuvieran **vivas y creciendo**. Es solo una teoría, pero este crecimiento se considera que es **la forma más efectiva que han desarrollado los nanitos para hacer un mantenimiento** adecuado de sus estructuras.
 
 [![Nature Neon By redheadsoldier](./assests/images/nature_neon_by_redheadsoldier_d9ycnm9-414w-2x.jpg "Nature Neon By redheadsoldier")](https://www.deviantart.com/redheadsoldier/art/Nature-Neon-601893009 "Nature Neon By redheadsoldier")
 
@@ -3115,7 +3133,7 @@ XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 7
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
-* **Equipo:** Un par de cocteles molotov y material para hacer otros 3 si no se lo bebe antes, nudilleras con pinchos y ropas de cuero con parches de tela y tachas
+* **Equipo:** Un par de cocteles molotov y material para hacer otros 3, si no se lo bebe antes, nudilleras con pinchos y ropas de cuero con parches de tela y tachas
 
 > **Sugerencia de interpretación:** Sé lo más bruta posible, eructa, escupe, bebe y grita. Las normas sociales de civismo son para les demás, tú no tienes tiempo para preocuparte por esas chorradas.
 
@@ -3125,7 +3143,7 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza d12, Vigor d8
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d12, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** 7 (1)
 * **Desventajas:** XXX, Secreto (XXX)
@@ -3155,9 +3173,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (Mayor, es un antiguo asesino a sueldo con cientos de muertes a su espalda)
 * **Ventajas:** XXX
 * **Equipo:** Ropas deportivas y gafas de sol, 2 karambits (daga), pistola de clavos
@@ -3170,7 +3188,7 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX, Secreto (XXX)

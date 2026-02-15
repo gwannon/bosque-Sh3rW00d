@@ -408,13 +408,39 @@ De hecho, muchas de las **leyendas urbanas de sucesos menores son atribuidos a l
 
 Actualmente, los restos de nanotecnología activos en Nottingham son los siguientes.
 
+* Varios **grupos de científiques** al servicio de empresas y de la propia directora J0hn **tienen muestras de la nanotecnología** de les instaladores y que tratan de replicar. Ofrecen gran cantidad de dinero por muestras de nanotecnología frescas a poder ser mutadas o desviantes. También pagan buenas cantidades por muestras de otros grupos científicos para robar sus desarrollos y descubrimientos.
+
+\sc
+
 * Las historias cuentan que en **el pozo (Zona baja)** aún queda resto de nanobots en el fondo, pero nadie ha querido comprobarlo.
 * **La rayuela fantasma (Zona baja)** de la que hablan les niñes tiene su origen en un grupo de nanitos que se han quedado en un bucle infinito.
-* Varios **grupos de científiques** al servicio de empresas y de la propia directora J0hn **tienen muestras de la nanotecnología** de les instaladores y que tratan de replicar. Ofrecen gran cantidad de dinero por muestras de nanotecnología frescas a poder ser mutadas o desviantes. También pagan buenas cantidades por muestras de otros grupos científicos para robar sus desarrollos y descubrimientos.
 
 ### Nanotecnología en el bosque
 
-XXX
+Cuando les instaladores se fueron por orden de la compañía, parte de los nanitos quedaron huérfanos en las zonas en construcción que hoy en día se conoce como el bosque. Esta nanotecnología, huérfana de sus creadores, estuvo un tiempo inactiva, hasta que pasados unos años se reactivó y empezó a trabajar de nuevo.
+
+Los nanitos empezaron a autorreproducirse para volver a tener una masa necesaria para poder empezar a crear estructuras. Sin embargo, en vez de trabajar con materia inorgánica como había trabajado hasta ahora, **empezaron a trabajar con materia orgánica que era muy abundante** en ese momento, sobre todo por la gran cantidad de vertederos ilegales que se habían formado durante esos años de inactividad en las zonas a medio construir de lo que sería un futuro el bosque.
+
+Con el nuevo material y viendo que trabajar como hasta ahora lo habían hecho no funcionaba, los nanitos **empezaron a crear estructuras menos inorgánicas y más orgánicas** con formas vegetales.
+
+Creaban refuerzos como si fueran ramas de árboles, montaban coberturas siguiendo patrones de hojas en los árboles y paredes siguiendo las estructuras de arbustos altos y enredaderas.
+
+\sp
+
+Usando las pocas estructuras que había construidas, columnas y vigas, como base de sus desarrollos crearon un entorno muy parecido a un bosque (exactamente a **lo que habría creado un desarrollador de videojuegos pensado en un bosque**). Ahora mismo si te mueves por el bosque encontrarás árboles (todos iguales y separados entre sí a una distancia exacta de 5 metros), maleza de arbustos todos con la misma forma, hierba (muy parecida a una especie de moqueta), etc.
+
+De hecho si te fijas, no hay objetos redondos. Si algo parece redondeado, es realidad es una algo poligonal con tantos lados que a lo lejos parece circular, pero de cerca ves esa estructura poligonal perfectamente. Siguiendo el símil de los videojuegos, tendría el mismo efecto que en un videojuego al acercarte al tronco de un árbol. 
+
+Es todo un misterio la razón por la cual los nanitos del bosque hacen lo que hacen, pero hay diferentes teorías. 
+
+* La teoría más extendida es **fallo del software** que hizo que empezará a hacer las locuras que hace.
+* Les buscadores consideran que les instaladores no cometen errores, así que todo lo que hacen sus nanitos es **seguir su programación tal y como sus creadores establecieron**. Les más fanatiques de los buscadores consideran que las acciones de los nanitos son la muestra de que les instaladores y la clave de SU existen y que alguien la encontró y dio las órdenes a los nanitos de crear el bosque.
+
+\sc
+
+* La teoría más loca, pero quizás más interesante, es que sin el control de les instaladores, **los nanitos del bosque tomaron consciencia de sí mismo** y decidieron hacer lo que están haciendo, crear un mundo vegetal en un entorno de cemento, acero y vidrio.
+
+> Los más curioso de los nanitos es que además de crear las estructuras vegetales las reforman constantemente, como si estuvieran **vivas y creciendo**. Es solo una teoría, pero este crecimiento se considera que es **la forma más efectiva que han desarrollado los nanitos para hacer un mantenimiento** adecuado de sus estructuras.
 
 \sp
 

@@ -30,7 +30,7 @@ Nottingham está en decadencia, tanto estructural, como económica y social. Est
 
 ### El bosque de Sh3rW00d
 
-El bosque, cuyo primer sector tiene el código Sh3rW00d, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. También dejaron vigas, las tuberías de agua, luz y datos, pero sin estar rematados.
+El bosque, cuyo primer sector tiene el código Sh3rW00d en el listado de espacios de los planos de la arcología, es la parte de la arcología que no se llegó a terminar. Se le llama el bosque porque la zona está compuesta con salas y salas llenas de miles y miles de columnas sin nada más. También dejaron vigas, las tuberías de agua, luz y datos, pero sin estar rematados.
 
 \sp
 
@@ -325,7 +325,7 @@ Todos los años, en el día en que se puso la primera piedra del complejo
 
 Hay diferentes festejos en la Plaza Mayor que empiezan con un discurso de la directora J0hn. Hay música, bailes y comida hasta bien entrada la noche.
 
-De hecho hay tradición de besarte con tu pareja cuando se va a producir el Glitch de la noche.
+De hecho hay tradición de besarte con tu pareja cuando se va a producir el Glitch de la noche (anochecer).
 
 Los locales de comida de todo el complejo ponen puestos de comida para disfrute de los paladares de les _notis_. Curiosamente, mientras que los locales más humildes suelen poner precios populares para sus clientes, los de alta gama suelen cobrar más de lo normal.
 
@@ -451,7 +451,7 @@ Las normas son las siguientes.
 
 \sp
 
-* El **duelo será al glitch de la mañana dentro de 3 días**, tiempo suficiente para dejar tus asuntos cerrados. Deberán presentarse con une madrine y su campeone en caso de tenerlo.
+* El **duelo será al glitch de la mañana (amanecer) dentro de 3 días**, tiempo suficiente para dejar tus asuntos cerrados. Deberán presentarse con une madrine y su campeone en caso de tenerlo.
 * Se suele llegar a un acuerdo sobre quien será el juez y normalmente se elige una IA con las capacidades mínimas para que sea jurado en un juicio.
 
 \sc
@@ -577,8 +577,6 @@ XXX
 ### Los nanitos después de la marcha de les instaladores
 
 Cuando les instaladores se fueron por orden de la compañía, se llevaron los nanobots, pero no todos. Muchos de los nanitos de zonas en construcción quedaron huérfanos y sus firmwares desactualizado empezaron a fallar o a funcionar por su cuenta y siguieron construyendo ahora con materiales reciclados de origen biológico. Así es como el bosque obtuvo su nombre, al crearse estructuras orgánicas a las columnas techos, suelos y paredes del bosque.
-
-XXX
 
 ### La búsqueda de la contraseña de SU
 
