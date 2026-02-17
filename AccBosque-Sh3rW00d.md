@@ -3118,13 +3118,13 @@ XXX
 Otro de los álteregos de Marian es un encapuchado que se ha ofrecido como campeón de personas indefensas que habían aceptado duelos de _blus_ e _influencers_ abusones. Se presenta con ropa de corte militar y una sudadera de camuflaje con gran capucha que esconde su cara y por ahora ha salido victoriosa, que no ilesa de todos esos duelos. 
 
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales d10, Idioma Inglés dXXX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
+* **Habilidades:** Atletismo d4, Conocimientos Generales d10, Idioma Inglés d10, Notar d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 6; **Parada:** 4; **Dureza:** 6
 * **Desventajas:** Heroica, Secreto (Mayor, tiene un álterego encapuchado que ayuda a los necesitados)
 * **Ventajas:** Alcurnia, Alijos, Extremadamente Rica, XXX
 * **Equipo:** Ropas sobrias pero de gran calidad y con libertad de movimientos, un arco recurvo plegado y un carcaj con 10 flechas.
 
-> **Sugerencia de interpretación:** XXX
+> **Sugerencia de interpretación:** Eres una auténtica paladina del bien, justa y bondadosa con los débiles e implacable y dura con los malos. Te importa poco el que dirán y siempre dices lo que piensas. Eres una mujer de acción, en cuanto tu mesa tenga dudas, tienes una idea o tomas una decisión, pero delante tuyo no se pierde en tiempo divagando y discutiendo. 
 
 ## Fraile Tuck &#35;
 
@@ -3135,8 +3135,8 @@ XXX
 Años y años de drogas han tenido efecto en el cerebro de Tuck y la verdad que ya no funciona a toda su capacidad, lo que suponen lapsus mentales, perdidas de memoria y otras secuelas mentales. Es por ello que no es conveniente darle tareas muy técnicas y precisas, es mejor ponerla en la dirección en que quieres que ataque, empujarla hacia allí y dejarla hacer lo suyo.
 
 * **Atributos:** Agilidad d8, Astucia d4, Espíritu d6, Fuerza d8, Vigor d10
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 7
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Electrónica d4, Idioma Inglés d4, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 6; **Parada:** 4; **Dureza:** 7
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Un par de cocteles molotov y material para hacer otros 3, si no se lo bebe antes, nudilleras con pinchos y ropas de cuero con parches de tela y tachas
@@ -3147,13 +3147,15 @@ Años y años de drogas han tenido efecto en el cerebro de Tuck y la verdad que 
 
 [![A guy with a heated powerglove By Fernand0FC](./assests/images/a_guy_with_a_heated_powerglove_by_fernand0fc_dberdux-414w-2x.jpg "A guy with a heated powerglove By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/A-guy-with-a-heated-powerglove-689920233 "A guy with a heated powerglove By Fernand0FC")
 
+El bueno de John, conocido como Little John por su gran tamaño, era un honrado trabajador de las factorías de algas que pensó que sindicarse era una buena idea para él y su familia. El problema es que fue descubierto por los sheriffs en una redada ilegal y tuvo que huir al bosque.
+
 XXX
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d12, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 7 (1)
-* **Desventajas:** Heroico, Leal, Secreto (XXX)
-* **Ventajas:** XXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 6; **Parada:** 4; **Dureza:** 7 (1)
+* **Desventajas:** Heroico, Leal, Buscado (menor, como un personaje importante entre los _boskis_ está buscado por los sheriffs), Secreto (XXX)
+* **Ventajas:** Grande, Sindicado, XXX
 * **Equipo:** Ropas de trabajo resistentes (armadura 1), un bo (vara) y herramientas de trabajo
 
 > **Sugerencia de interpretación:** Compórtate como el gigante amable que todos conocen y adoran. Habla pausado y tranquilo, sin palabras malsonantes y pidiendo las cosas por favor y dando las gracias. Lo importante es que esto sea un choque cuando estes enfadado (las poquísimas veces que lo estas) y sea todo furia e irá descontrolada con golpes y gritos.
@@ -3165,13 +3167,13 @@ XXX
 XXX
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d10, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 6; **Parada:** 4; **Dureza:** 6
 * **Desventajas:** Bocazas, Buscado (menor, por sus daños a la propiedad y sus mensajes antisistema y contra la directora J0hn), Secreto (Menor, es el hermanastro de uno de les jugadores y le tiene bastante ojeriza)
 * **Ventajas:** XXX
 * **Equipo:** Ropas de segunda mano muy trotadas, material para hacer grafitis, un skateboard
 
-> **Sugerencia de interpretación:** XXX
+> **Sugerencia de interpretación:** Estás totalmente acelerado, no paras de moverte y de hablar y lo que piensas sale por tu boca sin ningún tipo de filtro. También gesticulas mucho y muy rápido. Sea como sea, si no es tu boca es el resto de tu cuerpo el que debe estar moviéndote.
 
 ## Guy de Gisbourne, asesino a sueldo reformado &#35;
 
@@ -3180,13 +3182,13 @@ XXX
 XXX
 
 * **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 6
+* **Habilidades:** Atletismo d4, Conocimientos Generales d8, Electrónica d4, Idioma Inglés d8, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 6; **Parada:** 4; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (Mayor, es un antiguo asesino a sueldo con cientos de muertes a su espalda)
 * **Ventajas:** XXX
 * **Equipo:** Ropas deportivas y gafas de sol, 2 karambits (daga), pistola de clavos
 
-> **Sugerencia de interpretación:** XXX
+> **Sugerencia de interpretación:** Como buen asesino eres silencioso y reservado. De tu boca no salen palabras de más, si puedes decirlo con un sí o un no, mejor que una larga parrafada llena de detalles innecesarios. No tomas decisiones, solo acatas órdenes y las cumples. 
 
 ## Much, hije del molinero &#35;
 
@@ -3195,13 +3197,13 @@ XXX
 XXX
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Electrónica d4, Idioma Inglés d6, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 6; **Parada:** 4; **Dureza:** XXX
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** XXX
 
-> **Sugerencia de interpretación:** XXX
+> **Sugerencia de interpretación:** Compórtate lo más jovial y risueñe que puedas, canturreando tarareando todo el rato alguna alegre tonada. Nada puede acabar con tu buen humor, ni en los peores momentos puedes dejar de sonreír.
 
 ## Helen Aim, cantante e influencer &#35;
 
@@ -3210,8 +3212,8 @@ XXX
 XXX
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d12, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Interpretar d10, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
+* **Habilidades:** Atletismo d4, Conocimientos Generales d8, Electrónica d4, Idioma Inglés d8, Interpretar d10, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Micrófono inalámbrico de calidad con carcasa vintage, ropa ajustada y sexy, pero que permite moverse y bailar.
@@ -3229,8 +3231,8 @@ Muches cocineres e influencers gastronómiques ha intentado conseguir la receta 
 > Se cuenta que Mamá Claire puede leer tu futuro en el gumbo, te echa una ración en tu plato y lee el gumbo. Es por ello que Mamá Claire tiene Ocultismo, por si quieres que les haga una predicción.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d4, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ocultismo d8, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 5; **Parada:** XXX; **Dureza:** 5
+* **Habilidades:** Atletismo d4, Conocimientos Generales d8, Electrónica d4, Idioma Inglés d8, Notar d4, Ocultismo d8, Ordenadores d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 5; **Parada:** 4; **Dureza:** 5
 * **Desventajas:** Anciana, Secreto (Menor, tiene contactos con los _boskis_, de hecho el secreto de su gumbo son las verduras que los _boskis_ le consiguen)
 * **Ventajas:** XXX
 * **Equipo:** Delantal con un bolsillo grande que contiene todo tipo de objetos de cocina y especias, gran cucharón metálico para revolver el gumbo y servirlo, machete (FUE+d6) para cortar y picar carne y verdura.
@@ -3244,7 +3246,7 @@ Muches cocineres e influencers gastronómiques ha intentado conseguir la receta 
 XXX
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d10, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Disparar d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Pelear d10, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d12, Electrónica d4, Idioma Inglés d6, Notar d4, Ordenadores d4, Pelear d10, Persuadir d4, Sigilo d4, XXX
 * **Paso:** 6; **Parada:** 7; **Dureza:** 6
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
@@ -3258,9 +3260,9 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** 5
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d8, Vigor d6
+* **Habilidades:** Atletismo d4, Conocimientos Generales d8, Electrónica d4, Idioma Inglés d8, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Desventajas:** XXX, Secreto (XXX)
 * **Ventajas:** XXX
 * **Equipo:** Ropas cómodas para trabajar en la taberna, porra (FUE + d4), un par de jarras de sinterveza en cada mano.
@@ -3274,8 +3276,8 @@ XXX
 XXX
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4
-* **Paso:** 5; **Parada:** XXX; **Dureza:** 5
+* **Habilidades:** Atletismo d4, Conocimientos Generales d8, Electrónica d4, Idioma Inglés d8, Notar d4, Ordenadores d4, Persuadir d4, Sigilo d4, XXX
+* **Paso:** 5; **Parada:** 4; **Dureza:** 5
 * **Desventajas:** Anciano, XXX, Secreto (Mayor, compra y vende productos ilegales o prohibidos)
 * **Ventajas:** XXX
 * **Equipo:** Todo lo que se te pueda ocurrir. De su mochila puede sacar cualquier cosa. 
@@ -3287,7 +3289,7 @@ XXX
 XXX
 
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d4, Vigor d4
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4, Reparar d12+2, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d10, Electrónica d4, Idioma Inglés d10, Notar d4, Ordenadores d4, Persuadir d4, Reparar d12+2, Sigilo d4, XXX
 * **Paso:** 5; **Parada:** 4; **Dureza:** 4
 * **Desventajas:** Anciana, Secreto (Mayor, es la última instaladora que queda)
 * **Ventajas:** XXX
@@ -3313,7 +3315,7 @@ En momentos en que J0hn ha hecho campañas de recompensa por cada wifi destruido
 Cuando su nivel de procesamiento está en unos niveles normales, tenemos al locutor de la RLN antisistema que todos adoran con sus proclamas contra la directora J0hn y sus tiránicas políticas. 
 
 * **Atributos:** Astucia d8, Espíritu d12
-* **Habilidades:** Conocimientos Generales dXXX, Electrónica d4, Idioma Inglés dXXX, Notar d4, Ordenadores d4, Persuadir d4
+* **Habilidades:** Conocimientos Generales d8, Electrónica d4, Idioma Inglés d8, Notar d4, Ordenadores d4, Persuadir d4, XXX
 * **Desventajas:** XXX, Secreto (Mayor, es un fork de la directora R1c4rd)
 * **Ventajas:** XXX
 * **Tareas:** Hablar horas y horas, poner y mezclar música, trabajar con el sonido y la música. 
@@ -3365,7 +3367,7 @@ Al1enOR es 50% adicción al trabajo y 50% estrés. Así que solo piensa en su tr
 El problema es que todo ese estrés le empieza a pasar factura y sus instancias empiezan a tener pequeños tics nerviosos que se reflejan en pequeños fallos que generan más estrés y más tics. Por ahora, Al1enOR puede controlar la situación, pero cualquier fallo puede hacer que todo se vaya al garete.
 
 * **Atributos:** Astucia d12, Espíritu d6
-* **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés dXXX, Notar d4, Persuadir d4, Ordenadores d4
+* **Habilidades:** Conocimientos Generales d12, Electrónica d4, Idioma Inglés d12, Notar d4, Persuadir d4, Ordenadores d4, XXX
 * **Desventajas:** Obligaciones (Mayor, dedican muchas horas al día a hacer funcionar el sistema de transporte de la arcología), Secreto (Menor, trata de ocultar su estrés para evitar que la sustituyan o la reseteen), Secreto (Mayor, conoció a les instaladores y sabe que paso con ellos, pero ha hundido todo ese conocimiento en el fondo de sus bancos de memoria), Suspicaz (Menor)
 
 * **Ventajas:** XXX
